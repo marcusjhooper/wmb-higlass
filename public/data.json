@@ -1,0 +1,4367 @@
+[
+  {
+    "class_label": "IT-ET Glut",
+    "subclass_label": "CLA-EPd-CTX Car3 Glut",
+    "supertype_label": "CLA-EPd-CTX Car3 Glut_1"
+  },
+  {
+    "class_label": "IT-ET Glut",
+    "subclass_label": "CLA-EPd-CTX Car3 Glut",
+    "supertype_label": "CLA-EPd-CTX Car3 Glut_2"
+  },
+  {
+    "class_label": "IT-ET Glut",
+    "subclass_label": "IT EP-CLA Glut",
+    "supertype_label": "IT EP-CLA Glut_1"
+  },
+  {
+    "class_label": "IT-ET Glut",
+    "subclass_label": "IT EP-CLA Glut",
+    "supertype_label": "IT EP-CLA Glut_2"
+  },
+  {
+    "class_label": "IT-ET Glut",
+    "subclass_label": "IT EP-CLA Glut",
+    "supertype_label": "IT EP-CLA Glut_3"
+  },
+  {
+    "class_label": "IT-ET Glut",
+    "subclass_label": "IT EP-CLA Glut",
+    "supertype_label": "IT EP-CLA Glut_4"
+  },
+  {
+    "class_label": "IT-ET Glut",
+    "subclass_label": "L6 IT CTX Glut",
+    "supertype_label": "L6 IT CTX Glut_1"
+  },
+  {
+    "class_label": "IT-ET Glut",
+    "subclass_label": "L6 IT CTX Glut",
+    "supertype_label": "L6 IT CTX Glut_2"
+  },
+  {
+    "class_label": "IT-ET Glut",
+    "subclass_label": "L6 IT CTX Glut",
+    "supertype_label": "L6 IT CTX Glut_3"
+  },
+  {
+    "class_label": "IT-ET Glut",
+    "subclass_label": "L6 IT CTX Glut",
+    "supertype_label": "L6 IT CTX Glut_4"
+  },
+  {
+    "class_label": "IT-ET Glut",
+    "subclass_label": "L6 IT CTX Glut",
+    "supertype_label": "L6 IT CTX Glut_5"
+  },
+  {
+    "class_label": "IT-ET Glut",
+    "subclass_label": "L5 IT CTX Glut",
+    "supertype_label": "L5 IT CTX Glut_1"
+  },
+  {
+    "class_label": "IT-ET Glut",
+    "subclass_label": "L5 IT CTX Glut",
+    "supertype_label": "L5 IT CTX Glut_2"
+  },
+  {
+    "class_label": "IT-ET Glut",
+    "subclass_label": "L5 IT CTX Glut",
+    "supertype_label": "L5 IT CTX Glut_3"
+  },
+  {
+    "class_label": "IT-ET Glut",
+    "subclass_label": "L5 IT CTX Glut",
+    "supertype_label": "L5 IT CTX Glut_4"
+  },
+  {
+    "class_label": "IT-ET Glut",
+    "subclass_label": "L5 IT CTX Glut",
+    "supertype_label": "L5 IT CTX Glut_5"
+  },
+  {
+    "class_label": "IT-ET Glut",
+    "subclass_label": "IT AON-TT-DP Glut",
+    "supertype_label": "IT AON-TT-DP Glut_1"
+  },
+  {
+    "class_label": "IT-ET Glut",
+    "subclass_label": "IT AON-TT-DP Glut",
+    "supertype_label": "IT AON-TT-DP Glut_2"
+  },
+  {
+    "class_label": "IT-ET Glut",
+    "subclass_label": "IT AON-TT-DP Glut",
+    "supertype_label": "IT AON-TT-DP Glut_3"
+  },
+  {
+    "class_label": "IT-ET Glut",
+    "subclass_label": "IT AON-TT-DP Glut",
+    "supertype_label": "IT AON-TT-DP Glut_4"
+  },
+  {
+    "class_label": "IT-ET Glut",
+    "subclass_label": "IT AON-TT-DP Glut",
+    "supertype_label": "IT AON-TT-DP Glut_5"
+  },
+  {
+    "class_label": "IT-ET Glut",
+    "subclass_label": "L2 IT ENT-po Glut",
+    "supertype_label": "L2 IT ENT-po Glut_2"
+  },
+  {
+    "class_label": "IT-ET Glut",
+    "subclass_label": "L2 IT ENT-po Glut",
+    "supertype_label": "L2 IT ENT-po Glut_3"
+  },
+  {
+    "class_label": "IT-ET Glut",
+    "subclass_label": "L2 IT ENT-po Glut",
+    "supertype_label": "L2 IT ENT-po Glut_4"
+  },
+  {
+    "class_label": "IT-ET Glut",
+    "subclass_label": "MEA Slc17a7 Glut",
+    "supertype_label": "MEA Slc17a7 Glut_1"
+  },
+  {
+    "class_label": "IT-ET Glut",
+    "subclass_label": "MEA Slc17a7 Glut",
+    "supertype_label": "MEA Slc17a7 Glut_2"
+  },
+  {
+    "class_label": "IT-ET Glut",
+    "subclass_label": "MEA Slc17a7 Glut",
+    "supertype_label": "MEA Slc17a7 Glut_3"
+  },
+  {
+    "class_label": "IT-ET Glut",
+    "subclass_label": "COAp Grxcr2 Glut",
+    "supertype_label": "COAp Grxcr2 Glut_1"
+  },
+  {
+    "class_label": "IT-ET Glut",
+    "subclass_label": "COAp Grxcr2 Glut",
+    "supertype_label": "COAp Grxcr2 Glut_2"
+  },
+  {
+    "class_label": "IT-ET Glut",
+    "subclass_label": "LA-BLA-BMA-PA Glut",
+    "supertype_label": "LA-BLA-BMA-PA Glut_1"
+  },
+  {
+    "class_label": "IT-ET Glut",
+    "subclass_label": "LA-BLA-BMA-PA Glut",
+    "supertype_label": "LA-BLA-BMA-PA Glut_2"
+  },
+  {
+    "class_label": "IT-ET Glut",
+    "subclass_label": "LA-BLA-BMA-PA Glut",
+    "supertype_label": "LA-BLA-BMA-PA Glut_3"
+  },
+  {
+    "class_label": "IT-ET Glut",
+    "subclass_label": "LA-BLA-BMA-PA Glut",
+    "supertype_label": "LA-BLA-BMA-PA Glut_4"
+  },
+  {
+    "class_label": "IT-ET Glut",
+    "subclass_label": "LA-BLA-BMA-PA Glut",
+    "supertype_label": "LA-BLA-BMA-PA Glut_5"
+  },
+  {
+    "class_label": "IT-ET Glut",
+    "subclass_label": "LA-BLA-BMA-PA Glut",
+    "supertype_label": "LA-BLA-BMA-PA Glut_6"
+  },
+  {
+    "class_label": "IT-ET Glut",
+    "subclass_label": "ENTmv-PA-COAp Glut",
+    "supertype_label": "ENTmv-PA-COAp Glut_1"
+  },
+  {
+    "class_label": "IT-ET Glut",
+    "subclass_label": "ENTmv-PA-COAp Glut",
+    "supertype_label": "ENTmv-PA-COAp Glut_2"
+  },
+  {
+    "class_label": "IT-ET Glut",
+    "subclass_label": "ENTmv-PA-COAp Glut",
+    "supertype_label": "ENTmv-PA-COAp Glut_3"
+  },
+  {
+    "class_label": "IT-ET Glut",
+    "subclass_label": "CA1-ProS Glut",
+    "supertype_label": "CA1-ProS Glut_1"
+  },
+  {
+    "class_label": "IT-ET Glut",
+    "subclass_label": "CA1-ProS Glut",
+    "supertype_label": "CA1-ProS Glut_2"
+  },
+  {
+    "class_label": "IT-ET Glut",
+    "subclass_label": "CA1-ProS Glut",
+    "supertype_label": "CA1-ProS Glut_3"
+  },
+  {
+    "class_label": "IT-ET Glut",
+    "subclass_label": "CA1-ProS Glut",
+    "supertype_label": "CA1-ProS Glut_4"
+  },
+  {
+    "class_label": "IT-ET Glut",
+    "subclass_label": "CA1-ProS Glut",
+    "supertype_label": "CA1-ProS Glut_5"
+  },
+  {
+    "class_label": "IT-ET Glut",
+    "subclass_label": "CA1-ProS Glut",
+    "supertype_label": "CA1-ProS Glut_6"
+  },
+  {
+    "class_label": "IT-ET Glut",
+    "subclass_label": "CA3 Glut",
+    "supertype_label": "CA3 Glut_1"
+  },
+  {
+    "class_label": "IT-ET Glut",
+    "subclass_label": "CA3 Glut",
+    "supertype_label": "CA3 Glut_2"
+  },
+  {
+    "class_label": "IT-ET Glut",
+    "subclass_label": "CA3 Glut",
+    "supertype_label": "CA3 Glut_3"
+  },
+  {
+    "class_label": "IT-ET Glut",
+    "subclass_label": "CA3 Glut",
+    "supertype_label": "CA3 Glut_4"
+  },
+  {
+    "class_label": "IT-ET Glut",
+    "subclass_label": "CA3 Glut",
+    "supertype_label": "CA3 Glut_5"
+  },
+  {
+    "class_label": "IT-ET Glut",
+    "subclass_label": "L2 IT PPP-APr Glut",
+    "supertype_label": "L2 IT PPP-APr Glut_1"
+  },
+  {
+    "class_label": "IT-ET Glut",
+    "subclass_label": "L2 IT PPP-APr Glut",
+    "supertype_label": "L2 IT PPP-APr Glut_2"
+  },
+  {
+    "class_label": "IT-ET Glut",
+    "subclass_label": "L2 IT PPP-APr Glut",
+    "supertype_label": "L2 IT PPP-APr Glut_3"
+  },
+  {
+    "class_label": "IT-ET Glut",
+    "subclass_label": "L2 IT PPP-APr Glut",
+    "supertype_label": "L2 IT PPP-APr Glut_4"
+  },
+  {
+    "class_label": "IT-ET Glut",
+    "subclass_label": "L4 RSP-ACA Glut",
+    "supertype_label": "L4 RSP-ACA Glut_1"
+  },
+  {
+    "class_label": "IT-ET Glut",
+    "subclass_label": "L5 ET CTX Glut",
+    "supertype_label": "L5 ET CTX Glut_1"
+  },
+  {
+    "class_label": "IT-ET Glut",
+    "subclass_label": "L5 ET CTX Glut",
+    "supertype_label": "L5 ET CTX Glut_2"
+  },
+  {
+    "class_label": "IT-ET Glut",
+    "subclass_label": "L5 ET CTX Glut",
+    "supertype_label": "L5 ET CTX Glut_3"
+  },
+  {
+    "class_label": "IT-ET Glut",
+    "subclass_label": "L5 ET CTX Glut",
+    "supertype_label": "L5 ET CTX Glut_4"
+  },
+  {
+    "class_label": "IT-ET Glut",
+    "subclass_label": "L5 ET CTX Glut",
+    "supertype_label": "L5 ET CTX Glut_5"
+  },
+  {
+    "class_label": "IT-ET Glut",
+    "subclass_label": "L5 ET CTX Glut",
+    "supertype_label": "L5 ET CTX Glut_6"
+  },
+  {
+    "class_label": "IT-ET Glut",
+    "subclass_label": "SUB-ProS Glut",
+    "supertype_label": "SUB-ProS Glut_1"
+  },
+  {
+    "class_label": "IT-ET Glut",
+    "subclass_label": "SUB-ProS Glut",
+    "supertype_label": "SUB-ProS Glut_2"
+  },
+  {
+    "class_label": "IT-ET Glut",
+    "subclass_label": "SUB-ProS Glut",
+    "supertype_label": "SUB-ProS Glut_3"
+  },
+  {
+    "class_label": "IT-ET Glut",
+    "subclass_label": "L5 PPP Glut",
+    "supertype_label": "L5 PPP Glut_1"
+  },
+  {
+    "class_label": "IT-ET Glut",
+    "subclass_label": "CA2-FC-IG Glut",
+    "supertype_label": "CA2-FC-IG Glut_1"
+  },
+  {
+    "class_label": "IT-ET Glut",
+    "subclass_label": "CA2-FC-IG Glut",
+    "supertype_label": "CA2-FC-IG Glut_2"
+  },
+  {
+    "class_label": "IT-ET Glut",
+    "subclass_label": "NLOT Rho Glut",
+    "supertype_label": "NLOT Rho Glut_1"
+  },
+  {
+    "class_label": "NP-CT-L6b Glut",
+    "subclass_label": "L6b EPd Glut",
+    "supertype_label": "L6b EPd Glut_1"
+  },
+  {
+    "class_label": "NP-CT-L6b Glut",
+    "subclass_label": "L6b EPd Glut",
+    "supertype_label": "L6b EPd Glut_2"
+  },
+  {
+    "class_label": "NP-CT-L6b Glut",
+    "subclass_label": "L6b EPd Glut",
+    "supertype_label": "L6b EPd Glut_3"
+  },
+  {
+    "class_label": "NP-CT-L6b Glut",
+    "subclass_label": "L6b CTX Glut",
+    "supertype_label": "L6b CTX Glut_1"
+  },
+  {
+    "class_label": "NP-CT-L6b Glut",
+    "subclass_label": "L6b CTX Glut",
+    "supertype_label": "L6b CTX Glut_2"
+  },
+  {
+    "class_label": "NP-CT-L6b Glut",
+    "subclass_label": "L6b CTX Glut",
+    "supertype_label": "L6b CTX Glut_3"
+  },
+  {
+    "class_label": "NP-CT-L6b Glut",
+    "subclass_label": "L6b CTX Glut",
+    "supertype_label": "L6b CTX Glut_4"
+  },
+  {
+    "class_label": "NP-CT-L6b Glut",
+    "subclass_label": "L6 CT CTX Glut",
+    "supertype_label": "L6 CT CTX Glut_1"
+  },
+  {
+    "class_label": "NP-CT-L6b Glut",
+    "subclass_label": "L6 CT CTX Glut",
+    "supertype_label": "L6 CT CTX Glut_2"
+  },
+  {
+    "class_label": "NP-CT-L6b Glut",
+    "subclass_label": "L6 CT CTX Glut",
+    "supertype_label": "L6 CT CTX Glut_3"
+  },
+  {
+    "class_label": "NP-CT-L6b Glut",
+    "subclass_label": "L6 CT CTX Glut",
+    "supertype_label": "L6 CT CTX Glut_4"
+  },
+  {
+    "class_label": "NP-CT-L6b Glut",
+    "subclass_label": "L6 CT CTX Glut",
+    "supertype_label": "L6 CT CTX Glut_5"
+  },
+  {
+    "class_label": "NP-CT-L6b Glut",
+    "subclass_label": "L6 CT CTX Glut",
+    "supertype_label": "L6 CT CTX Glut_6"
+  },
+  {
+    "class_label": "NP-CT-L6b Glut",
+    "subclass_label": "CT SUB Glut",
+    "supertype_label": "CT SUB Glut_1"
+  },
+  {
+    "class_label": "NP-CT-L6b Glut",
+    "subclass_label": "CT SUB Glut",
+    "supertype_label": "CT SUB Glut_2"
+  },
+  {
+    "class_label": "NP-CT-L6b Glut",
+    "subclass_label": "L5 NP CTX Glut",
+    "supertype_label": "L5 NP CTX Glut_1"
+  },
+  {
+    "class_label": "NP-CT-L6b Glut",
+    "subclass_label": "L5 NP CTX Glut",
+    "supertype_label": "L5 NP CTX Glut_2"
+  },
+  {
+    "class_label": "NP-CT-L6b Glut",
+    "subclass_label": "L5 NP CTX Glut",
+    "supertype_label": "L5 NP CTX Glut_3"
+  },
+  {
+    "class_label": "NP-CT-L6b Glut",
+    "subclass_label": "L5 NP CTX Glut",
+    "supertype_label": "L5 NP CTX Glut_4"
+  },
+  {
+    "class_label": "NP-CT-L6b Glut",
+    "subclass_label": "L5 NP CTX Glut",
+    "supertype_label": "L5 NP CTX Glut_5"
+  },
+  {
+    "class_label": "NP-CT-L6b Glut",
+    "subclass_label": "NP SUB Glut",
+    "supertype_label": "NP SUB Glut_1"
+  },
+  {
+    "class_label": "NP-CT-L6b Glut",
+    "subclass_label": "NP SUB Glut",
+    "supertype_label": "NP SUB Glut_2"
+  },
+  {
+    "class_label": "NP-CT-L6b Glut",
+    "subclass_label": "NP PPP Glut",
+    "supertype_label": "NP PPP Glut_1"
+  },
+  {
+    "class_label": "DG-IMN Glut",
+    "subclass_label": "DG Glut",
+    "supertype_label": "DG Glut_1"
+  },
+  {
+    "class_label": "DG-IMN Glut",
+    "subclass_label": "DG Glut",
+    "supertype_label": "DG Glut_2"
+  },
+  {
+    "class_label": "DG-IMN Glut",
+    "subclass_label": "DG Glut",
+    "supertype_label": "DG Glut_3"
+  },
+  {
+    "class_label": "DG-IMN Glut",
+    "subclass_label": "DG Glut",
+    "supertype_label": "DG Glut_4"
+  },
+  {
+    "class_label": "DG-IMN Glut",
+    "subclass_label": "DG-PIR Ex IMN",
+    "supertype_label": "DG-PIR Ex IMN_1"
+  },
+  {
+    "class_label": "DG-IMN Glut",
+    "subclass_label": "DG-PIR Ex IMN",
+    "supertype_label": "DG-PIR Ex IMN_2"
+  },
+  {
+    "class_label": "DG-IMN Glut",
+    "subclass_label": "DG-PIR Ex IMN",
+    "supertype_label": "DG-PIR Ex IMN_3"
+  },
+  {
+    "class_label": "LSX GABA",
+    "subclass_label": "LSX Sall3 Pax6 Gaba",
+    "supertype_label": "LSX Sall3 Pax6 Gaba_1"
+  },
+  {
+    "class_label": "LSX GABA",
+    "subclass_label": "LSX Sall3 Pax6 Gaba",
+    "supertype_label": "LSX Sall3 Pax6 Gaba_2"
+  },
+  {
+    "class_label": "LSX GABA",
+    "subclass_label": "LSX Otx2 Gaba",
+    "supertype_label": "LSX Otx2 Gaba_1"
+  },
+  {
+    "class_label": "LSX GABA",
+    "subclass_label": "LSX Otx2 Gaba",
+    "supertype_label": "LSX Otx2 Gaba_2"
+  },
+  {
+    "class_label": "LSX GABA",
+    "subclass_label": "LSX Otx2 Gaba",
+    "supertype_label": "LSX Otx2 Gaba_3"
+  },
+  {
+    "class_label": "LSX GABA",
+    "subclass_label": "LSX Otx2 Gaba",
+    "supertype_label": "LSX Otx2 Gaba_4"
+  },
+  {
+    "class_label": "LSX GABA",
+    "subclass_label": "LSX Otx2 Gaba",
+    "supertype_label": "LSX Otx2 Gaba_5"
+  },
+  {
+    "class_label": "LSX GABA",
+    "subclass_label": "LSX Nkx2-1 Gaba",
+    "supertype_label": "LSX Nkx2-1 Gaba_1"
+  },
+  {
+    "class_label": "LSX GABA",
+    "subclass_label": "LSX Nkx2-1 Gaba",
+    "supertype_label": "LSX Nkx2-1 Gaba_2"
+  },
+  {
+    "class_label": "LSX GABA",
+    "subclass_label": "LSX Nkx2-1 Gaba",
+    "supertype_label": "LSX Nkx2-1 Gaba_3"
+  },
+  {
+    "class_label": "LSX GABA",
+    "subclass_label": "LSX Nkx2-1 Gaba",
+    "supertype_label": "LSX Nkx2-1 Gaba_4"
+  },
+  {
+    "class_label": "LSX GABA",
+    "subclass_label": "LSX Nkx2-1 Gaba",
+    "supertype_label": "LSX Nkx2-1 Gaba_5"
+  },
+  {
+    "class_label": "LSX GABA",
+    "subclass_label": "LSX Nkx2-1 Gaba",
+    "supertype_label": "LSX Nkx2-1 Gaba_6"
+  },
+  {
+    "class_label": "LSX GABA",
+    "subclass_label": "LSX Nkx2-1 Gaba",
+    "supertype_label": "LSX Nkx2-1 Gaba_7"
+  },
+  {
+    "class_label": "LSX GABA",
+    "subclass_label": "LSX Nkx2-1 Gaba",
+    "supertype_label": "LSX Nkx2-1 Gaba_8"
+  },
+  {
+    "class_label": "LSX GABA",
+    "subclass_label": "LSX Nkx2-1 Gaba",
+    "supertype_label": "LSX Nkx2-1 Gaba_9"
+  },
+  {
+    "class_label": "LSX GABA",
+    "subclass_label": "LSX Nkx2-1 Gaba",
+    "supertype_label": "LSX Nkx2-1 Gaba_10"
+  },
+  {
+    "class_label": "LSX GABA",
+    "subclass_label": "LSX Nkx2-1 Gaba",
+    "supertype_label": "LSX Nkx2-1 Gaba_11"
+  },
+  {
+    "class_label": "LSX GABA",
+    "subclass_label": "LSX Prdm12 Zeb2 Gaba",
+    "supertype_label": "LSX Prdm12 Zeb2 Gaba_1"
+  },
+  {
+    "class_label": "LSX GABA",
+    "subclass_label": "LSX Prdm12 Zeb2 Gaba",
+    "supertype_label": "LSX Prdm12 Zeb2 Gaba_2"
+  },
+  {
+    "class_label": "LSX GABA",
+    "subclass_label": "LSX Prdm12 Zeb2 Gaba",
+    "supertype_label": "LSX Prdm12 Zeb2 Gaba_3"
+  },
+  {
+    "class_label": "LSX GABA",
+    "subclass_label": "LSX Prdm12 Zeb2 Gaba",
+    "supertype_label": "LSX Prdm12 Zeb2 Gaba_4"
+  },
+  {
+    "class_label": "LSX GABA",
+    "subclass_label": "LSX Prdm12 Zeb2 Gaba",
+    "supertype_label": "LSX Prdm12 Zeb2 Gaba_5"
+  },
+  {
+    "class_label": "LSX GABA",
+    "subclass_label": "LSX Prdm12 Slit2 Gaba",
+    "supertype_label": "LSX Prdm12 Slit2 Gaba_1"
+  },
+  {
+    "class_label": "LSX GABA",
+    "subclass_label": "LSX Prdm12 Slit2 Gaba",
+    "supertype_label": "LSX Prdm12 Slit2 Gaba_2"
+  },
+  {
+    "class_label": "LSX GABA",
+    "subclass_label": "LSX Prdm12 Slit2 Gaba",
+    "supertype_label": "LSX Prdm12 Slit2 Gaba_3"
+  },
+  {
+    "class_label": "LSX GABA",
+    "subclass_label": "LSX Prdm12 Slit2 Gaba",
+    "supertype_label": "LSX Prdm12 Slit2 Gaba_4"
+  },
+  {
+    "class_label": "LSX GABA",
+    "subclass_label": "LSX Prdm12 Slit2 Gaba",
+    "supertype_label": "LSX Prdm12 Slit2 Gaba_5"
+  },
+  {
+    "class_label": "LSX GABA",
+    "subclass_label": "LSX Sall3 Lmo1 Gaba",
+    "supertype_label": "LSX Sall3 Lmo1 Gaba_1"
+  },
+  {
+    "class_label": "LSX GABA",
+    "subclass_label": "LSX Sall3 Lmo1 Gaba",
+    "supertype_label": "LSX Sall3 Lmo1 Gaba_2"
+  },
+  {
+    "class_label": "LSX GABA",
+    "subclass_label": "LSX Sall3 Lmo1 Gaba",
+    "supertype_label": "LSX Sall3 Lmo1 Gaba_3"
+  },
+  {
+    "class_label": "LSX GABA",
+    "subclass_label": "LSX Sall3 Lmo1 Gaba",
+    "supertype_label": "LSX Sall3 Lmo1 Gaba_4"
+  },
+  {
+    "class_label": "LSX GABA",
+    "subclass_label": "LSX Sall3 Lmo1 Gaba",
+    "supertype_label": "LSX Sall3 Lmo1 Gaba_5"
+  },
+  {
+    "class_label": "LSX GABA",
+    "subclass_label": "LSX Sall3 Lmo1 Gaba",
+    "supertype_label": "LSX Sall3 Lmo1 Gaba_6"
+  },
+  {
+    "class_label": "CNU-HYa GABA",
+    "subclass_label": "MEA-BST Sox6 Gaba",
+    "supertype_label": "MEA-BST Sox6 Gaba_1"
+  },
+  {
+    "class_label": "CNU-HYa GABA",
+    "subclass_label": "MEA-BST Sox6 Gaba",
+    "supertype_label": "MEA-BST Sox6 Gaba_2"
+  },
+  {
+    "class_label": "CNU-HYa GABA",
+    "subclass_label": "MEA-BST Sox6 Gaba",
+    "supertype_label": "MEA-BST Sox6 Gaba_3"
+  },
+  {
+    "class_label": "CNU-HYa GABA",
+    "subclass_label": "MEA-BST Sox6 Gaba",
+    "supertype_label": "MEA-BST Sox6 Gaba_4"
+  },
+  {
+    "class_label": "CNU-HYa GABA",
+    "subclass_label": "MEA-BST Sox6 Gaba",
+    "supertype_label": "MEA-BST Sox6 Gaba_5"
+  },
+  {
+    "class_label": "CNU-HYa GABA",
+    "subclass_label": "MEA-BST Sox6 Gaba",
+    "supertype_label": "MEA-BST Sox6 Gaba_6"
+  },
+  {
+    "class_label": "CNU-HYa GABA",
+    "subclass_label": "MEA-BST Sox6 Gaba",
+    "supertype_label": "MEA-BST Sox6 Gaba_7"
+  },
+  {
+    "class_label": "CNU-HYa GABA",
+    "subclass_label": "MEA-BST Sox6 Gaba",
+    "supertype_label": "MEA-BST Sox6 Gaba_8"
+  },
+  {
+    "class_label": "CNU-HYa GABA",
+    "subclass_label": "MEA-BST Sox6 Gaba",
+    "supertype_label": "MEA-BST Sox6 Gaba_9"
+  },
+  {
+    "class_label": "CNU-HYa GABA",
+    "subclass_label": "MEA-BST Sox6 Gaba",
+    "supertype_label": "MEA-BST Sox6 Gaba_10"
+  },
+  {
+    "class_label": "CNU-HYa GABA",
+    "subclass_label": "MEA-BST Lhx6 Sp9 Gaba",
+    "supertype_label": "MEA-BST Lhx6 Sp9 Gaba_1"
+  },
+  {
+    "class_label": "CNU-HYa GABA",
+    "subclass_label": "MEA-BST Lhx6 Sp9 Gaba",
+    "supertype_label": "MEA-BST Lhx6 Sp9 Gaba_2"
+  },
+  {
+    "class_label": "CNU-HYa GABA",
+    "subclass_label": "MEA-BST Lhx6 Sp9 Gaba",
+    "supertype_label": "MEA-BST Lhx6 Sp9 Gaba_3"
+  },
+  {
+    "class_label": "CNU-HYa GABA",
+    "subclass_label": "MEA-BST Lhx6 Sp9 Gaba",
+    "supertype_label": "MEA-BST Lhx6 Sp9 Gaba_4"
+  },
+  {
+    "class_label": "CNU-HYa GABA",
+    "subclass_label": "MEA-BST Lhx6 Sp9 Gaba",
+    "supertype_label": "MEA-BST Lhx6 Sp9 Gaba_5"
+  },
+  {
+    "class_label": "CNU-HYa GABA",
+    "subclass_label": "MEA-BST Lhx6 Sp9 Gaba",
+    "supertype_label": "MEA-BST Lhx6 Sp9 Gaba_6"
+  },
+  {
+    "class_label": "CNU-HYa GABA",
+    "subclass_label": "MEA-BST Lhx6 Sp9 Gaba",
+    "supertype_label": "MEA-BST Lhx6 Sp9 Gaba_7"
+  },
+  {
+    "class_label": "CNU-HYa GABA",
+    "subclass_label": "MEA-BST Lhx6 Nr2e1 Gaba",
+    "supertype_label": "MEA-BST Lhx6 Nr2e1 Gaba_1"
+  },
+  {
+    "class_label": "CNU-HYa GABA",
+    "subclass_label": "MEA-BST Lhx6 Nr2e1 Gaba",
+    "supertype_label": "MEA-BST Lhx6 Nr2e1 Gaba_2"
+  },
+  {
+    "class_label": "CNU-HYa GABA",
+    "subclass_label": "MEA-BST Lhx6 Nr2e1 Gaba",
+    "supertype_label": "MEA-BST Lhx6 Nr2e1 Gaba_3"
+  },
+  {
+    "class_label": "CNU-HYa GABA",
+    "subclass_label": "MEA-BST Lhx6 Nfib Gaba",
+    "supertype_label": "MEA-BST Lhx6 Nfib Gaba_1"
+  },
+  {
+    "class_label": "CNU-HYa GABA",
+    "subclass_label": "MEA-BST Lhx6 Nfib Gaba",
+    "supertype_label": "MEA-BST Lhx6 Nfib Gaba_2"
+  },
+  {
+    "class_label": "CNU-HYa GABA",
+    "subclass_label": "MEA-BST Lhx6 Nfib Gaba",
+    "supertype_label": "MEA-BST Lhx6 Nfib Gaba_3"
+  },
+  {
+    "class_label": "CNU-HYa GABA",
+    "subclass_label": "MEA-BST Lhx6 Nfib Gaba",
+    "supertype_label": "MEA-BST Lhx6 Nfib Gaba_4"
+  },
+  {
+    "class_label": "CNU-HYa GABA",
+    "subclass_label": "MEA-BST Lhx6 Nfib Gaba",
+    "supertype_label": "MEA-BST Lhx6 Nfib Gaba_5"
+  },
+  {
+    "class_label": "CNU-HYa GABA",
+    "subclass_label": "MEA-BST Lhx6 Nfib Gaba",
+    "supertype_label": "MEA-BST Lhx6 Nfib Gaba_6"
+  },
+  {
+    "class_label": "CNU-HYa GABA",
+    "subclass_label": "CEA-BST Gal Avp Gaba",
+    "supertype_label": "CEA-BST Gal Avp Gaba_1"
+  },
+  {
+    "class_label": "CNU-HYa GABA",
+    "subclass_label": "SI-MA-ACB Ebf1 Bnc2 Gaba",
+    "supertype_label": "SI-MA-ACB Ebf1 Bnc2 Gaba_1"
+  },
+  {
+    "class_label": "CNU-HYa GABA",
+    "subclass_label": "SI-MA-ACB Ebf1 Bnc2 Gaba",
+    "supertype_label": "SI-MA-ACB Ebf1 Bnc2 Gaba_2"
+  },
+  {
+    "class_label": "CNU-HYa GABA",
+    "subclass_label": "SI-MA-ACB Ebf1 Bnc2 Gaba",
+    "supertype_label": "SI-MA-ACB Ebf1 Bnc2 Gaba_3"
+  },
+  {
+    "class_label": "CNU-HYa GABA",
+    "subclass_label": "CEA-BST Six3 Cyp26b1 Gaba",
+    "supertype_label": "CEA-BST Six3 Cyp26b1 Gaba_1"
+  },
+  {
+    "class_label": "CNU-HYa GABA",
+    "subclass_label": "CEA-BST Six3 Cyp26b1 Gaba",
+    "supertype_label": "CEA-BST Six3 Cyp26b1 Gaba_2"
+  },
+  {
+    "class_label": "CNU-HYa GABA",
+    "subclass_label": "CEA-BST Six3 Cyp26b1 Gaba",
+    "supertype_label": "CEA-BST Six3 Cyp26b1 Gaba_3"
+  },
+  {
+    "class_label": "CNU-HYa GABA",
+    "subclass_label": "CEA-BST Six3 Cyp26b1 Gaba",
+    "supertype_label": "CEA-BST Six3 Cyp26b1 Gaba_4"
+  },
+  {
+    "class_label": "CNU-HYa GABA",
+    "subclass_label": "CEA-BST Six3 Cyp26b1 Gaba",
+    "supertype_label": "CEA-BST Six3 Cyp26b1 Gaba_5"
+  },
+  {
+    "class_label": "CNU-HYa GABA",
+    "subclass_label": "CEA-BST Six3 Cyp26b1 Gaba",
+    "supertype_label": "CEA-BST Six3 Cyp26b1 Gaba_6"
+  },
+  {
+    "class_label": "CNU-HYa GABA",
+    "subclass_label": "ACB-BST-FS D1 Gaba",
+    "supertype_label": "ACB-BST-FS D1 Gaba_1"
+  },
+  {
+    "class_label": "CNU-HYa GABA",
+    "subclass_label": "ACB-BST-FS D1 Gaba",
+    "supertype_label": "ACB-BST-FS D1 Gaba_2"
+  },
+  {
+    "class_label": "CNU-HYa GABA",
+    "subclass_label": "ACB-BST-FS D1 Gaba",
+    "supertype_label": "ACB-BST-FS D1 Gaba_3"
+  },
+  {
+    "class_label": "CNU-HYa GABA",
+    "subclass_label": "SI-MPO-LPO Lhx8 Gaba",
+    "supertype_label": "SI-MPO-LPO Lhx8 Gaba_1"
+  },
+  {
+    "class_label": "CNU-HYa GABA",
+    "subclass_label": "SI-MPO-LPO Lhx8 Gaba",
+    "supertype_label": "SI-MPO-LPO Lhx8 Gaba_2"
+  },
+  {
+    "class_label": "CNU-HYa GABA",
+    "subclass_label": "SI-MPO-LPO Lhx8 Gaba",
+    "supertype_label": "SI-MPO-LPO Lhx8 Gaba_3"
+  },
+  {
+    "class_label": "CNU-HYa GABA",
+    "subclass_label": "SI-MPO-LPO Lhx8 Gaba",
+    "supertype_label": "SI-MPO-LPO Lhx8 Gaba_4"
+  },
+  {
+    "class_label": "CNU-HYa GABA",
+    "subclass_label": "SI-MPO-LPO Lhx8 Gaba",
+    "supertype_label": "SI-MPO-LPO Lhx8 Gaba_5"
+  },
+  {
+    "class_label": "CNU-HYa GABA",
+    "subclass_label": "SI-MPO-LPO Lhx8 Gaba",
+    "supertype_label": "SI-MPO-LPO Lhx8 Gaba_6"
+  },
+  {
+    "class_label": "CNU-HYa GABA",
+    "subclass_label": "MPO-ADP Lhx8 Gaba",
+    "supertype_label": "MPO-ADP Lhx8 Gaba_1"
+  },
+  {
+    "class_label": "CNU-HYa GABA",
+    "subclass_label": "MPO-ADP Lhx8 Gaba",
+    "supertype_label": "MPO-ADP Lhx8 Gaba_2"
+  },
+  {
+    "class_label": "CNU-HYa GABA",
+    "subclass_label": "MPO-ADP Lhx8 Gaba",
+    "supertype_label": "MPO-ADP Lhx8 Gaba_3"
+  },
+  {
+    "class_label": "CNU-HYa GABA",
+    "subclass_label": "MPO-ADP Lhx8 Gaba",
+    "supertype_label": "MPO-ADP Lhx8 Gaba_4"
+  },
+  {
+    "class_label": "CNU-HYa GABA",
+    "subclass_label": "MPO-ADP Lhx8 Gaba",
+    "supertype_label": "MPO-ADP Lhx8 Gaba_5"
+  },
+  {
+    "class_label": "CNU-HYa GABA",
+    "subclass_label": "MPN-MPO-LPO Lhx6 Zfhx3 Gaba",
+    "supertype_label": "MPN-MPO-LPO Lhx6 Zfhx3 Gaba_1"
+  },
+  {
+    "class_label": "CNU-HYa GABA",
+    "subclass_label": "MPN-MPO-LPO Lhx6 Zfhx3 Gaba",
+    "supertype_label": "MPN-MPO-LPO Lhx6 Zfhx3 Gaba_2"
+  },
+  {
+    "class_label": "CNU-HYa GABA",
+    "subclass_label": "BST Tac2 Gaba",
+    "supertype_label": "BST Tac2 Gaba_1"
+  },
+  {
+    "class_label": "CNU-HYa GABA",
+    "subclass_label": "BST Tac2 Gaba",
+    "supertype_label": "BST Tac2 Gaba_2"
+  },
+  {
+    "class_label": "HY GABA",
+    "subclass_label": "TMv-PMv Tbx3 Hist-Gaba",
+    "supertype_label": "TMv-PMv Tbx3 Hist-Gaba_1"
+  },
+  {
+    "class_label": "HY GABA",
+    "subclass_label": "TMv-PMv Tbx3 Hist-Gaba",
+    "supertype_label": "TMv-PMv Tbx3 Hist-Gaba_2"
+  },
+  {
+    "class_label": "HY GABA",
+    "subclass_label": "RT-ZI Gnb3 Gaba",
+    "supertype_label": "RT-ZI Gnb3 Gaba_1"
+  },
+  {
+    "class_label": "HY GABA",
+    "subclass_label": "RT-ZI Gnb3 Gaba",
+    "supertype_label": "RT-ZI Gnb3 Gaba_2"
+  },
+  {
+    "class_label": "HY GABA",
+    "subclass_label": "RT-ZI Gnb3 Gaba",
+    "supertype_label": "RT-ZI Gnb3 Gaba_3"
+  },
+  {
+    "class_label": "HY GABA",
+    "subclass_label": "RT-ZI Gnb3 Gaba",
+    "supertype_label": "RT-ZI Gnb3 Gaba_4"
+  },
+  {
+    "class_label": "HY GABA",
+    "subclass_label": "RT-ZI Gnb3 Gaba",
+    "supertype_label": "RT-ZI Gnb3 Gaba_5"
+  },
+  {
+    "class_label": "HY GABA",
+    "subclass_label": "SCH Six6 Cdc14a Gaba",
+    "supertype_label": "SCH Six6 Cdc14a Gaba_1"
+  },
+  {
+    "class_label": "HY GABA",
+    "subclass_label": "SCH Six6 Cdc14a Gaba",
+    "supertype_label": "SCH Six6 Cdc14a Gaba_2"
+  },
+  {
+    "class_label": "HY GABA",
+    "subclass_label": "SCH Six6 Cdc14a Gaba",
+    "supertype_label": "SCH Six6 Cdc14a Gaba_3"
+  },
+  {
+    "class_label": "HY GABA",
+    "subclass_label": "DMH Prdm13 Gaba",
+    "supertype_label": "DMH Prdm13 Gaba_1"
+  },
+  {
+    "class_label": "HY GABA",
+    "subclass_label": "DMH Prdm13 Gaba",
+    "supertype_label": "DMH Prdm13 Gaba_2"
+  },
+  {
+    "class_label": "HY GABA",
+    "subclass_label": "PVHd Gsc Gaba",
+    "supertype_label": "PVHd Gsc Gaba_1"
+  },
+  {
+    "class_label": "HY GABA",
+    "subclass_label": "PVHd-SBPV Six3 Prox1 Gaba",
+    "supertype_label": "PVHd-SBPV Six3 Prox1 Gaba_1"
+  },
+  {
+    "class_label": "HY GABA",
+    "subclass_label": "PVHd-SBPV Six3 Prox1 Gaba",
+    "supertype_label": "PVHd-SBPV Six3 Prox1 Gaba_2"
+  },
+  {
+    "class_label": "HY GABA",
+    "subclass_label": "PVHd-SBPV Six3 Prox1 Gaba",
+    "supertype_label": "PVHd-SBPV Six3 Prox1 Gaba_3"
+  },
+  {
+    "class_label": "HY GABA",
+    "subclass_label": "PVHd-SBPV Six3 Prox1 Gaba",
+    "supertype_label": "PVHd-SBPV Six3 Prox1 Gaba_4"
+  },
+  {
+    "class_label": "HY GABA",
+    "subclass_label": "AHN Onecut3 Gaba",
+    "supertype_label": "AHN Onecut3 Gaba_1"
+  },
+  {
+    "class_label": "HY GABA",
+    "subclass_label": "AHN Onecut3 Gaba",
+    "supertype_label": "AHN Onecut3 Gaba_2"
+  },
+  {
+    "class_label": "HY GABA",
+    "subclass_label": "AHN Onecut3 Gaba",
+    "supertype_label": "AHN Onecut3 Gaba_3"
+  },
+  {
+    "class_label": "HY GABA",
+    "subclass_label": "ZI Pax6 Gaba",
+    "supertype_label": "ZI Pax6 Gaba_1"
+  },
+  {
+    "class_label": "HY GABA",
+    "subclass_label": "ZI Pax6 Gaba",
+    "supertype_label": "ZI Pax6 Gaba_2"
+  },
+  {
+    "class_label": "HY GABA",
+    "subclass_label": "ZI Pax6 Gaba",
+    "supertype_label": "ZI Pax6 Gaba_3"
+  },
+  {
+    "class_label": "HY GABA",
+    "subclass_label": "ZI Pax6 Gaba",
+    "supertype_label": "ZI Pax6 Gaba_4"
+  },
+  {
+    "class_label": "HY GABA",
+    "subclass_label": "ZI Pax6 Gaba",
+    "supertype_label": "ZI Pax6 Gaba_5"
+  },
+  {
+    "class_label": "HY GABA",
+    "subclass_label": "ZI Pax6 Gaba",
+    "supertype_label": "ZI Pax6 Gaba_6"
+  },
+  {
+    "class_label": "HY GABA",
+    "subclass_label": "ZI Pax6 Gaba",
+    "supertype_label": "ZI Pax6 Gaba_7"
+  },
+  {
+    "class_label": "HY GABA",
+    "subclass_label": "ZI Pax6 Gaba",
+    "supertype_label": "ZI Pax6 Gaba_8"
+  },
+  {
+    "class_label": "HY GABA",
+    "subclass_label": "ZI Pax6 Gaba",
+    "supertype_label": "ZI Pax6 Gaba_9"
+  },
+  {
+    "class_label": "HY GABA",
+    "subclass_label": "ZI Pax6 Gaba",
+    "supertype_label": "ZI Pax6 Gaba_10"
+  },
+  {
+    "class_label": "HY GABA",
+    "subclass_label": "ZI Pax6 Gaba",
+    "supertype_label": "ZI Pax6 Gaba_11"
+  },
+  {
+    "class_label": "HY GABA",
+    "subclass_label": "DMH-LHA Gsx1 Gaba",
+    "supertype_label": "DMH-LHA Gsx1 Gaba_1"
+  },
+  {
+    "class_label": "HY GABA",
+    "subclass_label": "DMH-LHA Gsx1 Gaba",
+    "supertype_label": "DMH-LHA Gsx1 Gaba_2"
+  },
+  {
+    "class_label": "HY GABA",
+    "subclass_label": "DMH-LHA Gsx1 Gaba",
+    "supertype_label": "DMH-LHA Gsx1 Gaba_3"
+  },
+  {
+    "class_label": "HY GABA",
+    "subclass_label": "DMH-LHA Gsx1 Gaba",
+    "supertype_label": "DMH-LHA Gsx1 Gaba_4"
+  },
+  {
+    "class_label": "HY GABA",
+    "subclass_label": "PVHd-DMH Lhx6 Gaba",
+    "supertype_label": "PVHd-DMH Lhx6 Gaba_1"
+  },
+  {
+    "class_label": "HY GABA",
+    "subclass_label": "PVHd-DMH Lhx6 Gaba",
+    "supertype_label": "PVHd-DMH Lhx6 Gaba_2"
+  },
+  {
+    "class_label": "HY GABA",
+    "subclass_label": "PVHd-DMH Lhx6 Gaba",
+    "supertype_label": "PVHd-DMH Lhx6 Gaba_3"
+  },
+  {
+    "class_label": "HY GABA",
+    "subclass_label": "PVHd-DMH Lhx6 Gaba",
+    "supertype_label": "PVHd-DMH Lhx6 Gaba_4"
+  },
+  {
+    "class_label": "HY GABA",
+    "subclass_label": "TU-ARH Otp Six6 Gaba",
+    "supertype_label": "TU-ARH Otp Six6 Gaba_1"
+  },
+  {
+    "class_label": "HY GABA",
+    "subclass_label": "TU-ARH Otp Six6 Gaba",
+    "supertype_label": "TU-ARH Otp Six6 Gaba_2"
+  },
+  {
+    "class_label": "HY GABA",
+    "subclass_label": "TU-ARH Otp Six6 Gaba",
+    "supertype_label": "TU-ARH Otp Six6 Gaba_3"
+  },
+  {
+    "class_label": "HY GABA",
+    "subclass_label": "TMd-DMH Foxd2 Gaba",
+    "supertype_label": "TMd-DMH Foxd2 Gaba_1"
+  },
+  {
+    "class_label": "HY GABA",
+    "subclass_label": "PVpo-VMPO-MPN Hmx2 Gaba",
+    "supertype_label": "PVpo-VMPO-MPN Hmx2 Gaba_1"
+  },
+  {
+    "class_label": "HY GABA",
+    "subclass_label": "PVpo-VMPO-MPN Hmx2 Gaba",
+    "supertype_label": "PVpo-VMPO-MPN Hmx2 Gaba_2"
+  },
+  {
+    "class_label": "HY GABA",
+    "subclass_label": "PVpo-VMPO-MPN Hmx2 Gaba",
+    "supertype_label": "PVpo-VMPO-MPN Hmx2 Gaba_3"
+  },
+  {
+    "class_label": "HY GABA",
+    "subclass_label": "PVpo-VMPO-MPN Hmx2 Gaba",
+    "supertype_label": "PVpo-VMPO-MPN Hmx2 Gaba_4"
+  },
+  {
+    "class_label": "HY GABA",
+    "subclass_label": "PVpo-VMPO-MPN Hmx2 Gaba",
+    "supertype_label": "PVpo-VMPO-MPN Hmx2 Gaba_5"
+  },
+  {
+    "class_label": "HY GABA",
+    "subclass_label": "DMH Hmx2 Gaba",
+    "supertype_label": "DMH Hmx2 Gaba_1"
+  },
+  {
+    "class_label": "HY GABA",
+    "subclass_label": "DMH Hmx2 Gaba",
+    "supertype_label": "DMH Hmx2 Gaba_2"
+  },
+  {
+    "class_label": "HY GABA",
+    "subclass_label": "DMH Hmx2 Gaba",
+    "supertype_label": "DMH Hmx2 Gaba_3"
+  },
+  {
+    "class_label": "HY GABA",
+    "subclass_label": "DMH Hmx2 Gaba",
+    "supertype_label": "DMH Hmx2 Gaba_4"
+  },
+  {
+    "class_label": "HY GABA",
+    "subclass_label": "DMH Hmx2 Gaba",
+    "supertype_label": "DMH Hmx2 Gaba_5"
+  },
+  {
+    "class_label": "HY GABA",
+    "subclass_label": "DMH Hmx2 Gaba",
+    "supertype_label": "DMH Hmx2 Gaba_6"
+  },
+  {
+    "class_label": "HY GABA",
+    "subclass_label": "ARH-PVp Tbx3 Gaba",
+    "supertype_label": "ARH-PVp Tbx3 Gaba_1"
+  },
+  {
+    "class_label": "HY GABA",
+    "subclass_label": "ARH-PVp Tbx3 Gaba",
+    "supertype_label": "ARH-PVp Tbx3 Gaba_2"
+  },
+  {
+    "class_label": "HY GABA",
+    "subclass_label": "ARH-PVp Tbx3 Gaba",
+    "supertype_label": "ARH-PVp Tbx3 Gaba_3"
+  },
+  {
+    "class_label": "HY GABA",
+    "subclass_label": "LGv-ZI Otx2 Gaba",
+    "supertype_label": "LGv-ZI Otx2 Gaba_1"
+  },
+  {
+    "class_label": "HY GABA",
+    "subclass_label": "LGv-ZI Otx2 Gaba",
+    "supertype_label": "LGv-ZI Otx2 Gaba_2"
+  },
+  {
+    "class_label": "HY GABA",
+    "subclass_label": "LGv-ZI Otx2 Gaba",
+    "supertype_label": "LGv-ZI Otx2 Gaba_3"
+  },
+  {
+    "class_label": "HY GABA",
+    "subclass_label": "LGv-ZI Otx2 Gaba",
+    "supertype_label": "LGv-ZI Otx2 Gaba_4"
+  },
+  {
+    "class_label": "HY GABA",
+    "subclass_label": "LGv-ZI Otx2 Gaba",
+    "supertype_label": "LGv-ZI Otx2 Gaba_5"
+  },
+  {
+    "class_label": "CNU-HYa Glut",
+    "subclass_label": "BST-po Iigp1 Glut",
+    "supertype_label": "BST-po Iigp1 Glut_1"
+  },
+  {
+    "class_label": "CNU-HYa Glut",
+    "subclass_label": "TRS-BAC Sln Glut",
+    "supertype_label": "TRS-BAC Sln Glut_1"
+  },
+  {
+    "class_label": "CNU-HYa Glut",
+    "subclass_label": "TRS-BAC Sln Glut",
+    "supertype_label": "TRS-BAC Sln Glut_2"
+  },
+  {
+    "class_label": "CNU-HYa Glut",
+    "subclass_label": "MEA-COA-BMA Ccdc42 Glut",
+    "supertype_label": "MEA-COA-BMA Ccdc42 Glut_1"
+  },
+  {
+    "class_label": "CNU-HYa Glut",
+    "subclass_label": "MEA-COA-BMA Ccdc42 Glut",
+    "supertype_label": "MEA-COA-BMA Ccdc42 Glut_2"
+  },
+  {
+    "class_label": "CNU-HYa Glut",
+    "subclass_label": "MEA-COA-BMA Ccdc42 Glut",
+    "supertype_label": "MEA-COA-BMA Ccdc42 Glut_3"
+  },
+  {
+    "class_label": "CNU-HYa Glut",
+    "subclass_label": "MEA-COA-BMA Ccdc42 Glut",
+    "supertype_label": "MEA-COA-BMA Ccdc42 Glut_4"
+  },
+  {
+    "class_label": "CNU-HYa Glut",
+    "subclass_label": "COAa-PAA-MEA Barhl2 Glut",
+    "supertype_label": "COAa-PAA-MEA Barhl2 Glut_1"
+  },
+  {
+    "class_label": "CNU-HYa Glut",
+    "subclass_label": "COAa-PAA-MEA Barhl2 Glut",
+    "supertype_label": "COAa-PAA-MEA Barhl2 Glut_2"
+  },
+  {
+    "class_label": "CNU-HYa Glut",
+    "subclass_label": "COAa-PAA-MEA Barhl2 Glut",
+    "supertype_label": "COAa-PAA-MEA Barhl2 Glut_3"
+  },
+  {
+    "class_label": "CNU-HYa Glut",
+    "subclass_label": "COAa-PAA-MEA Barhl2 Glut",
+    "supertype_label": "COAa-PAA-MEA Barhl2 Glut_4"
+  },
+  {
+    "class_label": "CNU-HYa Glut",
+    "subclass_label": "COAa-PAA-MEA Barhl2 Glut",
+    "supertype_label": "COAa-PAA-MEA Barhl2 Glut_5"
+  },
+  {
+    "class_label": "CNU-HYa Glut",
+    "subclass_label": "COAa-PAA-MEA Barhl2 Glut",
+    "supertype_label": "COAa-PAA-MEA Barhl2 Glut_6"
+  },
+  {
+    "class_label": "CNU-HYa Glut",
+    "subclass_label": "COAa-PAA-MEA Barhl2 Glut",
+    "supertype_label": "COAa-PAA-MEA Barhl2 Glut_7"
+  },
+  {
+    "class_label": "CNU-HYa Glut",
+    "subclass_label": "COAa-PAA-MEA Barhl2 Glut",
+    "supertype_label": "COAa-PAA-MEA Barhl2 Glut_8"
+  },
+  {
+    "class_label": "CNU-HYa Glut",
+    "subclass_label": "COAa-PAA-MEA Barhl2 Glut",
+    "supertype_label": "COAa-PAA-MEA Barhl2 Glut_9"
+  },
+  {
+    "class_label": "CNU-HYa Glut",
+    "subclass_label": "MS-SF Bsx Glut",
+    "supertype_label": "MS-SF Bsx Glut_1"
+  },
+  {
+    "class_label": "CNU-HYa Glut",
+    "subclass_label": "AVPV-MEPO-SFO Tbr1 Glut",
+    "supertype_label": "AVPV-MEPO-SFO Tbr1 Glut_1"
+  },
+  {
+    "class_label": "CNU-HYa Glut",
+    "subclass_label": "AVPV-MEPO-SFO Tbr1 Glut",
+    "supertype_label": "AVPV-MEPO-SFO Tbr1 Glut_2"
+  },
+  {
+    "class_label": "CNU-HYa Glut",
+    "subclass_label": "AVPV-MEPO-SFO Tbr1 Glut",
+    "supertype_label": "AVPV-MEPO-SFO Tbr1 Glut_3"
+  },
+  {
+    "class_label": "CNU-HYa Glut",
+    "subclass_label": "AVPV-MEPO-SFO Tbr1 Glut",
+    "supertype_label": "AVPV-MEPO-SFO Tbr1 Glut_4"
+  },
+  {
+    "class_label": "CNU-HYa Glut",
+    "subclass_label": "AVPV-MEPO-SFO Tbr1 Glut",
+    "supertype_label": "AVPV-MEPO-SFO Tbr1 Glut_5"
+  },
+  {
+    "class_label": "CNU-HYa Glut",
+    "subclass_label": "LHA Barhl2 Glut",
+    "supertype_label": "LHA Barhl2 Glut_1"
+  },
+  {
+    "class_label": "CNU-HYa Glut",
+    "subclass_label": "LHA Barhl2 Glut",
+    "supertype_label": "LHA Barhl2 Glut_2"
+  },
+  {
+    "class_label": "CNU-HYa Glut",
+    "subclass_label": "LHA Barhl2 Glut",
+    "supertype_label": "LHA Barhl2 Glut_3"
+  },
+  {
+    "class_label": "CNU-HYa Glut",
+    "subclass_label": "ADP-MPO Trp73 Glut",
+    "supertype_label": "ADP-MPO Trp73 Glut_1"
+  },
+  {
+    "class_label": "CNU-HYa Glut",
+    "subclass_label": "ADP-MPO Trp73 Glut",
+    "supertype_label": "ADP-MPO Trp73 Glut_2"
+  },
+  {
+    "class_label": "CNU-HYa Glut",
+    "subclass_label": "ADP-MPO Trp73 Glut",
+    "supertype_label": "ADP-MPO Trp73 Glut_3"
+  },
+  {
+    "class_label": "CNU-HYa Glut",
+    "subclass_label": "SI-MA-LPO-LHA Skor1 Glut",
+    "supertype_label": "SI-MA-LPO-LHA Skor1 Glut_1"
+  },
+  {
+    "class_label": "CNU-HYa Glut",
+    "subclass_label": "SI-MA-LPO-LHA Skor1 Glut",
+    "supertype_label": "SI-MA-LPO-LHA Skor1 Glut_2"
+  },
+  {
+    "class_label": "CNU-HYa Glut",
+    "subclass_label": "SI-MA-LPO-LHA Skor1 Glut",
+    "supertype_label": "SI-MA-LPO-LHA Skor1 Glut_3"
+  },
+  {
+    "class_label": "CNU-HYa Glut",
+    "subclass_label": "SI-MA-LPO-LHA Skor1 Glut",
+    "supertype_label": "SI-MA-LPO-LHA Skor1 Glut_4"
+  },
+  {
+    "class_label": "CNU-HYa Glut",
+    "subclass_label": "SI-MA-LPO-LHA Skor1 Glut",
+    "supertype_label": "SI-MA-LPO-LHA Skor1 Glut_5"
+  },
+  {
+    "class_label": "CNU-HYa Glut",
+    "subclass_label": "SI-MA-LPO-LHA Skor1 Glut",
+    "supertype_label": "SI-MA-LPO-LHA Skor1 Glut_6"
+  },
+  {
+    "class_label": "CNU-HYa Glut",
+    "subclass_label": "SI-MA-LPO-LHA Skor1 Glut",
+    "supertype_label": "SI-MA-LPO-LHA Skor1 Glut_7"
+  },
+  {
+    "class_label": "CNU-HYa Glut",
+    "subclass_label": "SI-MA-LPO-LHA Skor1 Glut",
+    "supertype_label": "SI-MA-LPO-LHA Skor1 Glut_8"
+  },
+  {
+    "class_label": "CNU-HYa Glut",
+    "subclass_label": "LHA-MEA Otp Glut",
+    "supertype_label": "LHA-MEA Otp Glut_1"
+  },
+  {
+    "class_label": "CNU-HYa Glut",
+    "subclass_label": "LHA-MEA Otp Glut",
+    "supertype_label": "LHA-MEA Otp Glut_2"
+  },
+  {
+    "class_label": "HY Glut",
+    "subclass_label": "DMH Nkx2-4 Glut",
+    "supertype_label": "DMH Nkx2-4 Glut_1"
+  },
+  {
+    "class_label": "HY Glut",
+    "subclass_label": "DMH Nkx2-4 Glut",
+    "supertype_label": "DMH Nkx2-4 Glut_2"
+  },
+  {
+    "class_label": "HY Glut",
+    "subclass_label": "MPN-MPO-PVpo Hmx2 Glut",
+    "supertype_label": "MPN-MPO-PVpo Hmx2 Glut_1"
+  },
+  {
+    "class_label": "HY Glut",
+    "subclass_label": "MPN-MPO-PVpo Hmx2 Glut",
+    "supertype_label": "MPN-MPO-PVpo Hmx2 Glut_2"
+  },
+  {
+    "class_label": "HY Glut",
+    "subclass_label": "MPN-MPO-PVpo Hmx2 Glut",
+    "supertype_label": "MPN-MPO-PVpo Hmx2 Glut_3"
+  },
+  {
+    "class_label": "HY Glut",
+    "subclass_label": "MPN-MPO-PVpo Hmx2 Glut",
+    "supertype_label": "MPN-MPO-PVpo Hmx2 Glut_4"
+  },
+  {
+    "class_label": "HY Glut",
+    "subclass_label": "MPN-MPO-PVpo Hmx2 Glut",
+    "supertype_label": "MPN-MPO-PVpo Hmx2 Glut_5"
+  },
+  {
+    "class_label": "HY Glut",
+    "subclass_label": "MPN-MPO-PVpo Hmx2 Glut",
+    "supertype_label": "MPN-MPO-PVpo Hmx2 Glut_6"
+  },
+  {
+    "class_label": "HY Glut",
+    "subclass_label": "DMH Hmx2 Glut",
+    "supertype_label": "DMH Hmx2 Glut_1"
+  },
+  {
+    "class_label": "HY Glut",
+    "subclass_label": "DMH Hmx2 Glut",
+    "supertype_label": "DMH Hmx2 Glut_2"
+  },
+  {
+    "class_label": "HY Glut",
+    "subclass_label": "ARH-PVp Tbx3 Glut",
+    "supertype_label": "ARH-PVp Tbx3 Glut_1"
+  },
+  {
+    "class_label": "HY Glut",
+    "subclass_label": "ARH-PVp Tbx3 Glut",
+    "supertype_label": "ARH-PVp Tbx3 Glut_2"
+  },
+  {
+    "class_label": "HY Glut",
+    "subclass_label": "ARH-PVp Tbx3 Glut",
+    "supertype_label": "ARH-PVp Tbx3 Glut_3"
+  },
+  {
+    "class_label": "HY Glut",
+    "subclass_label": "ARH-PVp Tbx3 Glut",
+    "supertype_label": "ARH-PVp Tbx3 Glut_4"
+  },
+  {
+    "class_label": "HY Glut",
+    "subclass_label": "ARH-PVp Tbx3 Glut",
+    "supertype_label": "ARH-PVp Tbx3 Glut_5"
+  },
+  {
+    "class_label": "HY Glut",
+    "subclass_label": "DMH-LHA Vgll2 Glut",
+    "supertype_label": "DMH-LHA Vgll2 Glut_1"
+  },
+  {
+    "class_label": "HY Glut",
+    "subclass_label": "DMH-LHA Vgll2 Glut",
+    "supertype_label": "DMH-LHA Vgll2 Glut_2"
+  },
+  {
+    "class_label": "HY Glut",
+    "subclass_label": "DMH-LHA Vgll2 Glut",
+    "supertype_label": "DMH-LHA Vgll2 Glut_3"
+  },
+  {
+    "class_label": "HY Glut",
+    "subclass_label": "DMH-LHA Vgll2 Glut",
+    "supertype_label": "DMH-LHA Vgll2 Glut_4"
+  },
+  {
+    "class_label": "HY Glut",
+    "subclass_label": "VMH Fezf1 Glut",
+    "supertype_label": "VMH Fezf1 Glut_1"
+  },
+  {
+    "class_label": "HY Glut",
+    "subclass_label": "VMH Fezf1 Glut",
+    "supertype_label": "VMH Fezf1 Glut_2"
+  },
+  {
+    "class_label": "HY Glut",
+    "subclass_label": "VMH Fezf1 Glut",
+    "supertype_label": "VMH Fezf1 Glut_3"
+  },
+  {
+    "class_label": "HY Glut",
+    "subclass_label": "VMH Nr5a1 Glut",
+    "supertype_label": "VMH Nr5a1 Glut_1"
+  },
+  {
+    "class_label": "HY Glut",
+    "subclass_label": "VMH Nr5a1 Glut",
+    "supertype_label": "VMH Nr5a1 Glut_2"
+  },
+  {
+    "class_label": "HY Glut",
+    "subclass_label": "VMH Nr5a1 Glut",
+    "supertype_label": "VMH Nr5a1 Glut_3"
+  },
+  {
+    "class_label": "HY Glut",
+    "subclass_label": "VMH Nr5a1 Glut",
+    "supertype_label": "VMH Nr5a1 Glut_4"
+  },
+  {
+    "class_label": "HY Glut",
+    "subclass_label": "VMH Nr5a1 Glut",
+    "supertype_label": "VMH Nr5a1 Glut_5"
+  },
+  {
+    "class_label": "HY Glut",
+    "subclass_label": "VMH Nr5a1 Glut",
+    "supertype_label": "VMH Nr5a1 Glut_6"
+  },
+  {
+    "class_label": "HY Glut",
+    "subclass_label": "LHA Pmch Glut",
+    "supertype_label": "LHA Pmch Glut_1"
+  },
+  {
+    "class_label": "HY Glut",
+    "subclass_label": "LHA Pmch Glut",
+    "supertype_label": "LHA Pmch Glut_2"
+  },
+  {
+    "class_label": "HY Glut",
+    "subclass_label": "PVH-SO-PVa Otp Glut",
+    "supertype_label": "PVH-SO-PVa Otp Glut_1"
+  },
+  {
+    "class_label": "HY Glut",
+    "subclass_label": "PVH-SO-PVa Otp Glut",
+    "supertype_label": "PVH-SO-PVa Otp Glut_2"
+  },
+  {
+    "class_label": "HY Glut",
+    "subclass_label": "PVH-SO-PVa Otp Glut",
+    "supertype_label": "PVH-SO-PVa Otp Glut_3"
+  },
+  {
+    "class_label": "HY Glut",
+    "subclass_label": "PVH-SO-PVa Otp Glut",
+    "supertype_label": "PVH-SO-PVa Otp Glut_4"
+  },
+  {
+    "class_label": "HY Glut",
+    "subclass_label": "PVH-SO-PVa Otp Glut",
+    "supertype_label": "PVH-SO-PVa Otp Glut_5"
+  },
+  {
+    "class_label": "HY Glut",
+    "subclass_label": "PVH-SO-PVa Otp Glut",
+    "supertype_label": "PVH-SO-PVa Otp Glut_6"
+  },
+  {
+    "class_label": "HY Glut",
+    "subclass_label": "STN-PSTN Pitx2 Glut",
+    "supertype_label": "STN-PSTN Pitx2 Glut_1"
+  },
+  {
+    "class_label": "HY Glut",
+    "subclass_label": "STN-PSTN Pitx2 Glut",
+    "supertype_label": "STN-PSTN Pitx2 Glut_2"
+  },
+  {
+    "class_label": "HY Glut",
+    "subclass_label": "STN-PSTN Pitx2 Glut",
+    "supertype_label": "STN-PSTN Pitx2 Glut_3"
+  },
+  {
+    "class_label": "HY Glut",
+    "subclass_label": "STN-PSTN Pitx2 Glut",
+    "supertype_label": "STN-PSTN Pitx2 Glut_4"
+  },
+  {
+    "class_label": "HY Glut",
+    "subclass_label": "STN-PSTN Pitx2 Glut",
+    "supertype_label": "STN-PSTN Pitx2 Glut_5"
+  },
+  {
+    "class_label": "HY Glut",
+    "subclass_label": "STN-PSTN Pitx2 Glut",
+    "supertype_label": "STN-PSTN Pitx2 Glut_6"
+  },
+  {
+    "class_label": "HY Glut",
+    "subclass_label": "STN-PSTN Pitx2 Glut",
+    "supertype_label": "STN-PSTN Pitx2 Glut_7"
+  },
+  {
+    "class_label": "HY Glut",
+    "subclass_label": "PMv-TMv Pitx2 Glut",
+    "supertype_label": "PMv-TMv Pitx2 Glut_1"
+  },
+  {
+    "class_label": "HY Glut",
+    "subclass_label": "PMv-TMv Pitx2 Glut",
+    "supertype_label": "PMv-TMv Pitx2 Glut_2"
+  },
+  {
+    "class_label": "HY Glut",
+    "subclass_label": "PMv-TMv Pitx2 Glut",
+    "supertype_label": "PMv-TMv Pitx2 Glut_3"
+  },
+  {
+    "class_label": "HY Glut",
+    "subclass_label": "PH-an Pitx2 Glut",
+    "supertype_label": "PH-an Pitx2 Glut_1"
+  },
+  {
+    "class_label": "HY Glut",
+    "subclass_label": "PH-an Pitx2 Glut",
+    "supertype_label": "PH-an Pitx2 Glut_2"
+  },
+  {
+    "class_label": "HY Glut",
+    "subclass_label": "PH Pitx2 Glut",
+    "supertype_label": "PH Pitx2 Glut_1"
+  },
+  {
+    "class_label": "HY Glut",
+    "subclass_label": "PH Pitx2 Glut",
+    "supertype_label": "PH Pitx2 Glut_2"
+  },
+  {
+    "class_label": "HY Glut",
+    "subclass_label": "PH-LHA Foxb1 Glut",
+    "supertype_label": "PH-LHA Foxb1 Glut_1"
+  },
+  {
+    "class_label": "HY Glut",
+    "subclass_label": "PH-LHA Foxb1 Glut",
+    "supertype_label": "PH-LHA Foxb1 Glut_2"
+  },
+  {
+    "class_label": "HY Glut",
+    "subclass_label": "PH-LHA Foxb1 Glut",
+    "supertype_label": "PH-LHA Foxb1 Glut_3"
+  },
+  {
+    "class_label": "HY Glut",
+    "subclass_label": "PH-LHA Foxb1 Glut",
+    "supertype_label": "PH-LHA Foxb1 Glut_4"
+  },
+  {
+    "class_label": "HY Glut",
+    "subclass_label": "PH-LHA Foxb1 Glut",
+    "supertype_label": "PH-LHA Foxb1 Glut_5"
+  },
+  {
+    "class_label": "HY Glut",
+    "subclass_label": "PH-LHA Foxb1 Glut",
+    "supertype_label": "PH-LHA Foxb1 Glut_6"
+  },
+  {
+    "class_label": "HY Glut",
+    "subclass_label": "PH-LHA Foxb1 Glut",
+    "supertype_label": "PH-LHA Foxb1 Glut_7"
+  },
+  {
+    "class_label": "HY Glut",
+    "subclass_label": "PMd-LHA Foxb1 Glut",
+    "supertype_label": "PMd-LHA Foxb1 Glut_1"
+  },
+  {
+    "class_label": "HY Glut",
+    "subclass_label": "PMd-LHA Foxb1 Glut",
+    "supertype_label": "PMd-LHA Foxb1 Glut_2"
+  },
+  {
+    "class_label": "HY Glut",
+    "subclass_label": "PMd-LHA Foxb1 Glut",
+    "supertype_label": "PMd-LHA Foxb1 Glut_3"
+  },
+  {
+    "class_label": "HY Glut",
+    "subclass_label": "PH-SUM Foxa1 Glut",
+    "supertype_label": "PH-SUM Foxa1 Glut_1"
+  },
+  {
+    "class_label": "HY Glut",
+    "subclass_label": "PH-SUM Foxa1 Glut",
+    "supertype_label": "PH-SUM Foxa1 Glut_2"
+  },
+  {
+    "class_label": "HY Glut",
+    "subclass_label": "PH-SUM Foxa1 Glut",
+    "supertype_label": "PH-SUM Foxa1 Glut_3"
+  },
+  {
+    "class_label": "HY Glut",
+    "subclass_label": "PH-SUM Foxa1 Glut",
+    "supertype_label": "PH-SUM Foxa1 Glut_4"
+  },
+  {
+    "class_label": "HY Glut",
+    "subclass_label": "PH-SUM Foxa1 Glut",
+    "supertype_label": "PH-SUM Foxa1 Glut_5"
+  },
+  {
+    "class_label": "HY Glut",
+    "subclass_label": "PH-SUM Foxa1 Glut",
+    "supertype_label": "PH-SUM Foxa1 Glut_6"
+  },
+  {
+    "class_label": "HY Gnrh1 Glut",
+    "subclass_label": "HY Gnrh1 Glut",
+    "supertype_label": "HY Gnrh1 Glut_1"
+  },
+  {
+    "class_label": "HY MM Glut",
+    "subclass_label": "MM-ant Foxb1 Glut",
+    "supertype_label": "MM-ant Foxb1 Glut_1"
+  },
+  {
+    "class_label": "HY MM Glut",
+    "subclass_label": "MM Foxb1 Glut",
+    "supertype_label": "MM Foxb1 Glut_1"
+  },
+  {
+    "class_label": "HY MM Glut",
+    "subclass_label": "MM Foxb1 Glut",
+    "supertype_label": "MM Foxb1 Glut_2"
+  },
+  {
+    "class_label": "MH-LH Glut",
+    "subclass_label": "MH Tac2 Glut",
+    "supertype_label": "MH Tac2 Glut_1"
+  },
+  {
+    "class_label": "MH-LH Glut",
+    "subclass_label": "MH Tac2 Glut",
+    "supertype_label": "MH Tac2 Glut_2"
+  },
+  {
+    "class_label": "MH-LH Glut",
+    "subclass_label": "MH Tac2 Glut",
+    "supertype_label": "MH Tac2 Glut_3"
+  },
+  {
+    "class_label": "MH-LH Glut",
+    "subclass_label": "MH Tac2 Glut",
+    "supertype_label": "MH Tac2 Glut_4"
+  },
+  {
+    "class_label": "MH-LH Glut",
+    "subclass_label": "MH Tac2 Glut",
+    "supertype_label": "MH Tac2 Glut_5"
+  },
+  {
+    "class_label": "MH-LH Glut",
+    "subclass_label": "LH Pou4f1 Sox1 Glut",
+    "supertype_label": "LH Pou4f1 Sox1 Glut_1"
+  },
+  {
+    "class_label": "MH-LH Glut",
+    "subclass_label": "LH Pou4f1 Sox1 Glut",
+    "supertype_label": "LH Pou4f1 Sox1 Glut_2"
+  },
+  {
+    "class_label": "MH-LH Glut",
+    "subclass_label": "LH Pou4f1 Sox1 Glut",
+    "supertype_label": "LH Pou4f1 Sox1 Glut_3"
+  },
+  {
+    "class_label": "MH-LH Glut",
+    "subclass_label": "LH Pou4f1 Sox1 Glut",
+    "supertype_label": "LH Pou4f1 Sox1 Glut_4"
+  },
+  {
+    "class_label": "TH Glut",
+    "subclass_label": "AD Serpinb7 Glut",
+    "supertype_label": "AD Serpinb7 Glut_1"
+  },
+  {
+    "class_label": "TH Glut",
+    "subclass_label": "AV Col27a1 Glut",
+    "supertype_label": "AV Col27a1 Glut_1"
+  },
+  {
+    "class_label": "TH Glut",
+    "subclass_label": "PVT-PT Ntrk1 Glut",
+    "supertype_label": "PVT-PT Ntrk1 Glut_1"
+  },
+  {
+    "class_label": "TH Glut",
+    "subclass_label": "PVT-PT Ntrk1 Glut",
+    "supertype_label": "PVT-PT Ntrk1 Glut_2"
+  },
+  {
+    "class_label": "TH Glut",
+    "subclass_label": "PVT-PT Ntrk1 Glut",
+    "supertype_label": "PVT-PT Ntrk1 Glut_3"
+  },
+  {
+    "class_label": "TH Glut",
+    "subclass_label": "PVT-PT Ntrk1 Glut",
+    "supertype_label": "PVT-PT Ntrk1 Glut_4"
+  },
+  {
+    "class_label": "TH Glut",
+    "subclass_label": "PVT-PT Ntrk1 Glut",
+    "supertype_label": "PVT-PT Ntrk1 Glut_5"
+  },
+  {
+    "class_label": "TH Glut",
+    "subclass_label": "PVT-PT Ntrk1 Glut",
+    "supertype_label": "PVT-PT Ntrk1 Glut_6"
+  },
+  {
+    "class_label": "TH Glut",
+    "subclass_label": "CM-IAD-CL-PCN Sema5b Glut",
+    "supertype_label": "CM-IAD-CL-PCN Sema5b Glut_1"
+  },
+  {
+    "class_label": "TH Glut",
+    "subclass_label": "CM-IAD-CL-PCN Sema5b Glut",
+    "supertype_label": "CM-IAD-CL-PCN Sema5b Glut_2"
+  },
+  {
+    "class_label": "TH Glut",
+    "subclass_label": "CM-IAD-CL-PCN Sema5b Glut",
+    "supertype_label": "CM-IAD-CL-PCN Sema5b Glut_3"
+  },
+  {
+    "class_label": "TH Glut",
+    "subclass_label": "CM-IAD-CL-PCN Sema5b Glut",
+    "supertype_label": "CM-IAD-CL-PCN Sema5b Glut_4"
+  },
+  {
+    "class_label": "TH Glut",
+    "subclass_label": "CM-IAD-CL-PCN Sema5b Glut",
+    "supertype_label": "CM-IAD-CL-PCN Sema5b Glut_5"
+  },
+  {
+    "class_label": "TH Glut",
+    "subclass_label": "TH Prkcd Grin2c Glut",
+    "supertype_label": "TH Prkcd Grin2c Glut_1"
+  },
+  {
+    "class_label": "TH Glut",
+    "subclass_label": "TH Prkcd Grin2c Glut",
+    "supertype_label": "TH Prkcd Grin2c Glut_2"
+  },
+  {
+    "class_label": "TH Glut",
+    "subclass_label": "TH Prkcd Grin2c Glut",
+    "supertype_label": "TH Prkcd Grin2c Glut_3"
+  },
+  {
+    "class_label": "TH Glut",
+    "subclass_label": "TH Prkcd Grin2c Glut",
+    "supertype_label": "TH Prkcd Grin2c Glut_4"
+  },
+  {
+    "class_label": "TH Glut",
+    "subclass_label": "TH Prkcd Grin2c Glut",
+    "supertype_label": "TH Prkcd Grin2c Glut_5"
+  },
+  {
+    "class_label": "TH Glut",
+    "subclass_label": "TH Prkcd Grin2c Glut",
+    "supertype_label": "TH Prkcd Grin2c Glut_6"
+  },
+  {
+    "class_label": "TH Glut",
+    "subclass_label": "TH Prkcd Grin2c Glut",
+    "supertype_label": "TH Prkcd Grin2c Glut_7"
+  },
+  {
+    "class_label": "TH Glut",
+    "subclass_label": "TH Prkcd Grin2c Glut",
+    "supertype_label": "TH Prkcd Grin2c Glut_8"
+  },
+  {
+    "class_label": "TH Glut",
+    "subclass_label": "TH Prkcd Grin2c Glut",
+    "supertype_label": "TH Prkcd Grin2c Glut_9"
+  },
+  {
+    "class_label": "TH Glut",
+    "subclass_label": "TH Prkcd Grin2c Glut",
+    "supertype_label": "TH Prkcd Grin2c Glut_10"
+  },
+  {
+    "class_label": "TH Glut",
+    "subclass_label": "TH Prkcd Grin2c Glut",
+    "supertype_label": "TH Prkcd Grin2c Glut_11"
+  },
+  {
+    "class_label": "TH Glut",
+    "subclass_label": "TH Prkcd Grin2c Glut",
+    "supertype_label": "TH Prkcd Grin2c Glut_12"
+  },
+  {
+    "class_label": "TH Glut",
+    "subclass_label": "TH Prkcd Grin2c Glut",
+    "supertype_label": "TH Prkcd Grin2c Glut_13"
+  },
+  {
+    "class_label": "TH Glut",
+    "subclass_label": "TH Prkcd Grin2c Glut",
+    "supertype_label": "TH Prkcd Grin2c Glut_14"
+  },
+  {
+    "class_label": "TH Glut",
+    "subclass_label": "RE-Xi Nox4 Glut",
+    "supertype_label": "RE-Xi Nox4 Glut_1"
+  },
+  {
+    "class_label": "TH Glut",
+    "subclass_label": "RE-Xi Nox4 Glut",
+    "supertype_label": "RE-Xi Nox4 Glut_2"
+  },
+  {
+    "class_label": "TH Glut",
+    "subclass_label": "RE-Xi Nox4 Glut",
+    "supertype_label": "RE-Xi Nox4 Glut_3"
+  },
+  {
+    "class_label": "TH Glut",
+    "subclass_label": "RE-Xi Nox4 Glut",
+    "supertype_label": "RE-Xi Nox4 Glut_4"
+  },
+  {
+    "class_label": "TH Glut",
+    "subclass_label": "MG-POL-SGN Nts Glut",
+    "supertype_label": "MG-POL-SGN Nts Glut_1"
+  },
+  {
+    "class_label": "TH Glut",
+    "subclass_label": "MG-POL-SGN Nts Glut",
+    "supertype_label": "MG-POL-SGN Nts Glut_2"
+  },
+  {
+    "class_label": "TH Glut",
+    "subclass_label": "PF Fzd5 Glut",
+    "supertype_label": "PF Fzd5 Glut_1"
+  },
+  {
+    "class_label": "TH Glut",
+    "subclass_label": "PF Fzd5 Glut",
+    "supertype_label": "PF Fzd5 Glut_2"
+  },
+  {
+    "class_label": "MB Glut",
+    "subclass_label": "PRC-PAG Pax6 Glut",
+    "supertype_label": "PRC-PAG Pax6 Glut_1"
+  },
+  {
+    "class_label": "MB Glut",
+    "subclass_label": "PRC-PAG Pax6 Glut",
+    "supertype_label": "PRC-PAG Pax6 Glut_2"
+  },
+  {
+    "class_label": "MB Glut",
+    "subclass_label": "PRC-PAG Pax6 Glut",
+    "supertype_label": "PRC-PAG Pax6 Glut_3"
+  },
+  {
+    "class_label": "MB Glut",
+    "subclass_label": "PRC-PAG Pax6 Glut",
+    "supertype_label": "PRC-PAG Pax6 Glut_4"
+  },
+  {
+    "class_label": "MB Glut",
+    "subclass_label": "PRC-PAG Pax6 Glut",
+    "supertype_label": "PRC-PAG Pax6 Glut_5"
+  },
+  {
+    "class_label": "MB Glut",
+    "subclass_label": "MB-ant-ve Dmrta2 Glut",
+    "supertype_label": "MB-ant-ve Dmrta2 Glut_1"
+  },
+  {
+    "class_label": "MB Glut",
+    "subclass_label": "RN Spp1 Glut",
+    "supertype_label": "RN Spp1 Glut_1"
+  },
+  {
+    "class_label": "MB Glut",
+    "subclass_label": "MRN-PAG Nkx6-1 Glut",
+    "supertype_label": "MRN-PAG Nkx6-1 Glut_1"
+  },
+  {
+    "class_label": "MB Glut",
+    "subclass_label": "MRN-PAG Nkx6-1 Glut",
+    "supertype_label": "MRN-PAG Nkx6-1 Glut_2"
+  },
+  {
+    "class_label": "MB Glut",
+    "subclass_label": "IF-RL-CLI-PAG Foxa1 Glut",
+    "supertype_label": "IF-RL-CLI-PAG Foxa1 Glut_1"
+  },
+  {
+    "class_label": "MB Glut",
+    "subclass_label": "IF-RL-CLI-PAG Foxa1 Glut",
+    "supertype_label": "IF-RL-CLI-PAG Foxa1 Glut_2"
+  },
+  {
+    "class_label": "MB Glut",
+    "subclass_label": "IF-RL-CLI-PAG Foxa1 Glut",
+    "supertype_label": "IF-RL-CLI-PAG Foxa1 Glut_3"
+  },
+  {
+    "class_label": "MB Glut",
+    "subclass_label": "IF-RL-CLI-PAG Foxa1 Glut",
+    "supertype_label": "IF-RL-CLI-PAG Foxa1 Glut_4"
+  },
+  {
+    "class_label": "MB Glut",
+    "subclass_label": "IF-RL-CLI-PAG Foxa1 Glut",
+    "supertype_label": "IF-RL-CLI-PAG Foxa1 Glut_5"
+  },
+  {
+    "class_label": "MB Glut",
+    "subclass_label": "PAG-SC Neurod2 Meis2 Glut",
+    "supertype_label": "PAG-SC Neurod2 Meis2 Glut_1"
+  },
+  {
+    "class_label": "MB Glut",
+    "subclass_label": "PAG-SC Neurod2 Meis2 Glut",
+    "supertype_label": "PAG-SC Neurod2 Meis2 Glut_2"
+  },
+  {
+    "class_label": "MB Glut",
+    "subclass_label": "PAG-SC Neurod2 Meis2 Glut",
+    "supertype_label": "PAG-SC Neurod2 Meis2 Glut_3"
+  },
+  {
+    "class_label": "MB Glut",
+    "subclass_label": "PAG-SC Neurod2 Meis2 Glut",
+    "supertype_label": "PAG-SC Neurod2 Meis2 Glut_4"
+  },
+  {
+    "class_label": "MB Glut",
+    "subclass_label": "PAG Pou4f3 Glut",
+    "supertype_label": "PAG Pou4f3 Glut_1"
+  },
+  {
+    "class_label": "MB Glut",
+    "subclass_label": "PAG Pou4f3 Glut",
+    "supertype_label": "PAG Pou4f3 Glut_2"
+  },
+  {
+    "class_label": "MB Glut",
+    "subclass_label": "PAG Pou4f3 Glut",
+    "supertype_label": "PAG Pou4f3 Glut_3"
+  },
+  {
+    "class_label": "MB Glut",
+    "subclass_label": "CUN Evx2 Lhx2 Glut",
+    "supertype_label": "CUN Evx2 Lhx2 Glut_1"
+  },
+  {
+    "class_label": "MB Glut",
+    "subclass_label": "CUN Evx2 Lhx2 Glut",
+    "supertype_label": "CUN Evx2 Lhx2 Glut_2"
+  },
+  {
+    "class_label": "MB Glut",
+    "subclass_label": "CUN Evx2 Lhx2 Glut",
+    "supertype_label": "CUN Evx2 Lhx2 Glut_3"
+  },
+  {
+    "class_label": "MB Glut",
+    "subclass_label": "CUN Evx2 Lhx2 Glut",
+    "supertype_label": "CUN Evx2 Lhx2 Glut_4"
+  },
+  {
+    "class_label": "MB Glut",
+    "subclass_label": "CUN Evx2 Lhx2 Glut",
+    "supertype_label": "CUN Evx2 Lhx2 Glut_5"
+  },
+  {
+    "class_label": "MB Glut",
+    "subclass_label": "APN C1ql2 Glut",
+    "supertype_label": "APN C1ql2 Glut_1"
+  },
+  {
+    "class_label": "MB Glut",
+    "subclass_label": "APN C1ql4 Glut",
+    "supertype_label": "APN C1ql4 Glut_1"
+  },
+  {
+    "class_label": "MB Glut",
+    "subclass_label": "PAG-MRN Pou3f1 Glut",
+    "supertype_label": "PAG-MRN Pou3f1 Glut_1"
+  },
+  {
+    "class_label": "MB Glut",
+    "subclass_label": "PAG-MRN Pou3f1 Glut",
+    "supertype_label": "PAG-MRN Pou3f1 Glut_2"
+  },
+  {
+    "class_label": "MB Glut",
+    "subclass_label": "PAG-MRN Pou3f1 Glut",
+    "supertype_label": "PAG-MRN Pou3f1 Glut_3"
+  },
+  {
+    "class_label": "MB Glut",
+    "subclass_label": "PAG-MRN Pou3f1 Glut",
+    "supertype_label": "PAG-MRN Pou3f1 Glut_4"
+  },
+  {
+    "class_label": "MB Glut",
+    "subclass_label": "PAG-MRN Pou3f1 Glut",
+    "supertype_label": "PAG-MRN Pou3f1 Glut_5"
+  },
+  {
+    "class_label": "MB Glut",
+    "subclass_label": "PAG-MRN Pou3f1 Glut",
+    "supertype_label": "PAG-MRN Pou3f1 Glut_6"
+  },
+  {
+    "class_label": "MB Glut",
+    "subclass_label": "PAG-MRN Tfap2b Glut",
+    "supertype_label": "PAG-MRN Tfap2b Glut_1"
+  },
+  {
+    "class_label": "MB Glut",
+    "subclass_label": "PAG-MRN Tfap2b Glut",
+    "supertype_label": "PAG-MRN Tfap2b Glut_2"
+  },
+  {
+    "class_label": "MB Glut",
+    "subclass_label": "PAG Pou4f1 Ebf2 Glut",
+    "supertype_label": "PAG Pou4f1 Ebf2 Glut_1"
+  },
+  {
+    "class_label": "MB Glut",
+    "subclass_label": "PAG Pou4f1 Ebf2 Glut",
+    "supertype_label": "PAG Pou4f1 Ebf2 Glut_2"
+  },
+  {
+    "class_label": "MB Glut",
+    "subclass_label": "PAG Pou4f1 Ebf2 Glut",
+    "supertype_label": "PAG Pou4f1 Ebf2 Glut_3"
+  },
+  {
+    "class_label": "MB Glut",
+    "subclass_label": "PAG Pou4f1 Ebf2 Glut",
+    "supertype_label": "PAG Pou4f1 Ebf2 Glut_4"
+  },
+  {
+    "class_label": "MB Glut",
+    "subclass_label": "PAG Pou4f1 Ebf2 Glut",
+    "supertype_label": "PAG Pou4f1 Ebf2 Glut_5"
+  },
+  {
+    "class_label": "MB Glut",
+    "subclass_label": "PAG Pou4f1 Ebf2 Glut",
+    "supertype_label": "PAG Pou4f1 Ebf2 Glut_6"
+  },
+  {
+    "class_label": "MB Glut",
+    "subclass_label": "PAG Pou4f1 Ebf2 Glut",
+    "supertype_label": "PAG Pou4f1 Ebf2 Glut_7"
+  },
+  {
+    "class_label": "MB Glut",
+    "subclass_label": "PAG Pou4f1 Ebf2 Glut",
+    "supertype_label": "PAG Pou4f1 Ebf2 Glut_8"
+  },
+  {
+    "class_label": "MB Glut",
+    "subclass_label": "PAG Pou4f2 Glut",
+    "supertype_label": "PAG Pou4f2 Glut_1"
+  },
+  {
+    "class_label": "MB Glut",
+    "subclass_label": "PAG Pou4f2 Glut",
+    "supertype_label": "PAG Pou4f2 Glut_2"
+  },
+  {
+    "class_label": "MB Glut",
+    "subclass_label": "PAG Pou4f2 Glut",
+    "supertype_label": "PAG Pou4f2 Glut_3"
+  },
+  {
+    "class_label": "MB Glut",
+    "subclass_label": "PAG Pou4f2 Glut",
+    "supertype_label": "PAG Pou4f2 Glut_4"
+  },
+  {
+    "class_label": "MB Glut",
+    "subclass_label": "PAG Pou4f2 Glut",
+    "supertype_label": "PAG Pou4f2 Glut_5"
+  },
+  {
+    "class_label": "MB Glut",
+    "subclass_label": "PAG Pou4f2 Mesi2 Glut",
+    "supertype_label": "PAG Pou4f2 Mesi2 Glut_1"
+  },
+  {
+    "class_label": "MB Glut",
+    "subclass_label": "PAG Pou4f2 Mesi2 Glut",
+    "supertype_label": "PAG Pou4f2 Mesi2 Glut_2"
+  },
+  {
+    "class_label": "MB Glut",
+    "subclass_label": "PAG Pou4f2 Mesi2 Glut",
+    "supertype_label": "PAG Pou4f2 Mesi2 Glut_3"
+  },
+  {
+    "class_label": "MB Glut",
+    "subclass_label": "PAG Pou4f2 Mesi2 Glut",
+    "supertype_label": "PAG Pou4f2 Mesi2 Glut_4"
+  },
+  {
+    "class_label": "MB Glut",
+    "subclass_label": "PAG Pou4f2 Mesi2 Glut",
+    "supertype_label": "PAG Pou4f2 Mesi2 Glut_5"
+  },
+  {
+    "class_label": "MB Glut",
+    "subclass_label": "PAG Pou4f2 Mesi2 Glut",
+    "supertype_label": "PAG Pou4f2 Mesi2 Glut_6"
+  },
+  {
+    "class_label": "MB Glut",
+    "subclass_label": "SC Bnc2 Glut",
+    "supertype_label": "SC Bnc2 Glut_1"
+  },
+  {
+    "class_label": "MB Glut",
+    "subclass_label": "SC Bnc2 Glut",
+    "supertype_label": "SC Bnc2 Glut_2"
+  },
+  {
+    "class_label": "MB Glut",
+    "subclass_label": "SC Bnc2 Glut",
+    "supertype_label": "SC Bnc2 Glut_3"
+  },
+  {
+    "class_label": "MB Glut",
+    "subclass_label": "SC Bnc2 Glut",
+    "supertype_label": "SC Bnc2 Glut_4"
+  },
+  {
+    "class_label": "MB Glut",
+    "subclass_label": "SCig Foxb1 Glut",
+    "supertype_label": "SCig Foxb1 Glut_1"
+  },
+  {
+    "class_label": "MB Glut",
+    "subclass_label": "SCig Foxb1 Glut",
+    "supertype_label": "SCig Foxb1 Glut_2"
+  },
+  {
+    "class_label": "MB Glut",
+    "subclass_label": "SCig Foxb1 Glut",
+    "supertype_label": "SCig Foxb1 Glut_3"
+  },
+  {
+    "class_label": "MB Glut",
+    "subclass_label": "SCig Foxb1 Glut",
+    "supertype_label": "SCig Foxb1 Glut_4"
+  },
+  {
+    "class_label": "MB Glut",
+    "subclass_label": "SCig-an-PPT Foxb1 Glut",
+    "supertype_label": "SCig-an-PPT Foxb1 Glut_1"
+  },
+  {
+    "class_label": "MB Glut",
+    "subclass_label": "SCig Foxb1 Otx2 Glut",
+    "supertype_label": "SCig Foxb1 Otx2 Glut_1"
+  },
+  {
+    "class_label": "MB Glut",
+    "subclass_label": "SCdg-PAG Tfap2b Glut",
+    "supertype_label": "SCdg-PAG Tfap2b Glut_1"
+  },
+  {
+    "class_label": "MB Glut",
+    "subclass_label": "SCiw Pitx2 Glut",
+    "supertype_label": "SCiw Pitx2 Glut_1"
+  },
+  {
+    "class_label": "MB Glut",
+    "subclass_label": "SCiw Pitx2 Glut",
+    "supertype_label": "SCiw Pitx2 Glut_2"
+  },
+  {
+    "class_label": "MB Glut",
+    "subclass_label": "SCiw Pitx2 Glut",
+    "supertype_label": "SCiw Pitx2 Glut_3"
+  },
+  {
+    "class_label": "MB Glut",
+    "subclass_label": "IC Tfap2d Maf Glut",
+    "supertype_label": "IC Tfap2d Maf Glut_1"
+  },
+  {
+    "class_label": "MB Glut",
+    "subclass_label": "IC Tfap2d Maf Glut",
+    "supertype_label": "IC Tfap2d Maf Glut_2"
+  },
+  {
+    "class_label": "MB Glut",
+    "subclass_label": "IC Tfap2d Maf Glut",
+    "supertype_label": "IC Tfap2d Maf Glut_3"
+  },
+  {
+    "class_label": "MB Glut",
+    "subclass_label": "IC Tfap2d Maf Glut",
+    "supertype_label": "IC Tfap2d Maf Glut_4"
+  },
+  {
+    "class_label": "MB Glut",
+    "subclass_label": "IC Tfap2d Maf Glut",
+    "supertype_label": "IC Tfap2d Maf Glut_5"
+  },
+  {
+    "class_label": "MB Glut",
+    "subclass_label": "IC Tfap2d Maf Glut",
+    "supertype_label": "IC Tfap2d Maf Glut_6"
+  },
+  {
+    "class_label": "MB Glut",
+    "subclass_label": "CUN-PPN Evx2 Meis2 Glut",
+    "supertype_label": "CUN-PPN Evx2 Meis2 Glut_1"
+  },
+  {
+    "class_label": "MB Glut",
+    "subclass_label": "CUN-PPN Evx2 Meis2 Glut",
+    "supertype_label": "CUN-PPN Evx2 Meis2 Glut_2"
+  },
+  {
+    "class_label": "MB Glut",
+    "subclass_label": "CUN-PPN Evx2 Meis2 Glut",
+    "supertype_label": "CUN-PPN Evx2 Meis2 Glut_3"
+  },
+  {
+    "class_label": "MB Glut",
+    "subclass_label": "CUN-PPN Evx2 Meis2 Glut",
+    "supertype_label": "CUN-PPN Evx2 Meis2 Glut_4"
+  },
+  {
+    "class_label": "MB Glut",
+    "subclass_label": "CUN-PPN Evx2 Meis2 Glut",
+    "supertype_label": "CUN-PPN Evx2 Meis2 Glut_5"
+  },
+  {
+    "class_label": "MB Glut",
+    "subclass_label": "PBG Mtnr1a Glut-Chol",
+    "supertype_label": "PBG Mtnr1a Glut-Chol_1"
+  },
+  {
+    "class_label": "MB Glut",
+    "subclass_label": "PAG Tcf24 Glut",
+    "supertype_label": "PAG Tcf24 Glut_1"
+  },
+  {
+    "class_label": "MB Glut",
+    "subclass_label": "SCig Tfap2b Chrnb3 Glut",
+    "supertype_label": "SCig Tfap2b Chrnb3 Glut_1"
+  },
+  {
+    "class_label": "MB Glut",
+    "subclass_label": "SCop Pou4f2 Neurod2 Glut",
+    "supertype_label": "SCop Pou4f2 Neurod2 Glut_1"
+  },
+  {
+    "class_label": "MB Glut",
+    "subclass_label": "SCsg Pde5a Glut",
+    "supertype_label": "SCsg Pde5a Glut_1"
+  },
+  {
+    "class_label": "MB Glut",
+    "subclass_label": "SCsg Pde5a Glut",
+    "supertype_label": "SCsg Pde5a Glut_2"
+  },
+  {
+    "class_label": "MB Glut",
+    "subclass_label": "SCsg Pde5a Glut",
+    "supertype_label": "SCsg Pde5a Glut_3"
+  },
+  {
+    "class_label": "MB Glut",
+    "subclass_label": "SCop Sln Glut",
+    "supertype_label": "SCop Sln Glut_1"
+  },
+  {
+    "class_label": "MB Glut",
+    "subclass_label": "PAG Ucn Glut",
+    "supertype_label": "PAG Ucn Glut_1"
+  },
+  {
+    "class_label": "MB Glut",
+    "subclass_label": "ND-INC Foxd2 Glut",
+    "supertype_label": "ND-INC Foxd2 Glut_1"
+  },
+  {
+    "class_label": "MB GABA",
+    "subclass_label": "PAG-MRN Rln3 Gaba",
+    "supertype_label": "PAG-MRN Rln3 Gaba_1"
+  },
+  {
+    "class_label": "MB GABA",
+    "subclass_label": "PPN-CUN-PCG Otp En1 Gaba",
+    "supertype_label": "PPN-CUN-PCG Otp En1 Gaba_1"
+  },
+  {
+    "class_label": "MB GABA",
+    "subclass_label": "PPN-CUN-PCG Otp En1 Gaba",
+    "supertype_label": "PPN-CUN-PCG Otp En1 Gaba_2"
+  },
+  {
+    "class_label": "MB GABA",
+    "subclass_label": "PPN-CUN-PCG Otp En1 Gaba",
+    "supertype_label": "PPN-CUN-PCG Otp En1 Gaba_3"
+  },
+  {
+    "class_label": "MB GABA",
+    "subclass_label": "MRN-PPN-CUN Pax8 Gaba",
+    "supertype_label": "MRN-PPN-CUN Pax8 Gaba_1"
+  },
+  {
+    "class_label": "MB GABA",
+    "subclass_label": "MRN-PPN-CUN Pax8 Gaba",
+    "supertype_label": "MRN-PPN-CUN Pax8 Gaba_2"
+  },
+  {
+    "class_label": "MB GABA",
+    "subclass_label": "MRN-PPN-CUN Pax8 Gaba",
+    "supertype_label": "MRN-PPN-CUN Pax8 Gaba_3"
+  },
+  {
+    "class_label": "MB GABA",
+    "subclass_label": "MRN-VTN-PPN Pax5 Cdh23 Gaba",
+    "supertype_label": "MRN-VTN-PPN Pax5 Cdh23 Gaba_1"
+  },
+  {
+    "class_label": "MB GABA",
+    "subclass_label": "MRN-VTN-PPN Pax5 Cdh23 Gaba",
+    "supertype_label": "MRN-VTN-PPN Pax5 Cdh23 Gaba_2"
+  },
+  {
+    "class_label": "MB GABA",
+    "subclass_label": "SNr-VTA Pax5 Npas1 Gaba",
+    "supertype_label": "SNr-VTA Pax5 Npas1 Gaba_1"
+  },
+  {
+    "class_label": "MB GABA",
+    "subclass_label": "SNr-VTA Pax5 Npas1 Gaba",
+    "supertype_label": "SNr-VTA Pax5 Npas1 Gaba_2"
+  },
+  {
+    "class_label": "MB GABA",
+    "subclass_label": "PAG-PPN Pax5 Sox21 Gaba",
+    "supertype_label": "PAG-PPN Pax5 Sox21 Gaba_1"
+  },
+  {
+    "class_label": "MB GABA",
+    "subclass_label": "PAG-PPN Pax5 Sox21 Gaba",
+    "supertype_label": "PAG-PPN Pax5 Sox21 Gaba_2"
+  },
+  {
+    "class_label": "MB GABA",
+    "subclass_label": "PAG-PPN Pax5 Sox21 Gaba",
+    "supertype_label": "PAG-PPN Pax5 Sox21 Gaba_3"
+  },
+  {
+    "class_label": "MB GABA",
+    "subclass_label": "PAG-PPN Pax5 Sox21 Gaba",
+    "supertype_label": "PAG-PPN Pax5 Sox21 Gaba_4"
+  },
+  {
+    "class_label": "MB GABA",
+    "subclass_label": "SNr Six3 Gaba",
+    "supertype_label": "SNr Six3 Gaba_1"
+  },
+  {
+    "class_label": "MB GABA",
+    "subclass_label": "IC Six3 En2 Gaba",
+    "supertype_label": "IC Six3 En2 Gaba_1"
+  },
+  {
+    "class_label": "MB GABA",
+    "subclass_label": "IC Six3 En2 Gaba",
+    "supertype_label": "IC Six3 En2 Gaba_2"
+  },
+  {
+    "class_label": "MB GABA",
+    "subclass_label": "IC Six3 En2 Gaba",
+    "supertype_label": "IC Six3 En2 Gaba_3"
+  },
+  {
+    "class_label": "MB GABA",
+    "subclass_label": "IC Six3 En2 Gaba",
+    "supertype_label": "IC Six3 En2 Gaba_4"
+  },
+  {
+    "class_label": "MB GABA",
+    "subclass_label": "IC Six3 En2 Gaba",
+    "supertype_label": "IC Six3 En2 Gaba_5"
+  },
+  {
+    "class_label": "MB GABA",
+    "subclass_label": "IC Six3 En2 Gaba",
+    "supertype_label": "IC Six3 En2 Gaba_6"
+  },
+  {
+    "class_label": "MB GABA",
+    "subclass_label": "IC Six3 En2 Gaba",
+    "supertype_label": "IC Six3 En2 Gaba_7"
+  },
+  {
+    "class_label": "MB GABA",
+    "subclass_label": "PAG-MRN-RN Foxa2 Gaba",
+    "supertype_label": "PAG-MRN-RN Foxa2 Gaba_1"
+  },
+  {
+    "class_label": "MB GABA",
+    "subclass_label": "PAG-MRN-RN Foxa2 Gaba",
+    "supertype_label": "PAG-MRN-RN Foxa2 Gaba_2"
+  },
+  {
+    "class_label": "MB GABA",
+    "subclass_label": "PAG-MRN-RN Foxa2 Gaba",
+    "supertype_label": "PAG-MRN-RN Foxa2 Gaba_3"
+  },
+  {
+    "class_label": "MB GABA",
+    "subclass_label": "PAG-MRN-RN Foxa2 Gaba",
+    "supertype_label": "PAG-MRN-RN Foxa2 Gaba_4"
+  },
+  {
+    "class_label": "MB GABA",
+    "subclass_label": "PAG-RN Nkx2-2 Otx1 Gaba",
+    "supertype_label": "PAG-RN Nkx2-2 Otx1 Gaba_1"
+  },
+  {
+    "class_label": "MB GABA",
+    "subclass_label": "PAG-RN Nkx2-2 Otx1 Gaba",
+    "supertype_label": "PAG-RN Nkx2-2 Otx1 Gaba_2"
+  },
+  {
+    "class_label": "MB GABA",
+    "subclass_label": "PAG-RN Nkx2-2 Otx1 Gaba",
+    "supertype_label": "PAG-RN Nkx2-2 Otx1 Gaba_3"
+  },
+  {
+    "class_label": "MB GABA",
+    "subclass_label": "PAG-RN Nkx2-2 Otx1 Gaba",
+    "supertype_label": "PAG-RN Nkx2-2 Otx1 Gaba_4"
+  },
+  {
+    "class_label": "MB GABA",
+    "subclass_label": "PAG-RN Nkx2-2 Otx1 Gaba",
+    "supertype_label": "PAG-RN Nkx2-2 Otx1 Gaba_5"
+  },
+  {
+    "class_label": "MB GABA",
+    "subclass_label": "PAG-RN Nkx2-2 Otx1 Gaba",
+    "supertype_label": "PAG-RN Nkx2-2 Otx1 Gaba_6"
+  },
+  {
+    "class_label": "MB GABA",
+    "subclass_label": "PRT Tcf7l2 Gaba",
+    "supertype_label": "PRT Tcf7l2 Gaba_1"
+  },
+  {
+    "class_label": "MB GABA",
+    "subclass_label": "PRT Tcf7l2 Gaba",
+    "supertype_label": "PRT Tcf7l2 Gaba_2"
+  },
+  {
+    "class_label": "MB GABA",
+    "subclass_label": "PRT Tcf7l2 Gaba",
+    "supertype_label": "PRT Tcf7l2 Gaba_3"
+  },
+  {
+    "class_label": "MB GABA",
+    "subclass_label": "PRT Tcf7l2 Gaba",
+    "supertype_label": "PRT Tcf7l2 Gaba_4"
+  },
+  {
+    "class_label": "MB GABA",
+    "subclass_label": "PRT Tcf7l2 Gaba",
+    "supertype_label": "PRT Tcf7l2 Gaba_5"
+  },
+  {
+    "class_label": "MB GABA",
+    "subclass_label": "SC Otx2 Gcnt4 Gaba",
+    "supertype_label": "SC Otx2 Gcnt4 Gaba_1"
+  },
+  {
+    "class_label": "MB GABA",
+    "subclass_label": "SC Otx2 Gcnt4 Gaba",
+    "supertype_label": "SC Otx2 Gcnt4 Gaba_2"
+  },
+  {
+    "class_label": "MB GABA",
+    "subclass_label": "SC-PAG Lef1 Emx2 Gaba",
+    "supertype_label": "SC-PAG Lef1 Emx2 Gaba_1"
+  },
+  {
+    "class_label": "MB GABA",
+    "subclass_label": "SC-PAG Lef1 Emx2 Gaba",
+    "supertype_label": "SC-PAG Lef1 Emx2 Gaba_2"
+  },
+  {
+    "class_label": "MB GABA",
+    "subclass_label": "SC-PAG Lef1 Emx2 Gaba",
+    "supertype_label": "SC-PAG Lef1 Emx2 Gaba_3"
+  },
+  {
+    "class_label": "MB GABA",
+    "subclass_label": "SC-PAG Lef1 Emx2 Gaba",
+    "supertype_label": "SC-PAG Lef1 Emx2 Gaba_4"
+  },
+  {
+    "class_label": "MB GABA",
+    "subclass_label": "SC-PAG Lef1 Emx2 Gaba",
+    "supertype_label": "SC-PAG Lef1 Emx2 Gaba_5"
+  },
+  {
+    "class_label": "MB GABA",
+    "subclass_label": "SCm-PAG Cdh23 Gaba",
+    "supertype_label": "SCm-PAG Cdh23 Gaba_1"
+  },
+  {
+    "class_label": "MB GABA",
+    "subclass_label": "SCm-PAG Cdh23 Gaba",
+    "supertype_label": "SCm-PAG Cdh23 Gaba_2"
+  },
+  {
+    "class_label": "MB GABA",
+    "subclass_label": "SCm-PAG Cdh23 Gaba",
+    "supertype_label": "SCm-PAG Cdh23 Gaba_3"
+  },
+  {
+    "class_label": "MB GABA",
+    "subclass_label": "SCm-PAG Cdh23 Gaba",
+    "supertype_label": "SCm-PAG Cdh23 Gaba_4"
+  },
+  {
+    "class_label": "MB GABA",
+    "subclass_label": "SCs Dmbx1 Gaba",
+    "supertype_label": "SCs Dmbx1 Gaba_1"
+  },
+  {
+    "class_label": "MB GABA",
+    "subclass_label": "SCs Dmbx1 Gaba",
+    "supertype_label": "SCs Dmbx1 Gaba_2"
+  },
+  {
+    "class_label": "MB GABA",
+    "subclass_label": "SCs Dmbx1 Gaba",
+    "supertype_label": "SCs Dmbx1 Gaba_3"
+  },
+  {
+    "class_label": "MB GABA",
+    "subclass_label": "SCs Dmbx1 Gaba",
+    "supertype_label": "SCs Dmbx1 Gaba_4"
+  },
+  {
+    "class_label": "MB GABA",
+    "subclass_label": "SCs Dmbx1 Gaba",
+    "supertype_label": "SCs Dmbx1 Gaba_5"
+  },
+  {
+    "class_label": "MB GABA",
+    "subclass_label": "SC Lef1 Otx2 Gaba",
+    "supertype_label": "SC Lef1 Otx2 Gaba_1"
+  },
+  {
+    "class_label": "MB GABA",
+    "subclass_label": "SC Lef1 Otx2 Gaba",
+    "supertype_label": "SC Lef1 Otx2 Gaba_2"
+  },
+  {
+    "class_label": "MB GABA",
+    "subclass_label": "SCs Pax7 Nfia Gaba",
+    "supertype_label": "SCs Pax7 Nfia Gaba_1"
+  },
+  {
+    "class_label": "MB GABA",
+    "subclass_label": "SCs Pax7 Nfia Gaba",
+    "supertype_label": "SCs Pax7 Nfia Gaba_2"
+  },
+  {
+    "class_label": "MB GABA",
+    "subclass_label": "SCs Pax7 Nfia Gaba",
+    "supertype_label": "SCs Pax7 Nfia Gaba_3"
+  },
+  {
+    "class_label": "MB GABA",
+    "subclass_label": "SCs Pax7 Nfia Gaba",
+    "supertype_label": "SCs Pax7 Nfia Gaba_4"
+  },
+  {
+    "class_label": "MB GABA",
+    "subclass_label": "SCs Pax7 Nfia Gaba",
+    "supertype_label": "SCs Pax7 Nfia Gaba_5"
+  },
+  {
+    "class_label": "MB GABA",
+    "subclass_label": "PRT Mecom Gaba",
+    "supertype_label": "PRT Mecom Gaba_1"
+  },
+  {
+    "class_label": "MB GABA",
+    "subclass_label": "PRT Mecom Gaba",
+    "supertype_label": "PRT Mecom Gaba_2"
+  },
+  {
+    "class_label": "MB GABA",
+    "subclass_label": "PRT Mecom Gaba",
+    "supertype_label": "PRT Mecom Gaba_3"
+  },
+  {
+    "class_label": "MB GABA",
+    "subclass_label": "SC Tnnt1 Gli3 Gaba",
+    "supertype_label": "SC Tnnt1 Gli3 Gaba_1"
+  },
+  {
+    "class_label": "MB GABA",
+    "subclass_label": "SC Tnnt1 Gli3 Gaba",
+    "supertype_label": "SC Tnnt1 Gli3 Gaba_2"
+  },
+  {
+    "class_label": "MB GABA",
+    "subclass_label": "SCs Lef1 Gli3 Gaba",
+    "supertype_label": "SCs Lef1 Gli3 Gaba_1"
+  },
+  {
+    "class_label": "MB GABA",
+    "subclass_label": "SCs Lef1 Gli3 Gaba",
+    "supertype_label": "SCs Lef1 Gli3 Gaba_2"
+  },
+  {
+    "class_label": "MB GABA",
+    "subclass_label": "SCs Lef1 Gli3 Gaba",
+    "supertype_label": "SCs Lef1 Gli3 Gaba_3"
+  },
+  {
+    "class_label": "MB GABA",
+    "subclass_label": "SCsg Gabrr2 Gaba",
+    "supertype_label": "SCsg Gabrr2 Gaba_1"
+  },
+  {
+    "class_label": "MB GABA",
+    "subclass_label": "SCsg Gabrr2 Gaba",
+    "supertype_label": "SCsg Gabrr2 Gaba_2"
+  },
+  {
+    "class_label": "MB GABA",
+    "subclass_label": "SCsg Gabrr2 Gaba",
+    "supertype_label": "SCsg Gabrr2 Gaba_3"
+  },
+  {
+    "class_label": "MB GABA",
+    "subclass_label": "SCsg Gabrr2 Gaba",
+    "supertype_label": "SCsg Gabrr2 Gaba_4"
+  },
+  {
+    "class_label": "MB GABA",
+    "subclass_label": "SCsg Gabrr2 Gaba",
+    "supertype_label": "SCsg Gabrr2 Gaba_5"
+  },
+  {
+    "class_label": "MB GABA",
+    "subclass_label": "IPN Otp Crisp1 Gaba",
+    "supertype_label": "IPN Otp Crisp1 Gaba_1"
+  },
+  {
+    "class_label": "MB GABA",
+    "subclass_label": "IPN Otp Crisp1 Gaba",
+    "supertype_label": "IPN Otp Crisp1 Gaba_2"
+  },
+  {
+    "class_label": "MB GABA",
+    "subclass_label": "IPN Otp Crisp1 Gaba",
+    "supertype_label": "IPN Otp Crisp1 Gaba_3"
+  },
+  {
+    "class_label": "MB Dopa",
+    "subclass_label": "SNc-VTA-RAmb Foxa1 Dopa",
+    "supertype_label": "SNc-VTA-RAmb Foxa1 Dopa_1"
+  },
+  {
+    "class_label": "MB Dopa",
+    "subclass_label": "SNc-VTA-RAmb Foxa1 Dopa",
+    "supertype_label": "SNc-VTA-RAmb Foxa1 Dopa_2"
+  },
+  {
+    "class_label": "MB Dopa",
+    "subclass_label": "SNc-VTA-RAmb Foxa1 Dopa",
+    "supertype_label": "SNc-VTA-RAmb Foxa1 Dopa_3"
+  },
+  {
+    "class_label": "MB Dopa",
+    "subclass_label": "SNc-VTA-RAmb Foxa1 Dopa",
+    "supertype_label": "SNc-VTA-RAmb Foxa1 Dopa_4"
+  },
+  {
+    "class_label": "MB Dopa",
+    "subclass_label": "SNc-VTA-RAmb Foxa1 Dopa",
+    "supertype_label": "SNc-VTA-RAmb Foxa1 Dopa_5"
+  },
+  {
+    "class_label": "MB Dopa",
+    "subclass_label": "SNc-VTA-RAmb Foxa1 Dopa",
+    "supertype_label": "SNc-VTA-RAmb Foxa1 Dopa_6"
+  },
+  {
+    "class_label": "MB Dopa",
+    "subclass_label": "SNc-VTA-RAmb Foxa1 Dopa",
+    "supertype_label": "SNc-VTA-RAmb Foxa1 Dopa_7"
+  },
+  {
+    "class_label": "MB Dopa",
+    "subclass_label": "SNc-VTA-RAmb Foxa1 Dopa",
+    "supertype_label": "SNc-VTA-RAmb Foxa1 Dopa_8"
+  },
+  {
+    "class_label": "P Glut",
+    "subclass_label": "PB Lmx1a Glut",
+    "supertype_label": "PB Lmx1a Glut_1"
+  },
+  {
+    "class_label": "P Glut",
+    "subclass_label": "PB Lmx1a Glut",
+    "supertype_label": "PB Lmx1a Glut_2"
+  },
+  {
+    "class_label": "P Glut",
+    "subclass_label": "PB Lmx1a Glut",
+    "supertype_label": "PB Lmx1a Glut_3"
+  },
+  {
+    "class_label": "P Glut",
+    "subclass_label": "PB Lmx1a Glut",
+    "supertype_label": "PB Lmx1a Glut_4"
+  },
+  {
+    "class_label": "P Glut",
+    "subclass_label": "PB Lmx1a Glut",
+    "supertype_label": "PB Lmx1a Glut_5"
+  },
+  {
+    "class_label": "P Glut",
+    "subclass_label": "PB Lmx1a Glut",
+    "supertype_label": "PB Lmx1a Glut_6"
+  },
+  {
+    "class_label": "P Glut",
+    "subclass_label": "PB Lmx1a Glut",
+    "supertype_label": "PB Lmx1a Glut_7"
+  },
+  {
+    "class_label": "P Glut",
+    "subclass_label": "PB-SUT Tlx3 Lhx2 Glut",
+    "supertype_label": "PB-SUT Tlx3 Lhx2 Glut_1"
+  },
+  {
+    "class_label": "P Glut",
+    "subclass_label": "PB Pax5 Glut",
+    "supertype_label": "PB Pax5 Glut_1"
+  },
+  {
+    "class_label": "P Glut",
+    "subclass_label": "PB Pax5 Glut",
+    "supertype_label": "PB Pax5 Glut_2"
+  },
+  {
+    "class_label": "P Glut",
+    "subclass_label": "LDT-PCG Vsx2 Lhx4 Glut",
+    "supertype_label": "LDT-PCG Vsx2 Lhx4 Glut_1"
+  },
+  {
+    "class_label": "P Glut",
+    "subclass_label": "LDT-PCG Vsx2 Lhx4 Glut",
+    "supertype_label": "LDT-PCG Vsx2 Lhx4 Glut_2"
+  },
+  {
+    "class_label": "P Glut",
+    "subclass_label": "LDT-PCG Vsx2 Lhx4 Glut",
+    "supertype_label": "LDT-PCG Vsx2 Lhx4 Glut_3"
+  },
+  {
+    "class_label": "P Glut",
+    "subclass_label": "LDT-PCG Vsx2 Lhx4 Glut",
+    "supertype_label": "LDT-PCG Vsx2 Lhx4 Glut_4"
+  },
+  {
+    "class_label": "P Glut",
+    "subclass_label": "LDT-PCG Vsx2 Lhx4 Glut",
+    "supertype_label": "LDT-PCG Vsx2 Lhx4 Glut_5"
+  },
+  {
+    "class_label": "P Glut",
+    "subclass_label": "LDT-PCG Vsx2 Lhx4 Glut",
+    "supertype_label": "LDT-PCG Vsx2 Lhx4 Glut_6"
+  },
+  {
+    "class_label": "P Glut",
+    "subclass_label": "LDT-PCG Vsx2 Lhx4 Glut",
+    "supertype_label": "LDT-PCG Vsx2 Lhx4 Glut_7"
+  },
+  {
+    "class_label": "P Glut",
+    "subclass_label": "LDT-PCG Vsx2 Lhx4 Glut",
+    "supertype_label": "LDT-PCG Vsx2 Lhx4 Glut_8"
+  },
+  {
+    "class_label": "P Glut",
+    "subclass_label": "PB Evx2 Glut",
+    "supertype_label": "PB Evx2 Glut_1"
+  },
+  {
+    "class_label": "P Glut",
+    "subclass_label": "PB Evx2 Glut",
+    "supertype_label": "PB Evx2 Glut_2"
+  },
+  {
+    "class_label": "P Glut",
+    "subclass_label": "PB Evx2 Glut",
+    "supertype_label": "PB Evx2 Glut_3"
+  },
+  {
+    "class_label": "P Glut",
+    "subclass_label": "PB Evx2 Glut",
+    "supertype_label": "PB Evx2 Glut_4"
+  },
+  {
+    "class_label": "P Glut",
+    "subclass_label": "PB Evx2 Glut",
+    "supertype_label": "PB Evx2 Glut_5"
+  },
+  {
+    "class_label": "P Glut",
+    "subclass_label": "PB Evx2 Glut",
+    "supertype_label": "PB Evx2 Glut_6"
+  },
+  {
+    "class_label": "P Glut",
+    "subclass_label": "PB Evx2 Glut",
+    "supertype_label": "PB Evx2 Glut_7"
+  },
+  {
+    "class_label": "P Glut",
+    "subclass_label": "PB Evx2 Glut",
+    "supertype_label": "PB Evx2 Glut_8"
+  },
+  {
+    "class_label": "P Glut",
+    "subclass_label": "PB Evx2 Glut",
+    "supertype_label": "PB Evx2 Glut_9"
+  },
+  {
+    "class_label": "P Glut",
+    "subclass_label": "B-PB Nr4a2 Glut",
+    "supertype_label": "B-PB Nr4a2 Glut_1"
+  },
+  {
+    "class_label": "P Glut",
+    "subclass_label": "PCG-PRNr Vsx2 Nkx6-1 Glut",
+    "supertype_label": "PCG-PRNr Vsx2 Nkx6-1 Glut_1"
+  },
+  {
+    "class_label": "P Glut",
+    "subclass_label": "PCG-PRNr Vsx2 Nkx6-1 Glut",
+    "supertype_label": "PCG-PRNr Vsx2 Nkx6-1 Glut_2"
+  },
+  {
+    "class_label": "P Glut",
+    "subclass_label": "PCG-PRNr Vsx2 Nkx6-1 Glut",
+    "supertype_label": "PCG-PRNr Vsx2 Nkx6-1 Glut_3"
+  },
+  {
+    "class_label": "P Glut",
+    "subclass_label": "PCG-PRNr Vsx2 Nkx6-1 Glut",
+    "supertype_label": "PCG-PRNr Vsx2 Nkx6-1 Glut_4"
+  },
+  {
+    "class_label": "P Glut",
+    "subclass_label": "PCG-PRNr Vsx2 Nkx6-1 Glut",
+    "supertype_label": "PCG-PRNr Vsx2 Nkx6-1 Glut_5"
+  },
+  {
+    "class_label": "P Glut",
+    "subclass_label": "PCG-PRNr Vsx2 Nkx6-1 Glut",
+    "supertype_label": "PCG-PRNr Vsx2 Nkx6-1 Glut_6"
+  },
+  {
+    "class_label": "P Glut",
+    "subclass_label": "PRNc-NI-SG-RPO Vsx2 Nr4a2 Glut",
+    "supertype_label": "PRNc-NI-SG-RPO Vsx2 Nr4a2 Glut_1"
+  },
+  {
+    "class_label": "P Glut",
+    "subclass_label": "PRNc-NI-SG-RPO Vsx2 Nr4a2 Glut",
+    "supertype_label": "PRNc-NI-SG-RPO Vsx2 Nr4a2 Glut_2"
+  },
+  {
+    "class_label": "P Glut",
+    "subclass_label": "PRNc-NI-SG-RPO Vsx2 Nr4a2 Glut",
+    "supertype_label": "PRNc-NI-SG-RPO Vsx2 Nr4a2 Glut_3"
+  },
+  {
+    "class_label": "P Glut",
+    "subclass_label": "PRNc-NI-SG-RPO Vsx2 Nr4a2 Glut",
+    "supertype_label": "PRNc-NI-SG-RPO Vsx2 Nr4a2 Glut_4"
+  },
+  {
+    "class_label": "P Glut",
+    "subclass_label": "PRNc-PARN Tlx1 Glut",
+    "supertype_label": "PRNc-PARN Tlx1 Glut_1"
+  },
+  {
+    "class_label": "P Glut",
+    "subclass_label": "PRNc-PARN Tlx1 Glut",
+    "supertype_label": "PRNc-PARN Tlx1 Glut_2"
+  },
+  {
+    "class_label": "P Glut",
+    "subclass_label": "PRNc-PARN Tlx1 Glut",
+    "supertype_label": "PRNc-PARN Tlx1 Glut_3"
+  },
+  {
+    "class_label": "P Glut",
+    "subclass_label": "PB-PSV Phox2b Glut",
+    "supertype_label": "PB-PSV Phox2b Glut_1"
+  },
+  {
+    "class_label": "P Glut",
+    "subclass_label": "PSV Pvalb Lhx2 Glut",
+    "supertype_label": "PSV Pvalb Lhx2 Glut_1"
+  },
+  {
+    "class_label": "P Glut",
+    "subclass_label": "PSV Pvalb Lhx2 Glut",
+    "supertype_label": "PSV Pvalb Lhx2 Glut_2"
+  },
+  {
+    "class_label": "P Glut",
+    "subclass_label": "PSV Pvalb Lhx2 Glut",
+    "supertype_label": "PSV Pvalb Lhx2 Glut_3"
+  },
+  {
+    "class_label": "P Glut",
+    "subclass_label": "PSV Pvalb Lhx2 Glut",
+    "supertype_label": "PSV Pvalb Lhx2 Glut_4"
+  },
+  {
+    "class_label": "P Glut",
+    "subclass_label": "PB-NTS Phox2b Ebf3 Lmx1b Glut",
+    "supertype_label": "PB-NTS Phox2b Ebf3 Lmx1b Glut_1"
+  },
+  {
+    "class_label": "P Glut",
+    "subclass_label": "PB-NTS Phox2b Ebf3 Lmx1b Glut",
+    "supertype_label": "PB-NTS Phox2b Ebf3 Lmx1b Glut_2"
+  },
+  {
+    "class_label": "P Glut",
+    "subclass_label": "PRNr Otp Nfib Glut",
+    "supertype_label": "PRNr Otp Nfib Glut_1"
+  },
+  {
+    "class_label": "P Glut",
+    "subclass_label": "IPN-LDT Vsx2 Nkx6-1 Glut",
+    "supertype_label": "IPN-LDT Vsx2 Nkx6-1 Glut_1"
+  },
+  {
+    "class_label": "P Glut",
+    "subclass_label": "IPN-LDT Vsx2 Nkx6-1 Glut",
+    "supertype_label": "IPN-LDT Vsx2 Nkx6-1 Glut_2"
+  },
+  {
+    "class_label": "P Glut",
+    "subclass_label": "LDT Vsx2 Nkx6-1 Nfib Glut",
+    "supertype_label": "LDT Vsx2 Nkx6-1 Nfib Glut_1"
+  },
+  {
+    "class_label": "P Glut",
+    "subclass_label": "LDT Vsx2 Nkx6-1 Nfib Glut",
+    "supertype_label": "LDT Vsx2 Nkx6-1 Nfib Glut_2"
+  },
+  {
+    "class_label": "P Glut",
+    "subclass_label": "NLL-SOC Spp1 Glut",
+    "supertype_label": "NLL-SOC Spp1 Glut_1"
+  },
+  {
+    "class_label": "P Glut",
+    "subclass_label": "NLL-SOC Spp1 Glut",
+    "supertype_label": "NLL-SOC Spp1 Glut_2"
+  },
+  {
+    "class_label": "P Glut",
+    "subclass_label": "PG-TRN-LRN Fat2 Glut",
+    "supertype_label": "PG-TRN-LRN Fat2 Glut_1"
+  },
+  {
+    "class_label": "MY Glut",
+    "subclass_label": "IRN Vip Glut",
+    "supertype_label": "IRN Vip Glut_1"
+  },
+  {
+    "class_label": "MY Glut",
+    "subclass_label": "PRP-NI-PRNc-GRN Otp Glut",
+    "supertype_label": "PRP-NI-PRNc-GRN Otp Glut_1"
+  },
+  {
+    "class_label": "MY Glut",
+    "subclass_label": "PRP-NI-PRNc-GRN Otp Glut",
+    "supertype_label": "PRP-NI-PRNc-GRN Otp Glut_2"
+  },
+  {
+    "class_label": "MY Glut",
+    "subclass_label": "PRP-NI-PRNc-GRN Otp Glut",
+    "supertype_label": "PRP-NI-PRNc-GRN Otp Glut_3"
+  },
+  {
+    "class_label": "MY Glut",
+    "subclass_label": "PRP-NI-PRNc-GRN Otp Glut",
+    "supertype_label": "PRP-NI-PRNc-GRN Otp Glut_4"
+  },
+  {
+    "class_label": "MY Glut",
+    "subclass_label": "NTS Phox2b Glut",
+    "supertype_label": "NTS Phox2b Glut_1"
+  },
+  {
+    "class_label": "MY Glut",
+    "subclass_label": "NTS Phox2b Glut",
+    "supertype_label": "NTS Phox2b Glut_2"
+  },
+  {
+    "class_label": "MY Glut",
+    "subclass_label": "NTS Phox2b Glut",
+    "supertype_label": "NTS Phox2b Glut_3"
+  },
+  {
+    "class_label": "MY Glut",
+    "subclass_label": "NTS Phox2b Glut",
+    "supertype_label": "NTS Phox2b Glut_4"
+  },
+  {
+    "class_label": "MY Glut",
+    "subclass_label": "NTS Phox2b Glut",
+    "supertype_label": "NTS Phox2b Glut_5"
+  },
+  {
+    "class_label": "MY Glut",
+    "subclass_label": "NTS Phox2b Glut",
+    "supertype_label": "NTS Phox2b Glut_6"
+  },
+  {
+    "class_label": "MY Glut",
+    "subclass_label": "NTS Phox2b Glut",
+    "supertype_label": "NTS Phox2b Glut_7"
+  },
+  {
+    "class_label": "MY Glut",
+    "subclass_label": "NTS Phox2b Glut",
+    "supertype_label": "NTS Phox2b Glut_8"
+  },
+  {
+    "class_label": "MY Glut",
+    "subclass_label": "NTS Phox2b Glut",
+    "supertype_label": "NTS Phox2b Glut_9"
+  },
+  {
+    "class_label": "MY Glut",
+    "subclass_label": "NTS Phox2b Glut",
+    "supertype_label": "NTS Phox2b Glut_10"
+  },
+  {
+    "class_label": "MY Glut",
+    "subclass_label": "MARN-GRN Pyy Glut",
+    "supertype_label": "MARN-GRN Pyy Glut_1"
+  },
+  {
+    "class_label": "MY Glut",
+    "subclass_label": "MDRNv Lhx4 Qrfprl Glut",
+    "supertype_label": "MDRNv Lhx4 Qrfprl Glut_1"
+  },
+  {
+    "class_label": "MY Glut",
+    "subclass_label": "NTS Mbnl3 Glut",
+    "supertype_label": "NTS Mbnl3 Glut_1"
+  },
+  {
+    "class_label": "MY Glut",
+    "subclass_label": "PGRNd Dmbx1 Glut",
+    "supertype_label": "PGRNd Dmbx1 Glut_1"
+  },
+  {
+    "class_label": "MY Glut",
+    "subclass_label": "PGRN-PARN-MDRN Hoxb5 Glut",
+    "supertype_label": "PGRN-PARN-MDRN Hoxb5 Glut_1"
+  },
+  {
+    "class_label": "MY Glut",
+    "subclass_label": "PGRN-PARN-MDRN Hoxb5 Glut",
+    "supertype_label": "PGRN-PARN-MDRN Hoxb5 Glut_2"
+  },
+  {
+    "class_label": "MY Glut",
+    "subclass_label": "PGRN-PARN-MDRN Hoxb5 Glut",
+    "supertype_label": "PGRN-PARN-MDRN Hoxb5 Glut_3"
+  },
+  {
+    "class_label": "MY Glut",
+    "subclass_label": "PGRN-PARN-MDRN Hoxb5 Glut",
+    "supertype_label": "PGRN-PARN-MDRN Hoxb5 Glut_4"
+  },
+  {
+    "class_label": "MY Glut",
+    "subclass_label": "PGRN-PARN-MDRN Hoxb5 Glut",
+    "supertype_label": "PGRN-PARN-MDRN Hoxb5 Glut_5"
+  },
+  {
+    "class_label": "MY Glut",
+    "subclass_label": "PGRN-PARN-MDRN Hoxb5 Glut",
+    "supertype_label": "PGRN-PARN-MDRN Hoxb5 Glut_6"
+  },
+  {
+    "class_label": "MY Glut",
+    "subclass_label": "PGRN-PARN-MDRN Hoxb5 Glut",
+    "supertype_label": "PGRN-PARN-MDRN Hoxb5 Glut_7"
+  },
+  {
+    "class_label": "MY Glut",
+    "subclass_label": "MV-SPIV Slc6a2 Glut",
+    "supertype_label": "MV-SPIV Slc6a2 Glut_1"
+  },
+  {
+    "class_label": "MY Glut",
+    "subclass_label": "SPVI-SPVC Tlx3 Ebf3 Glut",
+    "supertype_label": "SPVI-SPVC Tlx3 Ebf3 Glut_1"
+  },
+  {
+    "class_label": "MY Glut",
+    "subclass_label": "SPVI-SPVC Tlx3 Ebf3 Glut",
+    "supertype_label": "SPVI-SPVC Tlx3 Ebf3 Glut_2"
+  },
+  {
+    "class_label": "MY Glut",
+    "subclass_label": "SPVI-SPVC Tlx3 Ebf3 Glut",
+    "supertype_label": "SPVI-SPVC Tlx3 Ebf3 Glut_3"
+  },
+  {
+    "class_label": "MY Glut",
+    "subclass_label": "SPVI-SPVC Tlx3 Ebf3 Glut",
+    "supertype_label": "SPVI-SPVC Tlx3 Ebf3 Glut_4"
+  },
+  {
+    "class_label": "MY Glut",
+    "subclass_label": "SPVI-SPVC Tlx3 Ebf3 Glut",
+    "supertype_label": "SPVI-SPVC Tlx3 Ebf3 Glut_5"
+  },
+  {
+    "class_label": "MY Glut",
+    "subclass_label": "SPVI-SPVC Tlx3 Ebf3 Glut",
+    "supertype_label": "SPVI-SPVC Tlx3 Ebf3 Glut_6"
+  },
+  {
+    "class_label": "MY Glut",
+    "subclass_label": "SPVI-SPVC Tlx3 Ebf3 Glut",
+    "supertype_label": "SPVI-SPVC Tlx3 Ebf3 Glut_7"
+  },
+  {
+    "class_label": "MY Glut",
+    "subclass_label": "CU-ECU-SPVI Foxb1 Glut",
+    "supertype_label": "CU-ECU-SPVI Foxb1 Glut_1"
+  },
+  {
+    "class_label": "MY Glut",
+    "subclass_label": "CU-ECU-SPVI Foxb1 Glut",
+    "supertype_label": "CU-ECU-SPVI Foxb1 Glut_2"
+  },
+  {
+    "class_label": "MY Glut",
+    "subclass_label": "CU-ECU-SPVI Foxb1 Glut",
+    "supertype_label": "CU-ECU-SPVI Foxb1 Glut_3"
+  },
+  {
+    "class_label": "MY Glut",
+    "subclass_label": "CU-ECU-SPVI Foxb1 Glut",
+    "supertype_label": "CU-ECU-SPVI Foxb1 Glut_4"
+  },
+  {
+    "class_label": "MY Glut",
+    "subclass_label": "MV-SPIV Phox2b Ebf3 Lbx1 Glut",
+    "supertype_label": "MV-SPIV Phox2b Ebf3 Lbx1 Glut_1"
+  },
+  {
+    "class_label": "MY Glut",
+    "subclass_label": "MV-SPIV Phox2b Ebf3 Lbx1 Glut",
+    "supertype_label": "MV-SPIV Phox2b Ebf3 Lbx1 Glut_2"
+  },
+  {
+    "class_label": "MY Glut",
+    "subclass_label": "MV-SPIV Phox2b Ebf3 Lbx1 Glut",
+    "supertype_label": "MV-SPIV Phox2b Ebf3 Lbx1 Glut_3"
+  },
+  {
+    "class_label": "MY Glut",
+    "subclass_label": "MV-SPIV Phox2b Ebf3 Lbx1 Glut",
+    "supertype_label": "MV-SPIV Phox2b Ebf3 Lbx1 Glut_4"
+  },
+  {
+    "class_label": "MY Glut",
+    "subclass_label": "MV-SPIV Phox2b Ebf3 Lbx1 Glut",
+    "supertype_label": "MV-SPIV Phox2b Ebf3 Lbx1 Glut_5"
+  },
+  {
+    "class_label": "MY Glut",
+    "subclass_label": "MV-SPIV Zic4 Neurod2 Glut",
+    "supertype_label": "MV-SPIV Zic4 Neurod2 Glut_1"
+  },
+  {
+    "class_label": "MY Glut",
+    "subclass_label": "MV-SPIV Zic4 Neurod2 Glut",
+    "supertype_label": "MV-SPIV Zic4 Neurod2 Glut_2"
+  },
+  {
+    "class_label": "MY Glut",
+    "subclass_label": "MV-SPIV Zic4 Neurod2 Glut",
+    "supertype_label": "MV-SPIV Zic4 Neurod2 Glut_3"
+  },
+  {
+    "class_label": "MY Glut",
+    "subclass_label": "MV-SPIV Zic4 Neurod2 Glut",
+    "supertype_label": "MV-SPIV Zic4 Neurod2 Glut_4"
+  },
+  {
+    "class_label": "MY Glut",
+    "subclass_label": "MV-SPIV Zic4 Neurod2 Glut",
+    "supertype_label": "MV-SPIV Zic4 Neurod2 Glut_5"
+  },
+  {
+    "class_label": "MY Glut",
+    "subclass_label": "NTS Aldh1a2 Glut",
+    "supertype_label": "NTS Aldh1a2 Glut_1"
+  },
+  {
+    "class_label": "MY Glut",
+    "subclass_label": "CBN Neurod2 Pvalb Glut",
+    "supertype_label": "CBN Neurod2 Pvalb Glut_1"
+  },
+  {
+    "class_label": "MY Glut",
+    "subclass_label": "NTS Dbh Glut",
+    "supertype_label": "NTS Dbh Glut_1"
+  },
+  {
+    "class_label": "MY Glut",
+    "subclass_label": "NTS Dbh Glut",
+    "supertype_label": "NTS Dbh Glut_2"
+  },
+  {
+    "class_label": "MY Glut",
+    "subclass_label": "NTS Dbh Glut",
+    "supertype_label": "NTS Dbh Glut_3"
+  },
+  {
+    "class_label": "MY Glut",
+    "subclass_label": "NTS Dbh Glut",
+    "supertype_label": "NTS Dbh Glut_4"
+  },
+  {
+    "class_label": "MY Glut",
+    "subclass_label": "NTS Dbh Glut",
+    "supertype_label": "NTS Dbh Glut_5"
+  },
+  {
+    "class_label": "MY Glut",
+    "subclass_label": "NTS Dbh Glut",
+    "supertype_label": "NTS Dbh Glut_6"
+  },
+  {
+    "class_label": "MY Glut",
+    "subclass_label": "DMX VII Tbx20 Chol",
+    "supertype_label": "DMX VII Tbx20 Chol_1"
+  },
+  {
+    "class_label": "MY Glut",
+    "subclass_label": "DMX VII Tbx20 Chol",
+    "supertype_label": "DMX VII Tbx20 Chol_2"
+  },
+  {
+    "class_label": "MY Glut",
+    "subclass_label": "IO Fgl2 Glut",
+    "supertype_label": "IO Fgl2 Glut_1"
+  },
+  {
+    "class_label": "MY Glut",
+    "subclass_label": "VCO Mafa Meis2 Glut",
+    "supertype_label": "VCO Mafa Meis2 Glut_1"
+  },
+  {
+    "class_label": "MY Glut",
+    "subclass_label": "VCO Mafa Meis2 Glut",
+    "supertype_label": "VCO Mafa Meis2 Glut_2"
+  },
+  {
+    "class_label": "MY Glut",
+    "subclass_label": "VCO Mafa Meis2 Glut",
+    "supertype_label": "VCO Mafa Meis2 Glut_3"
+  },
+  {
+    "class_label": "MY Glut",
+    "subclass_label": "VCO Mafa Meis2 Glut",
+    "supertype_label": "VCO Mafa Meis2 Glut_4"
+  },
+  {
+    "class_label": "MY Glut",
+    "subclass_label": "SPVO Mafa Meis2 Glut",
+    "supertype_label": "SPVO Mafa Meis2 Glut_1"
+  },
+  {
+    "class_label": "MY Glut",
+    "subclass_label": "SPVC Mafa Glut",
+    "supertype_label": "SPVC Mafa Glut_1"
+  },
+  {
+    "class_label": "MY Glut",
+    "subclass_label": "SPVC Mafa Glut",
+    "supertype_label": "SPVC Mafa Glut_2"
+  },
+  {
+    "class_label": "MY Glut",
+    "subclass_label": "SPVC Ccdc172 Glut",
+    "supertype_label": "SPVC Ccdc172 Glut_1"
+  },
+  {
+    "class_label": "MY Glut",
+    "subclass_label": "SPVC Nmu Glut",
+    "supertype_label": "SPVC Nmu Glut_1"
+  },
+  {
+    "class_label": "MY Glut",
+    "subclass_label": "SPVC Nmu Glut",
+    "supertype_label": "SPVC Nmu Glut_2"
+  },
+  {
+    "class_label": "MY Glut",
+    "subclass_label": "MDRNd Bves Glut",
+    "supertype_label": "MDRNd Bves Glut_1"
+  },
+  {
+    "class_label": "MY Glut",
+    "subclass_label": "MDRNv Crp Glut",
+    "supertype_label": "MDRNv Crp Glut_1"
+  },
+  {
+    "class_label": "MY Glut",
+    "subclass_label": "HB Calcb Chol",
+    "supertype_label": "HB Calcb Chol_1"
+  },
+  {
+    "class_label": "MY Glut",
+    "subclass_label": "HB Calcb Chol",
+    "supertype_label": "HB Calcb Chol_2"
+  },
+  {
+    "class_label": "MY Glut",
+    "subclass_label": "HB Calcb Chol",
+    "supertype_label": "HB Calcb Chol_3"
+  },
+  {
+    "class_label": "MY Glut",
+    "subclass_label": "HB Calcb Chol",
+    "supertype_label": "HB Calcb Chol_4"
+  },
+  {
+    "class_label": "MY Glut",
+    "subclass_label": "HB Calcb Chol",
+    "supertype_label": "HB Calcb Chol_5"
+  },
+  {
+    "class_label": "Pineal Glut",
+    "subclass_label": "Pineal Crx Glut",
+    "supertype_label": "Pineal Crx Glut_1"
+  },
+  {
+    "class_label": "P GABA",
+    "subclass_label": "CS-RPO Meis2 Gaba",
+    "supertype_label": "CS-RPO Meis2 Gaba_1"
+  },
+  {
+    "class_label": "P GABA",
+    "subclass_label": "CS-RPO Meis2 Gaba",
+    "supertype_label": "CS-RPO Meis2 Gaba_2"
+  },
+  {
+    "class_label": "P GABA",
+    "subclass_label": "CS-RPO Meis2 Gaba",
+    "supertype_label": "CS-RPO Meis2 Gaba_3"
+  },
+  {
+    "class_label": "P GABA",
+    "subclass_label": "CS-RPO Meis2 Gaba",
+    "supertype_label": "CS-RPO Meis2 Gaba_4"
+  },
+  {
+    "class_label": "P GABA",
+    "subclass_label": "CS-RPO Meis2 Gaba",
+    "supertype_label": "CS-RPO Meis2 Gaba_5"
+  },
+  {
+    "class_label": "P GABA",
+    "subclass_label": "PRNc Otp Gly-Gaba",
+    "supertype_label": "PRNc Otp Gly-Gaba_1"
+  },
+  {
+    "class_label": "P GABA",
+    "subclass_label": "PRNc Otp Gly-Gaba",
+    "supertype_label": "PRNc Otp Gly-Gaba_2"
+  },
+  {
+    "class_label": "P GABA",
+    "subclass_label": "PRNc Otp Gly-Gaba",
+    "supertype_label": "PRNc Otp Gly-Gaba_3"
+  },
+  {
+    "class_label": "P GABA",
+    "subclass_label": "PRNc Otp Gly-Gaba",
+    "supertype_label": "PRNc Otp Gly-Gaba_4"
+  },
+  {
+    "class_label": "P GABA",
+    "subclass_label": "PRNc Otp Gly-Gaba",
+    "supertype_label": "PRNc Otp Gly-Gaba_5"
+  },
+  {
+    "class_label": "P GABA",
+    "subclass_label": "PB Sst Gly-Gaba",
+    "supertype_label": "PB Sst Gly-Gaba_1"
+  },
+  {
+    "class_label": "P GABA",
+    "subclass_label": "PB Sst Gly-Gaba",
+    "supertype_label": "PB Sst Gly-Gaba_2"
+  },
+  {
+    "class_label": "P GABA",
+    "subclass_label": "PRNc Prox1 Brs3 Gly-Gaba",
+    "supertype_label": "PRNc Prox1 Brs3 Gly-Gaba_1"
+  },
+  {
+    "class_label": "P GABA",
+    "subclass_label": "CS-PRNr-DR En1 Sox2 Gaba",
+    "supertype_label": "CS-PRNr-DR En1 Sox2 Gaba_1"
+  },
+  {
+    "class_label": "P GABA",
+    "subclass_label": "CS-PRNr-DR En1 Sox2 Gaba",
+    "supertype_label": "CS-PRNr-DR En1 Sox2 Gaba_2"
+  },
+  {
+    "class_label": "P GABA",
+    "subclass_label": "LDT Fgf7 Gaba",
+    "supertype_label": "LDT Fgf7 Gaba_1"
+  },
+  {
+    "class_label": "P GABA",
+    "subclass_label": "NI-RPO Gata3 Nr4a2 Gaba",
+    "supertype_label": "NI-RPO Gata3 Nr4a2 Gaba_1"
+  },
+  {
+    "class_label": "P GABA",
+    "subclass_label": "NI-RPO Gata3 Nr4a2 Gaba",
+    "supertype_label": "NI-RPO Gata3 Nr4a2 Gaba_2"
+  },
+  {
+    "class_label": "P GABA",
+    "subclass_label": "NI-RPO Gata3 Nr4a2 Gaba",
+    "supertype_label": "NI-RPO Gata3 Nr4a2 Gaba_3"
+  },
+  {
+    "class_label": "P GABA",
+    "subclass_label": "NI-RPO Gata3 Nr4a2 Gaba",
+    "supertype_label": "NI-RPO Gata3 Nr4a2 Gaba_4"
+  },
+  {
+    "class_label": "P GABA",
+    "subclass_label": "LDT-PCG-CS Gata3 Lhx1 Gaba",
+    "supertype_label": "LDT-PCG-CS Gata3 Lhx1 Gaba_1"
+  },
+  {
+    "class_label": "P GABA",
+    "subclass_label": "LDT-PCG-CS Gata3 Lhx1 Gaba",
+    "supertype_label": "LDT-PCG-CS Gata3 Lhx1 Gaba_2"
+  },
+  {
+    "class_label": "P GABA",
+    "subclass_label": "LDT-PCG-CS Gata3 Lhx1 Gaba",
+    "supertype_label": "LDT-PCG-CS Gata3 Lhx1 Gaba_3"
+  },
+  {
+    "class_label": "P GABA",
+    "subclass_label": "LDT-PCG-CS Gata3 Lhx1 Gaba",
+    "supertype_label": "LDT-PCG-CS Gata3 Lhx1 Gaba_4"
+  },
+  {
+    "class_label": "P GABA",
+    "subclass_label": "LDT-PCG-CS Gata3 Lhx1 Gaba",
+    "supertype_label": "LDT-PCG-CS Gata3 Lhx1 Gaba_5"
+  },
+  {
+    "class_label": "P GABA",
+    "subclass_label": "PDTg-PCG Pax6 Gaba",
+    "supertype_label": "PDTg-PCG Pax6 Gaba_1"
+  },
+  {
+    "class_label": "P GABA",
+    "subclass_label": "PDTg-PCG Pax6 Gaba",
+    "supertype_label": "PDTg-PCG Pax6 Gaba_2"
+  },
+  {
+    "class_label": "P GABA",
+    "subclass_label": "PDTg-PCG Pax6 Gaba",
+    "supertype_label": "PDTg-PCG Pax6 Gaba_3"
+  },
+  {
+    "class_label": "P GABA",
+    "subclass_label": "PDTg-PCG Pax6 Gaba",
+    "supertype_label": "PDTg-PCG Pax6 Gaba_4"
+  },
+  {
+    "class_label": "P GABA",
+    "subclass_label": "PDTg Otp Shroom3 Gaba",
+    "supertype_label": "PDTg Otp Shroom3 Gaba_1"
+  },
+  {
+    "class_label": "P GABA",
+    "subclass_label": "PDTg Otp Olig3 Gaba",
+    "supertype_label": "PDTg Otp Olig3 Gaba_1"
+  },
+  {
+    "class_label": "P GABA",
+    "subclass_label": "LDT-PCG St18 Gaba",
+    "supertype_label": "LDT-PCG St18 Gaba_1"
+  },
+  {
+    "class_label": "P GABA",
+    "subclass_label": "LDT-PCG St18 Gaba",
+    "supertype_label": "LDT-PCG St18 Gaba_2"
+  },
+  {
+    "class_label": "P GABA",
+    "subclass_label": "DTN-LDT-IPN Otp Pax3 Gaba",
+    "supertype_label": "DTN-LDT-IPN Otp Pax3 Gaba_1"
+  },
+  {
+    "class_label": "P GABA",
+    "subclass_label": "DTN-LDT-IPN Otp Pax3 Gaba",
+    "supertype_label": "DTN-LDT-IPN Otp Pax3 Gaba_2"
+  },
+  {
+    "class_label": "P GABA",
+    "subclass_label": "DTN-LDT-IPN Otp Pax3 Gaba",
+    "supertype_label": "DTN-LDT-IPN Otp Pax3 Gaba_3"
+  },
+  {
+    "class_label": "P GABA",
+    "subclass_label": "DTN-LDT-IPN Otp Pax3 Gaba",
+    "supertype_label": "DTN-LDT-IPN Otp Pax3 Gaba_4"
+  },
+  {
+    "class_label": "P GABA",
+    "subclass_label": "DTN-LDT-IPN Otp Pax3 Gaba",
+    "supertype_label": "DTN-LDT-IPN Otp Pax3 Gaba_5"
+  },
+  {
+    "class_label": "P GABA",
+    "subclass_label": "NLL Gata3 Gly-Gaba",
+    "supertype_label": "NLL Gata3 Gly-Gaba_1"
+  },
+  {
+    "class_label": "P GABA",
+    "subclass_label": "NLL Gata3 Gly-Gaba",
+    "supertype_label": "NLL Gata3 Gly-Gaba_2"
+  },
+  {
+    "class_label": "P GABA",
+    "subclass_label": "NLL Gata3 Gly-Gaba",
+    "supertype_label": "NLL Gata3 Gly-Gaba_3"
+  },
+  {
+    "class_label": "P GABA",
+    "subclass_label": "NLL Gata3 Gly-Gaba",
+    "supertype_label": "NLL Gata3 Gly-Gaba_4"
+  },
+  {
+    "class_label": "P GABA",
+    "subclass_label": "PSV Pax2 Gly-Gaba",
+    "supertype_label": "PSV Pax2 Gly-Gaba_1"
+  },
+  {
+    "class_label": "P GABA",
+    "subclass_label": "PSV Pax2 Gly-Gaba",
+    "supertype_label": "PSV Pax2 Gly-Gaba_2"
+  },
+  {
+    "class_label": "P GABA",
+    "subclass_label": "NLL-po Pax7 Gaba",
+    "supertype_label": "NLL-po Pax7 Gaba_1"
+  },
+  {
+    "class_label": "P GABA",
+    "subclass_label": "POR Gata3 Gly-Gaba",
+    "supertype_label": "POR Gata3 Gly-Gaba_1"
+  },
+  {
+    "class_label": "P GABA",
+    "subclass_label": "POR Spp1 Gly-Gaba",
+    "supertype_label": "POR Spp1 Gly-Gaba_1"
+  },
+  {
+    "class_label": "MY GABA",
+    "subclass_label": "PRP Otp Gly-Gaba",
+    "supertype_label": "PRP Otp Gly-Gaba_1"
+  },
+  {
+    "class_label": "MY GABA",
+    "subclass_label": "PRP Otp Gly-Gaba",
+    "supertype_label": "PRP Otp Gly-Gaba_2"
+  },
+  {
+    "class_label": "MY GABA",
+    "subclass_label": "PRP Otp Gly-Gaba",
+    "supertype_label": "PRP Otp Gly-Gaba_3"
+  },
+  {
+    "class_label": "MY GABA",
+    "subclass_label": "PRP Otp Gly-Gaba",
+    "supertype_label": "PRP Otp Gly-Gaba_4"
+  },
+  {
+    "class_label": "MY GABA",
+    "subclass_label": "PRP Otp Gly-Gaba",
+    "supertype_label": "PRP Otp Gly-Gaba_5"
+  },
+  {
+    "class_label": "MY GABA",
+    "subclass_label": "GRN-IRN-MDRNd Ikzf1 Gly-Gaba",
+    "supertype_label": "GRN-IRN-MDRNd Ikzf1 Gly-Gaba_1"
+  },
+  {
+    "class_label": "MY GABA",
+    "subclass_label": "MY Lhx1 Gly-Gaba",
+    "supertype_label": "MY Lhx1 Gly-Gaba_1"
+  },
+  {
+    "class_label": "MY GABA",
+    "subclass_label": "MY Lhx1 Gly-Gaba",
+    "supertype_label": "MY Lhx1 Gly-Gaba_2"
+  },
+  {
+    "class_label": "MY GABA",
+    "subclass_label": "MY Lhx1 Gly-Gaba",
+    "supertype_label": "MY Lhx1 Gly-Gaba_3"
+  },
+  {
+    "class_label": "MY GABA",
+    "subclass_label": "MY Lhx1 Gly-Gaba",
+    "supertype_label": "MY Lhx1 Gly-Gaba_4"
+  },
+  {
+    "class_label": "MY GABA",
+    "subclass_label": "MY Lhx1 Gly-Gaba",
+    "supertype_label": "MY Lhx1 Gly-Gaba_5"
+  },
+  {
+    "class_label": "MY GABA",
+    "subclass_label": "MY Lhx1 Gly-Gaba",
+    "supertype_label": "MY Lhx1 Gly-Gaba_6"
+  },
+  {
+    "class_label": "MY GABA",
+    "subclass_label": "MY Lhx1 Gly-Gaba",
+    "supertype_label": "MY Lhx1 Gly-Gaba_7"
+  },
+  {
+    "class_label": "MY GABA",
+    "subclass_label": "MY Lhx1 Gly-Gaba",
+    "supertype_label": "MY Lhx1 Gly-Gaba_8"
+  },
+  {
+    "class_label": "MY GABA",
+    "subclass_label": "MY Lhx1 Gly-Gaba",
+    "supertype_label": "MY Lhx1 Gly-Gaba_9"
+  },
+  {
+    "class_label": "MY GABA",
+    "subclass_label": "PPY-PGRNl Vip Glyc-Gaba",
+    "supertype_label": "PPY-PGRNl Vip Glyc-Gaba_1"
+  },
+  {
+    "class_label": "MY GABA",
+    "subclass_label": "MV-SPIV-PRP Dmbx1 Gly-Gaba",
+    "supertype_label": "MV-SPIV-PRP Dmbx1 Gly-Gaba_1"
+  },
+  {
+    "class_label": "MY GABA",
+    "subclass_label": "MV-SPIV-PRP Dmbx1 Gly-Gaba",
+    "supertype_label": "MV-SPIV-PRP Dmbx1 Gly-Gaba_2"
+  },
+  {
+    "class_label": "MY GABA",
+    "subclass_label": "MV-SPIV-PRP Dmbx1 Gly-Gaba",
+    "supertype_label": "MV-SPIV-PRP Dmbx1 Gly-Gaba_3"
+  },
+  {
+    "class_label": "MY GABA",
+    "subclass_label": "MDRN Hoxb5 Ebf2 Gly-Gaba",
+    "supertype_label": "MDRN Hoxb5 Ebf2 Gly-Gaba_1"
+  },
+  {
+    "class_label": "MY GABA",
+    "subclass_label": "MDRNd Prox1 Pax6 Gly-Gaba",
+    "supertype_label": "MDRNd Prox1 Pax6 Gly-Gaba_1"
+  },
+  {
+    "class_label": "MY GABA",
+    "subclass_label": "MY Prox1 Lmo7 Gly-Gaba",
+    "supertype_label": "MY Prox1 Lmo7 Gly-Gaba_1"
+  },
+  {
+    "class_label": "MY GABA",
+    "subclass_label": "NTS-MDRNd Prox1 Zic1 Gly-Gaba",
+    "supertype_label": "NTS-MDRNd Prox1 Zic1 Gly-Gaba_1"
+  },
+  {
+    "class_label": "MY GABA",
+    "subclass_label": "NTS-MDRNd Prox1 Zic1 Gly-Gaba",
+    "supertype_label": "NTS-MDRNd Prox1 Zic1 Gly-Gaba_2"
+  },
+  {
+    "class_label": "MY GABA",
+    "subclass_label": "MV Nkx6-1 Gly-Gaba",
+    "supertype_label": "MV Nkx6-1 Gly-Gaba_1"
+  },
+  {
+    "class_label": "MY GABA",
+    "subclass_label": "MV Nkx6-1 Gly-Gaba",
+    "supertype_label": "MV Nkx6-1 Gly-Gaba_2"
+  },
+  {
+    "class_label": "MY GABA",
+    "subclass_label": "PAS-MV Ebf2 Gly-Gaba",
+    "supertype_label": "PAS-MV Ebf2 Gly-Gaba_1"
+  },
+  {
+    "class_label": "MY GABA",
+    "subclass_label": "PAS-MV Ebf2 Gly-Gaba",
+    "supertype_label": "PAS-MV Ebf2 Gly-Gaba_2"
+  },
+  {
+    "class_label": "MY GABA",
+    "subclass_label": "PAS-MV Ebf2 Gly-Gaba",
+    "supertype_label": "PAS-MV Ebf2 Gly-Gaba_3"
+  },
+  {
+    "class_label": "MY GABA",
+    "subclass_label": "PAS-MV Ebf2 Gly-Gaba",
+    "supertype_label": "PAS-MV Ebf2 Gly-Gaba_4"
+  },
+  {
+    "class_label": "MY GABA",
+    "subclass_label": "MV Pax6 Gly-Gaba",
+    "supertype_label": "MV Pax6 Gly-Gaba_1"
+  },
+  {
+    "class_label": "MY GABA",
+    "subclass_label": "MV Pax6 Gly-Gaba",
+    "supertype_label": "MV Pax6 Gly-Gaba_2"
+  },
+  {
+    "class_label": "MY GABA",
+    "subclass_label": "CBN Dmbx1 Gaba",
+    "supertype_label": "CBN Dmbx1 Gaba_1"
+  },
+  {
+    "class_label": "MY GABA",
+    "subclass_label": "RPA Pax6 Hoxb5 Gly-Gaba",
+    "supertype_label": "RPA Pax6 Hoxb5 Gly-Gaba_1"
+  },
+  {
+    "class_label": "MY GABA",
+    "subclass_label": "CU-ECU Pax2 Gly-Gaba",
+    "supertype_label": "CU-ECU Pax2 Gly-Gaba_1"
+  },
+  {
+    "class_label": "MY GABA",
+    "subclass_label": "PRP Gata3 Slc6a5 Gly-Gaba",
+    "supertype_label": "PRP Gata3 Slc6a5 Gly-Gaba_1"
+  },
+  {
+    "class_label": "MY GABA",
+    "subclass_label": "MARN-PPY Ngfr Gly-Gaba",
+    "supertype_label": "MARN-PPY Ngfr Gly-Gaba_1"
+  },
+  {
+    "class_label": "MY GABA",
+    "subclass_label": "PARN-MDRNd-NTS Gbx2 Gly-Gaba",
+    "supertype_label": "PARN-MDRNd-NTS Gbx2 Gly-Gaba_1"
+  },
+  {
+    "class_label": "MY GABA",
+    "subclass_label": "PARN-MDRNd-NTS Gbx2 Gly-Gaba",
+    "supertype_label": "PARN-MDRNd-NTS Gbx2 Gly-Gaba_2"
+  },
+  {
+    "class_label": "MY GABA",
+    "subclass_label": "PARN-MDRNd-NTS Gbx2 Gly-Gaba",
+    "supertype_label": "PARN-MDRNd-NTS Gbx2 Gly-Gaba_3"
+  },
+  {
+    "class_label": "MY GABA",
+    "subclass_label": "PARN-MDRNd-NTS Gbx2 Gly-Gaba",
+    "supertype_label": "PARN-MDRNd-NTS Gbx2 Gly-Gaba_4"
+  },
+  {
+    "class_label": "MY GABA",
+    "subclass_label": "PARN-MDRNd-NTS Gbx2 Gly-Gaba",
+    "supertype_label": "PARN-MDRNd-NTS Gbx2 Gly-Gaba_5"
+  },
+  {
+    "class_label": "MY GABA",
+    "subclass_label": "PARN-MDRNd-NTS Gbx2 Gly-Gaba",
+    "supertype_label": "PARN-MDRNd-NTS Gbx2 Gly-Gaba_6"
+  },
+  {
+    "class_label": "MY GABA",
+    "subclass_label": "PARN-MDRNd-NTS Gbx2 Gly-Gaba",
+    "supertype_label": "PARN-MDRNd-NTS Gbx2 Gly-Gaba_7"
+  },
+  {
+    "class_label": "MY GABA",
+    "subclass_label": "MV Nr4a2 Gly-Gaba",
+    "supertype_label": "MV Nr4a2 Gly-Gaba_1"
+  },
+  {
+    "class_label": "MY GABA",
+    "subclass_label": "MV Xdh Gly-Gaba",
+    "supertype_label": "MV Xdh Gly-Gaba_1"
+  },
+  {
+    "class_label": "MY GABA",
+    "subclass_label": "IRN Dmbx1 Pax2 Gly-Gaba",
+    "supertype_label": "IRN Dmbx1 Pax2 Gly-Gaba_1"
+  },
+  {
+    "class_label": "MY GABA",
+    "subclass_label": "NTS-PARN Neurod2 Gly-Gaba",
+    "supertype_label": "NTS-PARN Neurod2 Gly-Gaba_1"
+  },
+  {
+    "class_label": "MY GABA",
+    "subclass_label": "NTS-PARN Neurod2 Gly-Gaba",
+    "supertype_label": "NTS-PARN Neurod2 Gly-Gaba_2"
+  },
+  {
+    "class_label": "MY GABA",
+    "subclass_label": "NTS-PARN Neurod2 Gly-Gaba",
+    "supertype_label": "NTS-PARN Neurod2 Gly-Gaba_3"
+  },
+  {
+    "class_label": "MY GABA",
+    "subclass_label": "NTS-PARN Neurod2 Gly-Gaba",
+    "supertype_label": "NTS-PARN Neurod2 Gly-Gaba_4"
+  },
+  {
+    "class_label": "MY GABA",
+    "subclass_label": "NTS-PARN Neurod2 Gly-Gaba",
+    "supertype_label": "NTS-PARN Neurod2 Gly-Gaba_5"
+  },
+  {
+    "class_label": "MY GABA",
+    "subclass_label": "NTS-PARN Neurod2 Gly-Gaba",
+    "supertype_label": "NTS-PARN Neurod2 Gly-Gaba_6"
+  },
+  {
+    "class_label": "MY GABA",
+    "subclass_label": "SPVI-SPVC Sall3 Nfib Gly-Gaba",
+    "supertype_label": "SPVI-SPVC Sall3 Nfib Gly-Gaba_1"
+  },
+  {
+    "class_label": "MY GABA",
+    "subclass_label": "SPVI-SPVC Sall3 Nfib Gly-Gaba",
+    "supertype_label": "SPVI-SPVC Sall3 Nfib Gly-Gaba_2"
+  },
+  {
+    "class_label": "MY GABA",
+    "subclass_label": "SPVI-SPVC Sall3 Lhx1 Gly-Gaba",
+    "supertype_label": "SPVI-SPVC Sall3 Lhx1 Gly-Gaba_1"
+  },
+  {
+    "class_label": "MY GABA",
+    "subclass_label": "SPVI-SPVC Sall3 Lhx1 Gly-Gaba",
+    "supertype_label": "SPVI-SPVC Sall3 Lhx1 Gly-Gaba_2"
+  },
+  {
+    "class_label": "MY GABA",
+    "subclass_label": "RO-RPA Pkd2l1 Gaba",
+    "supertype_label": "RO-RPA Pkd2l1 Gaba_1"
+  },
+  {
+    "class_label": "CB GABA",
+    "subclass_label": "DCO Il22 Gly-Gaba",
+    "supertype_label": "DCO Il22 Gly-Gaba_1"
+  },
+  {
+    "class_label": "CB GABA",
+    "subclass_label": "DCO Il22 Gly-Gaba",
+    "supertype_label": "DCO Il22 Gly-Gaba_2"
+  },
+  {
+    "class_label": "CB GABA",
+    "subclass_label": "DCO Il22 Gly-Gaba",
+    "supertype_label": "DCO Il22 Gly-Gaba_3"
+  },
+  {
+    "class_label": "CB GABA",
+    "subclass_label": "CB PLI Gly-Gaba",
+    "supertype_label": "CB PLI Gly-Gaba_1"
+  },
+  {
+    "class_label": "CB GABA",
+    "subclass_label": "CB PLI Gly-Gaba",
+    "supertype_label": "CB PLI Gly-Gaba_2"
+  },
+  {
+    "class_label": "CB GABA",
+    "subclass_label": "CB PLI Gly-Gaba",
+    "supertype_label": "CB PLI Gly-Gaba_3"
+  },
+  {
+    "class_label": "CB GABA",
+    "subclass_label": "CB PLI Gly-Gaba",
+    "supertype_label": "CB PLI Gly-Gaba_4"
+  },
+  {
+    "class_label": "CB GABA",
+    "subclass_label": "CBX Golgi Gly-Gaba",
+    "supertype_label": "CBX Golgi Gly-Gaba_1"
+  },
+  {
+    "class_label": "CB GABA",
+    "subclass_label": "CBX MLI Megf11 Gaba",
+    "supertype_label": "CBX MLI Megf11 Gaba_1"
+  },
+  {
+    "class_label": "CB GABA",
+    "subclass_label": "CBX MLI Megf11 Gaba",
+    "supertype_label": "CBX MLI Megf11 Gaba_2"
+  },
+  {
+    "class_label": "CB GABA",
+    "subclass_label": "CBX MLI Cdh22 Gaba",
+    "supertype_label": "CBX MLI Cdh22 Gaba_1"
+  },
+  {
+    "class_label": "CB GABA",
+    "subclass_label": "CBX Purkinje Gaba",
+    "supertype_label": "CBX Purkinje Gaba_1"
+  },
+  {
+    "class_label": "CB GABA",
+    "subclass_label": "CBX Purkinje Gaba",
+    "supertype_label": "CBX Purkinje Gaba_2"
+  },
+  {
+    "class_label": "CB Glut",
+    "subclass_label": "CB Granule Glut",
+    "supertype_label": "CB Granule Glut_1"
+  },
+  {
+    "class_label": "CB Glut",
+    "subclass_label": "CB Granule Glut",
+    "supertype_label": "CB Granule Glut_2"
+  },
+  {
+    "class_label": "CB Glut",
+    "subclass_label": "DCO UBC Glut",
+    "supertype_label": "DCO UBC Glut_1"
+  },
+  {
+    "class_label": "Astro-Epen",
+    "subclass_label": "Bergmann NN",
+    "supertype_label": "Bergmann NN_1"
+  },
+  {
+    "class_label": "Astro-Epen",
+    "subclass_label": "Astro-CB NN",
+    "supertype_label": "Astro-CB NN_1"
+  },
+  {
+    "class_label": "Astro-Epen",
+    "subclass_label": "Astro-NT NN",
+    "supertype_label": "Astro-NT NN_1"
+  },
+  {
+    "class_label": "Astro-Epen",
+    "subclass_label": "Astro-NT NN",
+    "supertype_label": "Astro-NT NN_2"
+  },
+  {
+    "class_label": "Astro-Epen",
+    "subclass_label": "Astro-TE NN",
+    "supertype_label": "Astro-TE NN_1"
+  },
+  {
+    "class_label": "Astro-Epen",
+    "subclass_label": "Astro-TE NN",
+    "supertype_label": "Astro-TE NN_2"
+  },
+  {
+    "class_label": "Astro-Epen",
+    "subclass_label": "Astro-TE NN",
+    "supertype_label": "Astro-TE NN_3"
+  },
+  {
+    "class_label": "Astro-Epen",
+    "subclass_label": "Astro-TE NN",
+    "supertype_label": "Astro-TE NN_4"
+  },
+  {
+    "class_label": "Astro-Epen",
+    "subclass_label": "Astro-TE NN",
+    "supertype_label": "Astro-TE NN_5"
+  },
+  {
+    "class_label": "Astro-Epen",
+    "subclass_label": "Astro-OLF NN",
+    "supertype_label": "Astro-OLF NN_1"
+  },
+  {
+    "class_label": "Astro-Epen",
+    "subclass_label": "Astro-OLF NN",
+    "supertype_label": "Astro-OLF NN_2"
+  },
+  {
+    "class_label": "Astro-Epen",
+    "subclass_label": "Astro-OLF NN",
+    "supertype_label": "Astro-OLF NN_3"
+  },
+  {
+    "class_label": "Astro-Epen",
+    "subclass_label": "Astroependymal NN",
+    "supertype_label": "Astroependymal NN_1"
+  },
+  {
+    "class_label": "Astro-Epen",
+    "subclass_label": "Astroependymal NN",
+    "supertype_label": "Astroependymal NN_2"
+  },
+  {
+    "class_label": "Astro-Epen",
+    "subclass_label": "Astroependymal NN",
+    "supertype_label": "Astroependymal NN_3"
+  },
+  {
+    "class_label": "Astro-Epen",
+    "subclass_label": "Tanycyte NN",
+    "supertype_label": "Tanycyte NN_1"
+  },
+  {
+    "class_label": "Astro-Epen",
+    "subclass_label": "Tanycyte NN",
+    "supertype_label": "Tanycyte NN_2"
+  },
+  {
+    "class_label": "Astro-Epen",
+    "subclass_label": "Tanycyte NN",
+    "supertype_label": "Tanycyte NN_3"
+  },
+  {
+    "class_label": "Astro-Epen",
+    "subclass_label": "Ependymal NN",
+    "supertype_label": "Ependymal NN_1"
+  },
+  {
+    "class_label": "Astro-Epen",
+    "subclass_label": "Ependymal NN",
+    "supertype_label": "Ependymal NN_2"
+  },
+  {
+    "class_label": "Astro-Epen",
+    "subclass_label": "Hypendymal NN",
+    "supertype_label": "Hypendymal NN_1"
+  },
+  {
+    "class_label": "Astro-Epen",
+    "subclass_label": "CHOR NN",
+    "supertype_label": "CHOR NN_1"
+  },
+  {
+    "class_label": "OPC-Oligo",
+    "subclass_label": "OPC NN",
+    "supertype_label": "OPC NN_1"
+  },
+  {
+    "class_label": "OPC-Oligo",
+    "subclass_label": "OPC NN",
+    "supertype_label": "OPC NN_2"
+  },
+  {
+    "class_label": "OPC-Oligo",
+    "subclass_label": "Oligo NN",
+    "supertype_label": "COP NN_1"
+  },
+  {
+    "class_label": "OPC-Oligo",
+    "subclass_label": "Oligo NN",
+    "supertype_label": "NFOL NN_2"
+  },
+  {
+    "class_label": "OPC-Oligo",
+    "subclass_label": "Oligo NN",
+    "supertype_label": "MFOL NN_3"
+  },
+  {
+    "class_label": "OPC-Oligo",
+    "subclass_label": "Oligo NN",
+    "supertype_label": "MOL NN_4"
+  },
+  {
+    "class_label": "OEC",
+    "subclass_label": "OEC NN",
+    "supertype_label": "OEC NN_1"
+  },
+  {
+    "class_label": "Vascular",
+    "subclass_label": "ABC NN",
+    "supertype_label": "ABC NN_1"
+  },
+  {
+    "class_label": "Vascular",
+    "subclass_label": "VLMC NN",
+    "supertype_label": "VLMC NN_1"
+  },
+  {
+    "class_label": "Vascular",
+    "subclass_label": "VLMC NN",
+    "supertype_label": "VLMC NN_2"
+  },
+  {
+    "class_label": "Vascular",
+    "subclass_label": "VLMC NN",
+    "supertype_label": "VLMC NN_3"
+  },
+  {
+    "class_label": "Vascular",
+    "subclass_label": "VLMC NN",
+    "supertype_label": "VLMC NN_4"
+  },
+  {
+    "class_label": "Vascular",
+    "subclass_label": "Peri NN",
+    "supertype_label": "Peri NN_1"
+  },
+  {
+    "class_label": "Vascular",
+    "subclass_label": "SMC NN",
+    "supertype_label": "SMC NN_1"
+  },
+  {
+    "class_label": "Vascular",
+    "subclass_label": "Endo NN",
+    "supertype_label": "Endo NN_1"
+  },
+  {
+    "class_label": "Immune",
+    "subclass_label": "Microglia NN",
+    "supertype_label": "Microglia NN_1"
+  },
+  {
+    "class_label": "Immune",
+    "subclass_label": "BAM NN",
+    "supertype_label": "BAM NN_1"
+  },
+  {
+    "class_label": "Immune",
+    "subclass_label": "Monocytes NN",
+    "supertype_label": "Monocytes NN_1"
+  },
+  {
+    "class_label": "Immune",
+    "subclass_label": "DC NN",
+    "supertype_label": "DC NN_1"
+  },
+  {
+    "class_label": "Immune",
+    "subclass_label": "Lymphoid NN",
+    "supertype_label": "B cells NN_1"
+  },
+  {
+    "class_label": "Immune",
+    "subclass_label": "Lymphoid NN",
+    "supertype_label": "ILC NN_2"
+  },
+  {
+    "class_label": "Immune",
+    "subclass_label": "Lymphoid NN",
+    "supertype_label": "NK cells NN_3"
+  },
+  {
+    "class_label": "Immune",
+    "subclass_label": "Lymphoid NN",
+    "supertype_label": "T cells NN_4"
+  }
+]

@@ -1,0 +1,874 @@
+class_label,subclass_label,supertype_label
+IT-ET Glut,CLA-EPd-CTX Car3 Glut,CLA-EPd-CTX Car3 Glut_1
+IT-ET Glut,CLA-EPd-CTX Car3 Glut,CLA-EPd-CTX Car3 Glut_2
+IT-ET Glut,IT EP-CLA Glut,IT EP-CLA Glut_1
+IT-ET Glut,IT EP-CLA Glut,IT EP-CLA Glut_2
+IT-ET Glut,IT EP-CLA Glut,IT EP-CLA Glut_3
+IT-ET Glut,IT EP-CLA Glut,IT EP-CLA Glut_4
+IT-ET Glut,L6 IT CTX Glut,L6 IT CTX Glut_1
+IT-ET Glut,L6 IT CTX Glut,L6 IT CTX Glut_2
+IT-ET Glut,L6 IT CTX Glut,L6 IT CTX Glut_3
+IT-ET Glut,L6 IT CTX Glut,L6 IT CTX Glut_4
+IT-ET Glut,L6 IT CTX Glut,L6 IT CTX Glut_5
+IT-ET Glut,L5 IT CTX Glut,L5 IT CTX Glut_1
+IT-ET Glut,L5 IT CTX Glut,L5 IT CTX Glut_2
+IT-ET Glut,L5 IT CTX Glut,L5 IT CTX Glut_3
+IT-ET Glut,L5 IT CTX Glut,L5 IT CTX Glut_4
+IT-ET Glut,L5 IT CTX Glut,L5 IT CTX Glut_5
+IT-ET Glut,IT AON-TT-DP Glut,IT AON-TT-DP Glut_1
+IT-ET Glut,IT AON-TT-DP Glut,IT AON-TT-DP Glut_2
+IT-ET Glut,IT AON-TT-DP Glut,IT AON-TT-DP Glut_3
+IT-ET Glut,IT AON-TT-DP Glut,IT AON-TT-DP Glut_4
+IT-ET Glut,IT AON-TT-DP Glut,IT AON-TT-DP Glut_5
+IT-ET Glut,L2 IT ENT-po Glut,L2 IT ENT-po Glut_2
+IT-ET Glut,L2 IT ENT-po Glut,L2 IT ENT-po Glut_3
+IT-ET Glut,L2 IT ENT-po Glut,L2 IT ENT-po Glut_4
+IT-ET Glut,MEA Slc17a7 Glut,MEA Slc17a7 Glut_1
+IT-ET Glut,MEA Slc17a7 Glut,MEA Slc17a7 Glut_2
+IT-ET Glut,MEA Slc17a7 Glut,MEA Slc17a7 Glut_3
+IT-ET Glut,COAp Grxcr2 Glut,COAp Grxcr2 Glut_1
+IT-ET Glut,COAp Grxcr2 Glut,COAp Grxcr2 Glut_2
+IT-ET Glut,LA-BLA-BMA-PA Glut,LA-BLA-BMA-PA Glut_1
+IT-ET Glut,LA-BLA-BMA-PA Glut,LA-BLA-BMA-PA Glut_2
+IT-ET Glut,LA-BLA-BMA-PA Glut,LA-BLA-BMA-PA Glut_3
+IT-ET Glut,LA-BLA-BMA-PA Glut,LA-BLA-BMA-PA Glut_4
+IT-ET Glut,LA-BLA-BMA-PA Glut,LA-BLA-BMA-PA Glut_5
+IT-ET Glut,LA-BLA-BMA-PA Glut,LA-BLA-BMA-PA Glut_6
+IT-ET Glut,ENTmv-PA-COAp Glut,ENTmv-PA-COAp Glut_1
+IT-ET Glut,ENTmv-PA-COAp Glut,ENTmv-PA-COAp Glut_2
+IT-ET Glut,ENTmv-PA-COAp Glut,ENTmv-PA-COAp Glut_3
+IT-ET Glut,CA1-ProS Glut,CA1-ProS Glut_1
+IT-ET Glut,CA1-ProS Glut,CA1-ProS Glut_2
+IT-ET Glut,CA1-ProS Glut,CA1-ProS Glut_3
+IT-ET Glut,CA1-ProS Glut,CA1-ProS Glut_4
+IT-ET Glut,CA1-ProS Glut,CA1-ProS Glut_5
+IT-ET Glut,CA1-ProS Glut,CA1-ProS Glut_6
+IT-ET Glut,CA3 Glut,CA3 Glut_1
+IT-ET Glut,CA3 Glut,CA3 Glut_2
+IT-ET Glut,CA3 Glut,CA3 Glut_3
+IT-ET Glut,CA3 Glut,CA3 Glut_4
+IT-ET Glut,CA3 Glut,CA3 Glut_5
+IT-ET Glut,L2 IT PPP-APr Glut,L2 IT PPP-APr Glut_1
+IT-ET Glut,L2 IT PPP-APr Glut,L2 IT PPP-APr Glut_2
+IT-ET Glut,L2 IT PPP-APr Glut,L2 IT PPP-APr Glut_3
+IT-ET Glut,L2 IT PPP-APr Glut,L2 IT PPP-APr Glut_4
+IT-ET Glut,L4 RSP-ACA Glut,L4 RSP-ACA Glut_1
+IT-ET Glut,L5 ET CTX Glut,L5 ET CTX Glut_1
+IT-ET Glut,L5 ET CTX Glut,L5 ET CTX Glut_2
+IT-ET Glut,L5 ET CTX Glut,L5 ET CTX Glut_3
+IT-ET Glut,L5 ET CTX Glut,L5 ET CTX Glut_4
+IT-ET Glut,L5 ET CTX Glut,L5 ET CTX Glut_5
+IT-ET Glut,L5 ET CTX Glut,L5 ET CTX Glut_6
+IT-ET Glut,SUB-ProS Glut,SUB-ProS Glut_1
+IT-ET Glut,SUB-ProS Glut,SUB-ProS Glut_2
+IT-ET Glut,SUB-ProS Glut,SUB-ProS Glut_3
+IT-ET Glut,L5 PPP Glut,L5 PPP Glut_1
+IT-ET Glut,CA2-FC-IG Glut,CA2-FC-IG Glut_1
+IT-ET Glut,CA2-FC-IG Glut,CA2-FC-IG Glut_2
+IT-ET Glut,NLOT Rho Glut,NLOT Rho Glut_1
+NP-CT-L6b Glut,L6b EPd Glut,L6b EPd Glut_1
+NP-CT-L6b Glut,L6b EPd Glut,L6b EPd Glut_2
+NP-CT-L6b Glut,L6b EPd Glut,L6b EPd Glut_3
+NP-CT-L6b Glut,L6b CTX Glut,L6b CTX Glut_1
+NP-CT-L6b Glut,L6b CTX Glut,L6b CTX Glut_2
+NP-CT-L6b Glut,L6b CTX Glut,L6b CTX Glut_3
+NP-CT-L6b Glut,L6b CTX Glut,L6b CTX Glut_4
+NP-CT-L6b Glut,L6 CT CTX Glut,L6 CT CTX Glut_1
+NP-CT-L6b Glut,L6 CT CTX Glut,L6 CT CTX Glut_2
+NP-CT-L6b Glut,L6 CT CTX Glut,L6 CT CTX Glut_3
+NP-CT-L6b Glut,L6 CT CTX Glut,L6 CT CTX Glut_4
+NP-CT-L6b Glut,L6 CT CTX Glut,L6 CT CTX Glut_5
+NP-CT-L6b Glut,L6 CT CTX Glut,L6 CT CTX Glut_6
+NP-CT-L6b Glut,CT SUB Glut,CT SUB Glut_1
+NP-CT-L6b Glut,CT SUB Glut,CT SUB Glut_2
+NP-CT-L6b Glut,L5 NP CTX Glut,L5 NP CTX Glut_1
+NP-CT-L6b Glut,L5 NP CTX Glut,L5 NP CTX Glut_2
+NP-CT-L6b Glut,L5 NP CTX Glut,L5 NP CTX Glut_3
+NP-CT-L6b Glut,L5 NP CTX Glut,L5 NP CTX Glut_4
+NP-CT-L6b Glut,L5 NP CTX Glut,L5 NP CTX Glut_5
+NP-CT-L6b Glut,NP SUB Glut,NP SUB Glut_1
+NP-CT-L6b Glut,NP SUB Glut,NP SUB Glut_2
+NP-CT-L6b Glut,NP PPP Glut,NP PPP Glut_1
+DG-IMN Glut,DG Glut,DG Glut_1
+DG-IMN Glut,DG Glut,DG Glut_2
+DG-IMN Glut,DG Glut,DG Glut_3
+DG-IMN Glut,DG Glut,DG Glut_4
+DG-IMN Glut,DG-PIR Ex IMN,DG-PIR Ex IMN_1
+DG-IMN Glut,DG-PIR Ex IMN,DG-PIR Ex IMN_2
+DG-IMN Glut,DG-PIR Ex IMN,DG-PIR Ex IMN_3
+LSX GABA,LSX Sall3 Pax6 Gaba,LSX Sall3 Pax6 Gaba_1
+LSX GABA,LSX Sall3 Pax6 Gaba,LSX Sall3 Pax6 Gaba_2
+LSX GABA,LSX Otx2 Gaba,LSX Otx2 Gaba_1
+LSX GABA,LSX Otx2 Gaba,LSX Otx2 Gaba_2
+LSX GABA,LSX Otx2 Gaba,LSX Otx2 Gaba_3
+LSX GABA,LSX Otx2 Gaba,LSX Otx2 Gaba_4
+LSX GABA,LSX Otx2 Gaba,LSX Otx2 Gaba_5
+LSX GABA,LSX Nkx2-1 Gaba,LSX Nkx2-1 Gaba_1
+LSX GABA,LSX Nkx2-1 Gaba,LSX Nkx2-1 Gaba_2
+LSX GABA,LSX Nkx2-1 Gaba,LSX Nkx2-1 Gaba_3
+LSX GABA,LSX Nkx2-1 Gaba,LSX Nkx2-1 Gaba_4
+LSX GABA,LSX Nkx2-1 Gaba,LSX Nkx2-1 Gaba_5
+LSX GABA,LSX Nkx2-1 Gaba,LSX Nkx2-1 Gaba_6
+LSX GABA,LSX Nkx2-1 Gaba,LSX Nkx2-1 Gaba_7
+LSX GABA,LSX Nkx2-1 Gaba,LSX Nkx2-1 Gaba_8
+LSX GABA,LSX Nkx2-1 Gaba,LSX Nkx2-1 Gaba_9
+LSX GABA,LSX Nkx2-1 Gaba,LSX Nkx2-1 Gaba_10
+LSX GABA,LSX Nkx2-1 Gaba,LSX Nkx2-1 Gaba_11
+LSX GABA,LSX Prdm12 Zeb2 Gaba,LSX Prdm12 Zeb2 Gaba_1
+LSX GABA,LSX Prdm12 Zeb2 Gaba,LSX Prdm12 Zeb2 Gaba_2
+LSX GABA,LSX Prdm12 Zeb2 Gaba,LSX Prdm12 Zeb2 Gaba_3
+LSX GABA,LSX Prdm12 Zeb2 Gaba,LSX Prdm12 Zeb2 Gaba_4
+LSX GABA,LSX Prdm12 Zeb2 Gaba,LSX Prdm12 Zeb2 Gaba_5
+LSX GABA,LSX Prdm12 Slit2 Gaba,LSX Prdm12 Slit2 Gaba_1
+LSX GABA,LSX Prdm12 Slit2 Gaba,LSX Prdm12 Slit2 Gaba_2
+LSX GABA,LSX Prdm12 Slit2 Gaba,LSX Prdm12 Slit2 Gaba_3
+LSX GABA,LSX Prdm12 Slit2 Gaba,LSX Prdm12 Slit2 Gaba_4
+LSX GABA,LSX Prdm12 Slit2 Gaba,LSX Prdm12 Slit2 Gaba_5
+LSX GABA,LSX Sall3 Lmo1 Gaba,LSX Sall3 Lmo1 Gaba_1
+LSX GABA,LSX Sall3 Lmo1 Gaba,LSX Sall3 Lmo1 Gaba_2
+LSX GABA,LSX Sall3 Lmo1 Gaba,LSX Sall3 Lmo1 Gaba_3
+LSX GABA,LSX Sall3 Lmo1 Gaba,LSX Sall3 Lmo1 Gaba_4
+LSX GABA,LSX Sall3 Lmo1 Gaba,LSX Sall3 Lmo1 Gaba_5
+LSX GABA,LSX Sall3 Lmo1 Gaba,LSX Sall3 Lmo1 Gaba_6
+CNU-HYa GABA,MEA-BST Sox6 Gaba,MEA-BST Sox6 Gaba_1
+CNU-HYa GABA,MEA-BST Sox6 Gaba,MEA-BST Sox6 Gaba_2
+CNU-HYa GABA,MEA-BST Sox6 Gaba,MEA-BST Sox6 Gaba_3
+CNU-HYa GABA,MEA-BST Sox6 Gaba,MEA-BST Sox6 Gaba_4
+CNU-HYa GABA,MEA-BST Sox6 Gaba,MEA-BST Sox6 Gaba_5
+CNU-HYa GABA,MEA-BST Sox6 Gaba,MEA-BST Sox6 Gaba_6
+CNU-HYa GABA,MEA-BST Sox6 Gaba,MEA-BST Sox6 Gaba_7
+CNU-HYa GABA,MEA-BST Sox6 Gaba,MEA-BST Sox6 Gaba_8
+CNU-HYa GABA,MEA-BST Sox6 Gaba,MEA-BST Sox6 Gaba_9
+CNU-HYa GABA,MEA-BST Sox6 Gaba,MEA-BST Sox6 Gaba_10
+CNU-HYa GABA,MEA-BST Lhx6 Sp9 Gaba,MEA-BST Lhx6 Sp9 Gaba_1
+CNU-HYa GABA,MEA-BST Lhx6 Sp9 Gaba,MEA-BST Lhx6 Sp9 Gaba_2
+CNU-HYa GABA,MEA-BST Lhx6 Sp9 Gaba,MEA-BST Lhx6 Sp9 Gaba_3
+CNU-HYa GABA,MEA-BST Lhx6 Sp9 Gaba,MEA-BST Lhx6 Sp9 Gaba_4
+CNU-HYa GABA,MEA-BST Lhx6 Sp9 Gaba,MEA-BST Lhx6 Sp9 Gaba_5
+CNU-HYa GABA,MEA-BST Lhx6 Sp9 Gaba,MEA-BST Lhx6 Sp9 Gaba_6
+CNU-HYa GABA,MEA-BST Lhx6 Sp9 Gaba,MEA-BST Lhx6 Sp9 Gaba_7
+CNU-HYa GABA,MEA-BST Lhx6 Nr2e1 Gaba,MEA-BST Lhx6 Nr2e1 Gaba_1
+CNU-HYa GABA,MEA-BST Lhx6 Nr2e1 Gaba,MEA-BST Lhx6 Nr2e1 Gaba_2
+CNU-HYa GABA,MEA-BST Lhx6 Nr2e1 Gaba,MEA-BST Lhx6 Nr2e1 Gaba_3
+CNU-HYa GABA,MEA-BST Lhx6 Nfib Gaba,MEA-BST Lhx6 Nfib Gaba_1
+CNU-HYa GABA,MEA-BST Lhx6 Nfib Gaba,MEA-BST Lhx6 Nfib Gaba_2
+CNU-HYa GABA,MEA-BST Lhx6 Nfib Gaba,MEA-BST Lhx6 Nfib Gaba_3
+CNU-HYa GABA,MEA-BST Lhx6 Nfib Gaba,MEA-BST Lhx6 Nfib Gaba_4
+CNU-HYa GABA,MEA-BST Lhx6 Nfib Gaba,MEA-BST Lhx6 Nfib Gaba_5
+CNU-HYa GABA,MEA-BST Lhx6 Nfib Gaba,MEA-BST Lhx6 Nfib Gaba_6
+CNU-HYa GABA,CEA-BST Gal Avp Gaba,CEA-BST Gal Avp Gaba_1
+CNU-HYa GABA,SI-MA-ACB Ebf1 Bnc2 Gaba,SI-MA-ACB Ebf1 Bnc2 Gaba_1
+CNU-HYa GABA,SI-MA-ACB Ebf1 Bnc2 Gaba,SI-MA-ACB Ebf1 Bnc2 Gaba_2
+CNU-HYa GABA,SI-MA-ACB Ebf1 Bnc2 Gaba,SI-MA-ACB Ebf1 Bnc2 Gaba_3
+CNU-HYa GABA,CEA-BST Six3 Cyp26b1 Gaba,CEA-BST Six3 Cyp26b1 Gaba_1
+CNU-HYa GABA,CEA-BST Six3 Cyp26b1 Gaba,CEA-BST Six3 Cyp26b1 Gaba_2
+CNU-HYa GABA,CEA-BST Six3 Cyp26b1 Gaba,CEA-BST Six3 Cyp26b1 Gaba_3
+CNU-HYa GABA,CEA-BST Six3 Cyp26b1 Gaba,CEA-BST Six3 Cyp26b1 Gaba_4
+CNU-HYa GABA,CEA-BST Six3 Cyp26b1 Gaba,CEA-BST Six3 Cyp26b1 Gaba_5
+CNU-HYa GABA,CEA-BST Six3 Cyp26b1 Gaba,CEA-BST Six3 Cyp26b1 Gaba_6
+CNU-HYa GABA,ACB-BST-FS D1 Gaba,ACB-BST-FS D1 Gaba_1
+CNU-HYa GABA,ACB-BST-FS D1 Gaba,ACB-BST-FS D1 Gaba_2
+CNU-HYa GABA,ACB-BST-FS D1 Gaba,ACB-BST-FS D1 Gaba_3
+CNU-HYa GABA,SI-MPO-LPO Lhx8 Gaba,SI-MPO-LPO Lhx8 Gaba_1
+CNU-HYa GABA,SI-MPO-LPO Lhx8 Gaba,SI-MPO-LPO Lhx8 Gaba_2
+CNU-HYa GABA,SI-MPO-LPO Lhx8 Gaba,SI-MPO-LPO Lhx8 Gaba_3
+CNU-HYa GABA,SI-MPO-LPO Lhx8 Gaba,SI-MPO-LPO Lhx8 Gaba_4
+CNU-HYa GABA,SI-MPO-LPO Lhx8 Gaba,SI-MPO-LPO Lhx8 Gaba_5
+CNU-HYa GABA,SI-MPO-LPO Lhx8 Gaba,SI-MPO-LPO Lhx8 Gaba_6
+CNU-HYa GABA,MPO-ADP Lhx8 Gaba,MPO-ADP Lhx8 Gaba_1
+CNU-HYa GABA,MPO-ADP Lhx8 Gaba,MPO-ADP Lhx8 Gaba_2
+CNU-HYa GABA,MPO-ADP Lhx8 Gaba,MPO-ADP Lhx8 Gaba_3
+CNU-HYa GABA,MPO-ADP Lhx8 Gaba,MPO-ADP Lhx8 Gaba_4
+CNU-HYa GABA,MPO-ADP Lhx8 Gaba,MPO-ADP Lhx8 Gaba_5
+CNU-HYa GABA,MPN-MPO-LPO Lhx6 Zfhx3 Gaba,MPN-MPO-LPO Lhx6 Zfhx3 Gaba_1
+CNU-HYa GABA,MPN-MPO-LPO Lhx6 Zfhx3 Gaba,MPN-MPO-LPO Lhx6 Zfhx3 Gaba_2
+CNU-HYa GABA,BST Tac2 Gaba,BST Tac2 Gaba_1
+CNU-HYa GABA,BST Tac2 Gaba,BST Tac2 Gaba_2
+HY GABA,TMv-PMv Tbx3 Hist-Gaba,TMv-PMv Tbx3 Hist-Gaba_1
+HY GABA,TMv-PMv Tbx3 Hist-Gaba,TMv-PMv Tbx3 Hist-Gaba_2
+HY GABA,RT-ZI Gnb3 Gaba,RT-ZI Gnb3 Gaba_1
+HY GABA,RT-ZI Gnb3 Gaba,RT-ZI Gnb3 Gaba_2
+HY GABA,RT-ZI Gnb3 Gaba,RT-ZI Gnb3 Gaba_3
+HY GABA,RT-ZI Gnb3 Gaba,RT-ZI Gnb3 Gaba_4
+HY GABA,RT-ZI Gnb3 Gaba,RT-ZI Gnb3 Gaba_5
+HY GABA,SCH Six6 Cdc14a Gaba,SCH Six6 Cdc14a Gaba_1
+HY GABA,SCH Six6 Cdc14a Gaba,SCH Six6 Cdc14a Gaba_2
+HY GABA,SCH Six6 Cdc14a Gaba,SCH Six6 Cdc14a Gaba_3
+HY GABA,DMH Prdm13 Gaba,DMH Prdm13 Gaba_1
+HY GABA,DMH Prdm13 Gaba,DMH Prdm13 Gaba_2
+HY GABA,PVHd Gsc Gaba,PVHd Gsc Gaba_1
+HY GABA,PVHd-SBPV Six3 Prox1 Gaba,PVHd-SBPV Six3 Prox1 Gaba_1
+HY GABA,PVHd-SBPV Six3 Prox1 Gaba,PVHd-SBPV Six3 Prox1 Gaba_2
+HY GABA,PVHd-SBPV Six3 Prox1 Gaba,PVHd-SBPV Six3 Prox1 Gaba_3
+HY GABA,PVHd-SBPV Six3 Prox1 Gaba,PVHd-SBPV Six3 Prox1 Gaba_4
+HY GABA,AHN Onecut3 Gaba,AHN Onecut3 Gaba_1
+HY GABA,AHN Onecut3 Gaba,AHN Onecut3 Gaba_2
+HY GABA,AHN Onecut3 Gaba,AHN Onecut3 Gaba_3
+HY GABA,ZI Pax6 Gaba,ZI Pax6 Gaba_1
+HY GABA,ZI Pax6 Gaba,ZI Pax6 Gaba_2
+HY GABA,ZI Pax6 Gaba,ZI Pax6 Gaba_3
+HY GABA,ZI Pax6 Gaba,ZI Pax6 Gaba_4
+HY GABA,ZI Pax6 Gaba,ZI Pax6 Gaba_5
+HY GABA,ZI Pax6 Gaba,ZI Pax6 Gaba_6
+HY GABA,ZI Pax6 Gaba,ZI Pax6 Gaba_7
+HY GABA,ZI Pax6 Gaba,ZI Pax6 Gaba_8
+HY GABA,ZI Pax6 Gaba,ZI Pax6 Gaba_9
+HY GABA,ZI Pax6 Gaba,ZI Pax6 Gaba_10
+HY GABA,ZI Pax6 Gaba,ZI Pax6 Gaba_11
+HY GABA,DMH-LHA Gsx1 Gaba,DMH-LHA Gsx1 Gaba_1
+HY GABA,DMH-LHA Gsx1 Gaba,DMH-LHA Gsx1 Gaba_2
+HY GABA,DMH-LHA Gsx1 Gaba,DMH-LHA Gsx1 Gaba_3
+HY GABA,DMH-LHA Gsx1 Gaba,DMH-LHA Gsx1 Gaba_4
+HY GABA,PVHd-DMH Lhx6 Gaba,PVHd-DMH Lhx6 Gaba_1
+HY GABA,PVHd-DMH Lhx6 Gaba,PVHd-DMH Lhx6 Gaba_2
+HY GABA,PVHd-DMH Lhx6 Gaba,PVHd-DMH Lhx6 Gaba_3
+HY GABA,PVHd-DMH Lhx6 Gaba,PVHd-DMH Lhx6 Gaba_4
+HY GABA,TU-ARH Otp Six6 Gaba,TU-ARH Otp Six6 Gaba_1
+HY GABA,TU-ARH Otp Six6 Gaba,TU-ARH Otp Six6 Gaba_2
+HY GABA,TU-ARH Otp Six6 Gaba,TU-ARH Otp Six6 Gaba_3
+HY GABA,TMd-DMH Foxd2 Gaba,TMd-DMH Foxd2 Gaba_1
+HY GABA,PVpo-VMPO-MPN Hmx2 Gaba,PVpo-VMPO-MPN Hmx2 Gaba_1
+HY GABA,PVpo-VMPO-MPN Hmx2 Gaba,PVpo-VMPO-MPN Hmx2 Gaba_2
+HY GABA,PVpo-VMPO-MPN Hmx2 Gaba,PVpo-VMPO-MPN Hmx2 Gaba_3
+HY GABA,PVpo-VMPO-MPN Hmx2 Gaba,PVpo-VMPO-MPN Hmx2 Gaba_4
+HY GABA,PVpo-VMPO-MPN Hmx2 Gaba,PVpo-VMPO-MPN Hmx2 Gaba_5
+HY GABA,DMH Hmx2 Gaba,DMH Hmx2 Gaba_1
+HY GABA,DMH Hmx2 Gaba,DMH Hmx2 Gaba_2
+HY GABA,DMH Hmx2 Gaba,DMH Hmx2 Gaba_3
+HY GABA,DMH Hmx2 Gaba,DMH Hmx2 Gaba_4
+HY GABA,DMH Hmx2 Gaba,DMH Hmx2 Gaba_5
+HY GABA,DMH Hmx2 Gaba,DMH Hmx2 Gaba_6
+HY GABA,ARH-PVp Tbx3 Gaba,ARH-PVp Tbx3 Gaba_1
+HY GABA,ARH-PVp Tbx3 Gaba,ARH-PVp Tbx3 Gaba_2
+HY GABA,ARH-PVp Tbx3 Gaba,ARH-PVp Tbx3 Gaba_3
+HY GABA,LGv-ZI Otx2 Gaba,LGv-ZI Otx2 Gaba_1
+HY GABA,LGv-ZI Otx2 Gaba,LGv-ZI Otx2 Gaba_2
+HY GABA,LGv-ZI Otx2 Gaba,LGv-ZI Otx2 Gaba_3
+HY GABA,LGv-ZI Otx2 Gaba,LGv-ZI Otx2 Gaba_4
+HY GABA,LGv-ZI Otx2 Gaba,LGv-ZI Otx2 Gaba_5
+CNU-HYa Glut,BST-po Iigp1 Glut,BST-po Iigp1 Glut_1
+CNU-HYa Glut,TRS-BAC Sln Glut,TRS-BAC Sln Glut_1
+CNU-HYa Glut,TRS-BAC Sln Glut,TRS-BAC Sln Glut_2
+CNU-HYa Glut,MEA-COA-BMA Ccdc42 Glut,MEA-COA-BMA Ccdc42 Glut_1
+CNU-HYa Glut,MEA-COA-BMA Ccdc42 Glut,MEA-COA-BMA Ccdc42 Glut_2
+CNU-HYa Glut,MEA-COA-BMA Ccdc42 Glut,MEA-COA-BMA Ccdc42 Glut_3
+CNU-HYa Glut,MEA-COA-BMA Ccdc42 Glut,MEA-COA-BMA Ccdc42 Glut_4
+CNU-HYa Glut,COAa-PAA-MEA Barhl2 Glut,COAa-PAA-MEA Barhl2 Glut_1
+CNU-HYa Glut,COAa-PAA-MEA Barhl2 Glut,COAa-PAA-MEA Barhl2 Glut_2
+CNU-HYa Glut,COAa-PAA-MEA Barhl2 Glut,COAa-PAA-MEA Barhl2 Glut_3
+CNU-HYa Glut,COAa-PAA-MEA Barhl2 Glut,COAa-PAA-MEA Barhl2 Glut_4
+CNU-HYa Glut,COAa-PAA-MEA Barhl2 Glut,COAa-PAA-MEA Barhl2 Glut_5
+CNU-HYa Glut,COAa-PAA-MEA Barhl2 Glut,COAa-PAA-MEA Barhl2 Glut_6
+CNU-HYa Glut,COAa-PAA-MEA Barhl2 Glut,COAa-PAA-MEA Barhl2 Glut_7
+CNU-HYa Glut,COAa-PAA-MEA Barhl2 Glut,COAa-PAA-MEA Barhl2 Glut_8
+CNU-HYa Glut,COAa-PAA-MEA Barhl2 Glut,COAa-PAA-MEA Barhl2 Glut_9
+CNU-HYa Glut,MS-SF Bsx Glut,MS-SF Bsx Glut_1
+CNU-HYa Glut,AVPV-MEPO-SFO Tbr1 Glut,AVPV-MEPO-SFO Tbr1 Glut_1
+CNU-HYa Glut,AVPV-MEPO-SFO Tbr1 Glut,AVPV-MEPO-SFO Tbr1 Glut_2
+CNU-HYa Glut,AVPV-MEPO-SFO Tbr1 Glut,AVPV-MEPO-SFO Tbr1 Glut_3
+CNU-HYa Glut,AVPV-MEPO-SFO Tbr1 Glut,AVPV-MEPO-SFO Tbr1 Glut_4
+CNU-HYa Glut,AVPV-MEPO-SFO Tbr1 Glut,AVPV-MEPO-SFO Tbr1 Glut_5
+CNU-HYa Glut,LHA Barhl2 Glut,LHA Barhl2 Glut_1
+CNU-HYa Glut,LHA Barhl2 Glut,LHA Barhl2 Glut_2
+CNU-HYa Glut,LHA Barhl2 Glut,LHA Barhl2 Glut_3
+CNU-HYa Glut,ADP-MPO Trp73 Glut,ADP-MPO Trp73 Glut_1
+CNU-HYa Glut,ADP-MPO Trp73 Glut,ADP-MPO Trp73 Glut_2
+CNU-HYa Glut,ADP-MPO Trp73 Glut,ADP-MPO Trp73 Glut_3
+CNU-HYa Glut,SI-MA-LPO-LHA Skor1 Glut,SI-MA-LPO-LHA Skor1 Glut_1
+CNU-HYa Glut,SI-MA-LPO-LHA Skor1 Glut,SI-MA-LPO-LHA Skor1 Glut_2
+CNU-HYa Glut,SI-MA-LPO-LHA Skor1 Glut,SI-MA-LPO-LHA Skor1 Glut_3
+CNU-HYa Glut,SI-MA-LPO-LHA Skor1 Glut,SI-MA-LPO-LHA Skor1 Glut_4
+CNU-HYa Glut,SI-MA-LPO-LHA Skor1 Glut,SI-MA-LPO-LHA Skor1 Glut_5
+CNU-HYa Glut,SI-MA-LPO-LHA Skor1 Glut,SI-MA-LPO-LHA Skor1 Glut_6
+CNU-HYa Glut,SI-MA-LPO-LHA Skor1 Glut,SI-MA-LPO-LHA Skor1 Glut_7
+CNU-HYa Glut,SI-MA-LPO-LHA Skor1 Glut,SI-MA-LPO-LHA Skor1 Glut_8
+CNU-HYa Glut,LHA-MEA Otp Glut,LHA-MEA Otp Glut_1
+CNU-HYa Glut,LHA-MEA Otp Glut,LHA-MEA Otp Glut_2
+HY Glut,DMH Nkx2-4 Glut,DMH Nkx2-4 Glut_1
+HY Glut,DMH Nkx2-4 Glut,DMH Nkx2-4 Glut_2
+HY Glut,MPN-MPO-PVpo Hmx2 Glut,MPN-MPO-PVpo Hmx2 Glut_1
+HY Glut,MPN-MPO-PVpo Hmx2 Glut,MPN-MPO-PVpo Hmx2 Glut_2
+HY Glut,MPN-MPO-PVpo Hmx2 Glut,MPN-MPO-PVpo Hmx2 Glut_3
+HY Glut,MPN-MPO-PVpo Hmx2 Glut,MPN-MPO-PVpo Hmx2 Glut_4
+HY Glut,MPN-MPO-PVpo Hmx2 Glut,MPN-MPO-PVpo Hmx2 Glut_5
+HY Glut,MPN-MPO-PVpo Hmx2 Glut,MPN-MPO-PVpo Hmx2 Glut_6
+HY Glut,DMH Hmx2 Glut,DMH Hmx2 Glut_1
+HY Glut,DMH Hmx2 Glut,DMH Hmx2 Glut_2
+HY Glut,ARH-PVp Tbx3 Glut,ARH-PVp Tbx3 Glut_1
+HY Glut,ARH-PVp Tbx3 Glut,ARH-PVp Tbx3 Glut_2
+HY Glut,ARH-PVp Tbx3 Glut,ARH-PVp Tbx3 Glut_3
+HY Glut,ARH-PVp Tbx3 Glut,ARH-PVp Tbx3 Glut_4
+HY Glut,ARH-PVp Tbx3 Glut,ARH-PVp Tbx3 Glut_5
+HY Glut,DMH-LHA Vgll2 Glut,DMH-LHA Vgll2 Glut_1
+HY Glut,DMH-LHA Vgll2 Glut,DMH-LHA Vgll2 Glut_2
+HY Glut,DMH-LHA Vgll2 Glut,DMH-LHA Vgll2 Glut_3
+HY Glut,DMH-LHA Vgll2 Glut,DMH-LHA Vgll2 Glut_4
+HY Glut,VMH Fezf1 Glut,VMH Fezf1 Glut_1
+HY Glut,VMH Fezf1 Glut,VMH Fezf1 Glut_2
+HY Glut,VMH Fezf1 Glut,VMH Fezf1 Glut_3
+HY Glut,VMH Nr5a1 Glut,VMH Nr5a1 Glut_1
+HY Glut,VMH Nr5a1 Glut,VMH Nr5a1 Glut_2
+HY Glut,VMH Nr5a1 Glut,VMH Nr5a1 Glut_3
+HY Glut,VMH Nr5a1 Glut,VMH Nr5a1 Glut_4
+HY Glut,VMH Nr5a1 Glut,VMH Nr5a1 Glut_5
+HY Glut,VMH Nr5a1 Glut,VMH Nr5a1 Glut_6
+HY Glut,LHA Pmch Glut,LHA Pmch Glut_1
+HY Glut,LHA Pmch Glut,LHA Pmch Glut_2
+HY Glut,PVH-SO-PVa Otp Glut,PVH-SO-PVa Otp Glut_1
+HY Glut,PVH-SO-PVa Otp Glut,PVH-SO-PVa Otp Glut_2
+HY Glut,PVH-SO-PVa Otp Glut,PVH-SO-PVa Otp Glut_3
+HY Glut,PVH-SO-PVa Otp Glut,PVH-SO-PVa Otp Glut_4
+HY Glut,PVH-SO-PVa Otp Glut,PVH-SO-PVa Otp Glut_5
+HY Glut,PVH-SO-PVa Otp Glut,PVH-SO-PVa Otp Glut_6
+HY Glut,STN-PSTN Pitx2 Glut,STN-PSTN Pitx2 Glut_1
+HY Glut,STN-PSTN Pitx2 Glut,STN-PSTN Pitx2 Glut_2
+HY Glut,STN-PSTN Pitx2 Glut,STN-PSTN Pitx2 Glut_3
+HY Glut,STN-PSTN Pitx2 Glut,STN-PSTN Pitx2 Glut_4
+HY Glut,STN-PSTN Pitx2 Glut,STN-PSTN Pitx2 Glut_5
+HY Glut,STN-PSTN Pitx2 Glut,STN-PSTN Pitx2 Glut_6
+HY Glut,STN-PSTN Pitx2 Glut,STN-PSTN Pitx2 Glut_7
+HY Glut,PMv-TMv Pitx2 Glut,PMv-TMv Pitx2 Glut_1
+HY Glut,PMv-TMv Pitx2 Glut,PMv-TMv Pitx2 Glut_2
+HY Glut,PMv-TMv Pitx2 Glut,PMv-TMv Pitx2 Glut_3
+HY Glut,PH-an Pitx2 Glut,PH-an Pitx2 Glut_1
+HY Glut,PH-an Pitx2 Glut,PH-an Pitx2 Glut_2
+HY Glut,PH Pitx2 Glut,PH Pitx2 Glut_1
+HY Glut,PH Pitx2 Glut,PH Pitx2 Glut_2
+HY Glut,PH-LHA Foxb1 Glut,PH-LHA Foxb1 Glut_1
+HY Glut,PH-LHA Foxb1 Glut,PH-LHA Foxb1 Glut_2
+HY Glut,PH-LHA Foxb1 Glut,PH-LHA Foxb1 Glut_3
+HY Glut,PH-LHA Foxb1 Glut,PH-LHA Foxb1 Glut_4
+HY Glut,PH-LHA Foxb1 Glut,PH-LHA Foxb1 Glut_5
+HY Glut,PH-LHA Foxb1 Glut,PH-LHA Foxb1 Glut_6
+HY Glut,PH-LHA Foxb1 Glut,PH-LHA Foxb1 Glut_7
+HY Glut,PMd-LHA Foxb1 Glut,PMd-LHA Foxb1 Glut_1
+HY Glut,PMd-LHA Foxb1 Glut,PMd-LHA Foxb1 Glut_2
+HY Glut,PMd-LHA Foxb1 Glut,PMd-LHA Foxb1 Glut_3
+HY Glut,PH-SUM Foxa1 Glut,PH-SUM Foxa1 Glut_1
+HY Glut,PH-SUM Foxa1 Glut,PH-SUM Foxa1 Glut_2
+HY Glut,PH-SUM Foxa1 Glut,PH-SUM Foxa1 Glut_3
+HY Glut,PH-SUM Foxa1 Glut,PH-SUM Foxa1 Glut_4
+HY Glut,PH-SUM Foxa1 Glut,PH-SUM Foxa1 Glut_5
+HY Glut,PH-SUM Foxa1 Glut,PH-SUM Foxa1 Glut_6
+HY Gnrh1 Glut,HY Gnrh1 Glut,HY Gnrh1 Glut_1
+HY MM Glut,MM-ant Foxb1 Glut,MM-ant Foxb1 Glut_1
+HY MM Glut,MM Foxb1 Glut,MM Foxb1 Glut_1
+HY MM Glut,MM Foxb1 Glut,MM Foxb1 Glut_2
+MH-LH Glut,MH Tac2 Glut,MH Tac2 Glut_1
+MH-LH Glut,MH Tac2 Glut,MH Tac2 Glut_2
+MH-LH Glut,MH Tac2 Glut,MH Tac2 Glut_3
+MH-LH Glut,MH Tac2 Glut,MH Tac2 Glut_4
+MH-LH Glut,MH Tac2 Glut,MH Tac2 Glut_5
+MH-LH Glut,LH Pou4f1 Sox1 Glut,LH Pou4f1 Sox1 Glut_1
+MH-LH Glut,LH Pou4f1 Sox1 Glut,LH Pou4f1 Sox1 Glut_2
+MH-LH Glut,LH Pou4f1 Sox1 Glut,LH Pou4f1 Sox1 Glut_3
+MH-LH Glut,LH Pou4f1 Sox1 Glut,LH Pou4f1 Sox1 Glut_4
+TH Glut,AD Serpinb7 Glut,AD Serpinb7 Glut_1
+TH Glut,AV Col27a1 Glut,AV Col27a1 Glut_1
+TH Glut,PVT-PT Ntrk1 Glut,PVT-PT Ntrk1 Glut_1
+TH Glut,PVT-PT Ntrk1 Glut,PVT-PT Ntrk1 Glut_2
+TH Glut,PVT-PT Ntrk1 Glut,PVT-PT Ntrk1 Glut_3
+TH Glut,PVT-PT Ntrk1 Glut,PVT-PT Ntrk1 Glut_4
+TH Glut,PVT-PT Ntrk1 Glut,PVT-PT Ntrk1 Glut_5
+TH Glut,PVT-PT Ntrk1 Glut,PVT-PT Ntrk1 Glut_6
+TH Glut,CM-IAD-CL-PCN Sema5b Glut,CM-IAD-CL-PCN Sema5b Glut_1
+TH Glut,CM-IAD-CL-PCN Sema5b Glut,CM-IAD-CL-PCN Sema5b Glut_2
+TH Glut,CM-IAD-CL-PCN Sema5b Glut,CM-IAD-CL-PCN Sema5b Glut_3
+TH Glut,CM-IAD-CL-PCN Sema5b Glut,CM-IAD-CL-PCN Sema5b Glut_4
+TH Glut,CM-IAD-CL-PCN Sema5b Glut,CM-IAD-CL-PCN Sema5b Glut_5
+TH Glut,TH Prkcd Grin2c Glut,TH Prkcd Grin2c Glut_1
+TH Glut,TH Prkcd Grin2c Glut,TH Prkcd Grin2c Glut_2
+TH Glut,TH Prkcd Grin2c Glut,TH Prkcd Grin2c Glut_3
+TH Glut,TH Prkcd Grin2c Glut,TH Prkcd Grin2c Glut_4
+TH Glut,TH Prkcd Grin2c Glut,TH Prkcd Grin2c Glut_5
+TH Glut,TH Prkcd Grin2c Glut,TH Prkcd Grin2c Glut_6
+TH Glut,TH Prkcd Grin2c Glut,TH Prkcd Grin2c Glut_7
+TH Glut,TH Prkcd Grin2c Glut,TH Prkcd Grin2c Glut_8
+TH Glut,TH Prkcd Grin2c Glut,TH Prkcd Grin2c Glut_9
+TH Glut,TH Prkcd Grin2c Glut,TH Prkcd Grin2c Glut_10
+TH Glut,TH Prkcd Grin2c Glut,TH Prkcd Grin2c Glut_11
+TH Glut,TH Prkcd Grin2c Glut,TH Prkcd Grin2c Glut_12
+TH Glut,TH Prkcd Grin2c Glut,TH Prkcd Grin2c Glut_13
+TH Glut,TH Prkcd Grin2c Glut,TH Prkcd Grin2c Glut_14
+TH Glut,RE-Xi Nox4 Glut,RE-Xi Nox4 Glut_1
+TH Glut,RE-Xi Nox4 Glut,RE-Xi Nox4 Glut_2
+TH Glut,RE-Xi Nox4 Glut,RE-Xi Nox4 Glut_3
+TH Glut,RE-Xi Nox4 Glut,RE-Xi Nox4 Glut_4
+TH Glut,MG-POL-SGN Nts Glut,MG-POL-SGN Nts Glut_1
+TH Glut,MG-POL-SGN Nts Glut,MG-POL-SGN Nts Glut_2
+TH Glut,PF Fzd5 Glut,PF Fzd5 Glut_1
+TH Glut,PF Fzd5 Glut,PF Fzd5 Glut_2
+MB Glut,PRC-PAG Pax6 Glut,PRC-PAG Pax6 Glut_1
+MB Glut,PRC-PAG Pax6 Glut,PRC-PAG Pax6 Glut_2
+MB Glut,PRC-PAG Pax6 Glut,PRC-PAG Pax6 Glut_3
+MB Glut,PRC-PAG Pax6 Glut,PRC-PAG Pax6 Glut_4
+MB Glut,PRC-PAG Pax6 Glut,PRC-PAG Pax6 Glut_5
+MB Glut,MB-ant-ve Dmrta2 Glut,MB-ant-ve Dmrta2 Glut_1
+MB Glut,RN Spp1 Glut,RN Spp1 Glut_1
+MB Glut,MRN-PAG Nkx6-1 Glut,MRN-PAG Nkx6-1 Glut_1
+MB Glut,MRN-PAG Nkx6-1 Glut,MRN-PAG Nkx6-1 Glut_2
+MB Glut,IF-RL-CLI-PAG Foxa1 Glut,IF-RL-CLI-PAG Foxa1 Glut_1
+MB Glut,IF-RL-CLI-PAG Foxa1 Glut,IF-RL-CLI-PAG Foxa1 Glut_2
+MB Glut,IF-RL-CLI-PAG Foxa1 Glut,IF-RL-CLI-PAG Foxa1 Glut_3
+MB Glut,IF-RL-CLI-PAG Foxa1 Glut,IF-RL-CLI-PAG Foxa1 Glut_4
+MB Glut,IF-RL-CLI-PAG Foxa1 Glut,IF-RL-CLI-PAG Foxa1 Glut_5
+MB Glut,PAG-SC Neurod2 Meis2 Glut,PAG-SC Neurod2 Meis2 Glut_1
+MB Glut,PAG-SC Neurod2 Meis2 Glut,PAG-SC Neurod2 Meis2 Glut_2
+MB Glut,PAG-SC Neurod2 Meis2 Glut,PAG-SC Neurod2 Meis2 Glut_3
+MB Glut,PAG-SC Neurod2 Meis2 Glut,PAG-SC Neurod2 Meis2 Glut_4
+MB Glut,PAG Pou4f3 Glut,PAG Pou4f3 Glut_1
+MB Glut,PAG Pou4f3 Glut,PAG Pou4f3 Glut_2
+MB Glut,PAG Pou4f3 Glut,PAG Pou4f3 Glut_3
+MB Glut,CUN Evx2 Lhx2 Glut,CUN Evx2 Lhx2 Glut_1
+MB Glut,CUN Evx2 Lhx2 Glut,CUN Evx2 Lhx2 Glut_2
+MB Glut,CUN Evx2 Lhx2 Glut,CUN Evx2 Lhx2 Glut_3
+MB Glut,CUN Evx2 Lhx2 Glut,CUN Evx2 Lhx2 Glut_4
+MB Glut,CUN Evx2 Lhx2 Glut,CUN Evx2 Lhx2 Glut_5
+MB Glut,APN C1ql2 Glut,APN C1ql2 Glut_1
+MB Glut,APN C1ql4 Glut,APN C1ql4 Glut_1
+MB Glut,PAG-MRN Pou3f1 Glut,PAG-MRN Pou3f1 Glut_1
+MB Glut,PAG-MRN Pou3f1 Glut,PAG-MRN Pou3f1 Glut_2
+MB Glut,PAG-MRN Pou3f1 Glut,PAG-MRN Pou3f1 Glut_3
+MB Glut,PAG-MRN Pou3f1 Glut,PAG-MRN Pou3f1 Glut_4
+MB Glut,PAG-MRN Pou3f1 Glut,PAG-MRN Pou3f1 Glut_5
+MB Glut,PAG-MRN Pou3f1 Glut,PAG-MRN Pou3f1 Glut_6
+MB Glut,PAG-MRN Tfap2b Glut,PAG-MRN Tfap2b Glut_1
+MB Glut,PAG-MRN Tfap2b Glut,PAG-MRN Tfap2b Glut_2
+MB Glut,PAG Pou4f1 Ebf2 Glut,PAG Pou4f1 Ebf2 Glut_1
+MB Glut,PAG Pou4f1 Ebf2 Glut,PAG Pou4f1 Ebf2 Glut_2
+MB Glut,PAG Pou4f1 Ebf2 Glut,PAG Pou4f1 Ebf2 Glut_3
+MB Glut,PAG Pou4f1 Ebf2 Glut,PAG Pou4f1 Ebf2 Glut_4
+MB Glut,PAG Pou4f1 Ebf2 Glut,PAG Pou4f1 Ebf2 Glut_5
+MB Glut,PAG Pou4f1 Ebf2 Glut,PAG Pou4f1 Ebf2 Glut_6
+MB Glut,PAG Pou4f1 Ebf2 Glut,PAG Pou4f1 Ebf2 Glut_7
+MB Glut,PAG Pou4f1 Ebf2 Glut,PAG Pou4f1 Ebf2 Glut_8
+MB Glut,PAG Pou4f2 Glut,PAG Pou4f2 Glut_1
+MB Glut,PAG Pou4f2 Glut,PAG Pou4f2 Glut_2
+MB Glut,PAG Pou4f2 Glut,PAG Pou4f2 Glut_3
+MB Glut,PAG Pou4f2 Glut,PAG Pou4f2 Glut_4
+MB Glut,PAG Pou4f2 Glut,PAG Pou4f2 Glut_5
+MB Glut,PAG Pou4f2 Mesi2 Glut,PAG Pou4f2 Mesi2 Glut_1
+MB Glut,PAG Pou4f2 Mesi2 Glut,PAG Pou4f2 Mesi2 Glut_2
+MB Glut,PAG Pou4f2 Mesi2 Glut,PAG Pou4f2 Mesi2 Glut_3
+MB Glut,PAG Pou4f2 Mesi2 Glut,PAG Pou4f2 Mesi2 Glut_4
+MB Glut,PAG Pou4f2 Mesi2 Glut,PAG Pou4f2 Mesi2 Glut_5
+MB Glut,PAG Pou4f2 Mesi2 Glut,PAG Pou4f2 Mesi2 Glut_6
+MB Glut,SC Bnc2 Glut,SC Bnc2 Glut_1
+MB Glut,SC Bnc2 Glut,SC Bnc2 Glut_2
+MB Glut,SC Bnc2 Glut,SC Bnc2 Glut_3
+MB Glut,SC Bnc2 Glut,SC Bnc2 Glut_4
+MB Glut,SCig Foxb1 Glut,SCig Foxb1 Glut_1
+MB Glut,SCig Foxb1 Glut,SCig Foxb1 Glut_2
+MB Glut,SCig Foxb1 Glut,SCig Foxb1 Glut_3
+MB Glut,SCig Foxb1 Glut,SCig Foxb1 Glut_4
+MB Glut,SCig-an-PPT Foxb1 Glut,SCig-an-PPT Foxb1 Glut_1
+MB Glut,SCig Foxb1 Otx2 Glut,SCig Foxb1 Otx2 Glut_1
+MB Glut,SCdg-PAG Tfap2b Glut,SCdg-PAG Tfap2b Glut_1
+MB Glut,SCiw Pitx2 Glut,SCiw Pitx2 Glut_1
+MB Glut,SCiw Pitx2 Glut,SCiw Pitx2 Glut_2
+MB Glut,SCiw Pitx2 Glut,SCiw Pitx2 Glut_3
+MB Glut,IC Tfap2d Maf Glut,IC Tfap2d Maf Glut_1
+MB Glut,IC Tfap2d Maf Glut,IC Tfap2d Maf Glut_2
+MB Glut,IC Tfap2d Maf Glut,IC Tfap2d Maf Glut_3
+MB Glut,IC Tfap2d Maf Glut,IC Tfap2d Maf Glut_4
+MB Glut,IC Tfap2d Maf Glut,IC Tfap2d Maf Glut_5
+MB Glut,IC Tfap2d Maf Glut,IC Tfap2d Maf Glut_6
+MB Glut,CUN-PPN Evx2 Meis2 Glut,CUN-PPN Evx2 Meis2 Glut_1
+MB Glut,CUN-PPN Evx2 Meis2 Glut,CUN-PPN Evx2 Meis2 Glut_2
+MB Glut,CUN-PPN Evx2 Meis2 Glut,CUN-PPN Evx2 Meis2 Glut_3
+MB Glut,CUN-PPN Evx2 Meis2 Glut,CUN-PPN Evx2 Meis2 Glut_4
+MB Glut,CUN-PPN Evx2 Meis2 Glut,CUN-PPN Evx2 Meis2 Glut_5
+MB Glut,PBG Mtnr1a Glut-Chol,PBG Mtnr1a Glut-Chol_1
+MB Glut,PAG Tcf24 Glut,PAG Tcf24 Glut_1
+MB Glut,SCig Tfap2b Chrnb3 Glut,SCig Tfap2b Chrnb3 Glut_1
+MB Glut,SCop Pou4f2 Neurod2 Glut,SCop Pou4f2 Neurod2 Glut_1
+MB Glut,SCsg Pde5a Glut,SCsg Pde5a Glut_1
+MB Glut,SCsg Pde5a Glut,SCsg Pde5a Glut_2
+MB Glut,SCsg Pde5a Glut,SCsg Pde5a Glut_3
+MB Glut,SCop Sln Glut,SCop Sln Glut_1
+MB Glut,PAG Ucn Glut,PAG Ucn Glut_1
+MB Glut,ND-INC Foxd2 Glut,ND-INC Foxd2 Glut_1
+MB GABA,PAG-MRN Rln3 Gaba,PAG-MRN Rln3 Gaba_1
+MB GABA,PPN-CUN-PCG Otp En1 Gaba,PPN-CUN-PCG Otp En1 Gaba_1
+MB GABA,PPN-CUN-PCG Otp En1 Gaba,PPN-CUN-PCG Otp En1 Gaba_2
+MB GABA,PPN-CUN-PCG Otp En1 Gaba,PPN-CUN-PCG Otp En1 Gaba_3
+MB GABA,MRN-PPN-CUN Pax8 Gaba,MRN-PPN-CUN Pax8 Gaba_1
+MB GABA,MRN-PPN-CUN Pax8 Gaba,MRN-PPN-CUN Pax8 Gaba_2
+MB GABA,MRN-PPN-CUN Pax8 Gaba,MRN-PPN-CUN Pax8 Gaba_3
+MB GABA,MRN-VTN-PPN Pax5 Cdh23 Gaba,MRN-VTN-PPN Pax5 Cdh23 Gaba_1
+MB GABA,MRN-VTN-PPN Pax5 Cdh23 Gaba,MRN-VTN-PPN Pax5 Cdh23 Gaba_2
+MB GABA,SNr-VTA Pax5 Npas1 Gaba,SNr-VTA Pax5 Npas1 Gaba_1
+MB GABA,SNr-VTA Pax5 Npas1 Gaba,SNr-VTA Pax5 Npas1 Gaba_2
+MB GABA,PAG-PPN Pax5 Sox21 Gaba,PAG-PPN Pax5 Sox21 Gaba_1
+MB GABA,PAG-PPN Pax5 Sox21 Gaba,PAG-PPN Pax5 Sox21 Gaba_2
+MB GABA,PAG-PPN Pax5 Sox21 Gaba,PAG-PPN Pax5 Sox21 Gaba_3
+MB GABA,PAG-PPN Pax5 Sox21 Gaba,PAG-PPN Pax5 Sox21 Gaba_4
+MB GABA,SNr Six3 Gaba,SNr Six3 Gaba_1
+MB GABA,IC Six3 En2 Gaba,IC Six3 En2 Gaba_1
+MB GABA,IC Six3 En2 Gaba,IC Six3 En2 Gaba_2
+MB GABA,IC Six3 En2 Gaba,IC Six3 En2 Gaba_3
+MB GABA,IC Six3 En2 Gaba,IC Six3 En2 Gaba_4
+MB GABA,IC Six3 En2 Gaba,IC Six3 En2 Gaba_5
+MB GABA,IC Six3 En2 Gaba,IC Six3 En2 Gaba_6
+MB GABA,IC Six3 En2 Gaba,IC Six3 En2 Gaba_7
+MB GABA,PAG-MRN-RN Foxa2 Gaba,PAG-MRN-RN Foxa2 Gaba_1
+MB GABA,PAG-MRN-RN Foxa2 Gaba,PAG-MRN-RN Foxa2 Gaba_2
+MB GABA,PAG-MRN-RN Foxa2 Gaba,PAG-MRN-RN Foxa2 Gaba_3
+MB GABA,PAG-MRN-RN Foxa2 Gaba,PAG-MRN-RN Foxa2 Gaba_4
+MB GABA,PAG-RN Nkx2-2 Otx1 Gaba,PAG-RN Nkx2-2 Otx1 Gaba_1
+MB GABA,PAG-RN Nkx2-2 Otx1 Gaba,PAG-RN Nkx2-2 Otx1 Gaba_2
+MB GABA,PAG-RN Nkx2-2 Otx1 Gaba,PAG-RN Nkx2-2 Otx1 Gaba_3
+MB GABA,PAG-RN Nkx2-2 Otx1 Gaba,PAG-RN Nkx2-2 Otx1 Gaba_4
+MB GABA,PAG-RN Nkx2-2 Otx1 Gaba,PAG-RN Nkx2-2 Otx1 Gaba_5
+MB GABA,PAG-RN Nkx2-2 Otx1 Gaba,PAG-RN Nkx2-2 Otx1 Gaba_6
+MB GABA,PRT Tcf7l2 Gaba,PRT Tcf7l2 Gaba_1
+MB GABA,PRT Tcf7l2 Gaba,PRT Tcf7l2 Gaba_2
+MB GABA,PRT Tcf7l2 Gaba,PRT Tcf7l2 Gaba_3
+MB GABA,PRT Tcf7l2 Gaba,PRT Tcf7l2 Gaba_4
+MB GABA,PRT Tcf7l2 Gaba,PRT Tcf7l2 Gaba_5
+MB GABA,SC Otx2 Gcnt4 Gaba,SC Otx2 Gcnt4 Gaba_1
+MB GABA,SC Otx2 Gcnt4 Gaba,SC Otx2 Gcnt4 Gaba_2
+MB GABA,SC-PAG Lef1 Emx2 Gaba,SC-PAG Lef1 Emx2 Gaba_1
+MB GABA,SC-PAG Lef1 Emx2 Gaba,SC-PAG Lef1 Emx2 Gaba_2
+MB GABA,SC-PAG Lef1 Emx2 Gaba,SC-PAG Lef1 Emx2 Gaba_3
+MB GABA,SC-PAG Lef1 Emx2 Gaba,SC-PAG Lef1 Emx2 Gaba_4
+MB GABA,SC-PAG Lef1 Emx2 Gaba,SC-PAG Lef1 Emx2 Gaba_5
+MB GABA,SCm-PAG Cdh23 Gaba,SCm-PAG Cdh23 Gaba_1
+MB GABA,SCm-PAG Cdh23 Gaba,SCm-PAG Cdh23 Gaba_2
+MB GABA,SCm-PAG Cdh23 Gaba,SCm-PAG Cdh23 Gaba_3
+MB GABA,SCm-PAG Cdh23 Gaba,SCm-PAG Cdh23 Gaba_4
+MB GABA,SCs Dmbx1 Gaba,SCs Dmbx1 Gaba_1
+MB GABA,SCs Dmbx1 Gaba,SCs Dmbx1 Gaba_2
+MB GABA,SCs Dmbx1 Gaba,SCs Dmbx1 Gaba_3
+MB GABA,SCs Dmbx1 Gaba,SCs Dmbx1 Gaba_4
+MB GABA,SCs Dmbx1 Gaba,SCs Dmbx1 Gaba_5
+MB GABA,SC Lef1 Otx2 Gaba,SC Lef1 Otx2 Gaba_1
+MB GABA,SC Lef1 Otx2 Gaba,SC Lef1 Otx2 Gaba_2
+MB GABA,SCs Pax7 Nfia Gaba,SCs Pax7 Nfia Gaba_1
+MB GABA,SCs Pax7 Nfia Gaba,SCs Pax7 Nfia Gaba_2
+MB GABA,SCs Pax7 Nfia Gaba,SCs Pax7 Nfia Gaba_3
+MB GABA,SCs Pax7 Nfia Gaba,SCs Pax7 Nfia Gaba_4
+MB GABA,SCs Pax7 Nfia Gaba,SCs Pax7 Nfia Gaba_5
+MB GABA,PRT Mecom Gaba,PRT Mecom Gaba_1
+MB GABA,PRT Mecom Gaba,PRT Mecom Gaba_2
+MB GABA,PRT Mecom Gaba,PRT Mecom Gaba_3
+MB GABA,SC Tnnt1 Gli3 Gaba,SC Tnnt1 Gli3 Gaba_1
+MB GABA,SC Tnnt1 Gli3 Gaba,SC Tnnt1 Gli3 Gaba_2
+MB GABA,SCs Lef1 Gli3 Gaba,SCs Lef1 Gli3 Gaba_1
+MB GABA,SCs Lef1 Gli3 Gaba,SCs Lef1 Gli3 Gaba_2
+MB GABA,SCs Lef1 Gli3 Gaba,SCs Lef1 Gli3 Gaba_3
+MB GABA,SCsg Gabrr2 Gaba,SCsg Gabrr2 Gaba_1
+MB GABA,SCsg Gabrr2 Gaba,SCsg Gabrr2 Gaba_2
+MB GABA,SCsg Gabrr2 Gaba,SCsg Gabrr2 Gaba_3
+MB GABA,SCsg Gabrr2 Gaba,SCsg Gabrr2 Gaba_4
+MB GABA,SCsg Gabrr2 Gaba,SCsg Gabrr2 Gaba_5
+MB GABA,IPN Otp Crisp1 Gaba,IPN Otp Crisp1 Gaba_1
+MB GABA,IPN Otp Crisp1 Gaba,IPN Otp Crisp1 Gaba_2
+MB GABA,IPN Otp Crisp1 Gaba,IPN Otp Crisp1 Gaba_3
+MB Dopa,SNc-VTA-RAmb Foxa1 Dopa,SNc-VTA-RAmb Foxa1 Dopa_1
+MB Dopa,SNc-VTA-RAmb Foxa1 Dopa,SNc-VTA-RAmb Foxa1 Dopa_2
+MB Dopa,SNc-VTA-RAmb Foxa1 Dopa,SNc-VTA-RAmb Foxa1 Dopa_3
+MB Dopa,SNc-VTA-RAmb Foxa1 Dopa,SNc-VTA-RAmb Foxa1 Dopa_4
+MB Dopa,SNc-VTA-RAmb Foxa1 Dopa,SNc-VTA-RAmb Foxa1 Dopa_5
+MB Dopa,SNc-VTA-RAmb Foxa1 Dopa,SNc-VTA-RAmb Foxa1 Dopa_6
+MB Dopa,SNc-VTA-RAmb Foxa1 Dopa,SNc-VTA-RAmb Foxa1 Dopa_7
+MB Dopa,SNc-VTA-RAmb Foxa1 Dopa,SNc-VTA-RAmb Foxa1 Dopa_8
+P Glut,PB Lmx1a Glut,PB Lmx1a Glut_1
+P Glut,PB Lmx1a Glut,PB Lmx1a Glut_2
+P Glut,PB Lmx1a Glut,PB Lmx1a Glut_3
+P Glut,PB Lmx1a Glut,PB Lmx1a Glut_4
+P Glut,PB Lmx1a Glut,PB Lmx1a Glut_5
+P Glut,PB Lmx1a Glut,PB Lmx1a Glut_6
+P Glut,PB Lmx1a Glut,PB Lmx1a Glut_7
+P Glut,PB-SUT Tlx3 Lhx2 Glut,PB-SUT Tlx3 Lhx2 Glut_1
+P Glut,PB Pax5 Glut,PB Pax5 Glut_1
+P Glut,PB Pax5 Glut,PB Pax5 Glut_2
+P Glut,LDT-PCG Vsx2 Lhx4 Glut,LDT-PCG Vsx2 Lhx4 Glut_1
+P Glut,LDT-PCG Vsx2 Lhx4 Glut,LDT-PCG Vsx2 Lhx4 Glut_2
+P Glut,LDT-PCG Vsx2 Lhx4 Glut,LDT-PCG Vsx2 Lhx4 Glut_3
+P Glut,LDT-PCG Vsx2 Lhx4 Glut,LDT-PCG Vsx2 Lhx4 Glut_4
+P Glut,LDT-PCG Vsx2 Lhx4 Glut,LDT-PCG Vsx2 Lhx4 Glut_5
+P Glut,LDT-PCG Vsx2 Lhx4 Glut,LDT-PCG Vsx2 Lhx4 Glut_6
+P Glut,LDT-PCG Vsx2 Lhx4 Glut,LDT-PCG Vsx2 Lhx4 Glut_7
+P Glut,LDT-PCG Vsx2 Lhx4 Glut,LDT-PCG Vsx2 Lhx4 Glut_8
+P Glut,PB Evx2 Glut,PB Evx2 Glut_1
+P Glut,PB Evx2 Glut,PB Evx2 Glut_2
+P Glut,PB Evx2 Glut,PB Evx2 Glut_3
+P Glut,PB Evx2 Glut,PB Evx2 Glut_4
+P Glut,PB Evx2 Glut,PB Evx2 Glut_5
+P Glut,PB Evx2 Glut,PB Evx2 Glut_6
+P Glut,PB Evx2 Glut,PB Evx2 Glut_7
+P Glut,PB Evx2 Glut,PB Evx2 Glut_8
+P Glut,PB Evx2 Glut,PB Evx2 Glut_9
+P Glut,B-PB Nr4a2 Glut,B-PB Nr4a2 Glut_1
+P Glut,PCG-PRNr Vsx2 Nkx6-1 Glut,PCG-PRNr Vsx2 Nkx6-1 Glut_1
+P Glut,PCG-PRNr Vsx2 Nkx6-1 Glut,PCG-PRNr Vsx2 Nkx6-1 Glut_2
+P Glut,PCG-PRNr Vsx2 Nkx6-1 Glut,PCG-PRNr Vsx2 Nkx6-1 Glut_3
+P Glut,PCG-PRNr Vsx2 Nkx6-1 Glut,PCG-PRNr Vsx2 Nkx6-1 Glut_4
+P Glut,PCG-PRNr Vsx2 Nkx6-1 Glut,PCG-PRNr Vsx2 Nkx6-1 Glut_5
+P Glut,PCG-PRNr Vsx2 Nkx6-1 Glut,PCG-PRNr Vsx2 Nkx6-1 Glut_6
+P Glut,PRNc-NI-SG-RPO Vsx2 Nr4a2 Glut,PRNc-NI-SG-RPO Vsx2 Nr4a2 Glut_1
+P Glut,PRNc-NI-SG-RPO Vsx2 Nr4a2 Glut,PRNc-NI-SG-RPO Vsx2 Nr4a2 Glut_2
+P Glut,PRNc-NI-SG-RPO Vsx2 Nr4a2 Glut,PRNc-NI-SG-RPO Vsx2 Nr4a2 Glut_3
+P Glut,PRNc-NI-SG-RPO Vsx2 Nr4a2 Glut,PRNc-NI-SG-RPO Vsx2 Nr4a2 Glut_4
+P Glut,PRNc-PARN Tlx1 Glut,PRNc-PARN Tlx1 Glut_1
+P Glut,PRNc-PARN Tlx1 Glut,PRNc-PARN Tlx1 Glut_2
+P Glut,PRNc-PARN Tlx1 Glut,PRNc-PARN Tlx1 Glut_3
+P Glut,PB-PSV Phox2b Glut,PB-PSV Phox2b Glut_1
+P Glut,PSV Pvalb Lhx2 Glut,PSV Pvalb Lhx2 Glut_1
+P Glut,PSV Pvalb Lhx2 Glut,PSV Pvalb Lhx2 Glut_2
+P Glut,PSV Pvalb Lhx2 Glut,PSV Pvalb Lhx2 Glut_3
+P Glut,PSV Pvalb Lhx2 Glut,PSV Pvalb Lhx2 Glut_4
+P Glut,PB-NTS Phox2b Ebf3 Lmx1b Glut,PB-NTS Phox2b Ebf3 Lmx1b Glut_1
+P Glut,PB-NTS Phox2b Ebf3 Lmx1b Glut,PB-NTS Phox2b Ebf3 Lmx1b Glut_2
+P Glut,PRNr Otp Nfib Glut,PRNr Otp Nfib Glut_1
+P Glut,IPN-LDT Vsx2 Nkx6-1 Glut,IPN-LDT Vsx2 Nkx6-1 Glut_1
+P Glut,IPN-LDT Vsx2 Nkx6-1 Glut,IPN-LDT Vsx2 Nkx6-1 Glut_2
+P Glut,LDT Vsx2 Nkx6-1 Nfib Glut,LDT Vsx2 Nkx6-1 Nfib Glut_1
+P Glut,LDT Vsx2 Nkx6-1 Nfib Glut,LDT Vsx2 Nkx6-1 Nfib Glut_2
+P Glut,NLL-SOC Spp1 Glut,NLL-SOC Spp1 Glut_1
+P Glut,NLL-SOC Spp1 Glut,NLL-SOC Spp1 Glut_2
+P Glut,PG-TRN-LRN Fat2 Glut,PG-TRN-LRN Fat2 Glut_1
+MY Glut,IRN Vip Glut,IRN Vip Glut_1
+MY Glut,PRP-NI-PRNc-GRN Otp Glut,PRP-NI-PRNc-GRN Otp Glut_1
+MY Glut,PRP-NI-PRNc-GRN Otp Glut,PRP-NI-PRNc-GRN Otp Glut_2
+MY Glut,PRP-NI-PRNc-GRN Otp Glut,PRP-NI-PRNc-GRN Otp Glut_3
+MY Glut,PRP-NI-PRNc-GRN Otp Glut,PRP-NI-PRNc-GRN Otp Glut_4
+MY Glut,NTS Phox2b Glut,NTS Phox2b Glut_1
+MY Glut,NTS Phox2b Glut,NTS Phox2b Glut_2
+MY Glut,NTS Phox2b Glut,NTS Phox2b Glut_3
+MY Glut,NTS Phox2b Glut,NTS Phox2b Glut_4
+MY Glut,NTS Phox2b Glut,NTS Phox2b Glut_5
+MY Glut,NTS Phox2b Glut,NTS Phox2b Glut_6
+MY Glut,NTS Phox2b Glut,NTS Phox2b Glut_7
+MY Glut,NTS Phox2b Glut,NTS Phox2b Glut_8
+MY Glut,NTS Phox2b Glut,NTS Phox2b Glut_9
+MY Glut,NTS Phox2b Glut,NTS Phox2b Glut_10
+MY Glut,MARN-GRN Pyy Glut,MARN-GRN Pyy Glut_1
+MY Glut,MDRNv Lhx4 Qrfprl Glut,MDRNv Lhx4 Qrfprl Glut_1
+MY Glut,NTS Mbnl3 Glut,NTS Mbnl3 Glut_1
+MY Glut,PGRNd Dmbx1 Glut,PGRNd Dmbx1 Glut_1
+MY Glut,PGRN-PARN-MDRN Hoxb5 Glut,PGRN-PARN-MDRN Hoxb5 Glut_1
+MY Glut,PGRN-PARN-MDRN Hoxb5 Glut,PGRN-PARN-MDRN Hoxb5 Glut_2
+MY Glut,PGRN-PARN-MDRN Hoxb5 Glut,PGRN-PARN-MDRN Hoxb5 Glut_3
+MY Glut,PGRN-PARN-MDRN Hoxb5 Glut,PGRN-PARN-MDRN Hoxb5 Glut_4
+MY Glut,PGRN-PARN-MDRN Hoxb5 Glut,PGRN-PARN-MDRN Hoxb5 Glut_5
+MY Glut,PGRN-PARN-MDRN Hoxb5 Glut,PGRN-PARN-MDRN Hoxb5 Glut_6
+MY Glut,PGRN-PARN-MDRN Hoxb5 Glut,PGRN-PARN-MDRN Hoxb5 Glut_7
+MY Glut,MV-SPIV Slc6a2 Glut,MV-SPIV Slc6a2 Glut_1
+MY Glut,SPVI-SPVC Tlx3 Ebf3 Glut,SPVI-SPVC Tlx3 Ebf3 Glut_1
+MY Glut,SPVI-SPVC Tlx3 Ebf3 Glut,SPVI-SPVC Tlx3 Ebf3 Glut_2
+MY Glut,SPVI-SPVC Tlx3 Ebf3 Glut,SPVI-SPVC Tlx3 Ebf3 Glut_3
+MY Glut,SPVI-SPVC Tlx3 Ebf3 Glut,SPVI-SPVC Tlx3 Ebf3 Glut_4
+MY Glut,SPVI-SPVC Tlx3 Ebf3 Glut,SPVI-SPVC Tlx3 Ebf3 Glut_5
+MY Glut,SPVI-SPVC Tlx3 Ebf3 Glut,SPVI-SPVC Tlx3 Ebf3 Glut_6
+MY Glut,SPVI-SPVC Tlx3 Ebf3 Glut,SPVI-SPVC Tlx3 Ebf3 Glut_7
+MY Glut,CU-ECU-SPVI Foxb1 Glut,CU-ECU-SPVI Foxb1 Glut_1
+MY Glut,CU-ECU-SPVI Foxb1 Glut,CU-ECU-SPVI Foxb1 Glut_2
+MY Glut,CU-ECU-SPVI Foxb1 Glut,CU-ECU-SPVI Foxb1 Glut_3
+MY Glut,CU-ECU-SPVI Foxb1 Glut,CU-ECU-SPVI Foxb1 Glut_4
+MY Glut,MV-SPIV Phox2b Ebf3 Lbx1 Glut,MV-SPIV Phox2b Ebf3 Lbx1 Glut_1
+MY Glut,MV-SPIV Phox2b Ebf3 Lbx1 Glut,MV-SPIV Phox2b Ebf3 Lbx1 Glut_2
+MY Glut,MV-SPIV Phox2b Ebf3 Lbx1 Glut,MV-SPIV Phox2b Ebf3 Lbx1 Glut_3
+MY Glut,MV-SPIV Phox2b Ebf3 Lbx1 Glut,MV-SPIV Phox2b Ebf3 Lbx1 Glut_4
+MY Glut,MV-SPIV Phox2b Ebf3 Lbx1 Glut,MV-SPIV Phox2b Ebf3 Lbx1 Glut_5
+MY Glut,MV-SPIV Zic4 Neurod2 Glut,MV-SPIV Zic4 Neurod2 Glut_1
+MY Glut,MV-SPIV Zic4 Neurod2 Glut,MV-SPIV Zic4 Neurod2 Glut_2
+MY Glut,MV-SPIV Zic4 Neurod2 Glut,MV-SPIV Zic4 Neurod2 Glut_3
+MY Glut,MV-SPIV Zic4 Neurod2 Glut,MV-SPIV Zic4 Neurod2 Glut_4
+MY Glut,MV-SPIV Zic4 Neurod2 Glut,MV-SPIV Zic4 Neurod2 Glut_5
+MY Glut,NTS Aldh1a2 Glut,NTS Aldh1a2 Glut_1
+MY Glut,CBN Neurod2 Pvalb Glut,CBN Neurod2 Pvalb Glut_1
+MY Glut,NTS Dbh Glut,NTS Dbh Glut_1
+MY Glut,NTS Dbh Glut,NTS Dbh Glut_2
+MY Glut,NTS Dbh Glut,NTS Dbh Glut_3
+MY Glut,NTS Dbh Glut,NTS Dbh Glut_4
+MY Glut,NTS Dbh Glut,NTS Dbh Glut_5
+MY Glut,NTS Dbh Glut,NTS Dbh Glut_6
+MY Glut,DMX VII Tbx20 Chol,DMX VII Tbx20 Chol_1
+MY Glut,DMX VII Tbx20 Chol,DMX VII Tbx20 Chol_2
+MY Glut,IO Fgl2 Glut,IO Fgl2 Glut_1
+MY Glut,VCO Mafa Meis2 Glut,VCO Mafa Meis2 Glut_1
+MY Glut,VCO Mafa Meis2 Glut,VCO Mafa Meis2 Glut_2
+MY Glut,VCO Mafa Meis2 Glut,VCO Mafa Meis2 Glut_3
+MY Glut,VCO Mafa Meis2 Glut,VCO Mafa Meis2 Glut_4
+MY Glut,SPVO Mafa Meis2 Glut,SPVO Mafa Meis2 Glut_1
+MY Glut,SPVC Mafa Glut,SPVC Mafa Glut_1
+MY Glut,SPVC Mafa Glut,SPVC Mafa Glut_2
+MY Glut,SPVC Ccdc172 Glut,SPVC Ccdc172 Glut_1
+MY Glut,SPVC Nmu Glut,SPVC Nmu Glut_1
+MY Glut,SPVC Nmu Glut,SPVC Nmu Glut_2
+MY Glut,MDRNd Bves Glut,MDRNd Bves Glut_1
+MY Glut,MDRNv Crp Glut,MDRNv Crp Glut_1
+MY Glut,HB Calcb Chol,HB Calcb Chol_1
+MY Glut,HB Calcb Chol,HB Calcb Chol_2
+MY Glut,HB Calcb Chol,HB Calcb Chol_3
+MY Glut,HB Calcb Chol,HB Calcb Chol_4
+MY Glut,HB Calcb Chol,HB Calcb Chol_5
+Pineal Glut,Pineal Crx Glut,Pineal Crx Glut_1
+P GABA,CS-RPO Meis2 Gaba,CS-RPO Meis2 Gaba_1
+P GABA,CS-RPO Meis2 Gaba,CS-RPO Meis2 Gaba_2
+P GABA,CS-RPO Meis2 Gaba,CS-RPO Meis2 Gaba_3
+P GABA,CS-RPO Meis2 Gaba,CS-RPO Meis2 Gaba_4
+P GABA,CS-RPO Meis2 Gaba,CS-RPO Meis2 Gaba_5
+P GABA,PRNc Otp Gly-Gaba,PRNc Otp Gly-Gaba_1
+P GABA,PRNc Otp Gly-Gaba,PRNc Otp Gly-Gaba_2
+P GABA,PRNc Otp Gly-Gaba,PRNc Otp Gly-Gaba_3
+P GABA,PRNc Otp Gly-Gaba,PRNc Otp Gly-Gaba_4
+P GABA,PRNc Otp Gly-Gaba,PRNc Otp Gly-Gaba_5
+P GABA,PB Sst Gly-Gaba,PB Sst Gly-Gaba_1
+P GABA,PB Sst Gly-Gaba,PB Sst Gly-Gaba_2
+P GABA,PRNc Prox1 Brs3 Gly-Gaba,PRNc Prox1 Brs3 Gly-Gaba_1
+P GABA,CS-PRNr-DR En1 Sox2 Gaba,CS-PRNr-DR En1 Sox2 Gaba_1
+P GABA,CS-PRNr-DR En1 Sox2 Gaba,CS-PRNr-DR En1 Sox2 Gaba_2
+P GABA,LDT Fgf7 Gaba,LDT Fgf7 Gaba_1
+P GABA,NI-RPO Gata3 Nr4a2 Gaba,NI-RPO Gata3 Nr4a2 Gaba_1
+P GABA,NI-RPO Gata3 Nr4a2 Gaba,NI-RPO Gata3 Nr4a2 Gaba_2
+P GABA,NI-RPO Gata3 Nr4a2 Gaba,NI-RPO Gata3 Nr4a2 Gaba_3
+P GABA,NI-RPO Gata3 Nr4a2 Gaba,NI-RPO Gata3 Nr4a2 Gaba_4
+P GABA,LDT-PCG-CS Gata3 Lhx1 Gaba,LDT-PCG-CS Gata3 Lhx1 Gaba_1
+P GABA,LDT-PCG-CS Gata3 Lhx1 Gaba,LDT-PCG-CS Gata3 Lhx1 Gaba_2
+P GABA,LDT-PCG-CS Gata3 Lhx1 Gaba,LDT-PCG-CS Gata3 Lhx1 Gaba_3
+P GABA,LDT-PCG-CS Gata3 Lhx1 Gaba,LDT-PCG-CS Gata3 Lhx1 Gaba_4
+P GABA,LDT-PCG-CS Gata3 Lhx1 Gaba,LDT-PCG-CS Gata3 Lhx1 Gaba_5
+P GABA,PDTg-PCG Pax6 Gaba,PDTg-PCG Pax6 Gaba_1
+P GABA,PDTg-PCG Pax6 Gaba,PDTg-PCG Pax6 Gaba_2
+P GABA,PDTg-PCG Pax6 Gaba,PDTg-PCG Pax6 Gaba_3
+P GABA,PDTg-PCG Pax6 Gaba,PDTg-PCG Pax6 Gaba_4
+P GABA,PDTg Otp Shroom3 Gaba,PDTg Otp Shroom3 Gaba_1
+P GABA,PDTg Otp Olig3 Gaba,PDTg Otp Olig3 Gaba_1
+P GABA,LDT-PCG St18 Gaba,LDT-PCG St18 Gaba_1
+P GABA,LDT-PCG St18 Gaba,LDT-PCG St18 Gaba_2
+P GABA,DTN-LDT-IPN Otp Pax3 Gaba,DTN-LDT-IPN Otp Pax3 Gaba_1
+P GABA,DTN-LDT-IPN Otp Pax3 Gaba,DTN-LDT-IPN Otp Pax3 Gaba_2
+P GABA,DTN-LDT-IPN Otp Pax3 Gaba,DTN-LDT-IPN Otp Pax3 Gaba_3
+P GABA,DTN-LDT-IPN Otp Pax3 Gaba,DTN-LDT-IPN Otp Pax3 Gaba_4
+P GABA,DTN-LDT-IPN Otp Pax3 Gaba,DTN-LDT-IPN Otp Pax3 Gaba_5
+P GABA,NLL Gata3 Gly-Gaba,NLL Gata3 Gly-Gaba_1
+P GABA,NLL Gata3 Gly-Gaba,NLL Gata3 Gly-Gaba_2
+P GABA,NLL Gata3 Gly-Gaba,NLL Gata3 Gly-Gaba_3
+P GABA,NLL Gata3 Gly-Gaba,NLL Gata3 Gly-Gaba_4
+P GABA,PSV Pax2 Gly-Gaba,PSV Pax2 Gly-Gaba_1
+P GABA,PSV Pax2 Gly-Gaba,PSV Pax2 Gly-Gaba_2
+P GABA,NLL-po Pax7 Gaba,NLL-po Pax7 Gaba_1
+P GABA,POR Gata3 Gly-Gaba,POR Gata3 Gly-Gaba_1
+P GABA,POR Spp1 Gly-Gaba,POR Spp1 Gly-Gaba_1
+MY GABA,PRP Otp Gly-Gaba,PRP Otp Gly-Gaba_1
+MY GABA,PRP Otp Gly-Gaba,PRP Otp Gly-Gaba_2
+MY GABA,PRP Otp Gly-Gaba,PRP Otp Gly-Gaba_3
+MY GABA,PRP Otp Gly-Gaba,PRP Otp Gly-Gaba_4
+MY GABA,PRP Otp Gly-Gaba,PRP Otp Gly-Gaba_5
+MY GABA,GRN-IRN-MDRNd Ikzf1 Gly-Gaba,GRN-IRN-MDRNd Ikzf1 Gly-Gaba_1
+MY GABA,MY Lhx1 Gly-Gaba,MY Lhx1 Gly-Gaba_1
+MY GABA,MY Lhx1 Gly-Gaba,MY Lhx1 Gly-Gaba_2
+MY GABA,MY Lhx1 Gly-Gaba,MY Lhx1 Gly-Gaba_3
+MY GABA,MY Lhx1 Gly-Gaba,MY Lhx1 Gly-Gaba_4
+MY GABA,MY Lhx1 Gly-Gaba,MY Lhx1 Gly-Gaba_5
+MY GABA,MY Lhx1 Gly-Gaba,MY Lhx1 Gly-Gaba_6
+MY GABA,MY Lhx1 Gly-Gaba,MY Lhx1 Gly-Gaba_7
+MY GABA,MY Lhx1 Gly-Gaba,MY Lhx1 Gly-Gaba_8
+MY GABA,MY Lhx1 Gly-Gaba,MY Lhx1 Gly-Gaba_9
+MY GABA,PPY-PGRNl Vip Glyc-Gaba,PPY-PGRNl Vip Glyc-Gaba_1
+MY GABA,MV-SPIV-PRP Dmbx1 Gly-Gaba,MV-SPIV-PRP Dmbx1 Gly-Gaba_1
+MY GABA,MV-SPIV-PRP Dmbx1 Gly-Gaba,MV-SPIV-PRP Dmbx1 Gly-Gaba_2
+MY GABA,MV-SPIV-PRP Dmbx1 Gly-Gaba,MV-SPIV-PRP Dmbx1 Gly-Gaba_3
+MY GABA,MDRN Hoxb5 Ebf2 Gly-Gaba,MDRN Hoxb5 Ebf2 Gly-Gaba_1
+MY GABA,MDRNd Prox1 Pax6 Gly-Gaba,MDRNd Prox1 Pax6 Gly-Gaba_1
+MY GABA,MY Prox1 Lmo7 Gly-Gaba,MY Prox1 Lmo7 Gly-Gaba_1
+MY GABA,NTS-MDRNd Prox1 Zic1 Gly-Gaba,NTS-MDRNd Prox1 Zic1 Gly-Gaba_1
+MY GABA,NTS-MDRNd Prox1 Zic1 Gly-Gaba,NTS-MDRNd Prox1 Zic1 Gly-Gaba_2
+MY GABA,MV Nkx6-1 Gly-Gaba,MV Nkx6-1 Gly-Gaba_1
+MY GABA,MV Nkx6-1 Gly-Gaba,MV Nkx6-1 Gly-Gaba_2
+MY GABA,PAS-MV Ebf2 Gly-Gaba,PAS-MV Ebf2 Gly-Gaba_1
+MY GABA,PAS-MV Ebf2 Gly-Gaba,PAS-MV Ebf2 Gly-Gaba_2
+MY GABA,PAS-MV Ebf2 Gly-Gaba,PAS-MV Ebf2 Gly-Gaba_3
+MY GABA,PAS-MV Ebf2 Gly-Gaba,PAS-MV Ebf2 Gly-Gaba_4
+MY GABA,MV Pax6 Gly-Gaba,MV Pax6 Gly-Gaba_1
+MY GABA,MV Pax6 Gly-Gaba,MV Pax6 Gly-Gaba_2
+MY GABA,CBN Dmbx1 Gaba,CBN Dmbx1 Gaba_1
+MY GABA,RPA Pax6 Hoxb5 Gly-Gaba,RPA Pax6 Hoxb5 Gly-Gaba_1
+MY GABA,CU-ECU Pax2 Gly-Gaba,CU-ECU Pax2 Gly-Gaba_1
+MY GABA,PRP Gata3 Slc6a5 Gly-Gaba,PRP Gata3 Slc6a5 Gly-Gaba_1
+MY GABA,MARN-PPY Ngfr Gly-Gaba,MARN-PPY Ngfr Gly-Gaba_1
+MY GABA,PARN-MDRNd-NTS Gbx2 Gly-Gaba,PARN-MDRNd-NTS Gbx2 Gly-Gaba_1
+MY GABA,PARN-MDRNd-NTS Gbx2 Gly-Gaba,PARN-MDRNd-NTS Gbx2 Gly-Gaba_2
+MY GABA,PARN-MDRNd-NTS Gbx2 Gly-Gaba,PARN-MDRNd-NTS Gbx2 Gly-Gaba_3
+MY GABA,PARN-MDRNd-NTS Gbx2 Gly-Gaba,PARN-MDRNd-NTS Gbx2 Gly-Gaba_4
+MY GABA,PARN-MDRNd-NTS Gbx2 Gly-Gaba,PARN-MDRNd-NTS Gbx2 Gly-Gaba_5
+MY GABA,PARN-MDRNd-NTS Gbx2 Gly-Gaba,PARN-MDRNd-NTS Gbx2 Gly-Gaba_6
+MY GABA,PARN-MDRNd-NTS Gbx2 Gly-Gaba,PARN-MDRNd-NTS Gbx2 Gly-Gaba_7
+MY GABA,MV Nr4a2 Gly-Gaba,MV Nr4a2 Gly-Gaba_1
+MY GABA,MV Xdh Gly-Gaba,MV Xdh Gly-Gaba_1
+MY GABA,IRN Dmbx1 Pax2 Gly-Gaba,IRN Dmbx1 Pax2 Gly-Gaba_1
+MY GABA,NTS-PARN Neurod2 Gly-Gaba,NTS-PARN Neurod2 Gly-Gaba_1
+MY GABA,NTS-PARN Neurod2 Gly-Gaba,NTS-PARN Neurod2 Gly-Gaba_2
+MY GABA,NTS-PARN Neurod2 Gly-Gaba,NTS-PARN Neurod2 Gly-Gaba_3
+MY GABA,NTS-PARN Neurod2 Gly-Gaba,NTS-PARN Neurod2 Gly-Gaba_4
+MY GABA,NTS-PARN Neurod2 Gly-Gaba,NTS-PARN Neurod2 Gly-Gaba_5
+MY GABA,NTS-PARN Neurod2 Gly-Gaba,NTS-PARN Neurod2 Gly-Gaba_6
+MY GABA,SPVI-SPVC Sall3 Nfib Gly-Gaba,SPVI-SPVC Sall3 Nfib Gly-Gaba_1
+MY GABA,SPVI-SPVC Sall3 Nfib Gly-Gaba,SPVI-SPVC Sall3 Nfib Gly-Gaba_2
+MY GABA,SPVI-SPVC Sall3 Lhx1 Gly-Gaba,SPVI-SPVC Sall3 Lhx1 Gly-Gaba_1
+MY GABA,SPVI-SPVC Sall3 Lhx1 Gly-Gaba,SPVI-SPVC Sall3 Lhx1 Gly-Gaba_2
+MY GABA,RO-RPA Pkd2l1 Gaba,RO-RPA Pkd2l1 Gaba_1
+CB GABA,DCO Il22 Gly-Gaba,DCO Il22 Gly-Gaba_1
+CB GABA,DCO Il22 Gly-Gaba,DCO Il22 Gly-Gaba_2
+CB GABA,DCO Il22 Gly-Gaba,DCO Il22 Gly-Gaba_3
+CB GABA,CB PLI Gly-Gaba,CB PLI Gly-Gaba_1
+CB GABA,CB PLI Gly-Gaba,CB PLI Gly-Gaba_2
+CB GABA,CB PLI Gly-Gaba,CB PLI Gly-Gaba_3
+CB GABA,CB PLI Gly-Gaba,CB PLI Gly-Gaba_4
+CB GABA,CBX Golgi Gly-Gaba,CBX Golgi Gly-Gaba_1
+CB GABA,CBX MLI Megf11 Gaba,CBX MLI Megf11 Gaba_1
+CB GABA,CBX MLI Megf11 Gaba,CBX MLI Megf11 Gaba_2
+CB GABA,CBX MLI Cdh22 Gaba,CBX MLI Cdh22 Gaba_1
+CB GABA,CBX Purkinje Gaba,CBX Purkinje Gaba_1
+CB GABA,CBX Purkinje Gaba,CBX Purkinje Gaba_2
+CB Glut,CB Granule Glut,CB Granule Glut_1
+CB Glut,CB Granule Glut,CB Granule Glut_2
+CB Glut,DCO UBC Glut,DCO UBC Glut_1
+Astro-Epen,Bergmann NN,Bergmann NN_1
+Astro-Epen,Astro-CB NN,Astro-CB NN_1
+Astro-Epen,Astro-NT NN,Astro-NT NN_1
+Astro-Epen,Astro-NT NN,Astro-NT NN_2
+Astro-Epen,Astro-TE NN,Astro-TE NN_1
+Astro-Epen,Astro-TE NN,Astro-TE NN_2
+Astro-Epen,Astro-TE NN,Astro-TE NN_3
+Astro-Epen,Astro-TE NN,Astro-TE NN_4
+Astro-Epen,Astro-TE NN,Astro-TE NN_5
+Astro-Epen,Astro-OLF NN,Astro-OLF NN_1
+Astro-Epen,Astro-OLF NN,Astro-OLF NN_2
+Astro-Epen,Astro-OLF NN,Astro-OLF NN_3
+Astro-Epen,Astroependymal NN,Astroependymal NN_1
+Astro-Epen,Astroependymal NN,Astroependymal NN_2
+Astro-Epen,Astroependymal NN,Astroependymal NN_3
+Astro-Epen,Tanycyte NN,Tanycyte NN_1
+Astro-Epen,Tanycyte NN,Tanycyte NN_2
+Astro-Epen,Tanycyte NN,Tanycyte NN_3
+Astro-Epen,Ependymal NN,Ependymal NN_1
+Astro-Epen,Ependymal NN,Ependymal NN_2
+Astro-Epen,Hypendymal NN,Hypendymal NN_1
+Astro-Epen,CHOR NN,CHOR NN_1
+OPC-Oligo,OPC NN,OPC NN_1
+OPC-Oligo,OPC NN,OPC NN_2
+OPC-Oligo,Oligo NN,COP NN_1
+OPC-Oligo,Oligo NN,NFOL NN_2
+OPC-Oligo,Oligo NN,MFOL NN_3
+OPC-Oligo,Oligo NN,MOL NN_4
+OEC,OEC NN,OEC NN_1
+Vascular,ABC NN,ABC NN_1
+Vascular,VLMC NN,VLMC NN_1
+Vascular,VLMC NN,VLMC NN_2
+Vascular,VLMC NN,VLMC NN_3
+Vascular,VLMC NN,VLMC NN_4
+Vascular,Peri NN,Peri NN_1
+Vascular,SMC NN,SMC NN_1
+Vascular,Endo NN,Endo NN_1
+Immune,Microglia NN,Microglia NN_1
+Immune,BAM NN,BAM NN_1
+Immune,Monocytes NN,Monocytes NN_1
+Immune,DC NN,DC NN_1
+Immune,Lymphoid NN,B cells NN_1
+Immune,Lymphoid NN,ILC NN_2
+Immune,Lymphoid NN,NK cells NN_3
+Immune,Lymphoid NN,T cells NN_4

@@ -1,0 +1,1175 @@
+,path,value,color
+0,root/IT-ET Glut,1,#FA0087
+1,root/NP-CT-L6b Glut,1,#61e2a4
+2,root/DG-IMN Glut,1,#16f2f2
+3,root/LSX GABA,1,#B199FF
+4,root/CNU-HYa GABA,1,#3283FE
+5,root/HY GABA,1,#450099
+6,root/CNU-HYa Glut,1,#FF6600
+7,root/HY Glut,1,#90E0EF
+8,root/HY Gnrh1 Glut,1,#AA0DFE
+9,root/HY MM Glut,1,#F28266
+10,root/MH-LH Glut,1,#01d669
+11,root/TH Glut,1,#FAA307
+12,root/MB Glut,1,#0D47A1
+13,root/MB GABA,1,#007200
+14,root/MB Dopa,1,#9EF01A
+15,root/P Glut,1,#EC4067
+16,root/MY Glut,1,#6b5ca5
+17,root/Pineal Glut,1,#F0A0FF
+18,root/P GABA,1,#086375
+19,root/MY GABA,1,#72195a
+20,root/CB GABA,1,#0096C7
+21,root/CB Glut,1,#FFFB46
+22,root/Astro-Epen,1,#9D0208
+23,root/OPC-Oligo,1,#594a26
+24,root/OEC,1,#03045E
+25,root/Vascular,1,#996B2E
+26,root/Immune,1,#858881
+27,root/IT-ET Glut/CLA-EPd-CTX Car3 Glut,1,#64c2fc
+28,root/IT-ET Glut/IT EP-CLA Glut,1,#1F665D
+29,root/IT-ET Glut/L6 IT CTX Glut,1,#C0FF4D
+30,root/IT-ET Glut/L5 IT CTX Glut,1,#660F38
+31,root/IT-ET Glut/IT AON-TT-DP Glut,1,#FF004B
+32,root/IT-ET Glut/L2 IT ENT-po Glut,1,#3DCCB7
+33,root/IT-ET Glut/MEA Slc17a7 Glut,1,#456C99
+34,root/IT-ET Glut/COAp Grxcr2 Glut,1,#61CC5C
+35,root/IT-ET Glut/LA-BLA-BMA-PA Glut,1,#BBFF73
+36,root/IT-ET Glut/ENTmv-PA-COAp Glut,1,#B6CC7A
+37,root/IT-ET Glut/CA1-ProS Glut,1,#0F3466
+38,root/IT-ET Glut/CA3 Glut,1,#C973FF
+39,root/IT-ET Glut/L2 IT PPP-APr Glut,1,#0F6632
+40,root/IT-ET Glut/L4 RSP-ACA Glut,1,#FFF226
+41,root/IT-ET Glut/L5 ET CTX Glut,1,#99A2FF
+42,root/IT-ET Glut/SUB-ProS Glut,1,#FF9999
+43,root/IT-ET Glut/L5 PPP Glut,1,#6B995C
+44,root/IT-ET Glut/CA2-FC-IG Glut,1,#FF7391
+45,root/IT-ET Glut/NLOT Rho Glut,1,#FFD573
+46,root/NP-CT-L6b Glut/L6b EPd Glut,1,#CC827A
+47,root/NP-CT-L6b Glut/L6b CTX Glut,1,#9EFF99
+48,root/NP-CT-L6b Glut/L6 CT CTX Glut,1,#34661F
+49,root/NP-CT-L6b Glut/CT SUB Glut,1,#440066
+50,root/NP-CT-L6b Glut/L5 NP CTX Glut,1,#7B7ACC
+51,root/NP-CT-L6b Glut/NP SUB Glut,1,#99CAFF
+52,root/NP-CT-L6b Glut/NP PPP Glut,1,#B8FF26
+53,root/DG-IMN Glut/DG Glut,1,#CC2400
+54,root/DG-IMN Glut/DG-PIR Ex IMN,1,#3D53CC
+55,root/LSX GABA/LSX Sall3 Pax6 Gaba,1,#006649
+56,root/LSX GABA/LSX Otx2 Gaba,1,#229917
+57,root/LSX GABA/LSX Nkx2-1 Gaba,1,#CCA43D
+58,root/LSX GABA/LSX Prdm12 Zeb2 Gaba,1,#0067FF
+59,root/LSX GABA/LSX Prdm12 Slit2 Gaba,1,#1F6625
+60,root/LSX GABA/LSX Sall3 Lmo1 Gaba,1,#00FFD0
+61,root/CNU-HYa GABA/MEA-BST Sox6 Gaba,1,#66360F
+62,root/CNU-HYa GABA/MEA-BST Lhx6 Sp9 Gaba,1,#FCFF4D
+63,root/CNU-HYa GABA/MEA-BST Lhx6 Nr2e1 Gaba,1,#995C70
+64,root/CNU-HYa GABA/MEA-BST Lhx6 Nfib Gaba,1,#990063
+65,root/CNU-HYa GABA/CEA-BST Gal Avp Gaba,1,#2E6637
+66,root/CNU-HYa GABA/SI-MA-ACB Ebf1 Bnc2 Gaba,1,#5CBCCC
+67,root/CNU-HYa GABA/CEA-BST Six3 Cyp26b1 Gaba,1,#73C1FF
+68,root/CNU-HYa GABA/ACB-BST-FS D1 Gaba,1,#FF4026
+69,root/CNU-HYa GABA/SI-MPO-LPO Lhx8 Gaba,1,#26FFAD
+70,root/CNU-HYa GABA/MPO-ADP Lhx8 Gaba,1,#FF004F
+71,root/CNU-HYa GABA/MPN-MPO-LPO Lhx6 Zfhx3 Gaba,1,#26C2FF
+72,root/CNU-HYa GABA/BST Tac2 Gaba,1,#71FF4D
+73,root/HY GABA/TMv-PMv Tbx3 Hist-Gaba,1,#2E664D
+74,root/HY GABA/RT-ZI Gnb3 Gaba,1,#CCB65C
+75,root/HY GABA/SCH Six6 Cdc14a Gaba,1,#FFBC4D
+76,root/HY GABA/DMH Prdm13 Gaba,1,#179972
+77,root/HY GABA/PVHd Gsc Gaba,1,#3B1FCC
+78,root/HY GABA/PVHd-SBPV Six3 Prox1 Gaba,1,#2E3D66
+79,root/HY GABA/AHN Onecut3 Gaba,1,#553D66
+80,root/HY GABA/ZI Pax6 Gaba,1,#73FFCF
+81,root/HY GABA/DMH-LHA Gsx1 Gaba,1,#992A00
+82,root/HY GABA/PVHd-DMH Lhx6 Gaba,1,#73F8FF
+83,root/HY GABA/TU-ARH Otp Six6 Gaba,1,#2E0F66
+84,root/HY GABA/TMd-DMH Foxd2 Gaba,1,#3DCC9E
+85,root/HY GABA/PVpo-VMPO-MPN Hmx2 Gaba,1,#3D4566
+86,root/HY GABA/DMH Hmx2 Gaba,1,#FFB473
+87,root/HY GABA/ARH-PVp Tbx3 Gaba,1,#CC3D76
+88,root/HY GABA/LGv-ZI Otx2 Gaba,1,#664DFF
+89,root/CNU-HYa Glut/BST-po Iigp1 Glut,1,#973DCC
+90,root/CNU-HYa Glut/TRS-BAC Sln Glut,1,#500F66
+91,root/CNU-HYa Glut/MEA-COA-BMA Ccdc42 Glut,1,#660F5A
+92,root/CNU-HYa Glut/COAa-PAA-MEA Barhl2 Glut,1,#EDFF99
+93,root/CNU-HYa Glut/MS-SF Bsx Glut,1,#1F6641
+94,root/CNU-HYa Glut/AVPV-MEPO-SFO Tbr1 Glut,1,#1100CC
+95,root/CNU-HYa Glut/LHA Barhl2 Glut,1,#5C9995
+96,root/CNU-HYa Glut/ADP-MPO Trp73 Glut,1,#00CC6A
+97,root/CNU-HYa Glut/SI-MA-LPO-LHA Skor1 Glut,1,#352E66
+98,root/CNU-HYa Glut/LHA-MEA Otp Glut,1,#1FCCCA
+99,root/HY Glut/DMH Nkx2-4 Glut,1,#FF73C8
+100,root/HY Glut/MPN-MPO-PVpo Hmx2 Glut,1,#CC1F92
+101,root/HY Glut/DMH Hmx2 Glut,1,#2F6600
+102,root/HY Glut/ARH-PVp Tbx3 Glut,1,#CC4B1F
+103,root/HY Glut/DMH-LHA Vgll2 Glut,1,#391799
+104,root/HY Glut/VMH Fezf1 Glut,1,#00CBFF
+105,root/HY Glut/VMH Nr5a1 Glut,1,#5CCCB1
+106,root/HY Glut/LHA Pmch Glut,1,#B100CC
+107,root/HY Glut/PVH-SO-PVa Otp Glut,1,#603DCC
+108,root/HY Glut/STN-PSTN Pitx2 Glut,1,#CC0048
+109,root/HY Glut/PMv-TMv Pitx2 Glut,1,#3D5566
+110,root/HY Glut/PH-an Pitx2 Glut,1,#66441F
+111,root/HY Glut/PH Pitx2 Glut,1,#5C6D99
+112,root/HY Glut/PH-LHA Foxb1 Glut,1,#7C2E99
+113,root/HY Glut/PMd-LHA Foxb1 Glut,1,#5C9965
+114,root/HY Glut/PH-SUM Foxa1 Glut,1,#991793
+115,root/HY Gnrh1 Glut/HY Gnrh1 Glut,1,#7A9ACC
+116,root/HY MM Glut/MM-ant Foxb1 Glut,1,#66662E
+117,root/HY MM Glut/MM Foxb1 Glut,1,#FF2677
+118,root/MH-LH Glut/MH Tac2 Glut,1,#3D8ACC
+119,root/MH-LH Glut/LH Pou4f1 Sox1 Glut,1,#CC7A9D
+120,root/TH Glut/AD Serpinb7 Glut,1,#FF7383
+121,root/TH Glut/AV Col27a1 Glut,1,#16f2f2
+122,root/TH Glut/PVT-PT Ntrk1 Glut,1,#5C8599
+123,root/TH Glut/CM-IAD-CL-PCN Sema5b Glut,1,#076600
+124,root/TH Glut/TH Prkcd Grin2c Glut,1,#CCC300
+125,root/TH Glut/RE-Xi Nox4 Glut,1,#663D57
+126,root/TH Glut/MG-POL-SGN Nts Glut,1,#992E38
+127,root/TH Glut/PF Fzd5 Glut,1,#1C0099
+128,root/MB Glut/PRC-PAG Pax6 Glut,1,#3D6566
+129,root/MB Glut/MB-ant-ve Dmrta2 Glut,1,#99862E
+130,root/MB Glut/RN Spp1 Glut,1,#FF514D
+131,root/MB Glut/MRN-PAG Nkx6-1 Glut,1,#B6FF4D
+132,root/MB Glut/IF-RL-CLI-PAG Foxa1 Glut,1,#63FF26
+133,root/MB Glut/PAG-SC Neurod2 Meis2 Glut,1,#2E7799
+134,root/MB Glut/PAG Pou4f3 Glut,1,#CC3DA3
+135,root/MB Glut/CUN Evx2 Lhx2 Glut,1,#CCC27A
+136,root/MB Glut/APN C1ql2 Glut,1,#5C64CC
+137,root/MB Glut/APN C1ql4 Glut,1,#1FCC4D
+138,root/MB Glut/PAG-MRN Pou3f1 Glut,1,#FF9D26
+139,root/MB Glut/PAG-MRN Tfap2b Glut,1,#82995C
+140,root/MB Glut/PAG Pou4f1 Ebf2 Glut,1,#F2FF73
+141,root/MB Glut/PAG Pou4f2 Glut,1,#990027
+142,root/MB Glut/PAG Pou4f2 Mesi2 Glut,1,#5FCC5C
+143,root/MB Glut/SC Bnc2 Glut,1,#CC3D9D
+144,root/MB Glut/SCig Foxb1 Glut,1,#47FF26
+145,root/MB Glut/SCig-an-PPT Foxb1 Glut,1,#453D66
+146,root/MB Glut/SCig Foxb1 Otx2 Glut,1,#5C73CC
+147,root/MB Glut/SCdg-PAG Tfap2b Glut,1,#7ACCBE
+148,root/MB Glut/SCiw Pitx2 Glut,1,#50662E
+149,root/MB Glut/IC Tfap2d Maf Glut,1,#6C1799
+150,root/MB Glut/CUN-PPN Evx2 Meis2 Glut,1,#CC7A7E
+151,root/MB Glut/PBG Mtnr1a Glut-Chol,1,#00CC7F
+152,root/MB Glut/PAG Tcf24 Glut,1,#ED0000
+153,root/MB Glut/SCig Tfap2b Chrnb3 Glut,1,#002099
+154,root/MB Glut/SCop Pou4f2 Neurod2 Glut,1,#FF73FF
+155,root/MB Glut/SCsg Pde5a Glut,1,#B899FF
+156,root/MB Glut/SCop Sln Glut,1,#73FF98
+157,root/MB Glut/PAG Ucn Glut,1,#009923
+158,root/MB Glut/ND-INC Foxd2 Glut,1,#997817
+159,root/MB GABA/PAG-MRN Rln3 Gaba,1,#CC7400
+160,root/MB GABA/PPN-CUN-PCG Otp En1 Gaba,1,#DF99FF
+161,root/MB GABA/MRN-PPN-CUN Pax8 Gaba,1,#3DCC66
+162,root/MB GABA/MRN-VTN-PPN Pax5 Cdh23 Gaba,1,#82CC1F
+163,root/MB GABA/SNr-VTA Pax5 Npas1 Gaba,1,#2E8799
+164,root/MB GABA/PAG-PPN Pax5 Sox21 Gaba,1,#1D0066
+165,root/MB GABA/SNr Six3 Gaba,1,#7A5C99
+166,root/MB GABA/IC Six3 En2 Gaba,1,#C2FF26
+167,root/MB GABA/PAG-MRN-RN Foxa2 Gaba,1,#ab1dd6
+168,root/MB GABA/PAG-RN Nkx2-2 Otx1 Gaba,1,#7DFF4D
+169,root/MB GABA/PRT Tcf7l2 Gaba,1,#474599
+170,root/MB GABA/SC Otx2 Gcnt4 Gaba,1,#99685C
+171,root/MB GABA/SC-PAG Lef1 Emx2 Gaba,1,#4D79FF
+172,root/MB GABA/SCm-PAG Cdh23 Gaba,1,#CC5C69
+173,root/MB GABA/SCs Dmbx1 Gaba,1,#4CCC3D
+174,root/MB GABA/SC Lef1 Otx2 Gaba,1,#994F45
+175,root/MB GABA/SCs Pax7 Nfia Gaba,1,#CC1F66
+176,root/MB GABA/PRT Mecom Gaba,1,#CC6B3D
+177,root/MB GABA/SC Tnnt1 Gli3 Gaba,1,#76CC5C
+178,root/MB GABA/SCs Lef1 Gli3 Gaba,1,#FFA300
+179,root/MB GABA/SCsg Gabrr2 Gaba,1,#0e0163
+180,root/MB GABA/IPN Otp Crisp1 Gaba,1,#BCCC3D
+181,root/MB Dopa/SNc-VTA-RAmb Foxa1 Dopa,1,#992E62
+182,root/P Glut/PB Lmx1a Glut,1,#0F5666
+183,root/P Glut/PB-SUT Tlx3 Lhx2 Glut,1,#4B2E66
+184,root/P Glut/PB Pax5 Glut,1,#84FF73
+185,root/P Glut/LDT-PCG Vsx2 Lhx4 Glut,1,#FF4DC7
+186,root/P Glut/PB Evx2 Glut,1,#1F8ACC
+187,root/P Glut/B-PB Nr4a2 Glut,1,#4ff7de
+188,root/P Glut/PCG-PRNr Vsx2 Nkx6-1 Glut,1,#175B99
+189,root/P Glut/PRNc-NI-SG-RPO Vsx2 Nr4a2 Glut,1,#559917
+190,root/P Glut/PRNc-PARN Tlx1 Glut,1,#8C5CCC
+191,root/P Glut/PB-PSV Phox2b Glut,1,#44FF26
+192,root/P Glut/PSV Pvalb Lhx2 Glut,1,#3A662E
+193,root/P Glut/PB-NTS Phox2b Ebf3 Lmx1b Glut,1,#AB5CCC
+194,root/P Glut/PRNr Otp Nfib Glut,1,#3ECC1F
+195,root/P Glut/IPN-LDT Vsx2 Nkx6-1 Glut,1,#994546
+196,root/P Glut/LDT Vsx2 Nkx6-1 Nfib Glut,1,#45994B
+197,root/P Glut/NLL-SOC Spp1 Glut,1,#CCFF4D
+198,root/P Glut/PG-TRN-LRN Fat2 Glut,1,#9B7ACC
+199,root/MY Glut/IRN Vip Glut,1,#66593D
+200,root/MY Glut/PRP-NI-PRNc-GRN Otp Glut,1,#FF6426
+201,root/MY Glut/NTS Phox2b Glut,1,#7ACC9F
+202,root/MY Glut/MARN-GRN Pyy Glut,1,#458499
+203,root/MY Glut/MDRNv Lhx4 Qrfprl Glut,1,#c10717
+204,root/MY Glut/NTS Mbnl3 Glut,1,#e925ed
+205,root/MY Glut/PGRNd Dmbx1 Glut,1,#996E45
+206,root/MY Glut/PGRN-PARN-MDRN Hoxb5 Glut,1,#C6FF99
+207,root/MY Glut/MV-SPIV Slc6a2 Glut,1,#99985C
+208,root/MY Glut/SPVI-SPVC Tlx3 Ebf3 Glut,1,#84CC3D
+209,root/MY Glut/CU-ECU-SPVI Foxb1 Glut,1,#5A1F66
+210,root/MY Glut/MV-SPIV Phox2b Ebf3 Lbx1 Glut,1,#3DC2CC
+211,root/MY Glut/MV-SPIV Zic4 Neurod2 Glut,1,#85CC00
+212,root/MY Glut/NTS Aldh1a2 Glut,1,#f22693
+213,root/MY Glut/CBN Neurod2 Pvalb Glut,1,#26FF93
+214,root/MY Glut/NTS Dbh Glut,1,#221F66
+215,root/MY Glut/DMX VII Tbx20 Chol,1,#566600
+216,root/MY Glut/IO Fgl2 Glut,1,#99322E
+217,root/MY Glut/VCO Mafa Meis2 Glut,1,#00CC7C
+218,root/MY Glut/SPVO Mafa Meis2 Glut,1,#CC8E1F
+219,root/MY Glut/SPVC Mafa Glut,1,#805CCC
+220,root/MY Glut/SPVC Ccdc172 Glut,1,#580099
+221,root/MY Glut/SPVC Nmu Glut,1,#99805C
+222,root/MY Glut/MDRNd Bves Glut,1,#fc235d
+223,root/MY Glut/MDRNv Crp Glut,1,#1FCC43
+224,root/MY Glut/HB Calcb Chol,1,#EAFF4D
+225,root/Pineal Glut/Pineal Crx Glut,1,#0F6654
+226,root/P GABA/CS-RPO Meis2 Gaba,1,#B6CC5C
+227,root/P GABA/PRNc Otp Gly-Gaba,1,#4DFFCD
+228,root/P GABA/PB Sst Gly-Gaba,1,#F44D00
+229,root/P GABA/PRNc Prox1 Brs3 Gly-Gaba,1,#58992E
+230,root/P GABA/CS-PRNr-DR En1 Sox2 Gaba,1,#1F5366
+231,root/P GABA/LDT Fgf7 Gaba,1,#00CCBA
+232,root/P GABA/NI-RPO Gata3 Nr4a2 Gaba,1,#00CC4A
+233,root/P GABA/LDT-PCG-CS Gata3 Lhx1 Gaba,1,#630099
+234,root/P GABA/PDTg-PCG Pax6 Gaba,1,#991761
+235,root/P GABA/PDTg Otp Shroom3 Gaba,1,#5BFF00
+236,root/P GABA/PDTg Otp Olig3 Gaba,1,#0F1266
+237,root/P GABA/LDT-PCG St18 Gaba,1,#456499
+238,root/P GABA/DTN-LDT-IPN Otp Pax3 Gaba,1,#1F3766
+239,root/P GABA/NLL Gata3 Gly-Gaba,1,#E57300
+240,root/P GABA/PSV Pax2 Gly-Gaba,1,#d2b8f2
+241,root/P GABA/NLL-po Pax7 Gaba,1,#000999
+242,root/P GABA/POR Gata3 Gly-Gaba,1,#00CC1B
+243,root/P GABA/POR Spp1 Gly-Gaba,1,#35CC00
+244,root/MY GABA/PRP Otp Gly-Gaba,1,#995C2E
+245,root/MY GABA/GRN-IRN-MDRNd Ikzf1 Gly-Gaba,1,#659900
+246,root/MY GABA/MY Lhx1 Gly-Gaba,1,#f20985
+247,root/MY GABA/PPY-PGRNl Vip Glyc-Gaba,1,#CC5C81
+248,root/MY GABA/MV-SPIV-PRP Dmbx1 Gly-Gaba,1,#4DBEFF
+249,root/MY GABA/MDRN Hoxb5 Ebf2 Gly-Gaba,1,#660038
+250,root/MY GABA/MDRNd Prox1 Pax6 Gly-Gaba,1,#4e5b48
+251,root/MY GABA/MY Prox1 Lmo7 Gly-Gaba,1,#6ff754
+252,root/MY GABA/NTS-MDRNd Prox1 Zic1 Gly-Gaba,1,#990004
+253,root/MY GABA/MV Nkx6-1 Gly-Gaba,1,#CC3D91
+254,root/MY GABA/PAS-MV Ebf2 Gly-Gaba,1,#2E3399
+255,root/MY GABA/MV Pax6 Gly-Gaba,1,#66502E
+256,root/MY GABA/CBN Dmbx1 Gaba,1,#00FF6C
+257,root/MY GABA/RPA Pax6 Hoxb5 Gly-Gaba,1,#3426FF
+258,root/MY GABA/CU-ECU Pax2 Gly-Gaba,1,#2E6799
+259,root/MY GABA/PRP Gata3 Slc6a5 Gly-Gaba,1,#00FF08
+260,root/MY GABA/MARN-PPY Ngfr Gly-Gaba,1,#CC8A5C
+261,root/MY GABA/PARN-MDRNd-NTS Gbx2 Gly-Gaba,1,#CC3D70
+262,root/MY GABA/MV Nr4a2 Gly-Gaba,1,#efda4f
+263,root/MY GABA/MV Xdh Gly-Gaba,1,#72FF00
+264,root/MY GABA/IRN Dmbx1 Pax2 Gly-Gaba,1,#5C997D
+265,root/MY GABA/NTS-PARN Neurod2 Gly-Gaba,1,#FF1400
+266,root/MY GABA/SPVI-SPVC Sall3 Nfib Gly-Gaba,1,#66140F
+267,root/MY GABA/SPVI-SPVC Sall3 Lhx1 Gly-Gaba,1,#FF73EA
+268,root/MY GABA/RO-RPA Pkd2l1 Gaba,1,#26FFE8
+269,root/CB GABA/DCO Il22 Gly-Gaba,1,#994517
+270,root/CB GABA/CB PLI Gly-Gaba,1,#009899
+271,root/CB GABA/CBX Golgi Gly-Gaba,1,#003366
+272,root/CB GABA/CBX MLI Megf11 Gaba,1,#8BCC5C
+273,root/CB GABA/CBX MLI Cdh22 Gaba,1,#45996C
+274,root/CB GABA/CBX Purkinje Gaba,1,#511799
+275,root/CB Glut/CB Granule Glut,1,#FF4826
+276,root/CB Glut/DCO UBC Glut,1,#1FCC87
+277,root/Astro-Epen/Bergmann NN,1,#8E2600
+278,root/Astro-Epen/Astro-CB NN,1,#CC4E00
+279,root/Astro-Epen/Astro-NT NN,1,#AD5CCC
+280,root/Astro-Epen/Astro-TE NN,1,#3DCCB1
+281,root/Astro-Epen/Astro-OLF NN,1,#FF73CF
+282,root/Astro-Epen/Astroependymal NN,1,#0833ce
+283,root/Astro-Epen/Tanycyte NN,1,#FF26A1
+284,root/Astro-Epen/Ependymal NN,1,#D8FF00
+285,root/Astro-Epen/Hypendymal NN,1,#3F2E99
+286,root/Astro-Epen/CHOR NN,1,#2D9917
+287,root/OPC-Oligo/OPC NN,1,#FF26CB
+288,root/OPC-Oligo/Oligo NN,1,#99FFBC
+289,root/OEC/OEC NN,1,#FF99CF
+290,root/Vascular/ABC NN,1,#CC5CC1
+291,root/Vascular/VLMC NN,1,#653D66
+292,root/Vascular/Peri NN,1,#82992E
+293,root/Vascular/SMC NN,1,#FF9F73
+294,root/Vascular/Endo NN,1,#994567
+295,root/Immune/Microglia NN,1,#CC1F4E
+296,root/Immune/BAM NN,1,#66493D
+297,root/Immune/Monocytes NN,1,#A673FF
+298,root/Immune/DC NN,1,#CCA27A
+299,root/Immune/Lymphoid NN,1,#3D5766
+300,root/IT-ET Glut/CLA-EPd-CTX Car3 Glut/CLA-EPd-CTX Car3 Glut_1,1,#99822E
+301,root/IT-ET Glut/CLA-EPd-CTX Car3 Glut/CLA-EPd-CTX Car3 Glut_2,1,#170F66
+302,root/IT-ET Glut/IT EP-CLA Glut/IT EP-CLA Glut_1,1,#994563
+303,root/IT-ET Glut/IT EP-CLA Glut/IT EP-CLA Glut_2,1,#1F4666
+304,root/IT-ET Glut/IT EP-CLA Glut/IT EP-CLA Glut_3,1,#694599
+305,root/IT-ET Glut/IT EP-CLA Glut/IT EP-CLA Glut_4,1,#5CAACC
+306,root/IT-ET Glut/L6 IT CTX Glut/L6 IT CTX Glut_1,1,#952E99
+307,root/IT-ET Glut/L6 IT CTX Glut/L6 IT CTX Glut_2,1,#2E5266
+308,root/IT-ET Glut/L6 IT CTX Glut/L6 IT CTX Glut_3,1,#661799
+309,root/IT-ET Glut/L6 IT CTX Glut/L6 IT CTX Glut_4,1,#991759
+310,root/IT-ET Glut/L6 IT CTX Glut/L6 IT CTX Glut_5,1,#651F66
+311,root/IT-ET Glut/L5 IT CTX Glut/L5 IT CTX Glut_1,1,#8D9917
+312,root/IT-ET Glut/L5 IT CTX Glut/L5 IT CTX Glut_2,1,#456199
+313,root/IT-ET Glut/L5 IT CTX Glut/L5 IT CTX Glut_3,1,#66530F
+314,root/IT-ET Glut/L5 IT CTX Glut/L5 IT CTX Glut_4,1,#FFFE99
+315,root/IT-ET Glut/L5 IT CTX Glut/L5 IT CTX Glut_5,1,#6A992E
+316,root/IT-ET Glut/IT AON-TT-DP Glut/IT AON-TT-DP Glut_1,1,#8626FF
+317,root/IT-ET Glut/IT AON-TT-DP Glut/IT AON-TT-DP Glut_2,1,#3D6652
+318,root/IT-ET Glut/IT AON-TT-DP Glut/IT AON-TT-DP Glut_3,1,#C773FF
+319,root/IT-ET Glut/IT AON-TT-DP Glut/IT AON-TT-DP Glut_4,1,#666400
+320,root/IT-ET Glut/IT AON-TT-DP Glut/IT AON-TT-DP Glut_5,1,#1F3E66
+321,root/IT-ET Glut/L2 IT ENT-po Glut/L2 IT ENT-po Glut_2,1,#992E57
+322,root/IT-ET Glut/L2 IT ENT-po Glut/L2 IT ENT-po Glut_3,1,#5CCCBD
+323,root/IT-ET Glut/L2 IT ENT-po Glut/L2 IT ENT-po Glut_4,1,#CC5CA0
+324,root/IT-ET Glut/MEA Slc17a7 Glut/MEA Slc17a7 Glut_1,1,#A099FF
+325,root/IT-ET Glut/MEA Slc17a7 Glut/MEA Slc17a7 Glut_2,1,#5CCCC9
+326,root/IT-ET Glut/MEA Slc17a7 Glut/MEA Slc17a7 Glut_3,1,#7E5C99
+327,root/IT-ET Glut/COAp Grxcr2 Glut/COAp Grxcr2 Glut_1,1,#82995C
+328,root/IT-ET Glut/COAp Grxcr2 Glut/COAp Grxcr2 Glut_2,1,#330F66
+329,root/IT-ET Glut/LA-BLA-BMA-PA Glut/LA-BLA-BMA-PA Glut_1,1,#99FFE5
+330,root/IT-ET Glut/LA-BLA-BMA-PA Glut/LA-BLA-BMA-PA Glut_2,1,#99174B
+331,root/IT-ET Glut/LA-BLA-BMA-PA Glut/LA-BLA-BMA-PA Glut_3,1,#992E6E
+332,root/IT-ET Glut/LA-BLA-BMA-PA Glut/LA-BLA-BMA-PA Glut_4,1,#633D66
+333,root/IT-ET Glut/LA-BLA-BMA-PA Glut/LA-BLA-BMA-PA Glut_5,1,#660F43
+334,root/IT-ET Glut/LA-BLA-BMA-PA Glut/LA-BLA-BMA-PA Glut_6,1,#CC867A
+335,root/IT-ET Glut/ENTmv-PA-COAp Glut/ENTmv-PA-COAp Glut_1,1,#99735C
+336,root/IT-ET Glut/ENTmv-PA-COAp Glut/ENTmv-PA-COAp Glut_2,1,#CC6A3D
+337,root/IT-ET Glut/ENTmv-PA-COAp Glut/ENTmv-PA-COAp Glut_3,1,#95CC7A
+338,root/IT-ET Glut/CA1-ProS Glut/CA1-ProS Glut_1,1,#8800CC
+339,root/IT-ET Glut/CA1-ProS Glut/CA1-ProS Glut_2,1,#4D9945
+340,root/IT-ET Glut/CA1-ProS Glut/CA1-ProS Glut_3,1,#993E00
+341,root/IT-ET Glut/CA1-ProS Glut/CA1-ProS Glut_4,1,#2E4999
+342,root/IT-ET Glut/CA1-ProS Glut/CA1-ProS Glut_5,1,#FF00CE
+343,root/IT-ET Glut/CA1-ProS Glut/CA1-ProS Glut_6,1,#2A0F66
+344,root/IT-ET Glut/CA3 Glut/CA3 Glut_1,1,#997645
+345,root/IT-ET Glut/CA3 Glut/CA3 Glut_2,1,#00FFC5
+346,root/IT-ET Glut/CA3 Glut/CA3 Glut_3,1,#6ACC00
+347,root/IT-ET Glut/CA3 Glut/CA3 Glut_4,1,#991776
+348,root/IT-ET Glut/CA3 Glut/CA3 Glut_5,1,#712E99
+349,root/IT-ET Glut/L2 IT PPP-APr Glut/L2 IT PPP-APr Glut_1,1,#433D66
+350,root/IT-ET Glut/L2 IT PPP-APr Glut/L2 IT PPP-APr Glut_2,1,#002BCC
+351,root/IT-ET Glut/L2 IT PPP-APr Glut/L2 IT PPP-APr Glut_3,1,#266DFF
+352,root/IT-ET Glut/L2 IT PPP-APr Glut/L2 IT PPP-APr Glut_4,1,#3D65CC
+353,root/IT-ET Glut/L4 RSP-ACA Glut/L4 RSP-ACA Glut_1,1,#998D2E
+354,root/IT-ET Glut/L5 ET CTX Glut/L5 ET CTX Glut_1,1,#5A0099
+355,root/IT-ET Glut/L5 ET CTX Glut/L5 ET CTX Glut_2,1,#FF2200
+356,root/IT-ET Glut/L5 ET CTX Glut/L5 ET CTX Glut_3,1,#5CCCB1
+357,root/IT-ET Glut/L5 ET CTX Glut/L5 ET CTX Glut_4,1,#99522E
+358,root/IT-ET Glut/L5 ET CTX Glut/L5 ET CTX Glut_5,1,#B34DFF
+359,root/IT-ET Glut/L5 ET CTX Glut/L5 ET CTX Glut_6,1,#66400F
+360,root/IT-ET Glut/SUB-ProS Glut/SUB-ProS Glut_1,1,#602E66
+361,root/IT-ET Glut/SUB-ProS Glut/SUB-ProS Glut_2,1,#5C60CC
+362,root/IT-ET Glut/SUB-ProS Glut/SUB-ProS Glut_3,1,#2F2E66
+363,root/IT-ET Glut/L5 PPP Glut/L5 PPP Glut_1,1,#CC1F30
+364,root/IT-ET Glut/CA2-FC-IG Glut/CA2-FC-IG Glut_1,1,#662E99
+365,root/IT-ET Glut/CA2-FC-IG Glut/CA2-FC-IG Glut_2,1,#661F20
+366,root/IT-ET Glut/NLOT Rho Glut/NLOT Rho Glut_1,1,#7D5CCC
+367,root/NP-CT-L6b Glut/L6b EPd Glut/L6b EPd Glut_1,1,#82CC5C
+368,root/NP-CT-L6b Glut/L6b EPd Glut/L6b EPd Glut_2,1,#994547
+369,root/NP-CT-L6b Glut/L6b EPd Glut/L6b EPd Glut_3,1,#81CC3D
+370,root/NP-CT-L6b Glut/L6b CTX Glut/L6b CTX Glut_1,1,#5C9979
+371,root/NP-CT-L6b Glut/L6b CTX Glut/L6b CTX Glut_2,1,#66533D
+372,root/NP-CT-L6b Glut/L6b CTX Glut/L6b CTX Glut_3,1,#5C9986
+373,root/NP-CT-L6b Glut/L6b CTX Glut/L6b CTX Glut_4,1,#00FFE1
+374,root/NP-CT-L6b Glut/L6 CT CTX Glut/L6 CT CTX Glut_1,1,#CC3D77
+375,root/NP-CT-L6b Glut/L6 CT CTX Glut/L6 CT CTX Glut_2,1,#3DCC96
+376,root/NP-CT-L6b Glut/L6 CT CTX Glut/L6 CT CTX Glut_3,1,#49660F
+377,root/NP-CT-L6b Glut/L6 CT CTX Glut/L6 CT CTX Glut_4,1,#3E662E
+378,root/NP-CT-L6b Glut/L6 CT CTX Glut/L6 CT CTX Glut_5,1,#00FFFD
+379,root/NP-CT-L6b Glut/L6 CT CTX Glut/L6 CT CTX Glut_6,1,#1F52CC
+380,root/NP-CT-L6b Glut/CT SUB Glut/CT SUB Glut_1,1,#662D0F
+381,root/NP-CT-L6b Glut/CT SUB Glut/CT SUB Glut_2,1,#009BCC
+382,root/NP-CT-L6b Glut/L5 NP CTX Glut/L5 NP CTX Glut_1,1,#26FF73
+383,root/NP-CT-L6b Glut/L5 NP CTX Glut/L5 NP CTX Glut_2,1,#935C99
+384,root/NP-CT-L6b Glut/L5 NP CTX Glut/L5 NP CTX Glut_3,1,#662E53
+385,root/NP-CT-L6b Glut/L5 NP CTX Glut/L5 NP CTX Glut_4,1,#54661F
+386,root/NP-CT-L6b Glut/L5 NP CTX Glut/L5 NP CTX Glut_5,1,#FF73DB
+387,root/NP-CT-L6b Glut/NP SUB Glut/NP SUB Glut_1,1,#006614
+388,root/NP-CT-L6b Glut/NP SUB Glut/NP SUB Glut_2,1,#CC9A5C
+389,root/NP-CT-L6b Glut/NP PPP Glut/NP PPP Glut_1,1,#574599
+390,root/DG-IMN Glut/DG Glut/DG Glut_1,1,#F573FF
+391,root/DG-IMN Glut/DG Glut/DG Glut_2,1,#FF9999
+392,root/DG-IMN Glut/DG Glut/DG Glut_3,1,#FF7726
+393,root/DG-IMN Glut/DG Glut/DG Glut_4,1,#643DCC
+394,root/DG-IMN Glut/DG-PIR Ex IMN/DG-PIR Ex IMN_1,1,#389917
+395,root/DG-IMN Glut/DG-PIR Ex IMN/DG-PIR Ex IMN_2,1,#CC7A3D
+396,root/DG-IMN Glut/DG-PIR Ex IMN/DG-PIR Ex IMN_3,1,#FFBF26
+397,root/LSX GABA/LSX Sall3 Pax6 Gaba/LSX Sall3 Pax6 Gaba_1,1,#EE4DFF
+398,root/LSX GABA/LSX Sall3 Pax6 Gaba/LSX Sall3 Pax6 Gaba_2,1,#984599
+399,root/LSX GABA/LSX Otx2 Gaba/LSX Otx2 Gaba_1,1,#4D96FF
+400,root/LSX GABA/LSX Otx2 Gaba/LSX Otx2 Gaba_2,1,#784DFF
+401,root/LSX GABA/LSX Otx2 Gaba/LSX Otx2 Gaba_3,1,#E1FF4D
+402,root/LSX GABA/LSX Otx2 Gaba/LSX Otx2 Gaba_4,1,#CC1F8F
+403,root/LSX GABA/LSX Otx2 Gaba/LSX Otx2 Gaba_5,1,#99FFA2
+404,root/LSX GABA/LSX Nkx2-1 Gaba/LSX Nkx2-1 Gaba_1,1,#A873FF
+405,root/LSX GABA/LSX Nkx2-1 Gaba/LSX Nkx2-1 Gaba_2,1,#CC5CAC
+406,root/LSX GABA/LSX Nkx2-1 Gaba/LSX Nkx2-1 Gaba_3,1,#CC0072
+407,root/LSX GABA/LSX Nkx2-1 Gaba/LSX Nkx2-1 Gaba_4,1,#0021FF
+408,root/LSX GABA/LSX Nkx2-1 Gaba/LSX Nkx2-1 Gaba_5,1,#8CCC7A
+409,root/LSX GABA/LSX Nkx2-1 Gaba/LSX Nkx2-1 Gaba_6,1,#51FF26
+410,root/LSX GABA/LSX Nkx2-1 Gaba/LSX Nkx2-1 Gaba_7,1,#2E3366
+411,root/LSX GABA/LSX Nkx2-1 Gaba/LSX Nkx2-1 Gaba_8,1,#5F663D
+412,root/LSX GABA/LSX Nkx2-1 Gaba/LSX Nkx2-1 Gaba_9,1,#0F665B
+413,root/LSX GABA/LSX Nkx2-1 Gaba/LSX Nkx2-1 Gaba_10,1,#1FCCAD
+414,root/LSX GABA/LSX Nkx2-1 Gaba/LSX Nkx2-1 Gaba_11,1,#663D5C
+415,root/LSX GABA/LSX Prdm12 Zeb2 Gaba/LSX Prdm12 Zeb2 Gaba_1,1,#73C9FF
+416,root/LSX GABA/LSX Prdm12 Zeb2 Gaba/LSX Prdm12 Zeb2 Gaba_2,1,#88FF73
+417,root/LSX GABA/LSX Prdm12 Zeb2 Gaba/LSX Prdm12 Zeb2 Gaba_3,1,#5E3D66
+418,root/LSX GABA/LSX Prdm12 Zeb2 Gaba/LSX Prdm12 Zeb2 Gaba_4,1,#2E6630
+419,root/LSX GABA/LSX Prdm12 Zeb2 Gaba/LSX Prdm12 Zeb2 Gaba_5,1,#991784
+420,root/LSX GABA/LSX Prdm12 Slit2 Gaba/LSX Prdm12 Slit2 Gaba_1,1,#500F66
+421,root/LSX GABA/LSX Prdm12 Slit2 Gaba/LSX Prdm12 Slit2 Gaba_2,1,#FF739D
+422,root/LSX GABA/LSX Prdm12 Slit2 Gaba/LSX Prdm12 Slit2 Gaba_3,1,#CC7A00
+423,root/LSX GABA/LSX Prdm12 Slit2 Gaba/LSX Prdm12 Slit2 Gaba_4,1,#005F99
+424,root/LSX GABA/LSX Prdm12 Slit2 Gaba/LSX Prdm12 Slit2 Gaba_5,1,#FF73C4
+425,root/LSX GABA/LSX Sall3 Lmo1 Gaba/LSX Sall3 Lmo1 Gaba_1,1,#A8FF00
+426,root/LSX GABA/LSX Sall3 Lmo1 Gaba/LSX Sall3 Lmo1 Gaba_2,1,#CC002F
+427,root/LSX GABA/LSX Sall3 Lmo1 Gaba/LSX Sall3 Lmo1 Gaba_3,1,#C17ACC
+428,root/LSX GABA/LSX Sall3 Lmo1 Gaba/LSX Sall3 Lmo1 Gaba_4,1,#AE1FCC
+429,root/LSX GABA/LSX Sall3 Lmo1 Gaba/LSX Sall3 Lmo1 Gaba_5,1,#641799
+430,root/LSX GABA/LSX Sall3 Lmo1 Gaba/LSX Sall3 Lmo1 Gaba_6,1,#B91FCC
+431,root/CNU-HYa GABA/MEA-BST Sox6 Gaba/MEA-BST Sox6 Gaba_1,1,#7ACCCC
+432,root/CNU-HYa GABA/MEA-BST Sox6 Gaba/MEA-BST Sox6 Gaba_2,1,#3DCC00
+433,root/CNU-HYa GABA/MEA-BST Sox6 Gaba/MEA-BST Sox6 Gaba_3,1,#FF2642
+434,root/CNU-HYa GABA/MEA-BST Sox6 Gaba/MEA-BST Sox6 Gaba_4,1,#3D6664
+435,root/CNU-HYa GABA/MEA-BST Sox6 Gaba/MEA-BST Sox6 Gaba_5,1,#831FCC
+436,root/CNU-HYa GABA/MEA-BST Sox6 Gaba/MEA-BST Sox6 Gaba_6,1,#855C99
+437,root/CNU-HYa GABA/MEA-BST Sox6 Gaba/MEA-BST Sox6 Gaba_7,1,#4DAAFF
+438,root/CNU-HYa GABA/MEA-BST Sox6 Gaba/MEA-BST Sox6 Gaba_8,1,#CC9100
+439,root/CNU-HYa GABA/MEA-BST Sox6 Gaba/MEA-BST Sox6 Gaba_9,1,#8F9900
+440,root/CNU-HYa GABA/MEA-BST Sox6 Gaba/MEA-BST Sox6 Gaba_10,1,#FF73AD
+441,root/CNU-HYa GABA/MEA-BST Lhx6 Sp9 Gaba/MEA-BST Lhx6 Sp9 Gaba_1,1,#CCBF5C
+442,root/CNU-HYa GABA/MEA-BST Lhx6 Sp9 Gaba/MEA-BST Lhx6 Sp9 Gaba_2,1,#4DFF55
+443,root/CNU-HYa GABA/MEA-BST Lhx6 Sp9 Gaba/MEA-BST Lhx6 Sp9 Gaba_3,1,#665B3D
+444,root/CNU-HYa GABA/MEA-BST Lhx6 Sp9 Gaba/MEA-BST Lhx6 Sp9 Gaba_4,1,#1FCC87
+445,root/CNU-HYa GABA/MEA-BST Lhx6 Sp9 Gaba/MEA-BST Lhx6 Sp9 Gaba_5,1,#26FFBA
+446,root/CNU-HYa GABA/MEA-BST Lhx6 Sp9 Gaba/MEA-BST Lhx6 Sp9 Gaba_6,1,#FFCA00
+447,root/CNU-HYa GABA/MEA-BST Lhx6 Sp9 Gaba/MEA-BST Lhx6 Sp9 Gaba_7,1,#CC1F43
+448,root/CNU-HYa GABA/MEA-BST Lhx6 Nr2e1 Gaba/MEA-BST Lhx6 Nr2e1 Gaba_1,1,#A04DFF
+449,root/CNU-HYa GABA/MEA-BST Lhx6 Nr2e1 Gaba/MEA-BST Lhx6 Nr2e1 Gaba_2,1,#995C6A
+450,root/CNU-HYa GABA/MEA-BST Lhx6 Nr2e1 Gaba/MEA-BST Lhx6 Nr2e1 Gaba_3,1,#FFCE4D
+451,root/CNU-HYa GABA/MEA-BST Lhx6 Nfib Gaba/MEA-BST Lhx6 Nfib Gaba_1,1,#3D6656
+452,root/CNU-HYa GABA/MEA-BST Lhx6 Nfib Gaba/MEA-BST Lhx6 Nfib Gaba_2,1,#96995C
+453,root/CNU-HYa GABA/MEA-BST Lhx6 Nfib Gaba/MEA-BST Lhx6 Nfib Gaba_3,1,#FF3026
+454,root/CNU-HYa GABA/MEA-BST Lhx6 Nfib Gaba/MEA-BST Lhx6 Nfib Gaba_4,1,#A400FF
+455,root/CNU-HYa GABA/MEA-BST Lhx6 Nfib Gaba/MEA-BST Lhx6 Nfib Gaba_5,1,#3D6644
+456,root/CNU-HYa GABA/MEA-BST Lhx6 Nfib Gaba/MEA-BST Lhx6 Nfib Gaba_6,1,#6F26FF
+457,root/CNU-HYa GABA/CEA-BST Gal Avp Gaba/CEA-BST Gal Avp Gaba_1,1,#270099
+458,root/CNU-HYa GABA/SI-MA-ACB Ebf1 Bnc2 Gaba/SI-MA-ACB Ebf1 Bnc2 Gaba_1,1,#99001F
+459,root/CNU-HYa GABA/SI-MA-ACB Ebf1 Bnc2 Gaba/SI-MA-ACB Ebf1 Bnc2 Gaba_2,1,#664E00
+460,root/CNU-HYa GABA/SI-MA-ACB Ebf1 Bnc2 Gaba/SI-MA-ACB Ebf1 Bnc2 Gaba_3,1,#38662E
+461,root/CNU-HYa GABA/CEA-BST Six3 Cyp26b1 Gaba/CEA-BST Six3 Cyp26b1 Gaba_1,1,#660F30
+462,root/CNU-HYa GABA/CEA-BST Six3 Cyp26b1 Gaba/CEA-BST Six3 Cyp26b1 Gaba_2,1,#FF934D
+463,root/CNU-HYa GABA/CEA-BST Six3 Cyp26b1 Gaba/CEA-BST Six3 Cyp26b1 Gaba_3,1,#27CC00
+464,root/CNU-HYa GABA/CEA-BST Six3 Cyp26b1 Gaba/CEA-BST Six3 Cyp26b1 Gaba_4,1,#99F7FF
+465,root/CNU-HYa GABA/CEA-BST Six3 Cyp26b1 Gaba/CEA-BST Six3 Cyp26b1 Gaba_5,1,#76992E
+466,root/CNU-HYa GABA/CEA-BST Six3 Cyp26b1 Gaba/CEA-BST Six3 Cyp26b1 Gaba_6,1,#336600
+467,root/CNU-HYa GABA/ACB-BST-FS D1 Gaba/ACB-BST-FS D1 Gaba_1,1,#1F664F
+468,root/CNU-HYa GABA/ACB-BST-FS D1 Gaba/ACB-BST-FS D1 Gaba_2,1,#FFFB73
+469,root/CNU-HYa GABA/ACB-BST-FS D1 Gaba/ACB-BST-FS D1 Gaba_3,1,#469917
+470,root/CNU-HYa GABA/SI-MPO-LPO Lhx8 Gaba/SI-MPO-LPO Lhx8 Gaba_1,1,#FA99FF
+471,root/CNU-HYa GABA/SI-MPO-LPO Lhx8 Gaba/SI-MPO-LPO Lhx8 Gaba_2,1,#664A0F
+472,root/CNU-HYa GABA/SI-MPO-LPO Lhx8 Gaba/SI-MPO-LPO Lhx8 Gaba_3,1,#994591
+473,root/CNU-HYa GABA/SI-MPO-LPO Lhx8 Gaba/SI-MPO-LPO Lhx8 Gaba_4,1,#998200
+474,root/CNU-HYa GABA/SI-MPO-LPO Lhx8 Gaba/SI-MPO-LPO Lhx8 Gaba_5,1,#006ECC
+475,root/CNU-HYa GABA/SI-MPO-LPO Lhx8 Gaba/SI-MPO-LPO Lhx8 Gaba_6,1,#612E66
+476,root/CNU-HYa GABA/MPO-ADP Lhx8 Gaba/MPO-ADP Lhx8 Gaba_1,1,#FCFF00
+477,root/CNU-HYa GABA/MPO-ADP Lhx8 Gaba/MPO-ADP Lhx8 Gaba_2,1,#FFE24D
+478,root/CNU-HYa GABA/MPO-ADP Lhx8 Gaba/MPO-ADP Lhx8 Gaba_3,1,#6E995C
+479,root/CNU-HYa GABA/MPO-ADP Lhx8 Gaba/MPO-ADP Lhx8 Gaba_4,1,#003DFF
+480,root/CNU-HYa GABA/MPO-ADP Lhx8 Gaba/MPO-ADP Lhx8 Gaba_5,1,#FF0042
+481,root/CNU-HYa GABA/MPN-MPO-LPO Lhx6 Zfhx3 Gaba/MPN-MPO-LPO Lhx6 Zfhx3 Gaba_1,1,#FF738E
+482,root/CNU-HYa GABA/MPN-MPO-LPO Lhx6 Zfhx3 Gaba/MPN-MPO-LPO Lhx6 Zfhx3 Gaba_2,1,#99BFFF
+483,root/CNU-HYa GABA/BST Tac2 Gaba/BST Tac2 Gaba_1,1,#CC3DC6
+484,root/CNU-HYa GABA/BST Tac2 Gaba/BST Tac2 Gaba_2,1,#7E9900
+485,root/HY GABA/TMv-PMv Tbx3 Hist-Gaba/TMv-PMv Tbx3 Hist-Gaba_1,1,#3D661F
+486,root/HY GABA/TMv-PMv Tbx3 Hist-Gaba/TMv-PMv Tbx3 Hist-Gaba_2,1,#2D1799
+487,root/HY GABA/RT-ZI Gnb3 Gaba/RT-ZI Gnb3 Gaba_1,1,#99FFFC
+488,root/HY GABA/RT-ZI Gnb3 Gaba/RT-ZI Gnb3 Gaba_2,1,#93FF4D
+489,root/HY GABA/RT-ZI Gnb3 Gaba/RT-ZI Gnb3 Gaba_3,1,#29CC1F
+490,root/HY GABA/RT-ZI Gnb3 Gaba/RT-ZI Gnb3 Gaba_4,1,#179930
+491,root/HY GABA/RT-ZI Gnb3 Gaba/RT-ZI Gnb3 Gaba_5,1,#90995C
+492,root/HY GABA/SCH Six6 Cdc14a Gaba/SCH Six6 Cdc14a Gaba_1,1,#00FF8D
+493,root/HY GABA/SCH Six6 Cdc14a Gaba/SCH Six6 Cdc14a Gaba_2,1,#66110F
+494,root/HY GABA/SCH Six6 Cdc14a Gaba/SCH Six6 Cdc14a Gaba_3,1,#961FCC
+495,root/HY GABA/DMH Prdm13 Gaba/DMH Prdm13 Gaba_1,1,#FF73EA
+496,root/HY GABA/DMH Prdm13 Gaba/DMH Prdm13 Gaba_2,1,#75995C
+497,root/HY GABA/PVHd Gsc Gaba/PVHd Gsc Gaba_1,1,#854599
+498,root/HY GABA/PVHd-SBPV Six3 Prox1 Gaba/PVHd-SBPV Six3 Prox1 Gaba_1,1,#9D7ACC
+499,root/HY GABA/PVHd-SBPV Six3 Prox1 Gaba/PVHd-SBPV Six3 Prox1 Gaba_2,1,#663800
+500,root/HY GABA/PVHd-SBPV Six3 Prox1 Gaba/PVHd-SBPV Six3 Prox1 Gaba_3,1,#661F47
+501,root/HY GABA/PVHd-SBPV Six3 Prox1 Gaba/PVHd-SBPV Six3 Prox1 Gaba_4,1,#48663D
+502,root/HY GABA/AHN Onecut3 Gaba/AHN Onecut3 Gaba_1,1,#1FCCC0
+503,root/HY GABA/AHN Onecut3 Gaba/AHN Onecut3 Gaba_2,1,#7AB1CC
+504,root/HY GABA/AHN Onecut3 Gaba/AHN Onecut3 Gaba_3,1,#036600
+505,root/HY GABA/ZI Pax6 Gaba/ZI Pax6 Gaba_1,1,#1F1799
+506,root/HY GABA/ZI Pax6 Gaba/ZI Pax6 Gaba_2,1,#CC7A86
+507,root/HY GABA/ZI Pax6 Gaba/ZI Pax6 Gaba_3,1,#CC5A3D
+508,root/HY GABA/ZI Pax6 Gaba/ZI Pax6 Gaba_4,1,#52660F
+509,root/HY GABA/ZI Pax6 Gaba/ZI Pax6 Gaba_5,1,#73FF9B
+510,root/HY GABA/ZI Pax6 Gaba/ZI Pax6 Gaba_6,1,#00FF1D
+511,root/HY GABA/ZI Pax6 Gaba/ZI Pax6 Gaba_7,1,#453DCC
+512,root/HY GABA/ZI Pax6 Gaba/ZI Pax6 Gaba_8,1,#299917
+513,root/HY GABA/ZI Pax6 Gaba/ZI Pax6 Gaba_9,1,#99457F
+514,root/HY GABA/ZI Pax6 Gaba/ZI Pax6 Gaba_10,1,#4A1FCC
+515,root/HY GABA/ZI Pax6 Gaba/ZI Pax6 Gaba_11,1,#FFAF99
+516,root/HY GABA/DMH-LHA Gsx1 Gaba/DMH-LHA Gsx1 Gaba_1,1,#7C4599
+517,root/HY GABA/DMH-LHA Gsx1 Gaba/DMH-LHA Gsx1 Gaba_2,1,#0F662C
+518,root/HY GABA/DMH-LHA Gsx1 Gaba/DMH-LHA Gsx1 Gaba_3,1,#483D66
+519,root/HY GABA/DMH-LHA Gsx1 Gaba/DMH-LHA Gsx1 Gaba_4,1,#466600
+520,root/HY GABA/PVHd-DMH Lhx6 Gaba/PVHd-DMH Lhx6 Gaba_1,1,#73E7FF
+521,root/HY GABA/PVHd-DMH Lhx6 Gaba/PVHd-DMH Lhx6 Gaba_2,1,#859945
+522,root/HY GABA/PVHd-DMH Lhx6 Gaba/PVHd-DMH Lhx6 Gaba_3,1,#FF5A00
+523,root/HY GABA/PVHd-DMH Lhx6 Gaba/PVHd-DMH Lhx6 Gaba_4,1,#5726FF
+524,root/HY GABA/TU-ARH Otp Six6 Gaba/TU-ARH Otp Six6 Gaba_1,1,#7B9945
+525,root/HY GABA/TU-ARH Otp Six6 Gaba/TU-ARH Otp Six6 Gaba_2,1,#CC2100
+526,root/HY GABA/TU-ARH Otp Six6 Gaba/TU-ARH Otp Six6 Gaba_3,1,#4F00FF
+527,root/HY GABA/TMd-DMH Foxd2 Gaba/TMd-DMH Foxd2 Gaba_1,1,#1F3666
+528,root/HY GABA/PVpo-VMPO-MPN Hmx2 Gaba/PVpo-VMPO-MPN Hmx2 Gaba_1,1,#DB4DFF
+529,root/HY GABA/PVpo-VMPO-MPN Hmx2 Gaba/PVpo-VMPO-MPN Hmx2 Gaba_2,1,#3DCCA6
+530,root/HY GABA/PVpo-VMPO-MPN Hmx2 Gaba/PVpo-VMPO-MPN Hmx2 Gaba_3,1,#26B4FF
+531,root/HY GABA/PVpo-VMPO-MPN Hmx2 Gaba/PVpo-VMPO-MPN Hmx2 Gaba_4,1,#990095
+532,root/HY GABA/PVpo-VMPO-MPN Hmx2 Gaba/PVpo-VMPO-MPN Hmx2 Gaba_5,1,#00CC8D
+533,root/HY GABA/DMH Hmx2 Gaba/DMH Hmx2 Gaba_1,1,#2E8F99
+534,root/HY GABA/DMH Hmx2 Gaba/DMH Hmx2 Gaba_2,1,#994550
+535,root/HY GABA/DMH Hmx2 Gaba/DMH Hmx2 Gaba_3,1,#734599
+536,root/HY GABA/DMH Hmx2 Gaba/DMH Hmx2 Gaba_4,1,#995C5C
+537,root/HY GABA/DMH Hmx2 Gaba/DMH Hmx2 Gaba_5,1,#4DFFF2
+538,root/HY GABA/DMH Hmx2 Gaba/DMH Hmx2 Gaba_6,1,#738BFF
+539,root/HY GABA/ARH-PVp Tbx3 Gaba/ARH-PVp Tbx3 Gaba_1,1,#FFA499
+540,root/HY GABA/ARH-PVp Tbx3 Gaba/ARH-PVp Tbx3 Gaba_2,1,#171E99
+541,root/HY GABA/ARH-PVp Tbx3 Gaba/ARH-PVp Tbx3 Gaba_3,1,#B799FF
+542,root/HY GABA/LGv-ZI Otx2 Gaba/LGv-ZI Otx2 Gaba_1,1,#AF7ACC
+543,root/HY GABA/LGv-ZI Otx2 Gaba/LGv-ZI Otx2 Gaba_2,1,#66453D
+544,root/HY GABA/LGv-ZI Otx2 Gaba/LGv-ZI Otx2 Gaba_3,1,#997F45
+545,root/HY GABA/LGv-ZI Otx2 Gaba/LGv-ZI Otx2 Gaba_4,1,#5C9199
+546,root/HY GABA/LGv-ZI Otx2 Gaba/LGv-ZI Otx2 Gaba_5,1,#5C6299
+547,root/CNU-HYa Glut/BST-po Iigp1 Glut/BST-po Iigp1 Glut_1,1,#26FFA3
+548,root/CNU-HYa Glut/TRS-BAC Sln Glut/TRS-BAC Sln Glut_1,1,#3D5F66
+549,root/CNU-HYa Glut/TRS-BAC Sln Glut/TRS-BAC Sln Glut_2,1,#8E4599
+550,root/CNU-HYa Glut/MEA-COA-BMA Ccdc42 Glut/MEA-COA-BMA Ccdc42 Glut_1,1,#CC1FC8
+551,root/CNU-HYa Glut/MEA-COA-BMA Ccdc42 Glut/MEA-COA-BMA Ccdc42 Glut_2,1,#7F9917
+552,root/CNU-HYa Glut/MEA-COA-BMA Ccdc42 Glut/MEA-COA-BMA Ccdc42 Glut_3,1,#FF26D1
+553,root/CNU-HYa Glut/MEA-COA-BMA Ccdc42 Glut/MEA-COA-BMA Ccdc42 Glut_4,1,#BDFF99
+554,root/CNU-HYa Glut/COAa-PAA-MEA Barhl2 Glut/COAa-PAA-MEA Barhl2 Glut_1,1,#0059FF
+555,root/CNU-HYa Glut/COAa-PAA-MEA Barhl2 Glut/COAa-PAA-MEA Barhl2 Glut_2,1,#992417
+556,root/CNU-HYa Glut/COAa-PAA-MEA Barhl2 Glut/COAa-PAA-MEA Barhl2 Glut_3,1,#3B992E
+557,root/CNU-HYa Glut/COAa-PAA-MEA Barhl2 Glut/COAa-PAA-MEA Barhl2 Glut_4,1,#FF4D9A
+558,root/CNU-HYa Glut/COAa-PAA-MEA Barhl2 Glut/COAa-PAA-MEA Barhl2 Glut_5,1,#663E2E
+559,root/CNU-HYa Glut/COAa-PAA-MEA Barhl2 Glut/COAa-PAA-MEA Barhl2 Glut_6,1,#7973FF
+560,root/CNU-HYa Glut/COAa-PAA-MEA Barhl2 Glut/COAa-PAA-MEA Barhl2 Glut_7,1,#CCC83D
+561,root/CNU-HYa Glut/COAa-PAA-MEA Barhl2 Glut/COAa-PAA-MEA Barhl2 Glut_8,1,#7ACC9F
+562,root/CNU-HYa Glut/COAa-PAA-MEA Barhl2 Glut/COAa-PAA-MEA Barhl2 Glut_9,1,#CBCC7A
+563,root/CNU-HYa Glut/MS-SF Bsx Glut/MS-SF Bsx Glut_1,1,#CC5C62
+564,root/CNU-HYa Glut/AVPV-MEPO-SFO Tbr1 Glut/AVPV-MEPO-SFO Tbr1 Glut_1,1,#663D4A
+565,root/CNU-HYa Glut/AVPV-MEPO-SFO Tbr1 Glut/AVPV-MEPO-SFO Tbr1 Glut_2,1,#CC3D97
+566,root/CNU-HYa Glut/AVPV-MEPO-SFO Tbr1 Glut/AVPV-MEPO-SFO Tbr1 Glut_3,1,#0200CC
+567,root/CNU-HYa Glut/AVPV-MEPO-SFO Tbr1 Glut/AVPV-MEPO-SFO Tbr1 Glut_4,1,#99173D
+568,root/CNU-HYa Glut/AVPV-MEPO-SFO Tbr1 Glut/AVPV-MEPO-SFO Tbr1 Glut_5,1,#2E4C66
+569,root/CNU-HYa Glut/LHA Barhl2 Glut/LHA Barhl2 Glut_1,1,#5C661F
+570,root/CNU-HYa Glut/LHA Barhl2 Glut/LHA Barhl2 Glut_2,1,#CC3DB6
+571,root/CNU-HYa Glut/LHA Barhl2 Glut/LHA Barhl2 Glut_3,1,#B500CC
+572,root/CNU-HYa Glut/ADP-MPO Trp73 Glut/ADP-MPO Trp73 Glut_1,1,#8C5C99
+573,root/CNU-HYa Glut/ADP-MPO Trp73 Glut/ADP-MPO Trp73 Glut_2,1,#CC5CB8
+574,root/CNU-HYa Glut/ADP-MPO Trp73 Glut/ADP-MPO Trp73 Glut_3,1,#FF005E
+575,root/CNU-HYa Glut/SI-MA-LPO-LHA Skor1 Glut/SI-MA-LPO-LHA Skor1 Glut_1,1,#1D0066
+576,root/CNU-HYa Glut/SI-MA-LPO-LHA Skor1 Glut/SI-MA-LPO-LHA Skor1 Glut_2,1,#17995A
+577,root/CNU-HYa Glut/SI-MA-LPO-LHA Skor1 Glut/SI-MA-LPO-LHA Skor1 Glut_3,1,#0F5466
+578,root/CNU-HYa Glut/SI-MA-LPO-LHA Skor1 Glut/SI-MA-LPO-LHA Skor1 Glut_4,1,#FF4DE9
+579,root/CNU-HYa Glut/SI-MA-LPO-LHA Skor1 Glut/SI-MA-LPO-LHA Skor1 Glut_5,1,#FFBB99
+580,root/CNU-HYa Glut/SI-MA-LPO-LHA Skor1 Glut/SI-MA-LPO-LHA Skor1 Glut_6,1,#99B4FF
+581,root/CNU-HYa Glut/SI-MA-LPO-LHA Skor1 Glut/SI-MA-LPO-LHA Skor1 Glut_7,1,#CCA93D
+582,root/CNU-HYa Glut/SI-MA-LPO-LHA Skor1 Glut/SI-MA-LPO-LHA Skor1 Glut_8,1,#5C660F
+583,root/CNU-HYa Glut/LHA-MEA Otp Glut/LHA-MEA Otp Glut_1,1,#459099
+584,root/CNU-HYa Glut/LHA-MEA Otp Glut/LHA-MEA Otp Glut_2,1,#997A17
+585,root/HY Glut/DMH Nkx2-4 Glut/DMH Nkx2-4 Glut_1,1,#947ACC
+586,root/HY Glut/DMH Nkx2-4 Glut/DMH Nkx2-4 Glut_2,1,#FF0026
+587,root/HY Glut/MPN-MPO-PVpo Hmx2 Glut/MPN-MPO-PVpo Hmx2 Glut_1,1,#7ACCC3
+588,root/HY Glut/MPN-MPO-PVpo Hmx2 Glut/MPN-MPO-PVpo Hmx2 Glut_2,1,#FF262A
+589,root/HY Glut/MPN-MPO-PVpo Hmx2 Glut/MPN-MPO-PVpo Hmx2 Glut_3,1,#CC009F
+590,root/HY Glut/MPN-MPO-PVpo Hmx2 Glut/MPN-MPO-PVpo Hmx2 Glut_4,1,#00662A
+591,root/HY Glut/MPN-MPO-PVpo Hmx2 Glut/MPN-MPO-PVpo Hmx2 Glut_5,1,#5A0F66
+592,root/HY Glut/MPN-MPO-PVpo Hmx2 Glut/MPN-MPO-PVpo Hmx2 Glut_6,1,#FF8F26
+593,root/HY Glut/DMH Hmx2 Glut/DMH Hmx2 Glut_1,1,#454F99
+594,root/HY Glut/DMH Hmx2 Glut/DMH Hmx2 Glut_2,1,#001066
+595,root/HY Glut/ARH-PVp Tbx3 Glut/ARH-PVp Tbx3 Glut_1,1,#FF00EA
+596,root/HY Glut/ARH-PVp Tbx3 Glut/ARH-PVp Tbx3 Glut_2,1,#75CC1F
+597,root/HY Glut/ARH-PVp Tbx3 Glut/ARH-PVp Tbx3 Glut_3,1,#660060
+598,root/HY Glut/ARH-PVp Tbx3 Glut/ARH-PVp Tbx3 Glut_4,1,#8CFF00
+599,root/HY Glut/ARH-PVp Tbx3 Glut/ARH-PVp Tbx3 Glut_5,1,#67995C
+600,root/HY Glut/DMH-LHA Vgll2 Glut/DMH-LHA Vgll2 Glut_1,1,#5A2E66
+601,root/HY Glut/DMH-LHA Vgll2 Glut/DMH-LHA Vgll2 Glut_2,1,#44663D
+602,root/HY Glut/DMH-LHA Vgll2 Glut/DMH-LHA Vgll2 Glut_3,1,#997A5C
+603,root/HY Glut/DMH-LHA Vgll2 Glut/DMH-LHA Vgll2 Glut_4,1,#995F5C
+604,root/HY Glut/VMH Fezf1 Glut/VMH Fezf1 Glut_1,1,#2E6636
+605,root/HY Glut/VMH Fezf1 Glut/VMH Fezf1 Glut_2,1,#66312E
+606,root/HY Glut/VMH Fezf1 Glut/VMH Fezf1 Glut_3,1,#38FF00
+607,root/HY Glut/VMH Nr5a1 Glut/VMH Nr5a1 Glut_1,1,#C75CCC
+608,root/HY Glut/VMH Nr5a1 Glut/VMH Nr5a1 Glut_2,1,#006609
+609,root/HY Glut/VMH Nr5a1 Glut/VMH Nr5a1 Glut_3,1,#00CCB9
+610,root/HY Glut/VMH Nr5a1 Glut/VMH Nr5a1 Glut_4,1,#089900
+611,root/HY Glut/VMH Nr5a1 Glut/VMH Nr5a1 Glut_5,1,#FF4826
+612,root/HY Glut/VMH Nr5a1 Glut/VMH Nr5a1 Glut_6,1,#0075FF
+613,root/HY Glut/LHA Pmch Glut/LHA Pmch Glut_1,1,#1F663F
+614,root/HY Glut/LHA Pmch Glut/LHA Pmch Glut_2,1,#CCB83D
+615,root/HY Glut/PVH-SO-PVa Otp Glut/PVH-SO-PVa Otp Glut_1,1,#003266
+616,root/HY Glut/PVH-SO-PVa Otp Glut/PVH-SO-PVa Otp Glut_2,1,#00C8CC
+617,root/HY Glut/PVH-SO-PVa Otp Glut/PVH-SO-PVa Otp Glut_3,1,#63663D
+618,root/HY Glut/PVH-SO-PVa Otp Glut/PVH-SO-PVa Otp Glut_4,1,#A6FF4D
+619,root/HY Glut/PVH-SO-PVa Otp Glut/PVH-SO-PVa Otp Glut_5,1,#FF73CB
+620,root/HY Glut/PVH-SO-PVa Otp Glut/PVH-SO-PVa Otp Glut_6,1,#827ACC
+621,root/HY Glut/STN-PSTN Pitx2 Glut/STN-PSTN Pitx2 Glut_1,1,#BB5CCC
+622,root/HY Glut/STN-PSTN Pitx2 Glut/STN-PSTN Pitx2 Glut_2,1,#81992E
+623,root/HY Glut/STN-PSTN Pitx2 Glut/STN-PSTN Pitx2 Glut_3,1,#CCBE00
+624,root/HY Glut/STN-PSTN Pitx2 Glut/STN-PSTN Pitx2 Glut_4,1,#661F5F
+625,root/HY Glut/STN-PSTN Pitx2 Glut/STN-PSTN Pitx2 Glut_5,1,#98FF26
+626,root/HY Glut/STN-PSTN Pitx2 Glut/STN-PSTN Pitx2 Glut_6,1,#00994C
+627,root/HY Glut/STN-PSTN Pitx2 Glut/STN-PSTN Pitx2 Glut_7,1,#0F2E66
+628,root/HY Glut/PMv-TMv Pitx2 Glut/PMv-TMv Pitx2 Glut_1,1,#66581F
+629,root/HY Glut/PMv-TMv Pitx2 Glut/PMv-TMv Pitx2 Glut_2,1,#00C9FF
+630,root/HY Glut/PMv-TMv Pitx2 Glut/PMv-TMv Pitx2 Glut_3,1,#2E3F66
+631,root/HY Glut/PH-an Pitx2 Glut/PH-an Pitx2 Glut_1,1,#660B00
+632,root/HY Glut/PH-an Pitx2 Glut/PH-an Pitx2 Glut_2,1,#457499
+633,root/HY Glut/PH Pitx2 Glut/PH Pitx2 Glut_1,1,#66562E
+634,root/HY Glut/PH Pitx2 Glut/PH Pitx2 Glut_2,1,#00CC49
+635,root/HY Glut/PH-LHA Foxb1 Glut/PH-LHA Foxb1 Glut_1,1,#C74DFF
+636,root/HY Glut/PH-LHA Foxb1 Glut/PH-LHA Foxb1 Glut_2,1,#4C661F
+637,root/HY Glut/PH-LHA Foxb1 Glut/PH-LHA Foxb1 Glut_3,1,#3D6640
+638,root/HY Glut/PH-LHA Foxb1 Glut/PH-LHA Foxb1 Glut_4,1,#73FFE8
+639,root/HY Glut/PH-LHA Foxb1 Glut/PH-LHA Foxb1 Glut_5,1,#5C6CCC
+640,root/HY Glut/PH-LHA Foxb1 Glut/PH-LHA Foxb1 Glut_6,1,#4DFFDE
+641,root/HY Glut/PH-LHA Foxb1 Glut/PH-LHA Foxb1 Glut_7,1,#5C9799
+642,root/HY Glut/PMd-LHA Foxb1 Glut/PMd-LHA Foxb1 Glut_1,1,#66411F
+643,root/HY Glut/PMd-LHA Foxb1 Glut/PMd-LHA Foxb1 Glut_2,1,#A7CC7A
+644,root/HY Glut/PMd-LHA Foxb1 Glut/PMd-LHA Foxb1 Glut_3,1,#2E6649
+645,root/HY Glut/PH-SUM Foxa1 Glut/PH-SUM Foxa1 Glut_1,1,#994F17
+646,root/HY Glut/PH-SUM Foxa1 Glut/PH-SUM Foxa1 Glut_2,1,#3DCC67
+647,root/HY Glut/PH-SUM Foxa1 Glut/PH-SUM Foxa1 Glut_3,1,#996D5C
+648,root/HY Glut/PH-SUM Foxa1 Glut/PH-SUM Foxa1 Glut_4,1,#2E664F
+649,root/HY Glut/PH-SUM Foxa1 Glut/PH-SUM Foxa1 Glut_5,1,#9ECC7A
+650,root/HY Glut/PH-SUM Foxa1 Glut/PH-SUM Foxa1 Glut_6,1,#995145
+651,root/HY Gnrh1 Glut/HY Gnrh1 Glut/HY Gnrh1 Glut_1,1,#B626FF
+652,root/HY MM Glut/MM-ant Foxb1 Glut/MM-ant Foxb1 Glut_1,1,#C23DCC
+653,root/HY MM Glut/MM Foxb1 Glut/MM Foxb1 Glut_1,1,#1F6647
+654,root/HY MM Glut/MM Foxb1 Glut/MM Foxb1 Glut_2,1,#660034
+655,root/MH-LH Glut/MH Tac2 Glut/MH Tac2 Glut_1,1,#701FCC
+656,root/MH-LH Glut/MH Tac2 Glut/MH Tac2 Glut_2,1,#661F30
+657,root/MH-LH Glut/MH Tac2 Glut/MH Tac2 Glut_3,1,#1700FF
+658,root/MH-LH Glut/MH Tac2 Glut/MH Tac2 Glut_4,1,#C8FF99
+659,root/MH-LH Glut/MH Tac2 Glut/MH Tac2 Glut_5,1,#FF0096
+660,root/MH-LH Glut/LH Pou4f1 Sox1 Glut/LH Pou4f1 Sox1 Glut_1,1,#CC7AA1
+661,root/MH-LH Glut/LH Pou4f1 Sox1 Glut/LH Pou4f1 Sox1 Glut_2,1,#5C9980
+662,root/MH-LH Glut/LH Pou4f1 Sox1 Glut/LH Pou4f1 Sox1 Glut_3,1,#003E99
+663,root/MH-LH Glut/LH Pou4f1 Sox1 Glut/LH Pou4f1 Sox1 Glut_4,1,#007099
+664,root/TH Glut/AD Serpinb7 Glut/AD Serpinb7 Glut_1,1,#3D4066
+665,root/TH Glut/AV Col27a1 Glut/AV Col27a1 Glut_1,1,#990C00
+666,root/TH Glut/PVT-PT Ntrk1 Glut/PVT-PT Ntrk1 Glut_1,1,#FF26B9
+667,root/TH Glut/PVT-PT Ntrk1 Glut/PVT-PT Ntrk1 Glut_2,1,#FFEB73
+668,root/TH Glut/PVT-PT Ntrk1 Glut/PVT-PT Ntrk1 Glut_3,1,#1F8CCC
+669,root/TH Glut/PVT-PT Ntrk1 Glut/PVT-PT Ntrk1 Glut_4,1,#FFBA4D
+670,root/TH Glut/PVT-PT Ntrk1 Glut/PVT-PT Ntrk1 Glut_5,1,#5C9900
+671,root/TH Glut/PVT-PT Ntrk1 Glut/PVT-PT Ntrk1 Glut_6,1,#995A45
+672,root/TH Glut/CM-IAD-CL-PCN Sema5b Glut/CM-IAD-CL-PCN Sema5b Glut_1,1,#FF99C1
+673,root/TH Glut/CM-IAD-CL-PCN Sema5b Glut/CM-IAD-CL-PCN Sema5b Glut_2,1,#2E663D
+674,root/TH Glut/CM-IAD-CL-PCN Sema5b Glut/CM-IAD-CL-PCN Sema5b Glut_3,1,#7ACCB1
+675,root/TH Glut/CM-IAD-CL-PCN Sema5b Glut/CM-IAD-CL-PCN Sema5b Glut_4,1,#CC7D7A
+676,root/TH Glut/CM-IAD-CL-PCN Sema5b Glut/CM-IAD-CL-PCN Sema5b Glut_5,1,#CC0A00
+677,root/TH Glut/TH Prkcd Grin2c Glut/TH Prkcd Grin2c Glut_1,1,#00CC33
+678,root/TH Glut/TH Prkcd Grin2c Glut/TH Prkcd Grin2c Glut_2,1,#0F6652
+679,root/TH Glut/TH Prkcd Grin2c Glut/TH Prkcd Grin2c Glut_3,1,#A67ACC
+680,root/TH Glut/TH Prkcd Grin2c Glut/TH Prkcd Grin2c Glut_4,1,#CC7ABC
+681,root/TH Glut/TH Prkcd Grin2c Glut/TH Prkcd Grin2c Glut_5,1,#66311F
+682,root/TH Glut/TH Prkcd Grin2c Glut/TH Prkcd Grin2c Glut_6,1,#4DBEFF
+683,root/TH Glut/TH Prkcd Grin2c Glut/TH Prkcd Grin2c Glut_7,1,#5A3D66
+684,root/TH Glut/TH Prkcd Grin2c Glut/TH Prkcd Grin2c Glut_8,1,#FF5F26
+685,root/TH Glut/TH Prkcd Grin2c Glut/TH Prkcd Grin2c Glut_9,1,#42CC3D
+686,root/TH Glut/TH Prkcd Grin2c Glut/TH Prkcd Grin2c Glut_10,1,#FFBD73
+687,root/TH Glut/TH Prkcd Grin2c Glut/TH Prkcd Grin2c Glut_11,1,#9E26FF
+688,root/TH Glut/TH Prkcd Grin2c Glut/TH Prkcd Grin2c Glut_12,1,#89995C
+689,root/TH Glut/TH Prkcd Grin2c Glut/TH Prkcd Grin2c Glut_13,1,#543DCC
+690,root/TH Glut/TH Prkcd Grin2c Glut/TH Prkcd Grin2c Glut_14,1,#CC1FA2
+691,root/TH Glut/RE-Xi Nox4 Glut/RE-Xi Nox4 Glut_1,1,#7AC3CC
+692,root/TH Glut/RE-Xi Nox4 Glut/RE-Xi Nox4 Glut_2,1,#73FFF8
+693,root/TH Glut/RE-Xi Nox4 Glut/RE-Xi Nox4 Glut_3,1,#CC993D
+694,root/TH Glut/RE-Xi Nox4 Glut/RE-Xi Nox4 Glut_4,1,#991720
+695,root/TH Glut/MG-POL-SGN Nts Glut/MG-POL-SGN Nts Glut_1,1,#CC1F7C
+696,root/TH Glut/MG-POL-SGN Nts Glut/MG-POL-SGN Nts Glut_2,1,#0E6600
+697,root/TH Glut/PF Fzd5 Glut/PF Fzd5 Glut_1,1,#99472E
+698,root/TH Glut/PF Fzd5 Glut/PF Fzd5 Glut_2,1,#454599
+699,root/MB Glut/PRC-PAG Pax6 Glut/PRC-PAG Pax6 Glut_1,1,#CC1FB5
+700,root/MB Glut/PRC-PAG Pax6 Glut/PRC-PAG Pax6 Glut_2,1,#99ECFF
+701,root/MB Glut/PRC-PAG Pax6 Glut/PRC-PAG Pax6 Glut_3,1,#FF4D82
+702,root/MB Glut/PRC-PAG Pax6 Glut/PRC-PAG Pax6 Glut_4,1,#FFD073
+703,root/MB Glut/PRC-PAG Pax6 Glut/PRC-PAG Pax6 Glut_5,1,#996345
+704,root/MB Glut/MB-ant-ve Dmrta2 Glut/MB-ant-ve Dmrta2 Glut_1,1,#176599
+705,root/MB Glut/RN Spp1 Glut/RN Spp1 Glut_1,1,#BA1FCC
+706,root/MB Glut/MRN-PAG Nkx6-1 Glut/MRN-PAG Nkx6-1 Glut_1,1,#73CA00
+707,root/MB Glut/MRN-PAG Nkx6-1 Glut/MRN-PAG Nkx6-1 Glut_2,1,#1F3FCC
+708,root/MB Glut/IF-RL-CLI-PAG Foxa1 Glut/IF-RL-CLI-PAG Foxa1 Glut_1,1,#CC5C87
+709,root/MB Glut/IF-RL-CLI-PAG Foxa1 Glut/IF-RL-CLI-PAG Foxa1 Glut_2,1,#99004E
+710,root/MB Glut/IF-RL-CLI-PAG Foxa1 Glut/IF-RL-CLI-PAG Foxa1 Glut_3,1,#FF6C4D
+711,root/MB Glut/IF-RL-CLI-PAG Foxa1 Glut/IF-RL-CLI-PAG Foxa1 Glut_4,1,#CD99FF
+712,root/MB Glut/IF-RL-CLI-PAG Foxa1 Glut/IF-RL-CLI-PAG Foxa1 Glut_5,1,#2E9997
+713,root/MB Glut/PAG-SC Neurod2 Meis2 Glut/PAG-SC Neurod2 Meis2 Glut_1,1,#995C63
+714,root/MB Glut/PAG-SC Neurod2 Meis2 Glut/PAG-SC Neurod2 Meis2 Glut_2,1,#996000
+715,root/MB Glut/PAG-SC Neurod2 Meis2 Glut/PAG-SC Neurod2 Meis2 Glut_3,1,#68f9d3
+716,root/MB Glut/PAG-SC Neurod2 Meis2 Glut/PAG-SC Neurod2 Meis2 Glut_4,1,#491799
+717,root/MB Glut/PAG Pou4f3 Glut/PAG Pou4f3 Glut_1,1,#f76ad1
+718,root/MB Glut/PAG Pou4f3 Glut/PAG Pou4f3 Glut_2,1,#458699
+719,root/MB Glut/PAG Pou4f3 Glut/PAG Pou4f3 Glut_3,1,#EEFF73
+720,root/MB Glut/CUN Evx2 Lhx2 Glut/CUN Evx2 Lhx2 Glut_1,1,#5C5CCC
+721,root/MB Glut/CUN Evx2 Lhx2 Glut/CUN Evx2 Lhx2 Glut_2,1,#CC0002
+722,root/MB Glut/CUN Evx2 Lhx2 Glut/CUN Evx2 Lhx2 Glut_3,1,#461F66
+723,root/MB Glut/CUN Evx2 Lhx2 Glut/CUN Evx2 Lhx2 Glut_4,1,#CC7AAA
+724,root/MB Glut/CUN Evx2 Lhx2 Glut/CUN Evx2 Lhx2 Glut_5,1,#FF265A
+725,root/MB Glut/APN C1ql2 Glut/APN C1ql2 Glut_1,1,#843DCC
+726,root/MB Glut/APN C1ql4 Glut/APN C1ql4 Glut_1,1,#660F39
+727,root/MB Glut/PAG-MRN Pou3f1 Glut/PAG-MRN Pou3f1 Glut_1,1,#3D4466
+728,root/MB Glut/PAG-MRN Pou3f1 Glut/PAG-MRN Pou3f1 Glut_2,1,#CC4B3D
+729,root/MB Glut/PAG-MRN Pou3f1 Glut/PAG-MRN Pou3f1 Glut_3,1,#26FFD2
+730,root/MB Glut/PAG-MRN Pou3f1 Glut/PAG-MRN Pou3f1 Glut_4,1,#2E9948
+731,root/MB Glut/PAG-MRN Pou3f1 Glut/PAG-MRN Pou3f1 Glut_5,1,#FFA24D
+732,root/MB Glut/PAG-MRN Pou3f1 Glut/PAG-MRN Pou3f1 Glut_6,1,#FF00EE
+733,root/MB Glut/PAG-MRN Tfap2b Glut/PAG-MRN Tfap2b Glut_1,1,#2A1FCC
+734,root/MB Glut/PAG-MRN Tfap2b Glut/PAG-MRN Tfap2b Glut_2,1,#00E5FF
+735,root/MB Glut/PAG Pou4f1 Ebf2 Glut/PAG Pou4f1 Ebf2 Glut_1,1,#3D84CC
+736,root/MB Glut/PAG Pou4f1 Ebf2 Glut/PAG Pou4f1 Ebf2 Glut_2,1,#4D4599
+737,root/MB Glut/PAG Pou4f1 Ebf2 Glut/PAG Pou4f1 Ebf2 Glut_3,1,#CC893D
+738,root/MB Glut/PAG Pou4f1 Ebf2 Glut/PAG Pou4f1 Ebf2 Glut_4,1,#FF7600
+739,root/MB Glut/PAG Pou4f1 Ebf2 Glut/PAG Pou4f1 Ebf2 Glut_5,1,#FEFF4D
+740,root/MB Glut/PAG Pou4f1 Ebf2 Glut/PAG Pou4f1 Ebf2 Glut_6,1,#99932E
+741,root/MB Glut/PAG Pou4f1 Ebf2 Glut/PAG Pou4f1 Ebf2 Glut_7,1,#9FCC1F
+742,root/MB Glut/PAG Pou4f1 Ebf2 Glut/PAG Pou4f1 Ebf2 Glut_8,1,#E573FF
+743,root/MB Glut/PAG Pou4f2 Glut/PAG Pou4f2 Glut_1,1,#422E66
+744,root/MB Glut/PAG Pou4f2 Glut/PAG Pou4f2 Glut_2,1,#267F00
+745,root/MB Glut/PAG Pou4f2 Glut/PAG Pou4f2 Glut_3,1,#99D5FF
+746,root/MB Glut/PAG Pou4f2 Glut/PAG Pou4f2 Glut_4,1,#1CFF00
+747,root/MB Glut/PAG Pou4f2 Glut/PAG Pou4f2 Glut_5,1,#CC6400
+748,root/MB Glut/PAG Pou4f2 Mesi2 Glut/PAG Pou4f2 Mesi2 Glut_1,1,#99482E
+749,root/MB Glut/PAG Pou4f2 Mesi2 Glut/PAG Pou4f2 Mesi2 Glut_2,1,#FFAF73
+750,root/MB Glut/PAG Pou4f2 Mesi2 Glut/PAG Pou4f2 Mesi2 Glut_3,1,#66211F
+751,root/MB Glut/PAG Pou4f2 Mesi2 Glut/PAG Pou4f2 Mesi2 Glut_4,1,#0058CC
+752,root/MB Glut/PAG Pou4f2 Mesi2 Glut/PAG Pou4f2 Mesi2 Glut_5,1,#FF99CC
+753,root/MB Glut/PAG Pou4f2 Mesi2 Glut/PAG Pou4f2 Mesi2 Glut_6,1,#2726FF
+754,root/MB Glut/SC Bnc2 Glut/SC Bnc2 Glut_1,1,#689945
+755,root/MB Glut/SC Bnc2 Glut/SC Bnc2 Glut_2,1,#FF73E6
+756,root/MB Glut/SC Bnc2 Glut/SC Bnc2 Glut_3,1,#892E99
+757,root/MB Glut/SC Bnc2 Glut/SC Bnc2 Glut_4,1,#00996E
+758,root/MB Glut/SCig Foxb1 Glut/SCig Foxb1 Glut_1,1,#992E4B
+759,root/MB Glut/SCig Foxb1 Glut/SCig Foxb1 Glut_2,1,#CC9C5C
+760,root/MB Glut/SCig Foxb1 Glut/SCig Foxb1 Glut_3,1,#CC0019
+761,root/MB Glut/SCig Foxb1 Glut/SCig Foxb1 Glut_4,1,#1FCC4E
+762,root/MB Glut/SCig-an-PPT Foxb1 Glut/SCig-an-PPT Foxb1 Glut_1,1,#663D41
+763,root/MB Glut/SCig Foxb1 Otx2 Glut/SCig Foxb1 Otx2 Glut_1,1,#99E0FF
+764,root/MB Glut/SCdg-PAG Tfap2b Glut/SCdg-PAG Tfap2b Glut_1,1,#001B66
+765,root/MB Glut/SCiw Pitx2 Glut/SCiw Pitx2 Glut_1,1,#CCB35C
+766,root/MB Glut/SCiw Pitx2 Glut/SCiw Pitx2 Glut_2,1,#51662E
+767,root/MB Glut/SCiw Pitx2 Glut/SCiw Pitx2 Glut_3,1,#CC3D58
+768,root/MB Glut/IC Tfap2d Maf Glut/IC Tfap2d Maf Glut_1,1,#4DE5FF
+769,root/MB Glut/IC Tfap2d Maf Glut/IC Tfap2d Maf Glut_2,1,#99992E
+770,root/MB Glut/IC Tfap2d Maf Glut/IC Tfap2d Maf Glut_3,1,#FF0021
+771,root/MB Glut/IC Tfap2d Maf Glut/IC Tfap2d Maf Glut_4,1,#E0FF00
+772,root/MB Glut/IC Tfap2d Maf Glut/IC Tfap2d Maf Glut_5,1,#5CCC73
+773,root/MB Glut/IC Tfap2d Maf Glut/IC Tfap2d Maf Glut_6,1,#1B9917
+774,root/MB Glut/CUN-PPN Evx2 Meis2 Glut/CUN-PPN Evx2 Meis2 Glut_1,1,#13d9f7
+775,root/MB Glut/CUN-PPN Evx2 Meis2 Glut/CUN-PPN Evx2 Meis2 Glut_2,1,#995D17
+776,root/MB Glut/CUN-PPN Evx2 Meis2 Glut/CUN-PPN Evx2 Meis2 Glut_3,1,#66573D
+777,root/MB Glut/CUN-PPN Evx2 Meis2 Glut/CUN-PPN Evx2 Meis2 Glut_4,1,#992E62
+778,root/MB Glut/CUN-PPN Evx2 Meis2 Glut/CUN-PPN Evx2 Meis2 Glut_5,1,#39FF26
+779,root/MB Glut/PBG Mtnr1a Glut-Chol/PBG Mtnr1a Glut-Chol_1,1,#187bdd
+780,root/MB Glut/PAG Tcf24 Glut/PAG Tcf24 Glut_1,1,#d15c08
+781,root/MB Glut/SCig Tfap2b Chrnb3 Glut/SCig Tfap2b Chrnb3 Glut_1,1,#2685FF
+782,root/MB Glut/SCop Pou4f2 Neurod2 Glut/SCop Pou4f2 Neurod2 Glut_1,1,#0F4166
+783,root/MB Glut/SCsg Pde5a Glut/SCsg Pde5a Glut_1,1,#26FFEA
+784,root/MB Glut/SCsg Pde5a Glut/SCsg Pde5a Glut_2,1,#741799
+785,root/MB Glut/SCsg Pde5a Glut/SCsg Pde5a Glut_3,1,#662E3A
+786,root/MB Glut/SCop Sln Glut/SCop Sln Glut_1,1,#00CCA3
+787,root/MB Glut/PAG Ucn Glut/PAG Ucn Glut_1,1,#CC8E5C
+788,root/MB Glut/ND-INC Foxd2 Glut/ND-INC Foxd2 Glut_1,1,#FFCC73
+789,root/MB GABA/PAG-MRN Rln3 Gaba/PAG-MRN Rln3 Gaba_1,1,#26FF2B
+790,root/MB GABA/PPN-CUN-PCG Otp En1 Gaba/PPN-CUN-PCG Otp En1 Gaba_1,1,#BDCC3D
+791,root/MB GABA/PPN-CUN-PCG Otp En1 Gaba/PPN-CUN-PCG Otp En1 Gaba_2,1,#7BFF4D
+792,root/MB GABA/PPN-CUN-PCG Otp En1 Gaba/PPN-CUN-PCG Otp En1 Gaba_3,1,#efcb15
+793,root/MB GABA/MRN-PPN-CUN Pax8 Gaba/MRN-PPN-CUN Pax8 Gaba_1,1,#992E5B
+794,root/MB GABA/MRN-PPN-CUN Pax8 Gaba/MRN-PPN-CUN Pax8 Gaba_2,1,#FF9E73
+795,root/MB GABA/MRN-PPN-CUN Pax8 Gaba/MRN-PPN-CUN Pax8 Gaba_3,1,#00997E
+796,root/MB GABA/MRN-VTN-PPN Pax5 Cdh23 Gaba/MRN-VTN-PPN Pax5 Cdh23 Gaba_1,1,#070066
+797,root/MB GABA/MRN-VTN-PPN Pax5 Cdh23 Gaba/MRN-VTN-PPN Pax5 Cdh23 Gaba_2,1,#5C6600
+798,root/MB GABA/SNr-VTA Pax5 Npas1 Gaba/SNr-VTA Pax5 Npas1 Gaba_1,1,#979945
+799,root/MB GABA/SNr-VTA Pax5 Npas1 Gaba/SNr-VTA Pax5 Npas1 Gaba_2,1,#FF7D4D
+800,root/MB GABA/PAG-PPN Pax5 Sox21 Gaba/PAG-PPN Pax5 Sox21 Gaba_1,1,#1F1F66
+801,root/MB GABA/PAG-PPN Pax5 Sox21 Gaba/PAG-PPN Pax5 Sox21 Gaba_2,1,#662E40
+802,root/MB GABA/PAG-PPN Pax5 Sox21 Gaba/PAG-PPN Pax5 Sox21 Gaba_3,1,#550066
+803,root/MB GABA/PAG-PPN Pax5 Sox21 Gaba/PAG-PPN Pax5 Sox21 Gaba_4,1,#CCBB7A
+804,root/MB GABA/SNr Six3 Gaba/SNr Six3 Gaba_1,1,#2E995C
+805,root/MB GABA/IC Six3 En2 Gaba/IC Six3 En2 Gaba_1,1,#66501F
+806,root/MB GABA/IC Six3 En2 Gaba/IC Six3 En2 Gaba_2,1,#CC451F
+807,root/MB GABA/IC Six3 En2 Gaba/IC Six3 En2 Gaba_3,1,#60995C
+808,root/MB GABA/IC Six3 En2 Gaba/IC Six3 En2 Gaba_4,1,#44662E
+809,root/MB GABA/IC Six3 En2 Gaba/IC Six3 En2 Gaba_5,1,#995C99
+810,root/MB GABA/IC Six3 En2 Gaba/IC Six3 En2 Gaba_6,1,#17993E
+811,root/MB GABA/IC Six3 En2 Gaba/IC Six3 En2 Gaba_7,1,#179099
+812,root/MB GABA/PAG-MRN-RN Foxa2 Gaba/PAG-MRN-RN Foxa2 Gaba_1,1,#660055
+813,root/MB GABA/PAG-MRN-RN Foxa2 Gaba/PAG-MRN-RN Foxa2 Gaba_2,1,#00FF00
+814,root/MB GABA/PAG-MRN-RN Foxa2 Gaba/PAG-MRN-RN Foxa2 Gaba_3,1,#7B0099
+815,root/MB GABA/PAG-MRN-RN Foxa2 Gaba/PAG-MRN-RN Foxa2 Gaba_4,1,#3D74CC
+816,root/MB GABA/PAG-RN Nkx2-2 Otx1 Gaba/PAG-RN Nkx2-2 Otx1 Gaba_1,1,#8fb7ac
+817,root/MB GABA/PAG-RN Nkx2-2 Otx1 Gaba/PAG-RN Nkx2-2 Otx1 Gaba_2,1,#1F79CC
+818,root/MB GABA/PAG-RN Nkx2-2 Otx1 Gaba/PAG-RN Nkx2-2 Otx1 Gaba_3,1,#6A5C99
+819,root/MB GABA/PAG-RN Nkx2-2 Otx1 Gaba/PAG-RN Nkx2-2 Otx1 Gaba_4,1,#4D663D
+820,root/MB GABA/PAG-RN Nkx2-2 Otx1 Gaba/PAG-RN Nkx2-2 Otx1 Gaba_5,1,#73B9FF
+821,root/MB GABA/PAG-RN Nkx2-2 Otx1 Gaba/PAG-RN Nkx2-2 Otx1 Gaba_6,1,#83CC7A
+822,root/MB GABA/PRT Tcf7l2 Gaba/PRT Tcf7l2 Gaba_1,1,#FF4DBB
+823,root/MB GABA/PRT Tcf7l2 Gaba/PRT Tcf7l2 Gaba_2,1,#5D3DCC
+824,root/MB GABA/PRT Tcf7l2 Gaba/PRT Tcf7l2 Gaba_3,1,#3DCC77
+825,root/MB GABA/PRT Tcf7l2 Gaba/PRT Tcf7l2 Gaba_4,1,#006635
+826,root/MB GABA/PRT Tcf7l2 Gaba/PRT Tcf7l2 Gaba_5,1,#999DFF
+827,root/MB GABA/SC Otx2 Gcnt4 Gaba/SC Otx2 Gcnt4 Gaba_1,1,#998E5C
+828,root/MB GABA/SC Otx2 Gcnt4 Gaba/SC Otx2 Gcnt4 Gaba_2,1,#9BCC1F
+829,root/MB GABA/SC-PAG Lef1 Emx2 Gaba/SC-PAG Lef1 Emx2 Gaba_1,1,#B9CC7A
+830,root/MB GABA/SC-PAG Lef1 Emx2 Gaba/SC-PAG Lef1 Emx2 Gaba_2,1,#173A99
+831,root/MB GABA/SC-PAG Lef1 Emx2 Gaba/SC-PAG Lef1 Emx2 Gaba_3,1,#0F3866
+832,root/MB GABA/SC-PAG Lef1 Emx2 Gaba/SC-PAG Lef1 Emx2 Gaba_4,1,#99000E
+833,root/MB GABA/SC-PAG Lef1 Emx2 Gaba/SC-PAG Lef1 Emx2 Gaba_5,1,#2E5E66
+834,root/MB GABA/SCm-PAG Cdh23 Gaba/SCm-PAG Cdh23 Gaba_1,1,#2E998B
+835,root/MB GABA/SCm-PAG Cdh23 Gaba/SCm-PAG Cdh23 Gaba_2,1,#F8FF26
+836,root/MB GABA/SCm-PAG Cdh23 Gaba/SCm-PAG Cdh23 Gaba_3,1,#98FF73
+837,root/MB GABA/SCm-PAG Cdh23 Gaba/SCm-PAG Cdh23 Gaba_4,1,#1F5E66
+838,root/MB GABA/SCs Dmbx1 Gaba/SCs Dmbx1 Gaba_1,1,#ffcce1
+839,root/MB GABA/SCs Dmbx1 Gaba/SCs Dmbx1 Gaba_2,1,#6CFF4D
+840,root/MB GABA/SCs Dmbx1 Gaba/SCs Dmbx1 Gaba_3,1,#1FCC74
+841,root/MB GABA/SCs Dmbx1 Gaba/SCs Dmbx1 Gaba_4,1,#1FC5CC
+842,root/MB GABA/SCs Dmbx1 Gaba/SCs Dmbx1 Gaba_5,1,#CA7ACC
+843,root/MB GABA/SC Lef1 Otx2 Gaba/SC Lef1 Otx2 Gaba_1,1,#CC00CC
+844,root/MB GABA/SC Lef1 Otx2 Gaba/SC Lef1 Otx2 Gaba_2,1,#CC755C
+845,root/MB GABA/SCs Pax7 Nfia Gaba/SCs Pax7 Nfia Gaba_1,1,#5C78CC
+846,root/MB GABA/SCs Pax7 Nfia Gaba/SCs Pax7 Nfia Gaba_2,1,#996A2E
+847,root/MB GABA/SCs Pax7 Nfia Gaba/SCs Pax7 Nfia Gaba_3,1,#4C3D66
+848,root/MB GABA/SCs Pax7 Nfia Gaba/SCs Pax7 Nfia Gaba_4,1,#4DFFBF
+849,root/MB GABA/SCs Pax7 Nfia Gaba/SCs Pax7 Nfia Gaba_5,1,#26FF43
+850,root/MB GABA/PRT Mecom Gaba/PRT Mecom Gaba_1,1,#CC1F31
+851,root/MB GABA/PRT Mecom Gaba/PRT Mecom Gaba_2,1,#241FCC
+852,root/MB GABA/PRT Mecom Gaba/PRT Mecom Gaba_3,1,#3DCC57
+853,root/MB GABA/SC Tnnt1 Gli3 Gaba/SC Tnnt1 Gli3 Gaba_1,1,#994588
+854,root/MB GABA/SC Tnnt1 Gli3 Gaba/SC Tnnt1 Gli3 Gaba_2,1,#F800FF
+855,root/MB GABA/SCs Lef1 Gli3 Gaba/SCs Lef1 Gli3 Gaba_1,1,#459962
+856,root/MB GABA/SCs Lef1 Gli3 Gaba/SCs Lef1 Gli3 Gaba_2,1,#D3FF99
+857,root/MB GABA/SCs Lef1 Gli3 Gaba/SCs Lef1 Gli3 Gaba_3,1,#FF3200
+858,root/MB GABA/SCsg Gabrr2 Gaba/SCsg Gabrr2 Gaba_1,1,#99456C
+859,root/MB GABA/SCsg Gabrr2 Gaba/SCsg Gabrr2 Gaba_2,1,#66413D
+860,root/MB GABA/SCsg Gabrr2 Gaba/SCsg Gabrr2 Gaba_3,1,#FFDC99
+861,root/MB GABA/SCsg Gabrr2 Gaba/SCsg Gabrr2 Gaba_4,1,#200F66
+862,root/MB GABA/SCsg Gabrr2 Gaba/SCsg Gabrr2 Gaba_5,1,#1F9FCC
+863,root/MB GABA/IPN Otp Crisp1 Gaba/IPN Otp Crisp1 Gaba_1,1,#CCCB5C
+864,root/MB GABA/IPN Otp Crisp1 Gaba/IPN Otp Crisp1 Gaba_2,1,#C4CC00
+865,root/MB GABA/IPN Otp Crisp1 Gaba/IPN Otp Crisp1 Gaba_3,1,#003D66
+866,root/MB Dopa/SNc-VTA-RAmb Foxa1 Dopa/SNc-VTA-RAmb Foxa1 Dopa_1,1,#FFE600
+867,root/MB Dopa/SNc-VTA-RAmb Foxa1 Dopa/SNc-VTA-RAmb Foxa1 Dopa_2,1,#B1FF99
+868,root/MB Dopa/SNc-VTA-RAmb Foxa1 Dopa/SNc-VTA-RAmb Foxa1 Dopa_3,1,#993217
+869,root/MB Dopa/SNc-VTA-RAmb Foxa1 Dopa/SNc-VTA-RAmb Foxa1 Dopa_4,1,#73D8FF
+870,root/MB Dopa/SNc-VTA-RAmb Foxa1 Dopa/SNc-VTA-RAmb Foxa1 Dopa_5,1,#662E4D
+871,root/MB Dopa/SNc-VTA-RAmb Foxa1 Dopa/SNc-VTA-RAmb Foxa1 Dopa_6,1,#4500CC
+872,root/MB Dopa/SNc-VTA-RAmb Foxa1 Dopa/SNc-VTA-RAmb Foxa1 Dopa_7,1,#FF99E2
+873,root/MB Dopa/SNc-VTA-RAmb Foxa1 Dopa/SNc-VTA-RAmb Foxa1 Dopa_8,1,#3B1799
+874,root/P Glut/PB Lmx1a Glut/PB Lmx1a Glut_1,1,#AECC00
+875,root/P Glut/PB Lmx1a Glut/PB Lmx1a Glut_2,1,#10CC00
+876,root/P Glut/PB Lmx1a Glut/PB Lmx1a Glut_3,1,#7ACC96
+877,root/P Glut/PB Lmx1a Glut/PB Lmx1a Glut_4,1,#C8FF26
+878,root/P Glut/PB Lmx1a Glut/PB Lmx1a Glut_5,1,#FC7300
+879,root/P Glut/PB Lmx1a Glut/PB Lmx1a Glut_6,1,#72CC3D
+880,root/P Glut/PB Lmx1a Glut/PB Lmx1a Glut_7,1,#7A7BCC
+881,root/P Glut/PB-SUT Tlx3 Lhx2 Glut/PB-SUT Tlx3 Lhx2 Glut_1,1,#63662E
+882,root/P Glut/PB Pax5 Glut/PB Pax5 Glut_1,1,#56663D
+883,root/P Glut/PB Pax5 Glut/PB Pax5 Glut_2,1,#99885C
+884,root/P Glut/LDT-PCG Vsx2 Lhx4 Glut/LDT-PCG Vsx2 Lhx4 Glut_1,1,#f4a63f
+885,root/P Glut/LDT-PCG Vsx2 Lhx4 Glut/LDT-PCG Vsx2 Lhx4 Glut_2,1,#4A662E
+886,root/P Glut/LDT-PCG Vsx2 Lhx4 Glut/LDT-PCG Vsx2 Lhx4 Glut_3,1,#662E5F
+887,root/P Glut/LDT-PCG Vsx2 Lhx4 Glut/LDT-PCG Vsx2 Lhx4 Glut_4,1,#00CC60
+888,root/P Glut/LDT-PCG Vsx2 Lhx4 Glut/LDT-PCG Vsx2 Lhx4 Glut_5,1,#FFA74D
+889,root/P Glut/LDT-PCG Vsx2 Lhx4 Glut/LDT-PCG Vsx2 Lhx4 Glut_6,1,#F5FF4D
+890,root/P Glut/LDT-PCG Vsx2 Lhx4 Glut/LDT-PCG Vsx2 Lhx4 Glut_7,1,#00CCC0
+891,root/P Glut/LDT-PCG Vsx2 Lhx4 Glut/LDT-PCG Vsx2 Lhx4 Glut_8,1,#1FCC28
+892,root/P Glut/PB Evx2 Glut/PB Evx2 Glut_1,1,#d1d11b
+893,root/P Glut/PB Evx2 Glut/PB Evx2 Glut_2,1,#005D99
+894,root/P Glut/PB Evx2 Glut/PB Evx2 Glut_3,1,#459974
+895,root/P Glut/PB Evx2 Glut/PB Evx2 Glut_4,1,#FF99AA
+896,root/P Glut/PB Evx2 Glut/PB Evx2 Glut_5,1,#7ACC8D
+897,root/P Glut/PB Evx2 Glut/PB Evx2 Glut_6,1,#175799
+898,root/P Glut/PB Evx2 Glut/PB Evx2 Glut_7,1,#8C4DFF
+899,root/P Glut/PB Evx2 Glut/PB Evx2 Glut_8,1,#b9bfbe
+900,root/P Glut/PB Evx2 Glut/PB Evx2 Glut_9,1,#FF0600
+901,root/P Glut/B-PB Nr4a2 Glut/B-PB Nr4a2 Glut_1,1,#CCC15C
+902,root/P Glut/PCG-PRNr Vsx2 Nkx6-1 Glut/PCG-PRNr Vsx2 Nkx6-1 Glut_1,1,#5CCCA0
+903,root/P Glut/PCG-PRNr Vsx2 Nkx6-1 Glut/PCG-PRNr Vsx2 Nkx6-1 Glut_2,1,#26FF5B
+904,root/P Glut/PCG-PRNr Vsx2 Nkx6-1 Glut/PCG-PRNr Vsx2 Nkx6-1 Glut_3,1,#CC5C7B
+905,root/P Glut/PCG-PRNr Vsx2 Nkx6-1 Glut/PCG-PRNr Vsx2 Nkx6-1 Glut_4,1,#C1CC1F
+906,root/P Glut/PCG-PRNr Vsx2 Nkx6-1 Glut/PCG-PRNr Vsx2 Nkx6-1 Glut_5,1,#B0CC7A
+907,root/P Glut/PCG-PRNr Vsx2 Nkx6-1 Glut/PCG-PRNr Vsx2 Nkx6-1 Glut_6,1,#991917
+908,root/P Glut/PRNc-NI-SG-RPO Vsx2 Nr4a2 Glut/PRNc-NI-SG-RPO Vsx2 Nr4a2 Glut_1,1,#8BFF73
+909,root/P Glut/PRNc-NI-SG-RPO Vsx2 Nr4a2 Glut/PRNc-NI-SG-RPO Vsx2 Nr4a2 Glut_2,1,#FF4D6C
+910,root/P Glut/PRNc-NI-SG-RPO Vsx2 Nr4a2 Glut/PRNc-NI-SG-RPO Vsx2 Nr4a2 Glut_3,1,#DEFF99
+911,root/P Glut/PRNc-NI-SG-RPO Vsx2 Nr4a2 Glut/PRNc-NI-SG-RPO Vsx2 Nr4a2 Glut_4,1,#AA1FCC
+912,root/P Glut/PRNc-PARN Tlx1 Glut/PRNc-PARN Tlx1 Glut_1,1,#009947
+913,root/P Glut/PRNc-PARN Tlx1 Glut/PRNc-PARN Tlx1 Glut_2,1,#e076d7
+914,root/P Glut/PRNc-PARN Tlx1 Glut/PRNc-PARN Tlx1 Glut_3,1,#73FFE4
+915,root/P Glut/PB-PSV Phox2b Glut/PB-PSV Phox2b Glut_1,1,#3DCC62
+916,root/P Glut/PSV Pvalb Lhx2 Glut/PSV Pvalb Lhx2 Glut_1,1,#FF73FA
+917,root/P Glut/PSV Pvalb Lhx2 Glut/PSV Pvalb Lhx2 Glut_2,1,#7B995C
+918,root/P Glut/PSV Pvalb Lhx2 Glut/PSV Pvalb Lhx2 Glut_3,1,#2E8499
+919,root/P Glut/PSV Pvalb Lhx2 Glut/PSV Pvalb Lhx2 Glut_4,1,#FF00AE
+920,root/P Glut/PB-NTS Phox2b Ebf3 Lmx1b Glut/PB-NTS Phox2b Ebf3 Lmx1b Glut_1,1,#00995D
+921,root/P Glut/PB-NTS Phox2b Ebf3 Lmx1b Glut/PB-NTS Phox2b Ebf3 Lmx1b Glut_2,1,#995C70
+922,root/P Glut/PRNr Otp Nfib Glut/PRNr Otp Nfib Glut_1,1,#990052
+923,root/P Glut/IPN-LDT Vsx2 Nkx6-1 Glut/IPN-LDT Vsx2 Nkx6-1 Glut_1,1,#36660F
+924,root/P Glut/IPN-LDT Vsx2 Nkx6-1 Glut/IPN-LDT Vsx2 Nkx6-1 Glut_2,1,#7ACC84
+925,root/P Glut/LDT Vsx2 Nkx6-1 Nfib Glut/LDT Vsx2 Nkx6-1 Nfib Glut_1,1,#26FF8B
+926,root/P Glut/LDT Vsx2 Nkx6-1 Nfib Glut/LDT Vsx2 Nkx6-1 Nfib Glut_2,1,#6ACC5C
+927,root/P Glut/NLL-SOC Spp1 Glut/NLL-SOC Spp1 Glut_1,1,#FF4DB1
+928,root/P Glut/NLL-SOC Spp1 Glut/NLL-SOC Spp1 Glut_2,1,#457B99
+929,root/P Glut/PG-TRN-LRN Fat2 Glut/PG-TRN-LRN Fat2 Glut_1,1,#990041
+930,root/MY Glut/IRN Vip Glut/IRN Vip Glut_1,1,#4DD1FF
+931,root/MY Glut/PRP-NI-PRNc-GRN Otp Glut/PRP-NI-PRNc-GRN Otp Glut_1,1,#3D6649
+932,root/MY Glut/PRP-NI-PRNc-GRN Otp Glut/PRP-NI-PRNc-GRN Otp Glut_2,1,#CC1F40
+933,root/MY Glut/PRP-NI-PRNc-GRN Otp Glut/PRP-NI-PRNc-GRN Otp Glut_3,1,#8A1799
+934,root/MY Glut/PRP-NI-PRNc-GRN Otp Glut/PRP-NI-PRNc-GRN Otp Glut_4,1,#196600
+935,root/MY Glut/NTS Phox2b Glut/NTS Phox2b Glut_1,1,#73FFD5
+936,root/MY Glut/NTS Phox2b Glut/NTS Phox2b Glut_2,1,#992800
+937,root/MY Glut/NTS Phox2b Glut/NTS Phox2b Glut_3,1,#490099
+938,root/MY Glut/NTS Phox2b Glut/NTS Phox2b Glut_4,1,#4EFF4D
+939,root/MY Glut/NTS Phox2b Glut/NTS Phox2b Glut_5,1,#457D99
+940,root/MY Glut/NTS Phox2b Glut/NTS Phox2b Glut_6,1,#CC641F
+941,root/MY Glut/NTS Phox2b Glut/NTS Phox2b Glut_7,1,#664E3D
+942,root/MY Glut/NTS Phox2b Glut/NTS Phox2b Glut_8,1,#581799
+943,root/MY Glut/NTS Phox2b Glut/NTS Phox2b Glut_9,1,#50992E
+944,root/MY Glut/NTS Phox2b Glut/NTS Phox2b Glut_10,1,#2E996C
+945,root/MY Glut/MARN-GRN Pyy Glut/MARN-GRN Pyy Glut_1,1,#f2a14b
+946,root/MY Glut/MDRNv Lhx4 Qrfprl Glut/MDRNv Lhx4 Qrfprl Glut_1,1,#006657
+947,root/MY Glut/NTS Mbnl3 Glut/NTS Mbnl3 Glut_1,1,#49f490
+948,root/MY Glut/PGRNd Dmbx1 Glut/PGRNd Dmbx1 Glut_1,1,#FF73E3
+949,root/MY Glut/PGRN-PARN-MDRN Hoxb5 Glut/PGRN-PARN-MDRN Hoxb5 Glut_1,1,#513D66
+950,root/MY Glut/PGRN-PARN-MDRN Hoxb5 Glut/PGRN-PARN-MDRN Hoxb5 Glut_2,1,#459987
+951,root/MY Glut/PGRN-PARN-MDRN Hoxb5 Glut/PGRN-PARN-MDRN Hoxb5 Glut_3,1,#73FFD9
+952,root/MY Glut/PGRN-PARN-MDRN Hoxb5 Glut/PGRN-PARN-MDRN Hoxb5 Glut_4,1,#2E6643
+953,root/MY Glut/PGRN-PARN-MDRN Hoxb5 Glut/PGRN-PARN-MDRN Hoxb5 Glut_5,1,#990089
+954,root/MY Glut/PGRN-PARN-MDRN Hoxb5 Glut/PGRN-PARN-MDRN Hoxb5 Glut_6,1,#3d72ed
+955,root/MY Glut/PGRN-PARN-MDRN Hoxb5 Glut/PGRN-PARN-MDRN Hoxb5 Glut_7,1,#EFFF26
+956,root/MY Glut/MV-SPIV Slc6a2 Glut/MV-SPIV Slc6a2 Glut_1,1,#743DCC
+957,root/MY Glut/SPVI-SPVC Tlx3 Ebf3 Glut/SPVI-SPVC Tlx3 Ebf3 Glut_1,1,#88CC5C
+958,root/MY Glut/SPVI-SPVC Tlx3 Ebf3 Glut/SPVI-SPVC Tlx3 Ebf3 Glut_2,1,#eec9ff
+959,root/MY Glut/SPVI-SPVC Tlx3 Ebf3 Glut/SPVI-SPVC Tlx3 Ebf3 Glut_3,1,#C30000
+960,root/MY Glut/SPVI-SPVC Tlx3 Ebf3 Glut/SPVI-SPVC Tlx3 Ebf3 Glut_4,1,#003F00
+961,root/MY Glut/SPVI-SPVC Tlx3 Ebf3 Glut/SPVI-SPVC Tlx3 Ebf3 Glut_5,1,#45994F
+962,root/MY Glut/SPVI-SPVC Tlx3 Ebf3 Glut/SPVI-SPVC Tlx3 Ebf3 Glut_6,1,#002666
+963,root/MY Glut/SPVI-SPVC Tlx3 Ebf3 Glut/SPVI-SPVC Tlx3 Ebf3 Glut_7,1,#8973FF
+964,root/MY Glut/CU-ECU-SPVI Foxb1 Glut/CU-ECU-SPVI Foxb1 Glut_1,1,#A1FF26
+965,root/MY Glut/CU-ECU-SPVI Foxb1 Glut/CU-ECU-SPVI Foxb1 Glut_2,1,#004F99
+966,root/MY Glut/CU-ECU-SPVI Foxb1 Glut/CU-ECU-SPVI Foxb1 Glut_3,1,#FFEF26
+967,root/MY Glut/CU-ECU-SPVI Foxb1 Glut/CU-ECU-SPVI Foxb1 Glut_4,1,#66502E
+968,root/MY Glut/MV-SPIV Phox2b Ebf3 Lbx1 Glut/MV-SPIV Phox2b Ebf3 Lbx1 Glut_1,1,#006662
+969,root/MY Glut/MV-SPIV Phox2b Ebf3 Lbx1 Glut/MV-SPIV Phox2b Ebf3 Lbx1 Glut_2,1,#661F40
+970,root/MY Glut/MV-SPIV Phox2b Ebf3 Lbx1 Glut/MV-SPIV Phox2b Ebf3 Lbx1 Glut_3,1,#26EB00
+971,root/MY Glut/MV-SPIV Phox2b Ebf3 Lbx1 Glut/MV-SPIV Phox2b Ebf3 Lbx1 Glut_4,1,#CC00C8
+972,root/MY Glut/MV-SPIV Phox2b Ebf3 Lbx1 Glut/MV-SPIV Phox2b Ebf3 Lbx1 Glut_5,1,#CC1F5F
+973,root/MY Glut/MV-SPIV Zic4 Neurod2 Glut/MV-SPIV Zic4 Neurod2 Glut_1,1,#0f8ee2
+974,root/MY Glut/MV-SPIV Zic4 Neurod2 Glut/MV-SPIV Zic4 Neurod2 Glut_2,1,#73FF7C
+975,root/MY Glut/MV-SPIV Zic4 Neurod2 Glut/MV-SPIV Zic4 Neurod2 Glut_3,1,#CC5C93
+976,root/MY Glut/MV-SPIV Zic4 Neurod2 Glut/MV-SPIV Zic4 Neurod2 Glut_4,1,#179994
+977,root/MY Glut/MV-SPIV Zic4 Neurod2 Glut/MV-SPIV Zic4 Neurod2 Glut_5,1,#e2dbff
+978,root/MY Glut/NTS Aldh1a2 Glut/NTS Aldh1a2 Glut_1,1,#2E9968
+979,root/MY Glut/CBN Neurod2 Pvalb Glut/CBN Neurod2 Pvalb Glut_1,1,#352E66
+980,root/MY Glut/NTS Dbh Glut/NTS Dbh Glut_1,1,#FFAD73
+981,root/MY Glut/NTS Dbh Glut/NTS Dbh Glut_2,1,#A33DCC
+982,root/MY Glut/NTS Dbh Glut/NTS Dbh Glut_3,1,#99665C
+983,root/MY Glut/NTS Dbh Glut/NTS Dbh Glut_4,1,#54FF00
+984,root/MY Glut/NTS Dbh Glut/NTS Dbh Glut_5,1,#3DB3CC
+985,root/MY Glut/NTS Dbh Glut/NTS Dbh Glut_6,1,#4DF9FF
+986,root/MY Glut/DMX VII Tbx20 Chol/DMX VII Tbx20 Chol_1,1,#66003F
+987,root/MY Glut/DMX VII Tbx20 Chol/DMX VII Tbx20 Chol_2,1,#665C2E
+988,root/MY Glut/IO Fgl2 Glut/IO Fgl2 Glut_1,1,#663D4E
+989,root/MY Glut/VCO Mafa Meis2 Glut/VCO Mafa Meis2 Glut_1,1,#994581
+990,root/MY Glut/VCO Mafa Meis2 Glut/VCO Mafa Meis2 Glut_2,1,#2E3699
+991,root/MY Glut/VCO Mafa Meis2 Glut/VCO Mafa Meis2 Glut_3,1,#c9ea67
+992,root/MY Glut/VCO Mafa Meis2 Glut/VCO Mafa Meis2 Glut_4,1,#991738
+993,root/MY Glut/SPVO Mafa Meis2 Glut/SPVO Mafa Meis2 Glut_1,1,#5C7699
+994,root/MY Glut/SPVC Mafa Glut/SPVC Mafa Glut_1,1,#FF4D86
+995,root/MY Glut/SPVC Mafa Glut/SPVC Mafa Glut_2,1,#64661F
+996,root/MY Glut/SPVC Ccdc172 Glut/SPVC Ccdc172 Glut_1,1,#179985
+997,root/MY Glut/SPVC Nmu Glut/SPVC Nmu Glut_1,1,#26FCFF
+998,root/MY Glut/SPVC Nmu Glut/SPVC Nmu Glut_2,1,#5DCC5C
+999,root/MY Glut/MDRNd Bves Glut/MDRNd Bves Glut_1,1,#2E6466
+1000,root/MY Glut/MDRNv Crp Glut/MDRNv Crp Glut_1,1,#3E1F66
+1001,root/MY Glut/HB Calcb Chol/HB Calcb Chol_1,1,#99007A
+1002,root/MY Glut/HB Calcb Chol/HB Calcb Chol_2,1,#CACC3D
+1003,root/MY Glut/HB Calcb Chol/HB Calcb Chol_3,1,#179982
+1004,root/MY Glut/HB Calcb Chol/HB Calcb Chol_4,1,#87CC1F
+1005,root/MY Glut/HB Calcb Chol/HB Calcb Chol_5,1,#FF8B26
+1006,root/Pineal Glut/Pineal Crx Glut/Pineal Crx Glut_1,1,#3F663D
+1007,root/P GABA/CS-RPO Meis2 Gaba/CS-RPO Meis2 Gaba_1,1,#CCA65C
+1008,root/P GABA/CS-RPO Meis2 Gaba/CS-RPO Meis2 Gaba_2,1,#00B0CC
+1009,root/P GABA/CS-RPO Meis2 Gaba/CS-RPO Meis2 Gaba_3,1,#FF8673
+1010,root/P GABA/CS-RPO Meis2 Gaba/CS-RPO Meis2 Gaba_4,1,#99004C
+1011,root/P GABA/CS-RPO Meis2 Gaba/CS-RPO Meis2 Gaba_5,1,#70FF00
+1012,root/P GABA/PRNc Otp Gly-Gaba/PRNc Otp Gly-Gaba_1,1,#6F3DCC
+1013,root/P GABA/PRNc Otp Gly-Gaba/PRNc Otp Gly-Gaba_2,1,#CCC95C
+1014,root/P GABA/PRNc Otp Gly-Gaba/PRNc Otp Gly-Gaba_3,1,#CC8A1F
+1015,root/P GABA/PRNc Otp Gly-Gaba/PRNc Otp Gly-Gaba_4,1,#630F66
+1016,root/P GABA/PRNc Otp Gly-Gaba/PRNc Otp Gly-Gaba_5,1,#CC3700
+1017,root/P GABA/PB Sst Gly-Gaba/PB Sst Gly-Gaba_1,1,#3D86CC
+1018,root/P GABA/PB Sst Gly-Gaba/PB Sst Gly-Gaba_2,1,#edc915
+1019,root/P GABA/PRNc Prox1 Brs3 Gly-Gaba/PRNc Prox1 Brs3 Gly-Gaba_1,1,#7AA8CC
+1020,root/P GABA/CS-PRNr-DR En1 Sox2 Gaba/CS-PRNr-DR En1 Sox2 Gaba_1,1,#4DFFB7
+1021,root/P GABA/CS-PRNr-DR En1 Sox2 Gaba/CS-PRNr-DR En1 Sox2 Gaba_2,1,#5D1FCC
+1022,root/P GABA/LDT Fgf7 Gaba/LDT Fgf7 Gaba_1,1,#99A8FF
+1023,root/P GABA/NI-RPO Gata3 Nr4a2 Gaba/NI-RPO Gata3 Nr4a2 Gaba_1,1,#FFC699
+1024,root/P GABA/NI-RPO Gata3 Nr4a2 Gaba/NI-RPO Gata3 Nr4a2 Gaba_2,1,#2E9939
+1025,root/P GABA/NI-RPO Gata3 Nr4a2 Gaba/NI-RPO Gata3 Nr4a2 Gaba_3,1,#CC3DA6
+1026,root/P GABA/NI-RPO Gata3 Nr4a2 Gaba/NI-RPO Gata3 Nr4a2 Gaba_4,1,#8B7ACC
+1027,root/P GABA/LDT-PCG-CS Gata3 Lhx1 Gaba/LDT-PCG-CS Gata3 Lhx1 Gaba_1,1,#992E7A
+1028,root/P GABA/LDT-PCG-CS Gata3 Lhx1 Gaba/LDT-PCG-CS Gata3 Lhx1 Gaba_2,1,#1FCC00
+1029,root/P GABA/LDT-PCG-CS Gata3 Lhx1 Gaba/LDT-PCG-CS Gata3 Lhx1 Gaba_3,1,#3A00CC
+1030,root/P GABA/LDT-PCG-CS Gata3 Lhx1 Gaba/LDT-PCG-CS Gata3 Lhx1 Gaba_4,1,#FF4DC0
+1031,root/P GABA/LDT-PCG-CS Gata3 Lhx1 Gaba/LDT-PCG-CS Gata3 Lhx1 Gaba_5,1,#CC695C
+1032,root/P GABA/PDTg-PCG Pax6 Gaba/PDTg-PCG Pax6 Gaba_1,1,#002D99
+1033,root/P GABA/PDTg-PCG Pax6 Gaba/PDTg-PCG Pax6 Gaba_2,1,#FF9073
+1034,root/P GABA/PDTg-PCG Pax6 Gaba/PDTg-PCG Pax6 Gaba_3,1,#789900
+1035,root/P GABA/PDTg-PCG Pax6 Gaba/PDTg-PCG Pax6 Gaba_4,1,#FF7F73
+1036,root/P GABA/PDTg Otp Shroom3 Gaba/PDTg Otp Shroom3 Gaba_1,1,#FE26FF
+1037,root/P GABA/PDTg Otp Olig3 Gaba/PDTg Otp Olig3 Gaba_1,1,#0F1B66
+1038,root/P GABA/LDT-PCG St18 Gaba/LDT-PCG St18 Gaba_1,1,#3DCCB6
+1039,root/P GABA/LDT-PCG St18 Gaba/LDT-PCG St18 Gaba_2,1,#1FB2CC
+1040,root/P GABA/DTN-LDT-IPN Otp Pax3 Gaba/DTN-LDT-IPN Otp Pax3 Gaba_1,1,#3A2E99
+1041,root/P GABA/DTN-LDT-IPN Otp Pax3 Gaba/DTN-LDT-IPN Otp Pax3 Gaba_2,1,#459999
+1042,root/P GABA/DTN-LDT-IPN Otp Pax3 Gaba/DTN-LDT-IPN Otp Pax3 Gaba_3,1,#2E1F66
+1043,root/P GABA/DTN-LDT-IPN Otp Pax3 Gaba/DTN-LDT-IPN Otp Pax3 Gaba_4,1,#FF4DD5
+1044,root/P GABA/DTN-LDT-IPN Otp Pax3 Gaba/DTN-LDT-IPN Otp Pax3 Gaba_5,1,#2E9974
+1045,root/P GABA/NLL Gata3 Gly-Gaba/NLL Gata3 Gly-Gaba_1,1,#a4fcb2
+1046,root/P GABA/NLL Gata3 Gly-Gaba/NLL Gata3 Gly-Gaba_2,1,#7bb9ce
+1047,root/P GABA/NLL Gata3 Gly-Gaba/NLL Gata3 Gly-Gaba_3,1,#76CC00
+1048,root/P GABA/NLL Gata3 Gly-Gaba/NLL Gata3 Gly-Gaba_4,1,#f9db31
+1049,root/P GABA/PSV Pax2 Gly-Gaba/PSV Pax2 Gly-Gaba_1,1,#FF4D62
+1050,root/P GABA/PSV Pax2 Gly-Gaba/PSV Pax2 Gly-Gaba_2,1,#CC775C
+1051,root/P GABA/NLL-po Pax7 Gaba/NLL-po Pax7 Gaba_1,1,#FF4DEA
+1052,root/P GABA/POR Gata3 Gly-Gaba/POR Gata3 Gly-Gaba_1,1,#00FF55
+1053,root/P GABA/POR Spp1 Gly-Gaba/POR Spp1 Gly-Gaba_1,1,#69FF26
+1054,root/MY GABA/PRP Otp Gly-Gaba/PRP Otp Gly-Gaba_1,1,#FF4DA0
+1055,root/MY GABA/PRP Otp Gly-Gaba/PRP Otp Gly-Gaba_2,1,#994559
+1056,root/MY GABA/PRP Otp Gly-Gaba/PRP Otp Gly-Gaba_3,1,#5D1F66
+1057,root/MY GABA/PRP Otp Gly-Gaba/PRP Otp Gly-Gaba_4,1,#CC0089
+1058,root/MY GABA/PRP Otp Gly-Gaba/PRP Otp Gly-Gaba_5,1,#459946
+1059,root/MY GABA/GRN-IRN-MDRNd Ikzf1 Gly-Gaba/GRN-IRN-MDRNd Ikzf1 Gly-Gaba_1,1,#CC008A
+1060,root/MY GABA/MY Lhx1 Gly-Gaba/MY Lhx1 Gly-Gaba_1,1,#3DCC3E
+1061,root/MY GABA/MY Lhx1 Gly-Gaba/MY Lhx1 Gly-Gaba_2,1,#73FFD3
+1062,root/MY GABA/MY Lhx1 Gly-Gaba/MY Lhx1 Gly-Gaba_3,1,#976df9
+1063,root/MY GABA/MY Lhx1 Gly-Gaba/MY Lhx1 Gly-Gaba_4,1,#4D6300
+1064,root/MY GABA/MY Lhx1 Gly-Gaba/MY Lhx1 Gly-Gaba_5,1,#FFD100
+1065,root/MY GABA/MY Lhx1 Gly-Gaba/MY Lhx1 Gly-Gaba_6,1,#F4FF73
+1066,root/MY GABA/MY Lhx1 Gly-Gaba/MY Lhx1 Gly-Gaba_7,1,#FF2B26
+1067,root/MY GABA/MY Lhx1 Gly-Gaba/MY Lhx1 Gly-Gaba_8,1,#553DCC
+1068,root/MY GABA/MY Lhx1 Gly-Gaba/MY Lhx1 Gly-Gaba_9,1,#FF674D
+1069,root/MY GABA/PPY-PGRNl Vip Glyc-Gaba/PPY-PGRNl Vip Glyc-Gaba_1,1,#CC0047
+1070,root/MY GABA/MV-SPIV-PRP Dmbx1 Gly-Gaba/MV-SPIV-PRP Dmbx1 Gly-Gaba_1,1,#3D6DCC
+1071,root/MY GABA/MV-SPIV-PRP Dmbx1 Gly-Gaba/MV-SPIV-PRP Dmbx1 Gly-Gaba_2,1,#FF7500
+1072,root/MY GABA/MV-SPIV-PRP Dmbx1 Gly-Gaba/MV-SPIV-PRP Dmbx1 Gly-Gaba_3,1,#45996B
+1073,root/MY GABA/MDRN Hoxb5 Ebf2 Gly-Gaba/MDRN Hoxb5 Ebf2 Gly-Gaba_1,1,#5CCCA4
+1074,root/MY GABA/MDRNd Prox1 Pax6 Gly-Gaba/MDRNd Prox1 Pax6 Gly-Gaba_1,1,#8E1799
+1075,root/MY GABA/MY Prox1 Lmo7 Gly-Gaba/MY Prox1 Lmo7 Gly-Gaba_1,1,#65660F
+1076,root/MY GABA/NTS-MDRNd Prox1 Zic1 Gly-Gaba/NTS-MDRNd Prox1 Zic1 Gly-Gaba_1,1,#3DCCBF
+1077,root/MY GABA/NTS-MDRNd Prox1 Zic1 Gly-Gaba/NTS-MDRNd Prox1 Zic1 Gly-Gaba_2,1,#4DFF7C
+1078,root/MY GABA/MV Nkx6-1 Gly-Gaba/MV Nkx6-1 Gly-Gaba_1,1,#992E8C
+1079,root/MY GABA/MV Nkx6-1 Gly-Gaba/MV Nkx6-1 Gly-Gaba_2,1,#ccf9ff
+1080,root/MY GABA/PAS-MV Ebf2 Gly-Gaba/PAS-MV Ebf2 Gly-Gaba_1,1,#FFF399
+1081,root/MY GABA/PAS-MV Ebf2 Gly-Gaba/PAS-MV Ebf2 Gly-Gaba_2,1,#549917
+1082,root/MY GABA/PAS-MV Ebf2 Gly-Gaba/PAS-MV Ebf2 Gly-Gaba_3,1,#FF4626
+1083,root/MY GABA/PAS-MV Ebf2 Gly-Gaba/PAS-MV Ebf2 Gly-Gaba_4,1,#CC00B6
+1084,root/MY GABA/MV Pax6 Gly-Gaba/MV Pax6 Gly-Gaba_1,1,#FF26A1
+1085,root/MY GABA/MV Pax6 Gly-Gaba/MV Pax6 Gly-Gaba_2,1,#1F6657
+1086,root/MY GABA/CBN Dmbx1 Gaba/CBN Dmbx1 Gaba_1,1,#174999
+1087,root/MY GABA/RPA Pax6 Hoxb5 Gly-Gaba/RPA Pax6 Hoxb5 Gly-Gaba_1,1,#5C9994
+1088,root/MY GABA/CU-ECU Pax2 Gly-Gaba/CU-ECU Pax2 Gly-Gaba_1,1,#83e559
+1089,root/MY GABA/PRP Gata3 Slc6a5 Gly-Gaba/PRP Gata3 Slc6a5 Gly-Gaba_1,1,#661F4F
+1090,root/MY GABA/MARN-PPY Ngfr Gly-Gaba/MARN-PPY Ngfr Gly-Gaba_1,1,#999617
+1091,root/MY GABA/PARN-MDRNd-NTS Gbx2 Gly-Gaba/PARN-MDRNd-NTS Gbx2 Gly-Gaba_1,1,#99FF73
+1092,root/MY GABA/PARN-MDRNd-NTS Gbx2 Gly-Gaba/PARN-MDRNd-NTS Gbx2 Gly-Gaba_2,1,#00CC93
+1093,root/MY GABA/PARN-MDRNd-NTS Gbx2 Gly-Gaba/PARN-MDRNd-NTS Gbx2 Gly-Gaba_3,1,#99FFC4
+1094,root/MY GABA/PARN-MDRNd-NTS Gbx2 Gly-Gaba/PARN-MDRNd-NTS Gbx2 Gly-Gaba_4,1,#45997D
+1095,root/MY GABA/PARN-MDRNd-NTS Gbx2 Gly-Gaba/PARN-MDRNd-NTS Gbx2 Gly-Gaba_5,1,#A1CC3D
+1096,root/MY GABA/PARN-MDRNd-NTS Gbx2 Gly-Gaba/PARN-MDRNd-NTS Gbx2 Gly-Gaba_6,1,#999245
+1097,root/MY GABA/PARN-MDRNd-NTS Gbx2 Gly-Gaba/PARN-MDRNd-NTS Gbx2 Gly-Gaba_7,1,#C000FF
+1098,root/MY GABA/MV Nr4a2 Gly-Gaba/MV Nr4a2 Gly-Gaba_1,1,#663D57
+1099,root/MY GABA/MV Xdh Gly-Gaba/MV Xdh Gly-Gaba_1,1,#3300FF
+1100,root/MY GABA/IRN Dmbx1 Pax2 Gly-Gaba/IRN Dmbx1 Pax2 Gly-Gaba_1,1,#FFD199
+1101,root/MY GABA/NTS-PARN Neurod2 Gly-Gaba/NTS-PARN Neurod2 Gly-Gaba_1,1,#3D5666
+1102,root/MY GABA/NTS-PARN Neurod2 Gly-Gaba/NTS-PARN Neurod2 Gly-Gaba_2,1,#0015CC
+1103,root/MY GABA/NTS-PARN Neurod2 Gly-Gaba/NTS-PARN Neurod2 Gly-Gaba_3,1,#729945
+1104,root/MY GABA/NTS-PARN Neurod2 Gly-Gaba/NTS-PARN Neurod2 Gly-Gaba_4,1,#4E2E99
+1105,root/MY GABA/NTS-PARN Neurod2 Gly-Gaba/NTS-PARN Neurod2 Gly-Gaba_5,1,#3D6466
+1106,root/MY GABA/NTS-PARN Neurod2 Gly-Gaba/NTS-PARN Neurod2 Gly-Gaba_6,1,#5CCC8C
+1107,root/MY GABA/SPVI-SPVC Sall3 Nfib Gly-Gaba/SPVI-SPVC Sall3 Nfib Gly-Gaba_1,1,#663D65
+1108,root/MY GABA/SPVI-SPVC Sall3 Nfib Gly-Gaba/SPVI-SPVC Sall3 Nfib Gly-Gaba_2,1,#4D6FFF
+1109,root/MY GABA/SPVI-SPVC Sall3 Lhx1 Gly-Gaba/SPVI-SPVC Sall3 Lhx1 Gly-Gaba_1,1,#19660F
+1110,root/MY GABA/SPVI-SPVC Sall3 Lhx1 Gly-Gaba/SPVI-SPVC Sall3 Lhx1 Gly-Gaba_2,1,#FF804D
+1111,root/MY GABA/RO-RPA Pkd2l1 Gaba/RO-RPA Pkd2l1 Gaba_1,1,#998845
+1112,root/CB GABA/DCO Il22 Gly-Gaba/DCO Il22 Gly-Gaba_1,1,#00FF71
+1113,root/CB GABA/DCO Il22 Gly-Gaba/DCO Il22 Gly-Gaba_2,1,#4E1F66
+1114,root/CB GABA/DCO Il22 Gly-Gaba/DCO Il22 Gly-Gaba_3,1,#E0FF26
+1115,root/CB GABA/CB PLI Gly-Gaba/CB PLI Gly-Gaba_1,1,#E626FF
+1116,root/CB GABA/CB PLI Gly-Gaba/CB PLI Gly-Gaba_2,1,#5CB6CC
+1117,root/CB GABA/CB PLI Gly-Gaba/CB PLI Gly-Gaba_3,1,#1F6628
+1118,root/CB GABA/CB PLI Gly-Gaba/CB PLI Gly-Gaba_4,1,#5D662E
+1119,root/CB GABA/CBX Golgi Gly-Gaba/CBX Golgi Gly-Gaba_1,1,#992F2E
+1120,root/CB GABA/CBX MLI Megf11 Gaba/CBX MLI Megf11 Gaba_1,1,#246600
+1121,root/CB GABA/CBX MLI Megf11 Gaba/CBX MLI Megf11 Gaba_2,1,#911799
+1122,root/CB GABA/CBX MLI Cdh22 Gaba/CBX MLI Cdh22 Gaba_1,1,#3DA4CC
+1123,root/CB GABA/CBX Purkinje Gaba/CBX Purkinje Gaba_1,1,#5ddbdd
+1124,root/CB GABA/CBX Purkinje Gaba/CBX Purkinje Gaba_2,1,#CC0030
+1125,root/CB Glut/CB Granule Glut/CB Granule Glut_1,1,#177399
+1126,root/CB Glut/CB Granule Glut/CB Granule Glut_2,1,#66632E
+1127,root/CB Glut/DCO UBC Glut/DCO UBC Glut_1,1,#0F6635
+1128,root/Astro-Epen/Bergmann NN/Bergmann NN_1,1,#991769
+1129,root/Astro-Epen/Astro-CB NN/Astro-CB NN_1,1,#FFB526
+1130,root/Astro-Epen/Astro-NT NN/Astro-NT NN_1,1,#350099
+1131,root/Astro-Epen/Astro-NT NN/Astro-NT NN_2,1,#1F8ECC
+1132,root/Astro-Epen/Astro-TE NN/Astro-TE NN_1,1,#FFB173
+1133,root/Astro-Epen/Astro-TE NN/Astro-TE NN_2,1,#FF263B
+1134,root/Astro-Epen/Astro-TE NN/Astro-TE NN_3,1,#a8afa5
+1135,root/Astro-Epen/Astro-TE NN/Astro-TE NN_4,1,#604a55
+1136,root/Astro-Epen/Astro-TE NN/Astro-TE NN_5,1,#B97300
+1137,root/Astro-Epen/Astro-OLF NN/Astro-OLF NN_1,1,#26FF8F
+1138,root/Astro-Epen/Astro-OLF NN/Astro-OLF NN_2,1,#E17300
+1139,root/Astro-Epen/Astro-OLF NN/Astro-OLF NN_3,1,#A200CC
+1140,root/Astro-Epen/Astroependymal NN/Astroependymal NN_1,1,#00C7CC
+1141,root/Astro-Epen/Astroependymal NN/Astroependymal NN_2,1,#FF003D
+1142,root/Astro-Epen/Astroependymal NN/Astroependymal NN_3,1,#FFD873
+1143,root/Astro-Epen/Tanycyte NN/Tanycyte NN_1,1,#26FFBF
+1144,root/Astro-Epen/Tanycyte NN/Tanycyte NN_2,1,#86CC5C
+1145,root/Astro-Epen/Tanycyte NN/Tanycyte NN_3,1,#ff99c8
+1146,root/Astro-Epen/Ependymal NN/Ependymal NN_1,1,#f7f18a
+1147,root/Astro-Epen/Ependymal NN/Ependymal NN_2,1,#949945
+1148,root/Astro-Epen/Hypendymal NN/Hypendymal NN_1,1,#C5FF73
+1149,root/Astro-Epen/CHOR NN/CHOR NN_1,1,#FF514D
+1150,root/OPC-Oligo/OPC NN/OPC NN_1,1,#CC0049
+1151,root/OPC-Oligo/OPC NN/OPC NN_2,1,#564860
+1152,root/OPC-Oligo/Oligo NN/COP NN_1,1,#609945
+1153,root/OPC-Oligo/Oligo NN/NFOL NN_2,1,#008199
+1154,root/OPC-Oligo/Oligo NN/MFOL NN_3,1,#1F6566
+1155,root/OPC-Oligo/Oligo NN/MOL NN_4,1,#371FCC
+1156,root/OEC/OEC NN/OEC NN_1,1,#3D5266
+1157,root/Vascular/ABC NN/ABC NN_1,1,#553D66
+1158,root/Vascular/VLMC NN/VLMC NN_1,1,#66391F
+1159,root/Vascular/VLMC NN/VLMC NN_2,1,#4D5CFF
+1160,root/Vascular/VLMC NN/VLMC NN_3,1,#2E665B
+1161,root/Vascular/VLMC NN/VLMC NN_4,1,#FF99B6
+1162,root/Vascular/Peri NN/Peri NN_1,1,#2F00CC
+1163,root/Vascular/SMC NN/SMC NN_1,1,#FF8F73
+1164,root/Vascular/Endo NN/Endo NN_1,1,#00992A
+1165,root/Immune/Microglia NN/Microglia NN_1,1,#62CC3D
+1166,root/Immune/BAM NN/BAM NN_1,1,#32662E
+1167,root/Immune/Monocytes NN/Monocytes NN_1,1,#C299FF
+1168,root/Immune/DC NN/DC NN_1,1,#FF999F
+1169,root/Immune/Lymphoid NN/B cells NN_1,1,#660028
+1170,root/Immune/Lymphoid NN/ILC NN_2,1,#00CC1C
+1171,root/Immune/Lymphoid NN/NK cells NN_3,1,#99CAFF
+1172,root/Immune/Lymphoid NN/T cells NN_4,1,#995E2E
+1173,root,1,grey
