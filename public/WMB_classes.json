@@ -1,0 +1,1637 @@
+{
+    "editable": true,
+    "zoomFixed": false,
+    "trackSourceServers": [
+        "/api/v1",
+        "http://higlass.io/api/v1",
+        "http://127.0.0.1:8888/api/v1"
+    ],
+    "exportViewUrl": "/api/v1/viewconfs/",
+    "views": [
+        {
+            "tracks": {
+                "top": [
+                    {
+                        "name": "Vascular.bw",
+                        "created": "2024-08-12T20:31:37.005903Z",
+                        "project": "SRt9Zv-9RIusswErz4Cd2g",
+                        "project_name": "00_class_label",
+                        "description": "",
+                        "server": "http://127.0.0.1:8888/api/v1",
+                        "tilesetUid": "Iugw91VXROm5HyNsDUJ4CQ",
+                        "uid": "DD-ojP5VRN2gh8Z_e1Lp4g",
+                        "type": "horizontal-bar",
+                        "options": {
+                            "align": "bottom",
+                            "labelColor": "[glyph-color]",
+                            "labelPosition": "topLeft",
+                            "axisLabelFormatting": "scientific",
+                            "axisPositionHorizontal": "right",
+                            "barFillColor": "#858881",
+                            "valueScaling": "linear",
+                            "trackBorderWidth": 0,
+                            "trackBorderColor": "black",
+                            "labelTextOpacity": 0.4,
+                            "barOpacity": 1,
+                            "name": "Vascular.bw"
+                        },
+                        "width": 20,
+                        "height": 20,
+                        "aggregationModes": {
+                            "mean": {
+                                "name": "Mean",
+                                "value": "mean"
+                            },
+                            "min": {
+                                "name": "Min",
+                                "value": "min"
+                            },
+                            "max": {
+                                "name": "Max",
+                                "value": "max"
+                            },
+                            "std": {
+                                "name": "Standard Deviation",
+                                "value": "std"
+                            }
+                        },
+                        "position": "top"
+                    },
+                    {
+                        "name": "TH_Glut.bw",
+                        "created": "2024-08-12T20:31:22.830889Z",
+                        "project": "SRt9Zv-9RIusswErz4Cd2g",
+                        "project_name": "00_class_label",
+                        "description": "",
+                        "server": "http://127.0.0.1:8888/api/v1",
+                        "tilesetUid": "QoOJTIKzS1Gt2JpU9qkPTw",
+                        "uid": "HT17K0MyRr-zoU2iEbLzuA",
+                        "type": "horizontal-bar",
+                        "options": {
+                            "align": "bottom",
+                            "labelColor": "[glyph-color]",
+                            "labelPosition": "topLeft",
+                            "axisLabelFormatting": "scientific",
+                            "axisPositionHorizontal": "right",
+                            "barFillColor": "#0D47A1",
+                            "valueScaling": "linear",
+                            "trackBorderWidth": 0,
+                            "trackBorderColor": "black",
+                            "labelTextOpacity": 0.4,
+                            "barOpacity": 1,
+                            "name": "TH_Glut.bw"
+                        },
+                        "width": 20,
+                        "height": 20,
+                        "aggregationModes": {
+                            "mean": {
+                                "name": "Mean",
+                                "value": "mean"
+                            },
+                            "min": {
+                                "name": "Min",
+                                "value": "min"
+                            },
+                            "max": {
+                                "name": "Max",
+                                "value": "max"
+                            },
+                            "std": {
+                                "name": "Standard Deviation",
+                                "value": "std"
+                            }
+                        },
+                        "position": "top"
+                    },
+                    {
+                        "name": "Pineal_Glut.bw",
+                        "created": "2024-08-12T20:31:19.691923Z",
+                        "project": "SRt9Zv-9RIusswErz4Cd2g",
+                        "project_name": "00_class_label",
+                        "description": "",
+                        "server": "http://127.0.0.1:8888/api/v1",
+                        "tilesetUid": "dC7XrTQQRjSHZ-Vo0LLTKQ",
+                        "uid": "NGI90ICHQtGsPLKHx6kN8w",
+                        "type": "horizontal-bar",
+                        "options": {
+                            "align": "bottom",
+                            "labelColor": "[glyph-color]",
+                            "labelPosition": "topLeft",
+                            "axisLabelFormatting": "scientific",
+                            "axisPositionHorizontal": "right",
+                            "barFillColor": "#086375",
+                            "valueScaling": "linear",
+                            "trackBorderWidth": 0,
+                            "trackBorderColor": "black",
+                            "labelTextOpacity": 0.4,
+                            "barOpacity": 1,
+                            "name": "Pineal_Glut.bw"
+                        },
+                        "width": 20,
+                        "height": 20,
+                        "aggregationModes": {
+                            "mean": {
+                                "name": "Mean",
+                                "value": "mean"
+                            },
+                            "min": {
+                                "name": "Min",
+                                "value": "min"
+                            },
+                            "max": {
+                                "name": "Max",
+                                "value": "max"
+                            },
+                            "std": {
+                                "name": "Standard Deviation",
+                                "value": "std"
+                            }
+                        },
+                        "position": "top"
+                    },
+                    {
+                        "name": "P_Glut.bw",
+                        "created": "2024-08-12T20:31:09.705470Z",
+                        "project": "SRt9Zv-9RIusswErz4Cd2g",
+                        "project_name": "00_class_label",
+                        "description": "",
+                        "server": "http://127.0.0.1:8888/api/v1",
+                        "tilesetUid": "QgySJyjQTpytp9o2wd-5Ig",
+                        "uid": "K-g1xntGRbqqH3YiCXwTvw",
+                        "type": "horizontal-bar",
+                        "options": {
+                            "align": "bottom",
+                            "labelColor": "[glyph-color]",
+                            "labelPosition": "topLeft",
+                            "axisLabelFormatting": "scientific",
+                            "axisPositionHorizontal": "right",
+                            "barFillColor": "#6b5ca5",
+                            "valueScaling": "linear",
+                            "trackBorderWidth": 0,
+                            "trackBorderColor": "black",
+                            "labelTextOpacity": 0.4,
+                            "barOpacity": 1,
+                            "name": "P_Glut.bw"
+                        },
+                        "width": 20,
+                        "height": 20,
+                        "aggregationModes": {
+                            "mean": {
+                                "name": "Mean",
+                                "value": "mean"
+                            },
+                            "min": {
+                                "name": "Min",
+                                "value": "min"
+                            },
+                            "max": {
+                                "name": "Max",
+                                "value": "max"
+                            },
+                            "std": {
+                                "name": "Standard Deviation",
+                                "value": "std"
+                            }
+                        },
+                        "position": "top"
+                    },
+                    {
+                        "name": "P_GABA.bw",
+                        "created": "2024-08-12T20:30:57.294832Z",
+                        "project": "SRt9Zv-9RIusswErz4Cd2g",
+                        "project_name": "00_class_label",
+                        "description": "",
+                        "server": "http://127.0.0.1:8888/api/v1",
+                        "tilesetUid": "Aj2Y3sKYQs6BIj2NchSjdw",
+                        "uid": "YwevboY0SKqCjp9MYlOgww",
+                        "type": "horizontal-bar",
+                        "options": {
+                            "align": "bottom",
+                            "labelColor": "[glyph-color]",
+                            "labelPosition": "topLeft",
+                            "axisLabelFormatting": "scientific",
+                            "axisPositionHorizontal": "right",
+                            "barFillColor": "#72195a",
+                            "valueScaling": "linear",
+                            "trackBorderWidth": 0,
+                            "trackBorderColor": "black",
+                            "labelTextOpacity": 0.4,
+                            "barOpacity": 1,
+                            "name": "P_GABA.bw"
+                        },
+                        "width": 20,
+                        "height": 20,
+                        "aggregationModes": {
+                            "mean": {
+                                "name": "Mean",
+                                "value": "mean"
+                            },
+                            "min": {
+                                "name": "Min",
+                                "value": "min"
+                            },
+                            "max": {
+                                "name": "Max",
+                                "value": "max"
+                            },
+                            "std": {
+                                "name": "Standard Deviation",
+                                "value": "std"
+                            }
+                        },
+                        "position": "top"
+                    },
+                    {
+                        "name": "OPC_Oligo.bw",
+                        "created": "2024-08-12T20:30:43.403109Z",
+                        "project": "SRt9Zv-9RIusswErz4Cd2g",
+                        "project_name": "00_class_label",
+                        "description": "",
+                        "server": "http://127.0.0.1:8888/api/v1",
+                        "tilesetUid": "DXRIpDkKSV6gEyYzt5QN3Q",
+                        "uid": "AI4qqIn8Q4KZRV_ANfCU9g",
+                        "type": "horizontal-bar",
+                        "options": {
+                            "align": "bottom",
+                            "labelColor": "[glyph-color]",
+                            "labelPosition": "topLeft",
+                            "axisLabelFormatting": "scientific",
+                            "axisPositionHorizontal": "right",
+                            "barFillColor": "#03045E",
+                            "valueScaling": "linear",
+                            "trackBorderWidth": 0,
+                            "trackBorderColor": "black",
+                            "labelTextOpacity": 0.4,
+                            "barOpacity": 1,
+                            "name": "OPC_Oligo.bw"
+                        },
+                        "width": 20,
+                        "height": 20,
+                        "aggregationModes": {
+                            "mean": {
+                                "name": "Mean",
+                                "value": "mean"
+                            },
+                            "min": {
+                                "name": "Min",
+                                "value": "min"
+                            },
+                            "max": {
+                                "name": "Max",
+                                "value": "max"
+                            },
+                            "std": {
+                                "name": "Standard Deviation",
+                                "value": "std"
+                            }
+                        },
+                        "position": "top"
+                    },
+                    {
+                        "name": "OEC.bw",
+                        "created": "2024-08-12T20:30:39.667781Z",
+                        "project": "SRt9Zv-9RIusswErz4Cd2g",
+                        "project_name": "00_class_label",
+                        "description": "",
+                        "server": "http://127.0.0.1:8888/api/v1",
+                        "tilesetUid": "UhOVaBSHQWK74EXixKj3kA",
+                        "uid": "C-UkkyAfQ-GkRpHKwG702A",
+                        "type": "horizontal-bar",
+                        "options": {
+                            "align": "bottom",
+                            "labelColor": "[glyph-color]",
+                            "labelPosition": "topLeft",
+                            "axisLabelFormatting": "scientific",
+                            "axisPositionHorizontal": "right",
+                            "barFillColor": "#996B2E",
+                            "valueScaling": "linear",
+                            "trackBorderWidth": 0,
+                            "trackBorderColor": "black",
+                            "labelTextOpacity": 0.4,
+                            "barOpacity": 1,
+                            "name": "OEC.bw"
+                        },
+                        "width": 20,
+                        "height": 20,
+                        "aggregationModes": {
+                            "mean": {
+                                "name": "Mean",
+                                "value": "mean"
+                            },
+                            "min": {
+                                "name": "Min",
+                                "value": "min"
+                            },
+                            "max": {
+                                "name": "Max",
+                                "value": "max"
+                            },
+                            "std": {
+                                "name": "Standard Deviation",
+                                "value": "std"
+                            }
+                        },
+                        "position": "top"
+                    },
+                    {
+                        "name": "OB_IMN_GABA.bw",
+                        "created": "2024-08-12T20:30:32.376591Z",
+                        "project": "SRt9Zv-9RIusswErz4Cd2g",
+                        "project_name": "00_class_label",
+                        "description": "",
+                        "server": "http://127.0.0.1:8888/api/v1",
+                        "tilesetUid": "Ctf6PkiPRMux9SMiTPA_7g",
+                        "uid": "fMK1K91dRBy2VLVYHVQy5g",
+                        "type": "horizontal-bar",
+                        "options": {
+                            "align": "bottom",
+                            "labelColor": "[glyph-color]",
+                            "labelPosition": "topLeft",
+                            "axisLabelFormatting": "scientific",
+                            "axisPositionHorizontal": "right",
+                            "barFillColor": "#1b4332",
+                            "valueScaling": "linear",
+                            "trackBorderWidth": 0,
+                            "trackBorderColor": "black",
+                            "labelTextOpacity": 0.4,
+                            "barOpacity": 1,
+                            "name": "OB_IMN_GABA.bw"
+                        },
+                        "width": 20,
+                        "height": 20,
+                        "aggregationModes": {
+                            "mean": {
+                                "name": "Mean",
+                                "value": "mean"
+                            },
+                            "min": {
+                                "name": "Min",
+                                "value": "min"
+                            },
+                            "max": {
+                                "name": "Max",
+                                "value": "max"
+                            },
+                            "std": {
+                                "name": "Standard Deviation",
+                                "value": "std"
+                            }
+                        },
+                        "position": "top"
+                    },
+                    {
+                        "name": "OB_CR_Glut.bw",
+                        "created": "2024-08-12T20:30:27.087061Z",
+                        "project": "SRt9Zv-9RIusswErz4Cd2g",
+                        "project_name": "00_class_label",
+                        "description": "",
+                        "server": "http://127.0.0.1:8888/api/v1",
+                        "tilesetUid": "CgrRMAYrT0OBPWVx27nYPQ",
+                        "uid": "V2zVH0NbQd-IRT3mJByKdg",
+                        "type": "horizontal-bar",
+                        "options": {
+                            "align": "bottom",
+                            "labelColor": "[glyph-color]",
+                            "labelPosition": "topLeft",
+                            "axisLabelFormatting": "scientific",
+                            "axisPositionHorizontal": "right",
+                            "barFillColor": "#D00000",
+                            "valueScaling": "linear",
+                            "trackBorderWidth": 0,
+                            "trackBorderColor": "black",
+                            "labelTextOpacity": 0.4,
+                            "barOpacity": 1,
+                            "name": "OB_CR_Glut.bw"
+                        },
+                        "width": 20,
+                        "height": 20,
+                        "aggregationModes": {
+                            "mean": {
+                                "name": "Mean",
+                                "value": "mean"
+                            },
+                            "min": {
+                                "name": "Min",
+                                "value": "min"
+                            },
+                            "max": {
+                                "name": "Max",
+                                "value": "max"
+                            },
+                            "std": {
+                                "name": "Standard Deviation",
+                                "value": "std"
+                            }
+                        },
+                        "position": "top"
+                    },
+                    {
+                        "name": "MY_Glut.bw",
+                        "created": "2024-08-12T20:29:42.749497Z",
+                        "project": "SRt9Zv-9RIusswErz4Cd2g",
+                        "project_name": "00_class_label",
+                        "description": "",
+                        "server": "http://127.0.0.1:8888/api/v1",
+                        "tilesetUid": "Lx6aImg9Ssa6jd5Xu62qMA",
+                        "uid": "JMij3WExSZOnRRptcqphQg",
+                        "type": "horizontal-bar",
+                        "options": {
+                            "align": "bottom",
+                            "labelColor": "[glyph-color]",
+                            "labelPosition": "topLeft",
+                            "axisLabelFormatting": "scientific",
+                            "axisPositionHorizontal": "right",
+                            "barFillColor": "#F0A0FF",
+                            "valueScaling": "linear",
+                            "trackBorderWidth": 0,
+                            "trackBorderColor": "black",
+                            "labelTextOpacity": 0.4,
+                            "barOpacity": 1,
+                            "name": "MY_Glut.bw"
+                        },
+                        "width": 20,
+                        "height": 20,
+                        "aggregationModes": {
+                            "mean": {
+                                "name": "Mean",
+                                "value": "mean"
+                            },
+                            "min": {
+                                "name": "Min",
+                                "value": "min"
+                            },
+                            "max": {
+                                "name": "Max",
+                                "value": "max"
+                            },
+                            "std": {
+                                "name": "Standard Deviation",
+                                "value": "std"
+                            }
+                        },
+                        "position": "top"
+                    },
+                    {
+                        "name": "MY_GABA.bw",
+                        "created": "2024-08-12T20:29:34.109423Z",
+                        "project": "SRt9Zv-9RIusswErz4Cd2g",
+                        "project_name": "00_class_label",
+                        "description": "",
+                        "server": "http://127.0.0.1:8888/api/v1",
+                        "tilesetUid": "OmL_ot1pS4uO9Tm8D5_32w",
+                        "uid": "cYQD462gRC2h3yVXZCt-zw",
+                        "type": "horizontal-bar",
+                        "options": {
+                            "align": "bottom",
+                            "labelColor": "[glyph-color]",
+                            "labelPosition": "topLeft",
+                            "axisLabelFormatting": "scientific",
+                            "axisPositionHorizontal": "right",
+                            "barFillColor": "#0096C7",
+                            "valueScaling": "linear",
+                            "trackBorderWidth": 0,
+                            "trackBorderColor": "black",
+                            "labelTextOpacity": 0.4,
+                            "barOpacity": 1,
+                            "name": "MY_GABA.bw"
+                        },
+                        "width": 20,
+                        "height": 20,
+                        "aggregationModes": {
+                            "mean": {
+                                "name": "Mean",
+                                "value": "mean"
+                            },
+                            "min": {
+                                "name": "Min",
+                                "value": "min"
+                            },
+                            "max": {
+                                "name": "Max",
+                                "value": "max"
+                            },
+                            "std": {
+                                "name": "Standard Deviation",
+                                "value": "std"
+                            }
+                        },
+                        "position": "top"
+                    },
+                    {
+                        "name": "MH_LH_Glut.bw",
+                        "created": "2024-08-12T20:29:26.073959Z",
+                        "project": "SRt9Zv-9RIusswErz4Cd2g",
+                        "project_name": "00_class_label",
+                        "description": "",
+                        "server": "http://127.0.0.1:8888/api/v1",
+                        "tilesetUid": "dZ6v5uMxQtKP9A2L4hQi7A",
+                        "uid": "cvBGB6RoQn2d8GujyNZGFw",
+                        "type": "horizontal-bar",
+                        "options": {
+                            "align": "bottom",
+                            "labelColor": "[glyph-color]",
+                            "labelPosition": "topLeft",
+                            "axisLabelFormatting": "scientific",
+                            "axisPositionHorizontal": "right",
+                            "barFillColor": "#FAA307",
+                            "valueScaling": "linear",
+                            "trackBorderWidth": 0,
+                            "trackBorderColor": "black",
+                            "labelTextOpacity": 0.4,
+                            "barOpacity": 1,
+                            "name": "MH_LH_Glut.bw"
+                        },
+                        "width": 20,
+                        "height": 20,
+                        "aggregationModes": {
+                            "mean": {
+                                "name": "Mean",
+                                "value": "mean"
+                            },
+                            "min": {
+                                "name": "Min",
+                                "value": "min"
+                            },
+                            "max": {
+                                "name": "Max",
+                                "value": "max"
+                            },
+                            "std": {
+                                "name": "Standard Deviation",
+                                "value": "std"
+                            }
+                        },
+                        "position": "top"
+                    },
+                    {
+                        "name": "MB_HB_Sero.bw",
+                        "created": "2024-08-12T20:29:20.046367Z",
+                        "project": "SRt9Zv-9RIusswErz4Cd2g",
+                        "project_name": "00_class_label",
+                        "description": "",
+                        "server": "http://127.0.0.1:8888/api/v1",
+                        "tilesetUid": "QyxsqYqHSRSpO-ZZYrrKCw",
+                        "uid": "S8DFwgVkT3ee2exvpYMiFQ",
+                        "type": "horizontal-bar",
+                        "options": {
+                            "align": "bottom",
+                            "labelColor": "[glyph-color]",
+                            "labelPosition": "topLeft",
+                            "axisLabelFormatting": "scientific",
+                            "axisPositionHorizontal": "right",
+                            "barFillColor": "#EC4067",
+                            "valueScaling": "linear",
+                            "trackBorderWidth": 0,
+                            "trackBorderColor": "black",
+                            "labelTextOpacity": 0.4,
+                            "barOpacity": 1,
+                            "name": "MB_HB_Sero.bw"
+                        },
+                        "width": 20,
+                        "height": 20,
+                        "aggregationModes": {
+                            "mean": {
+                                "name": "Mean",
+                                "value": "mean"
+                            },
+                            "min": {
+                                "name": "Min",
+                                "value": "min"
+                            },
+                            "max": {
+                                "name": "Max",
+                                "value": "max"
+                            },
+                            "std": {
+                                "name": "Standard Deviation",
+                                "value": "std"
+                            }
+                        },
+                        "position": "top"
+                    },
+                    {
+                        "name": "MB_Glut.bw",
+                        "created": "2024-08-12T20:29:07.959164Z",
+                        "project": "SRt9Zv-9RIusswErz4Cd2g",
+                        "project_name": "00_class_label",
+                        "description": "",
+                        "server": "http://127.0.0.1:8888/api/v1",
+                        "tilesetUid": "fvvr4XQOR26ZC5Yp2HvvqQ",
+                        "uid": "bWhVd-wrRhKwePnUiKqgsg",
+                        "type": "horizontal-bar",
+                        "options": {
+                            "align": "bottom",
+                            "labelColor": "[glyph-color]",
+                            "labelPosition": "topLeft",
+                            "axisLabelFormatting": "scientific",
+                            "axisPositionHorizontal": "right",
+                            "barFillColor": "#007200",
+                            "valueScaling": "linear",
+                            "trackBorderWidth": 0,
+                            "trackBorderColor": "black",
+                            "labelTextOpacity": 0.4,
+                            "barOpacity": 1,
+                            "name": "MB_Glut.bw"
+                        },
+                        "width": 20,
+                        "height": 20,
+                        "aggregationModes": {
+                            "mean": {
+                                "name": "Mean",
+                                "value": "mean"
+                            },
+                            "min": {
+                                "name": "Min",
+                                "value": "min"
+                            },
+                            "max": {
+                                "name": "Max",
+                                "value": "max"
+                            },
+                            "std": {
+                                "name": "Standard Deviation",
+                                "value": "std"
+                            }
+                        },
+                        "position": "top"
+                    },
+                    {
+                        "name": "MB_GABA.bw",
+                        "created": "2024-08-12T20:28:57.172735Z",
+                        "project": "SRt9Zv-9RIusswErz4Cd2g",
+                        "project_name": "00_class_label",
+                        "description": "",
+                        "server": "http://127.0.0.1:8888/api/v1",
+                        "tilesetUid": "ONCyXIhbR_Ga4fXlR79jmw",
+                        "uid": "dH4sh2UGTcqbb5sDhbh4wg",
+                        "type": "horizontal-bar",
+                        "options": {
+                            "align": "bottom",
+                            "labelColor": "[glyph-color]",
+                            "labelPosition": "topLeft",
+                            "axisLabelFormatting": "scientific",
+                            "axisPositionHorizontal": "right",
+                            "barFillColor": "#9EF01A",
+                            "valueScaling": "linear",
+                            "trackBorderWidth": 0,
+                            "trackBorderColor": "black",
+                            "labelTextOpacity": 0.4,
+                            "barOpacity": 1,
+                            "name": "MB_GABA.bw"
+                        },
+                        "width": 20,
+                        "height": 20,
+                        "aggregationModes": {
+                            "mean": {
+                                "name": "Mean",
+                                "value": "mean"
+                            },
+                            "min": {
+                                "name": "Min",
+                                "value": "min"
+                            },
+                            "max": {
+                                "name": "Max",
+                                "value": "max"
+                            },
+                            "std": {
+                                "name": "Standard Deviation",
+                                "value": "std"
+                            }
+                        },
+                        "position": "top"
+                    },
+                    {
+                        "name": "MB_Dopa.bw",
+                        "created": "2024-08-12T20:28:52.912594Z",
+                        "project": "SRt9Zv-9RIusswErz4Cd2g",
+                        "project_name": "00_class_label",
+                        "description": "",
+                        "server": "http://127.0.0.1:8888/api/v1",
+                        "tilesetUid": "DXQ5xlqWSweaPrrfiwY_Dw",
+                        "uid": "d-VAolnfQ9iGyrSS1RVBgw",
+                        "type": "horizontal-bar",
+                        "options": {
+                            "align": "bottom",
+                            "labelColor": "[glyph-color]",
+                            "labelPosition": "topLeft",
+                            "axisLabelFormatting": "scientific",
+                            "axisPositionHorizontal": "right",
+                            "barFillColor": "#38B000",
+                            "valueScaling": "linear",
+                            "trackBorderWidth": 0,
+                            "trackBorderColor": "black",
+                            "labelTextOpacity": 0.4,
+                            "barOpacity": 1,
+                            "name": "MB_Dopa.bw"
+                        },
+                        "width": 20,
+                        "height": 20,
+                        "aggregationModes": {
+                            "mean": {
+                                "name": "Mean",
+                                "value": "mean"
+                            },
+                            "min": {
+                                "name": "Min",
+                                "value": "min"
+                            },
+                            "max": {
+                                "name": "Max",
+                                "value": "max"
+                            },
+                            "std": {
+                                "name": "Standard Deviation",
+                                "value": "std"
+                            }
+                        },
+                        "position": "top"
+                    },
+                    {
+                        "name": "LSX_GABA.bw",
+                        "created": "2024-08-12T20:28:44.519909Z",
+                        "project": "SRt9Zv-9RIusswErz4Cd2g",
+                        "project_name": "00_class_label",
+                        "description": "",
+                        "server": "http://127.0.0.1:8888/api/v1",
+                        "tilesetUid": "YLs9QooyQo2YIUhzbd005g",
+                        "uid": "RDUi2zzMR4q5h5XBF4ntKA",
+                        "type": "horizontal-bar",
+                        "options": {
+                            "align": "bottom",
+                            "labelColor": "[glyph-color]",
+                            "labelPosition": "topLeft",
+                            "axisLabelFormatting": "scientific",
+                            "axisPositionHorizontal": "right",
+                            "barFillColor": "#3283FE",
+                            "valueScaling": "linear",
+                            "trackBorderWidth": 0,
+                            "trackBorderColor": "black",
+                            "labelTextOpacity": 0.4,
+                            "barOpacity": 1,
+                            "name": "LSX_GABA.bw"
+                        },
+                        "width": 20,
+                        "height": 20,
+                        "aggregationModes": {
+                            "mean": {
+                                "name": "Mean",
+                                "value": "mean"
+                            },
+                            "min": {
+                                "name": "Min",
+                                "value": "min"
+                            },
+                            "max": {
+                                "name": "Max",
+                                "value": "max"
+                            },
+                            "std": {
+                                "name": "Standard Deviation",
+                                "value": "std"
+                            }
+                        },
+                        "position": "top"
+                    },
+                    {
+                        "name": "IT_ET_Glut.bw",
+                        "created": "2024-08-12T20:27:51.585458Z",
+                        "project": "SRt9Zv-9RIusswErz4Cd2g",
+                        "project_name": "00_class_label",
+                        "description": "",
+                        "server": "http://127.0.0.1:8888/api/v1",
+                        "tilesetUid": "Z-uuUVs6SsSMt45ajwBolg",
+                        "uid": "NbAhWDTMTbqkv-xNMww9KQ",
+                        "type": "horizontal-bar",
+                        "options": {
+                            "align": "bottom",
+                            "labelColor": "[glyph-color]",
+                            "labelPosition": "topLeft",
+                            "axisLabelFormatting": "scientific",
+                            "axisPositionHorizontal": "right",
+                            "barFillColor": "#FA0087",
+                            "valueScaling": "linear",
+                            "trackBorderWidth": 0,
+                            "trackBorderColor": "black",
+                            "labelTextOpacity": 0.4,
+                            "barOpacity": 1,
+                            "name": "IT_ET_Glut.bw"
+                        },
+                        "width": 20,
+                        "height": 20,
+                        "aggregationModes": {
+                            "mean": {
+                                "name": "Mean",
+                                "value": "mean"
+                            },
+                            "min": {
+                                "name": "Min",
+                                "value": "min"
+                            },
+                            "max": {
+                                "name": "Max",
+                                "value": "max"
+                            },
+                            "std": {
+                                "name": "Standard Deviation",
+                                "value": "std"
+                            }
+                        },
+                        "position": "top"
+                    },
+                    {
+                        "name": "Immune.bw",
+                        "created": "2024-08-12T20:28:36.025302Z",
+                        "project": "SRt9Zv-9RIusswErz4Cd2g",
+                        "project_name": "00_class_label",
+                        "description": "",
+                        "server": "http://127.0.0.1:8888/api/v1",
+                        "tilesetUid": "PdivyQOSRo2jP5bMg839dA",
+                        "uid": "EoYSLqY0SZCIAH5nPJieRQ",
+                        "type": "horizontal-bar",
+                        "options": {
+                            "align": "bottom",
+                            "labelColor": "[glyph-color]",
+                            "labelPosition": "topLeft",
+                            "axisLabelFormatting": "scientific",
+                            "axisPositionHorizontal": "right",
+                            "barFillColor": "#825f45",
+                            "valueScaling": "linear",
+                            "trackBorderWidth": 0,
+                            "trackBorderColor": "black",
+                            "labelTextOpacity": 0.4,
+                            "barOpacity": 1,
+                            "name": "Immune.bw"
+                        },
+                        "width": 20,
+                        "height": 20,
+                        "aggregationModes": {
+                            "mean": {
+                                "name": "Mean",
+                                "value": "mean"
+                            },
+                            "min": {
+                                "name": "Min",
+                                "value": "min"
+                            },
+                            "max": {
+                                "name": "Max",
+                                "value": "max"
+                            },
+                            "std": {
+                                "name": "Standard Deviation",
+                                "value": "std"
+                            }
+                        },
+                        "position": "top"
+                    },
+                    {
+                        "name": "HY_MM_Glut.bw",
+                        "created": "2024-08-12T20:27:44.869393Z",
+                        "project": "SRt9Zv-9RIusswErz4Cd2g",
+                        "project_name": "00_class_label",
+                        "description": "",
+                        "server": "http://127.0.0.1:8888/api/v1",
+                        "tilesetUid": "KTMnaua3RjOM20HLn8ajCA",
+                        "uid": "BkZ6K4XFTnSNXYCdT71Rxw",
+                        "type": "horizontal-bar",
+                        "options": {
+                            "align": "bottom",
+                            "labelColor": "[glyph-color]",
+                            "labelPosition": "topLeft",
+                            "axisLabelFormatting": "scientific",
+                            "axisPositionHorizontal": "right",
+                            "barFillColor": "#01d669",
+                            "valueScaling": "linear",
+                            "trackBorderWidth": 0,
+                            "trackBorderColor": "black",
+                            "labelTextOpacity": 0.4,
+                            "barOpacity": 1,
+                            "name": "HY_MM_Glut.bw"
+                        },
+                        "width": 20,
+                        "height": 20,
+                        "aggregationModes": {
+                            "mean": {
+                                "name": "Mean",
+                                "value": "mean"
+                            },
+                            "min": {
+                                "name": "Min",
+                                "value": "min"
+                            },
+                            "max": {
+                                "name": "Max",
+                                "value": "max"
+                            },
+                            "std": {
+                                "name": "Standard Deviation",
+                                "value": "std"
+                            }
+                        },
+                        "position": "top"
+                    },
+                    {
+                        "name": "HY_Gnrh1_Glut.bw",
+                        "created": "2024-08-12T20:27:41.023722Z",
+                        "project": "SRt9Zv-9RIusswErz4Cd2g",
+                        "project_name": "00_class_label",
+                        "description": "",
+                        "server": "http://127.0.0.1:8888/api/v1",
+                        "tilesetUid": "cDmsa-YdTU-SPzu2sE1Imw",
+                        "uid": "f0ZlbJAdRUqJQXh7vQ5iWw",
+                        "type": "horizontal-bar",
+                        "options": {
+                            "align": "bottom",
+                            "labelColor": "[glyph-color]",
+                            "labelPosition": "topLeft",
+                            "axisLabelFormatting": "scientific",
+                            "axisPositionHorizontal": "right",
+                            "barFillColor": "#F28266",
+                            "valueScaling": "linear",
+                            "trackBorderWidth": 0,
+                            "trackBorderColor": "black",
+                            "labelTextOpacity": 0.4,
+                            "barOpacity": 1,
+                            "name": "HY_Gnrh1_Glut.bw"
+                        },
+                        "width": 20,
+                        "height": 20,
+                        "aggregationModes": {
+                            "mean": {
+                                "name": "Mean",
+                                "value": "mean"
+                            },
+                            "min": {
+                                "name": "Min",
+                                "value": "min"
+                            },
+                            "max": {
+                                "name": "Max",
+                                "value": "max"
+                            },
+                            "std": {
+                                "name": "Standard Deviation",
+                                "value": "std"
+                            }
+                        },
+                        "position": "top"
+                    },
+                    {
+                        "name": "HY_Glut.bw",
+                        "created": "2024-08-12T20:27:30.286009Z",
+                        "project": "SRt9Zv-9RIusswErz4Cd2g",
+                        "project_name": "00_class_label",
+                        "description": "",
+                        "server": "http://127.0.0.1:8888/api/v1",
+                        "tilesetUid": "dWb63X6GRvWmtidUm1Msdg",
+                        "uid": "R88PdWYkSWGoiTMVResbOw",
+                        "type": "horizontal-bar",
+                        "options": {
+                            "align": "bottom",
+                            "labelColor": "[glyph-color]",
+                            "labelPosition": "topLeft",
+                            "axisLabelFormatting": "scientific",
+                            "axisPositionHorizontal": "right",
+                            "barFillColor": "#AA0DFE",
+                            "valueScaling": "linear",
+                            "trackBorderWidth": 0,
+                            "trackBorderColor": "black",
+                            "labelTextOpacity": 0.4,
+                            "barOpacity": 1,
+                            "name": "HY_Glut.bw"
+                        },
+                        "width": 20,
+                        "height": 20,
+                        "aggregationModes": {
+                            "mean": {
+                                "name": "Mean",
+                                "value": "mean"
+                            },
+                            "min": {
+                                "name": "Min",
+                                "value": "min"
+                            },
+                            "max": {
+                                "name": "Max",
+                                "value": "max"
+                            },
+                            "std": {
+                                "name": "Standard Deviation",
+                                "value": "std"
+                            }
+                        },
+                        "position": "top"
+                    },
+                    {
+                        "name": "HY_GABA.bw",
+                        "created": "2024-08-12T20:27:18.567126Z",
+                        "project": "SRt9Zv-9RIusswErz4Cd2g",
+                        "project_name": "00_class_label",
+                        "description": "",
+                        "server": "http://127.0.0.1:8888/api/v1",
+                        "tilesetUid": "fOmz_lMSQ3q6mTNeRJ8GvQ",
+                        "uid": "VIjnMkD8QSGwwzg3W8Orvw",
+                        "type": "horizontal-bar",
+                        "options": {
+                            "align": "bottom",
+                            "labelColor": "[glyph-color]",
+                            "labelPosition": "topLeft",
+                            "axisLabelFormatting": "scientific",
+                            "axisPositionHorizontal": "right",
+                            "barFillColor": "#FF6600",
+                            "valueScaling": "linear",
+                            "trackBorderWidth": 0,
+                            "trackBorderColor": "black",
+                            "labelTextOpacity": 0.4,
+                            "barOpacity": 1,
+                            "name": "HY_GABA.bw"
+                        },
+                        "width": 20,
+                        "height": 20,
+                        "aggregationModes": {
+                            "mean": {
+                                "name": "Mean",
+                                "value": "mean"
+                            },
+                            "min": {
+                                "name": "Min",
+                                "value": "min"
+                            },
+                            "max": {
+                                "name": "Max",
+                                "value": "max"
+                            },
+                            "std": {
+                                "name": "Standard Deviation",
+                                "value": "std"
+                            }
+                        },
+                        "position": "top"
+                    },
+                    {
+                        "name": "DG_IMN_Glut.bw",
+                        "created": "2024-08-12T20:27:09.158746Z",
+                        "project": "SRt9Zv-9RIusswErz4Cd2g",
+                        "project_name": "00_class_label",
+                        "description": "",
+                        "server": "http://127.0.0.1:8888/api/v1",
+                        "tilesetUid": "ScDrr7xBTVmHyQdMP5fUcw",
+                        "uid": "IXPP04klRe-qrcw0dhnlyw",
+                        "type": "horizontal-bar",
+                        "options": {
+                            "align": "bottom",
+                            "labelColor": "[glyph-color]",
+                            "labelPosition": "topLeft",
+                            "axisLabelFormatting": "scientific",
+                            "axisPositionHorizontal": "right",
+                            "barFillColor": "#16f2f2",
+                            "valueScaling": "linear",
+                            "trackBorderWidth": 0,
+                            "trackBorderColor": "black",
+                            "labelTextOpacity": 0.4,
+                            "barOpacity": 1,
+                            "name": "DG_IMN_Glut.bw"
+                        },
+                        "width": 20,
+                        "height": 20,
+                        "aggregationModes": {
+                            "mean": {
+                                "name": "Mean",
+                                "value": "mean"
+                            },
+                            "min": {
+                                "name": "Min",
+                                "value": "min"
+                            },
+                            "max": {
+                                "name": "Max",
+                                "value": "max"
+                            },
+                            "std": {
+                                "name": "Standard Deviation",
+                                "value": "std"
+                            }
+                        },
+                        "position": "top"
+                    },
+                    {
+                        "name": "CTX_MGE_GABA.bw",
+                        "created": "2024-08-12T20:26:57.507837Z",
+                        "project": "SRt9Zv-9RIusswErz4Cd2g",
+                        "project_name": "00_class_label",
+                        "description": "",
+                        "server": "http://127.0.0.1:8888/api/v1",
+                        "tilesetUid": "Y5IOGy_QSZuHNjCuH2q5Cg",
+                        "uid": "BoZytDW6TZaXajtmWkR49w",
+                        "type": "horizontal-bar",
+                        "options": {
+                            "align": "bottom",
+                            "labelColor": "[glyph-color]",
+                            "labelPosition": "topLeft",
+                            "axisLabelFormatting": "scientific",
+                            "axisPositionHorizontal": "right",
+                            "barFillColor": "#f954ee",
+                            "valueScaling": "linear",
+                            "trackBorderWidth": 0,
+                            "trackBorderColor": "black",
+                            "labelTextOpacity": 0.4,
+                            "barOpacity": 1,
+                            "name": "CTX_MGE_GABA.bw"
+                        },
+                        "width": 20,
+                        "height": 20,
+                        "aggregationModes": {
+                            "mean": {
+                                "name": "Mean",
+                                "value": "mean"
+                            },
+                            "min": {
+                                "name": "Min",
+                                "value": "min"
+                            },
+                            "max": {
+                                "name": "Max",
+                                "value": "max"
+                            },
+                            "std": {
+                                "name": "Standard Deviation",
+                                "value": "std"
+                            }
+                        },
+                        "position": "top"
+                    },
+                    {
+                        "name": "CTX_CGE_GABA.bw",
+                        "created": "2024-08-12T20:26:45.572310Z",
+                        "project": "SRt9Zv-9RIusswErz4Cd2g",
+                        "project_name": "00_class_label",
+                        "description": "",
+                        "server": "http://127.0.0.1:8888/api/v1",
+                        "tilesetUid": "Ie20OPV8TMiMR9Ogzw9VeA",
+                        "uid": "WYgM7Ir4Q2qBybLIHGh-7g",
+                        "type": "horizontal-bar",
+                        "options": {
+                            "align": "bottom",
+                            "labelColor": "[glyph-color]",
+                            "labelPosition": "topLeft",
+                            "axisLabelFormatting": "scientific",
+                            "axisPositionHorizontal": "right",
+                            "barFillColor": "#CCFF33",
+                            "valueScaling": "linear",
+                            "trackBorderWidth": 0,
+                            "trackBorderColor": "black",
+                            "labelTextOpacity": 0.4,
+                            "barOpacity": 1,
+                            "name": "CTX_CGE_GABA.bw"
+                        },
+                        "width": 20,
+                        "height": 20,
+                        "aggregationModes": {
+                            "mean": {
+                                "name": "Mean",
+                                "value": "mean"
+                            },
+                            "min": {
+                                "name": "Min",
+                                "value": "min"
+                            },
+                            "max": {
+                                "name": "Max",
+                                "value": "max"
+                            },
+                            "std": {
+                                "name": "Standard Deviation",
+                                "value": "std"
+                            }
+                        },
+                        "position": "top"
+                    },
+                    {
+                        "name": "CNU_MGE_GABA.bw",
+                        "created": "2024-08-12T20:26:34.564562Z",
+                        "project": "SRt9Zv-9RIusswErz4Cd2g",
+                        "project_name": "00_class_label",
+                        "description": "",
+                        "server": "http://127.0.0.1:8888/api/v1",
+                        "tilesetUid": "DDHD4ZGgT_CBpPeB76p1gw",
+                        "uid": "KxiCDr6vTCe8qAsJsSZVig",
+                        "type": "horizontal-bar",
+                        "options": {
+                            "align": "bottom",
+                            "labelColor": "[glyph-color]",
+                            "labelPosition": "topLeft",
+                            "axisLabelFormatting": "scientific",
+                            "axisPositionHorizontal": "right",
+                            "barFillColor": "#70E000",
+                            "valueScaling": "linear",
+                            "trackBorderWidth": 0,
+                            "trackBorderColor": "black",
+                            "labelTextOpacity": 0.4,
+                            "barOpacity": 1,
+                            "name": "CNU_MGE_GABA.bw"
+                        },
+                        "width": 20,
+                        "height": 20,
+                        "aggregationModes": {
+                            "mean": {
+                                "name": "Mean",
+                                "value": "mean"
+                            },
+                            "min": {
+                                "name": "Min",
+                                "value": "min"
+                            },
+                            "max": {
+                                "name": "Max",
+                                "value": "max"
+                            },
+                            "std": {
+                                "name": "Standard Deviation",
+                                "value": "std"
+                            }
+                        },
+                        "position": "top"
+                    },
+                    {
+                        "name": "CNU_LGE_GABA.bw",
+                        "created": "2024-08-12T20:26:21.692201Z",
+                        "project": "SRt9Zv-9RIusswErz4Cd2g",
+                        "project_name": "00_class_label",
+                        "description": "",
+                        "server": "http://127.0.0.1:8888/api/v1",
+                        "tilesetUid": "EC1H-Y67Q2-ffRDhK99efw",
+                        "uid": "PHzR493KSMyuUxWciW9r4g",
+                        "type": "horizontal-bar",
+                        "options": {
+                            "align": "bottom",
+                            "labelColor": "[glyph-color]",
+                            "labelPosition": "topLeft",
+                            "axisLabelFormatting": "scientific",
+                            "axisPositionHorizontal": "right",
+                            "barFillColor": "#B199FF",
+                            "valueScaling": "linear",
+                            "trackBorderWidth": 0,
+                            "trackBorderColor": "black",
+                            "labelTextOpacity": 0.4,
+                            "barOpacity": 1,
+                            "name": "CNU_LGE_GABA.bw"
+                        },
+                        "width": 20,
+                        "height": 20,
+                        "aggregationModes": {
+                            "mean": {
+                                "name": "Mean",
+                                "value": "mean"
+                            },
+                            "min": {
+                                "name": "Min",
+                                "value": "min"
+                            },
+                            "max": {
+                                "name": "Max",
+                                "value": "max"
+                            },
+                            "std": {
+                                "name": "Standard Deviation",
+                                "value": "std"
+                            }
+                        },
+                        "position": "top"
+                    },
+                    {
+                        "name": "CNU_HYa_Glut.bw",
+                        "created": "2024-08-12T20:26:09.765645Z",
+                        "project": "SRt9Zv-9RIusswErz4Cd2g",
+                        "project_name": "00_class_label",
+                        "description": "",
+                        "server": "http://127.0.0.1:8888/api/v1",
+                        "tilesetUid": "b_7jW2zEQ_SbFop37mtpvA",
+                        "uid": "ftqfUvHxThaILHvkl4cN4Q",
+                        "type": "horizontal-bar",
+                        "options": {
+                            "align": "bottom",
+                            "labelColor": "[glyph-color]",
+                            "labelPosition": "topLeft",
+                            "axisLabelFormatting": "scientific",
+                            "axisPositionHorizontal": "right",
+                            "barFillColor": "#90E0EF",
+                            "valueScaling": "linear",
+                            "trackBorderWidth": 0,
+                            "trackBorderColor": "black",
+                            "labelTextOpacity": 0.4,
+                            "barOpacity": 1,
+                            "name": "CNU_HYa_Glut.bw"
+                        },
+                        "width": 20,
+                        "height": 20,
+                        "aggregationModes": {
+                            "mean": {
+                                "name": "Mean",
+                                "value": "mean"
+                            },
+                            "min": {
+                                "name": "Min",
+                                "value": "min"
+                            },
+                            "max": {
+                                "name": "Max",
+                                "value": "max"
+                            },
+                            "std": {
+                                "name": "Standard Deviation",
+                                "value": "std"
+                            }
+                        },
+                        "position": "top"
+                    },
+                    {
+                        "name": "CNU_HYa_GABA.bw",
+                        "created": "2024-08-12T20:25:56.105098Z",
+                        "project": "SRt9Zv-9RIusswErz4Cd2g",
+                        "project_name": "00_class_label",
+                        "description": "",
+                        "server": "http://127.0.0.1:8888/api/v1",
+                        "tilesetUid": "Yes-1FUgRku21BzS2hM5Cg",
+                        "uid": "ZE5F5xR8QMKLUUYCvSg2Ww",
+                        "type": "horizontal-bar",
+                        "options": {
+                            "align": "bottom",
+                            "labelColor": "[glyph-color]",
+                            "labelPosition": "topLeft",
+                            "axisLabelFormatting": "scientific",
+                            "axisPositionHorizontal": "right",
+                            "barFillColor": "#450099",
+                            "valueScaling": "linear",
+                            "trackBorderWidth": 0,
+                            "trackBorderColor": "black",
+                            "labelTextOpacity": 0.4,
+                            "barOpacity": 1,
+                            "name": "CNU_HYa_GABA.bw"
+                        },
+                        "width": 20,
+                        "height": 20,
+                        "aggregationModes": {
+                            "mean": {
+                                "name": "Mean",
+                                "value": "mean"
+                            },
+                            "min": {
+                                "name": "Min",
+                                "value": "min"
+                            },
+                            "max": {
+                                "name": "Max",
+                                "value": "max"
+                            },
+                            "std": {
+                                "name": "Standard Deviation",
+                                "value": "std"
+                            }
+                        },
+                        "position": "top"
+                    },
+                    {
+                        "name": "CB_Glut.bw",
+                        "created": "2024-08-12T20:25:48.123467Z",
+                        "project": "SRt9Zv-9RIusswErz4Cd2g",
+                        "project_name": "00_class_label",
+                        "description": "",
+                        "server": "http://127.0.0.1:8888/api/v1",
+                        "tilesetUid": "LPfidQg_QiG4WLy-Ufkh3Q",
+                        "uid": "RQQKjrmWTqSzykW9PiZvKw",
+                        "type": "horizontal-bar",
+                        "options": {
+                            "align": "bottom",
+                            "labelColor": "[glyph-color]",
+                            "labelPosition": "topLeft",
+                            "axisLabelFormatting": "scientific",
+                            "axisPositionHorizontal": "right",
+                            "barFillColor": "#9D0208",
+                            "valueScaling": "linear",
+                            "trackBorderWidth": 0,
+                            "trackBorderColor": "black",
+                            "labelTextOpacity": 0.4,
+                            "barOpacity": 1,
+                            "name": "CB_Glut.bw"
+                        },
+                        "width": 20,
+                        "height": 20,
+                        "aggregationModes": {
+                            "mean": {
+                                "name": "Mean",
+                                "value": "mean"
+                            },
+                            "min": {
+                                "name": "Min",
+                                "value": "min"
+                            },
+                            "max": {
+                                "name": "Max",
+                                "value": "max"
+                            },
+                            "std": {
+                                "name": "Standard Deviation",
+                                "value": "std"
+                            }
+                        },
+                        "position": "top"
+                    },
+                    {
+                        "name": "CB_GABA.bw",
+                        "created": "2024-08-12T20:25:41.910823Z",
+                        "project": "SRt9Zv-9RIusswErz4Cd2g",
+                        "project_name": "00_class_label",
+                        "description": "",
+                        "server": "http://127.0.0.1:8888/api/v1",
+                        "tilesetUid": "Xfo8hdoyS9S7cVGFvaCOwg",
+                        "uid": "CURjpYDNQVSA6R6HQMUvSw",
+                        "type": "horizontal-bar",
+                        "options": {
+                            "align": "bottom",
+                            "labelColor": "[glyph-color]",
+                            "labelPosition": "topLeft",
+                            "axisLabelFormatting": "scientific",
+                            "axisPositionHorizontal": "right",
+                            "barFillColor": "#FFFB46",
+                            "valueScaling": "linear",
+                            "trackBorderWidth": 0,
+                            "trackBorderColor": "black",
+                            "labelTextOpacity": 0.4,
+                            "barOpacity": 1,
+                            "name": "CB_GABA.bw"
+                        },
+                        "width": 20,
+                        "height": 20,
+                        "aggregationModes": {
+                            "mean": {
+                                "name": "Mean",
+                                "value": "mean"
+                            },
+                            "min": {
+                                "name": "Min",
+                                "value": "min"
+                            },
+                            "max": {
+                                "name": "Max",
+                                "value": "max"
+                            },
+                            "std": {
+                                "name": "Standard Deviation",
+                                "value": "std"
+                            }
+                        },
+                        "position": "top"
+                    },
+                    {
+                        "name": "Astro_Epen.bw",
+                        "created": "2024-08-12T20:25:29.533877Z",
+                        "project": "SRt9Zv-9RIusswErz4Cd2g",
+                        "project_name": "00_class_label",
+                        "description": "",
+                        "server": "http://127.0.0.1:8888/api/v1",
+                        "tilesetUid": "EXYZj12ERHOTUgsDoR4XxQ",
+                        "uid": "ZVfjPah_TMCnIgp_UvlLgw",
+                        "type": "horizontal-bar",
+                        "options": {
+                            "align": "bottom",
+                            "labelColor": "[glyph-color]",
+                            "labelPosition": "topLeft",
+                            "axisLabelFormatting": "scientific",
+                            "axisPositionHorizontal": "right",
+                            "barFillColor": "#594a26",
+                            "valueScaling": "linear",
+                            "trackBorderWidth": 0,
+                            "trackBorderColor": "black",
+                            "labelTextOpacity": 0.4,
+                            "barOpacity": 1,
+                            "name": "Astro_Epen.bw"
+                        },
+                        "width": 20,
+                        "height": 20,
+                        "aggregationModes": {
+                            "mean": {
+                                "name": "Mean",
+                                "value": "mean"
+                            },
+                            "min": {
+                                "name": "Min",
+                                "value": "min"
+                            },
+                            "max": {
+                                "name": "Max",
+                                "value": "max"
+                            },
+                            "std": {
+                                "name": "Standard Deviation",
+                                "value": "std"
+                            }
+                        },
+                        "position": "top"
+                    }
+                ],
+                "left": [],
+                "center": [],
+                "right": [],
+                "bottom": [],
+                "whole": [],
+                "gallery": []
+            },
+            "initialXDomain": [
+                1082951776.5286129,
+                1083383231.084019
+            ],
+            "initialYDomain": [
+                1082833541.5904696,
+                1083351849.6708841
+            ],
+            "layout": {
+                "w": 5,
+                "h": 2,
+                "x": 0,
+                "y": 0,
+                "i": "YrjM3yUmTziuYeJMPxhsJw",
+                "moved": false,
+                "static": false
+            },
+            "uid": "YrjM3yUmTziuYeJMPxhsJw",
+            "genomePositionSearchBoxVisible": true,
+            "genomePositionSearchBox": {
+                "autocompleteServer": "http://higlass.io/api/v1",
+                "chromInfoServer": "http://higlass.io/api/v1",
+                "visible": true,
+                "chromInfoId": "mm10"
+            }
+        }
+    ],
+    "zoomLocks": {
+        "locksByViewUid": {
+            "YrjM3yUmTziuYeJMPxhsJw": "GdmYB6y6QI6Jp8XuJC_oxQ"
+        },
+        "locksDict": {
+            "GdmYB6y6QI6Jp8XuJC_oxQ": {
+                "YrjM3yUmTziuYeJMPxhsJw": [
+                    1919080980.5,
+                    1919080980.5,
+                    66.97684526443481
+                ],
+                "uid": "GdmYB6y6QI6Jp8XuJC_oxQ"
+            }
+        }
+    },
+    "locationLocks": {
+        "locksByViewUid": {
+            "YrjM3yUmTziuYeJMPxhsJw": "SZYy-ZnRSQ6m4LQFmMy1QA",
+            "BXpNBAs_QoCzRFnGiWticg": "brhEVaEFQ6GhFKgUEN89fw",
+            "M_PADRScSRedy9TnEgYimA": "SZYy-ZnRSQ6m4LQFmMy1QA",
+            "N4-0gZSwTg2Ses70DEvkgw": "SZYy-ZnRSQ6m4LQFmMy1QA"
+        },
+        "locksDict": {
+            "SZYy-ZnRSQ6m4LQFmMy1QA": {
+                "N4-0gZSwTg2Ses70DEvkgw": [
+                    1919080980.5,
+                    1919080980.5,
+                    66.97684526443481
+                ],
+                "M_PADRScSRedy9TnEgYimA": [
+                    1919081141.028759,
+                    1919080819.9712408,
+                    532.6599450111389
+                ],
+                "YrjM3yUmTziuYeJMPxhsJw": [
+                    1919080980.5,
+                    1919080980.5,
+                    66.97684526443481
+                ],
+                "uid": "SZYy-ZnRSQ6m4LQFmMy1QA"
+            },
+            "brhEVaEFQ6GhFKgUEN89fw": {
+                "YrjM3yUmTziuYeJMPxhsJw": [
+                    1919082465.4518719,
+                    1919078703.5737967,
+                    49.498395681381226
+                ],
+                "BXpNBAs_QoCzRFnGiWticg": [
+                    1919080980.4999998,
+                    1919080980.5,
+                    49.498395681381226
+                ],
+                "uid": "brhEVaEFQ6GhFKgUEN89fw"
+            }
+        }
+    },
+    "valueScaleLocks": {
+        "locksByViewUid": {
+            "IwLRcuGoQmqI1_lrhSv5rA.cYrJ7vfVRCSDXNVlSq4-qw": "QrSxSMPQSrCYJywRJ2VUgw"
+        },
+        "locksDict": {
+            "QrSxSMPQSrCYJywRJ2VUgw": {
+                "IwLRcuGoQmqI1_lrhSv5rA.cYrJ7vfVRCSDXNVlSq4-qw": {
+                    "view": "IwLRcuGoQmqI1_lrhSv5rA",
+                    "track": "cYrJ7vfVRCSDXNVlSq4-qw"
+                },
+                "uid": "QrSxSMPQSrCYJywRJ2VUgw"
+            }
+        }
+    }
+}

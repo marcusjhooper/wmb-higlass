@@ -1,0 +1,1601 @@
+{
+  "editable": true,
+  "zoomFixed": false,
+  "trackSourceServers": [
+    "/api/v1",
+    "http://higlass.io/api/v1",
+    "http://10.128.142.129/api/v1",
+    "http://127.0.0.1:8888/api/v1"
+  ],
+  "exportViewUrl": "/api/v1/viewconfs/",
+  "views": [
+    {
+      "tracks": {
+        "top": [
+          {
+            "server": "http://higlass.io/api/v1",
+            "tilesetUid": "QDutvmyiSrec5nX4pA5WGQ",
+            "uid": "S_WjDSFtTxKqM_jRJLlaIQ",
+            "type": "horizontal-gene-annotations",
+            "options": {
+              "fontSize": 10,
+              "labelColor": "black",
+              "labelBackgroundColor": "#ffffff",
+              "labelPosition": "hidden",
+              "labelLeftMargin": 0,
+              "labelRightMargin": 0,
+              "labelTopMargin": 0,
+              "labelBottomMargin": 0,
+              "minHeight": 24,
+              "plusStrandColor": "blue",
+              "minusStrandColor": "red",
+              "trackBorderWidth": 0,
+              "trackBorderColor": "black",
+              "showMousePosition": false,
+              "mousePositionColor": "#000000",
+              "geneAnnotationHeight": 12,
+              "geneLabelPosition": "outside",
+              "geneStrandSpacing": 4,
+              "name": "Gene Annotations (mm10)"
+            },
+            "width": 1279,
+            "height": 55
+          },
+          {
+            "server": "http://10.128.142.129/api/v1",
+            "tilesetUid": "QoOJTIKzS1Gt2JpU9qkPTw",
+            "uid": "ezyigBfHToCb4fQVsHNbiw",
+            "type": "horizontal-bar",
+            "options": {
+              "align": "bottom",
+              "labelColor": "[glyph-color]",
+              "labelPosition": "topLeft",
+              "labelLeftMargin": 0,
+              "labelRightMargin": 0,
+              "labelTopMargin": 0,
+              "labelBottomMargin": 0,
+              "labelShowResolution": false,
+              "axisLabelFormatting": "scientific",
+              "axisPositionHorizontal": "right",
+              "barFillColor": "#0D47A1",
+              "valueScaling": "linear",
+              "trackBorderWidth": 0,
+              "trackBorderColor": "black",
+              "labelTextOpacity": 0.4,
+              "barOpacity": 1,
+              "name": "TH_Glut.bw"
+            },
+            "width": 1279,
+            "height": 20,
+            "aggregationModes": {
+              "mean": {
+                "name": "Mean",
+                "value": "mean"
+              },
+              "min": {
+                "name": "Min",
+                "value": "min"
+              },
+              "max": {
+                "name": "Max",
+                "value": "max"
+              },
+              "std": {
+                "name": "Standard Deviation",
+                "value": "std"
+              }
+            }
+          },
+          {
+            "server": "http://10.128.142.129/api/v1",
+            "tilesetUid": "QgySJyjQTpytp9o2wd-5Ig",
+            "uid": "QAu6tgiERLam0Y0R-hfP6g",
+            "type": "horizontal-bar",
+            "options": {
+              "align": "bottom",
+              "labelColor": "[glyph-color]",
+              "labelPosition": "topLeft",
+              "labelLeftMargin": 0,
+              "labelRightMargin": 0,
+              "labelTopMargin": 0,
+              "labelBottomMargin": 0,
+              "labelShowResolution": false,
+              "axisLabelFormatting": "scientific",
+              "axisPositionHorizontal": "right",
+              "barFillColor": "#6b5ca5",
+              "valueScaling": "linear",
+              "trackBorderWidth": 0,
+              "trackBorderColor": "black",
+              "labelTextOpacity": 0.4,
+              "barOpacity": 1,
+              "name": "P_Glut.bw"
+            },
+            "width": 1279,
+            "height": 20,
+            "aggregationModes": {
+              "mean": {
+                "name": "Mean",
+                "value": "mean"
+              },
+              "min": {
+                "name": "Min",
+                "value": "min"
+              },
+              "max": {
+                "name": "Max",
+                "value": "max"
+              },
+              "std": {
+                "name": "Standard Deviation",
+                "value": "std"
+              }
+            }
+          },
+          {
+            "server": "http://10.128.142.129/api/v1",
+            "tilesetUid": "Aj2Y3sKYQs6BIj2NchSjdw",
+            "uid": "N3vi3SQ8SqOSZ80p7DxApg",
+            "type": "horizontal-bar",
+            "options": {
+              "align": "bottom",
+              "labelColor": "[glyph-color]",
+              "labelPosition": "topLeft",
+              "labelLeftMargin": 0,
+              "labelRightMargin": 0,
+              "labelTopMargin": 0,
+              "labelBottomMargin": 0,
+              "labelShowResolution": false,
+              "axisLabelFormatting": "scientific",
+              "axisPositionHorizontal": "right",
+              "barFillColor": "#72195a",
+              "valueScaling": "linear",
+              "trackBorderWidth": 0,
+              "trackBorderColor": "black",
+              "labelTextOpacity": 0.4,
+              "barOpacity": 1,
+              "name": "P_GABA.bw"
+            },
+            "width": 1279,
+            "height": 20,
+            "aggregationModes": {
+              "mean": {
+                "name": "Mean",
+                "value": "mean"
+              },
+              "min": {
+                "name": "Min",
+                "value": "min"
+              },
+              "max": {
+                "name": "Max",
+                "value": "max"
+              },
+              "std": {
+                "name": "Standard Deviation",
+                "value": "std"
+              }
+            }
+          },
+          {
+            "server": "http://10.128.142.129/api/v1",
+            "tilesetUid": "DXRIpDkKSV6gEyYzt5QN3Q",
+            "uid": "UyJD3E6ZQ8uj7j1IIQhrtA",
+            "type": "horizontal-bar",
+            "options": {
+              "align": "bottom",
+              "labelColor": "[glyph-color]",
+              "labelPosition": "topLeft",
+              "labelLeftMargin": 0,
+              "labelRightMargin": 0,
+              "labelTopMargin": 0,
+              "labelBottomMargin": 0,
+              "labelShowResolution": false,
+              "axisLabelFormatting": "scientific",
+              "axisPositionHorizontal": "right",
+              "barFillColor": "darkgreen",
+              "valueScaling": "linear",
+              "trackBorderWidth": 0,
+              "trackBorderColor": "black",
+              "labelTextOpacity": 0.4,
+              "barOpacity": 1,
+              "name": "OPC_Oligo.bw"
+            },
+            "width": 1279,
+            "height": 20,
+            "aggregationModes": {
+              "mean": {
+                "name": "Mean",
+                "value": "mean"
+              },
+              "min": {
+                "name": "Min",
+                "value": "min"
+              },
+              "max": {
+                "name": "Max",
+                "value": "max"
+              },
+              "std": {
+                "name": "Standard Deviation",
+                "value": "std"
+              }
+            }
+          },
+          {
+            "server": "http://10.128.142.129/api/v1",
+            "tilesetUid": "Ctf6PkiPRMux9SMiTPA_7g",
+            "uid": "Sr_c4fevR_67xafLbXR0Fw",
+            "type": "horizontal-bar",
+            "options": {
+              "align": "bottom",
+              "labelColor": "[glyph-color]",
+              "labelPosition": "topLeft",
+              "labelLeftMargin": 0,
+              "labelRightMargin": 0,
+              "labelTopMargin": 0,
+              "labelBottomMargin": 0,
+              "labelShowResolution": false,
+              "axisLabelFormatting": "scientific",
+              "axisPositionHorizontal": "right",
+              "barFillColor": "#1b4332",
+              "valueScaling": "linear",
+              "trackBorderWidth": 0,
+              "trackBorderColor": "black",
+              "labelTextOpacity": 0.4,
+              "barOpacity": 1,
+              "name": "OB_IMN_GABA.bw"
+            },
+            "width": 1279,
+            "height": 20,
+            "aggregationModes": {
+              "mean": {
+                "name": "Mean",
+                "value": "mean"
+              },
+              "min": {
+                "name": "Min",
+                "value": "min"
+              },
+              "max": {
+                "name": "Max",
+                "value": "max"
+              },
+              "std": {
+                "name": "Standard Deviation",
+                "value": "std"
+              }
+            }
+          },
+          {
+            "server": "http://10.128.142.129/api/v1",
+            "tilesetUid": "CgrRMAYrT0OBPWVx27nYPQ",
+            "uid": "RMeI1W74Qfqj9bu7A2mMeA",
+            "type": "horizontal-bar",
+            "options": {
+              "align": "bottom",
+              "labelColor": "[glyph-color]",
+              "labelPosition": "topLeft",
+              "labelLeftMargin": 0,
+              "labelRightMargin": 0,
+              "labelTopMargin": 0,
+              "labelBottomMargin": 0,
+              "labelShowResolution": false,
+              "axisLabelFormatting": "scientific",
+              "axisPositionHorizontal": "right",
+              "barFillColor": "#D00000",
+              "valueScaling": "linear",
+              "trackBorderWidth": 0,
+              "trackBorderColor": "black",
+              "labelTextOpacity": 0.4,
+              "barOpacity": 1,
+              "name": "OB_CR_Glut.bw"
+            },
+            "width": 1279,
+            "height": 20,
+            "aggregationModes": {
+              "mean": {
+                "name": "Mean",
+                "value": "mean"
+              },
+              "min": {
+                "name": "Min",
+                "value": "min"
+              },
+              "max": {
+                "name": "Max",
+                "value": "max"
+              },
+              "std": {
+                "name": "Standard Deviation",
+                "value": "std"
+              }
+            }
+          },
+          {
+            "server": "http://10.128.142.129/api/v1",
+            "tilesetUid": "Lx6aImg9Ssa6jd5Xu62qMA",
+            "uid": "H9TjN-yoT56XRJAcT3aQKQ",
+            "type": "horizontal-bar",
+            "options": {
+              "align": "bottom",
+              "labelColor": "[glyph-color]",
+              "labelPosition": "topLeft",
+              "labelLeftMargin": 0,
+              "labelRightMargin": 0,
+              "labelTopMargin": 0,
+              "labelBottomMargin": 0,
+              "labelShowResolution": false,
+              "axisLabelFormatting": "scientific",
+              "axisPositionHorizontal": "right",
+              "barFillColor": "#F0A0FF",
+              "valueScaling": "linear",
+              "trackBorderWidth": 0,
+              "trackBorderColor": "black",
+              "labelTextOpacity": 0.4,
+              "barOpacity": 1,
+              "name": "MY_Glut.bw"
+            },
+            "width": 1279,
+            "height": 20,
+            "aggregationModes": {
+              "mean": {
+                "name": "Mean",
+                "value": "mean"
+              },
+              "min": {
+                "name": "Min",
+                "value": "min"
+              },
+              "max": {
+                "name": "Max",
+                "value": "max"
+              },
+              "std": {
+                "name": "Standard Deviation",
+                "value": "std"
+              }
+            }
+          },
+          {
+            "server": "http://10.128.142.129/api/v1",
+            "tilesetUid": "OmL_ot1pS4uO9Tm8D5_32w",
+            "uid": "ROTWZe5QRq2_k8YIFGc0FA",
+            "type": "horizontal-bar",
+            "options": {
+              "align": "bottom",
+              "labelColor": "[glyph-color]",
+              "labelPosition": "topLeft",
+              "labelLeftMargin": 0,
+              "labelRightMargin": 0,
+              "labelTopMargin": 0,
+              "labelBottomMargin": 0,
+              "labelShowResolution": false,
+              "axisLabelFormatting": "scientific",
+              "axisPositionHorizontal": "right",
+              "barFillColor": "#0096C7",
+              "valueScaling": "linear",
+              "trackBorderWidth": 0,
+              "trackBorderColor": "black",
+              "labelTextOpacity": 0.4,
+              "barOpacity": 1,
+              "name": "MY_GABA.bw"
+            },
+            "width": 1279,
+            "height": 20,
+            "aggregationModes": {
+              "mean": {
+                "name": "Mean",
+                "value": "mean"
+              },
+              "min": {
+                "name": "Min",
+                "value": "min"
+              },
+              "max": {
+                "name": "Max",
+                "value": "max"
+              },
+              "std": {
+                "name": "Standard Deviation",
+                "value": "std"
+              }
+            }
+          },
+          {
+            "server": "http://10.128.142.129/api/v1",
+            "tilesetUid": "dZ6v5uMxQtKP9A2L4hQi7A",
+            "uid": "cMY_hpr8RMyrcLXEOya1mg",
+            "type": "horizontal-bar",
+            "options": {
+              "align": "bottom",
+              "labelColor": "[glyph-color]",
+              "labelPosition": "topLeft",
+              "labelLeftMargin": 0,
+              "labelRightMargin": 0,
+              "labelTopMargin": 0,
+              "labelBottomMargin": 0,
+              "labelShowResolution": false,
+              "axisLabelFormatting": "scientific",
+              "axisPositionHorizontal": "right",
+              "barFillColor": "#FAA307",
+              "valueScaling": "linear",
+              "trackBorderWidth": 0,
+              "trackBorderColor": "black",
+              "labelTextOpacity": 0.4,
+              "barOpacity": 1,
+              "name": "MH_LH_Glut.bw"
+            },
+            "width": 1279,
+            "height": 20,
+            "aggregationModes": {
+              "mean": {
+                "name": "Mean",
+                "value": "mean"
+              },
+              "min": {
+                "name": "Min",
+                "value": "min"
+              },
+              "max": {
+                "name": "Max",
+                "value": "max"
+              },
+              "std": {
+                "name": "Standard Deviation",
+                "value": "std"
+              }
+            }
+          },
+          {
+            "server": "http://10.128.142.129/api/v1",
+            "tilesetUid": "QyxsqYqHSRSpO-ZZYrrKCw",
+            "uid": "Ri3HO9cLQdOVql82HgiAlw",
+            "type": "horizontal-bar",
+            "options": {
+              "align": "bottom",
+              "labelColor": "[glyph-color]",
+              "labelPosition": "topLeft",
+              "labelLeftMargin": 0,
+              "labelRightMargin": 0,
+              "labelTopMargin": 0,
+              "labelBottomMargin": 0,
+              "labelShowResolution": false,
+              "axisLabelFormatting": "scientific",
+              "axisPositionHorizontal": "right",
+              "barFillColor": "#EC4067",
+              "valueScaling": "linear",
+              "trackBorderWidth": 0,
+              "trackBorderColor": "black",
+              "labelTextOpacity": 0.4,
+              "barOpacity": 1,
+              "name": "MB_HB_Sero.bw"
+            },
+            "width": 1279,
+            "height": 20,
+            "aggregationModes": {
+              "mean": {
+                "name": "Mean",
+                "value": "mean"
+              },
+              "min": {
+                "name": "Min",
+                "value": "min"
+              },
+              "max": {
+                "name": "Max",
+                "value": "max"
+              },
+              "std": {
+                "name": "Standard Deviation",
+                "value": "std"
+              }
+            }
+          },
+          {
+            "server": "http://10.128.142.129/api/v1",
+            "tilesetUid": "fvvr4XQOR26ZC5Yp2HvvqQ",
+            "uid": "Ji61lRVGTrKe1MEUlR9vww",
+            "type": "horizontal-bar",
+            "options": {
+              "align": "bottom",
+              "labelColor": "[glyph-color]",
+              "labelPosition": "topLeft",
+              "labelLeftMargin": 0,
+              "labelRightMargin": 0,
+              "labelTopMargin": 0,
+              "labelBottomMargin": 0,
+              "labelShowResolution": false,
+              "axisLabelFormatting": "scientific",
+              "axisPositionHorizontal": "right",
+              "barFillColor": "#007200",
+              "valueScaling": "linear",
+              "trackBorderWidth": 0,
+              "trackBorderColor": "black",
+              "labelTextOpacity": 0.4,
+              "barOpacity": 1,
+              "name": "MB_Glut.bw"
+            },
+            "width": 1279,
+            "height": 20,
+            "aggregationModes": {
+              "mean": {
+                "name": "Mean",
+                "value": "mean"
+              },
+              "min": {
+                "name": "Min",
+                "value": "min"
+              },
+              "max": {
+                "name": "Max",
+                "value": "max"
+              },
+              "std": {
+                "name": "Standard Deviation",
+                "value": "std"
+              }
+            }
+          },
+          {
+            "server": "http://10.128.142.129/api/v1",
+            "tilesetUid": "ONCyXIhbR_Ga4fXlR79jmw",
+            "uid": "D-BbWWOJQX-aICHdWCYcfg",
+            "type": "horizontal-bar",
+            "options": {
+              "align": "bottom",
+              "labelColor": "[glyph-color]",
+              "labelPosition": "topLeft",
+              "labelLeftMargin": 0,
+              "labelRightMargin": 0,
+              "labelTopMargin": 0,
+              "labelBottomMargin": 0,
+              "labelShowResolution": false,
+              "axisLabelFormatting": "scientific",
+              "axisPositionHorizontal": "right",
+              "barFillColor": "#9EF01A",
+              "valueScaling": "linear",
+              "trackBorderWidth": 0,
+              "trackBorderColor": "black",
+              "labelTextOpacity": 0.4,
+              "barOpacity": 1,
+              "name": "MB_GABA.bw"
+            },
+            "width": 1279,
+            "height": 20,
+            "aggregationModes": {
+              "mean": {
+                "name": "Mean",
+                "value": "mean"
+              },
+              "min": {
+                "name": "Min",
+                "value": "min"
+              },
+              "max": {
+                "name": "Max",
+                "value": "max"
+              },
+              "std": {
+                "name": "Standard Deviation",
+                "value": "std"
+              }
+            }
+          },
+          {
+            "server": "http://10.128.142.129/api/v1",
+            "tilesetUid": "DXQ5xlqWSweaPrrfiwY_Dw",
+            "uid": "EqP-iMqZSj22WCIVqq1Ayw",
+            "type": "horizontal-bar",
+            "options": {
+              "align": "bottom",
+              "labelColor": "[glyph-color]",
+              "labelPosition": "topLeft",
+              "labelLeftMargin": 0,
+              "labelRightMargin": 0,
+              "labelTopMargin": 0,
+              "labelBottomMargin": 0,
+              "labelShowResolution": false,
+              "axisLabelFormatting": "scientific",
+              "axisPositionHorizontal": "right",
+              "barFillColor": "#38B000",
+              "valueScaling": "linear",
+              "trackBorderWidth": 0,
+              "trackBorderColor": "black",
+              "labelTextOpacity": 0.4,
+              "barOpacity": 1,
+              "name": "MB_Dopa.bw"
+            },
+            "width": 1279,
+            "height": 20,
+            "aggregationModes": {
+              "mean": {
+                "name": "Mean",
+                "value": "mean"
+              },
+              "min": {
+                "name": "Min",
+                "value": "min"
+              },
+              "max": {
+                "name": "Max",
+                "value": "max"
+              },
+              "std": {
+                "name": "Standard Deviation",
+                "value": "std"
+              }
+            }
+          },
+          {
+            "server": "http://10.128.142.129/api/v1",
+            "tilesetUid": "YLs9QooyQo2YIUhzbd005g",
+            "uid": "V5p4UB9eSxO2eIJfSk9i3Q",
+            "type": "horizontal-bar",
+            "options": {
+              "align": "bottom",
+              "labelColor": "[glyph-color]",
+              "labelPosition": "topLeft",
+              "labelLeftMargin": 0,
+              "labelRightMargin": 0,
+              "labelTopMargin": 0,
+              "labelBottomMargin": 0,
+              "labelShowResolution": false,
+              "axisLabelFormatting": "scientific",
+              "axisPositionHorizontal": "right",
+              "barFillColor": "#3283FE",
+              "valueScaling": "linear",
+              "trackBorderWidth": 0,
+              "trackBorderColor": "black",
+              "labelTextOpacity": 0.4,
+              "barOpacity": 1,
+              "name": "LSX_GABA.bw"
+            },
+            "width": 1279,
+            "height": 20,
+            "aggregationModes": {
+              "mean": {
+                "name": "Mean",
+                "value": "mean"
+              },
+              "min": {
+                "name": "Min",
+                "value": "min"
+              },
+              "max": {
+                "name": "Max",
+                "value": "max"
+              },
+              "std": {
+                "name": "Standard Deviation",
+                "value": "std"
+              }
+            }
+          },
+          {
+            "server": "http://10.128.142.129/api/v1",
+            "tilesetUid": "Z-uuUVs6SsSMt45ajwBolg",
+            "uid": "OmXY-EfcSKKERkiP-ba_wA",
+            "type": "horizontal-bar",
+            "options": {
+              "align": "bottom",
+              "labelColor": "[glyph-color]",
+              "labelPosition": "topLeft",
+              "labelLeftMargin": 0,
+              "labelRightMargin": 0,
+              "labelTopMargin": 0,
+              "labelBottomMargin": 0,
+              "labelShowResolution": false,
+              "axisLabelFormatting": "scientific",
+              "axisPositionHorizontal": "right",
+              "barFillColor": "#FA0087",
+              "valueScaling": "linear",
+              "trackBorderWidth": 0,
+              "trackBorderColor": "black",
+              "labelTextOpacity": 0.4,
+              "barOpacity": 1,
+              "name": "IT_ET_Glut.bw"
+            },
+            "width": 1279,
+            "height": 20,
+            "aggregationModes": {
+              "mean": {
+                "name": "Mean",
+                "value": "mean"
+              },
+              "min": {
+                "name": "Min",
+                "value": "min"
+              },
+              "max": {
+                "name": "Max",
+                "value": "max"
+              },
+              "std": {
+                "name": "Standard Deviation",
+                "value": "std"
+              }
+            }
+          },
+          {
+            "server": "http://10.128.142.129/api/v1",
+            "tilesetUid": "KTMnaua3RjOM20HLn8ajCA",
+            "uid": "Ao56RHtpTCKcRNbSI_R2rw",
+            "type": "horizontal-bar",
+            "options": {
+              "align": "bottom",
+              "labelColor": "[glyph-color]",
+              "labelPosition": "topLeft",
+              "labelLeftMargin": 0,
+              "labelRightMargin": 0,
+              "labelTopMargin": 0,
+              "labelBottomMargin": 0,
+              "labelShowResolution": false,
+              "axisLabelFormatting": "scientific",
+              "axisPositionHorizontal": "right",
+              "barFillColor": "#01d669",
+              "valueScaling": "linear",
+              "trackBorderWidth": 0,
+              "trackBorderColor": "black",
+              "labelTextOpacity": 0.4,
+              "barOpacity": 1,
+              "name": "HY_MM_Glut.bw"
+            },
+            "width": 1279,
+            "height": 20,
+            "aggregationModes": {
+              "mean": {
+                "name": "Mean",
+                "value": "mean"
+              },
+              "min": {
+                "name": "Min",
+                "value": "min"
+              },
+              "max": {
+                "name": "Max",
+                "value": "max"
+              },
+              "std": {
+                "name": "Standard Deviation",
+                "value": "std"
+              }
+            }
+          },
+          {
+            "server": "http://10.128.142.129/api/v1",
+            "tilesetUid": "cDmsa-YdTU-SPzu2sE1Imw",
+            "uid": "faZSU5AqR0a1iYxrhlTidA",
+            "type": "horizontal-bar",
+            "options": {
+              "align": "bottom",
+              "labelColor": "[glyph-color]",
+              "labelPosition": "topLeft",
+              "labelLeftMargin": 0,
+              "labelRightMargin": 0,
+              "labelTopMargin": 0,
+              "labelBottomMargin": 0,
+              "labelShowResolution": false,
+              "axisLabelFormatting": "scientific",
+              "axisPositionHorizontal": "right",
+              "barFillColor": "#F28266",
+              "valueScaling": "linear",
+              "trackBorderWidth": 0,
+              "trackBorderColor": "black",
+              "labelTextOpacity": 0.4,
+              "barOpacity": 1,
+              "name": "HY_Gnrh1_Glut.bw"
+            },
+            "width": 1279,
+            "height": 20,
+            "aggregationModes": {
+              "mean": {
+                "name": "Mean",
+                "value": "mean"
+              },
+              "min": {
+                "name": "Min",
+                "value": "min"
+              },
+              "max": {
+                "name": "Max",
+                "value": "max"
+              },
+              "std": {
+                "name": "Standard Deviation",
+                "value": "std"
+              }
+            }
+          },
+          {
+            "server": "http://10.128.142.129/api/v1",
+            "tilesetUid": "dWb63X6GRvWmtidUm1Msdg",
+            "uid": "D8LG3i8STsyX3vRyXQ-xBg",
+            "type": "horizontal-bar",
+            "options": {
+              "align": "bottom",
+              "labelColor": "[glyph-color]",
+              "labelPosition": "topLeft",
+              "labelLeftMargin": 0,
+              "labelRightMargin": 0,
+              "labelTopMargin": 0,
+              "labelBottomMargin": 0,
+              "labelShowResolution": false,
+              "axisLabelFormatting": "scientific",
+              "axisPositionHorizontal": "right",
+              "barFillColor": "#AA0DFE",
+              "valueScaling": "linear",
+              "trackBorderWidth": 0,
+              "trackBorderColor": "black",
+              "labelTextOpacity": 0.4,
+              "barOpacity": 1,
+              "name": "HY_Glut.bw"
+            },
+            "width": 1279,
+            "height": 20,
+            "aggregationModes": {
+              "mean": {
+                "name": "Mean",
+                "value": "mean"
+              },
+              "min": {
+                "name": "Min",
+                "value": "min"
+              },
+              "max": {
+                "name": "Max",
+                "value": "max"
+              },
+              "std": {
+                "name": "Standard Deviation",
+                "value": "std"
+              }
+            }
+          },
+          {
+            "server": "http://10.128.142.129/api/v1",
+            "tilesetUid": "fOmz_lMSQ3q6mTNeRJ8GvQ",
+            "uid": "THOYrUeyTqatmR4ARfDnLw",
+            "type": "horizontal-bar",
+            "options": {
+              "align": "bottom",
+              "labelColor": "[glyph-color]",
+              "labelPosition": "topLeft",
+              "labelLeftMargin": 0,
+              "labelRightMargin": 0,
+              "labelTopMargin": 0,
+              "labelBottomMargin": 0,
+              "labelShowResolution": false,
+              "axisLabelFormatting": "scientific",
+              "axisPositionHorizontal": "right",
+              "barFillColor": "#FF6600",
+              "valueScaling": "linear",
+              "trackBorderWidth": 0,
+              "trackBorderColor": "black",
+              "labelTextOpacity": 0.4,
+              "barOpacity": 1,
+              "name": "HY_GABA.bw"
+            },
+            "width": 1279,
+            "height": 20,
+            "aggregationModes": {
+              "mean": {
+                "name": "Mean",
+                "value": "mean"
+              },
+              "min": {
+                "name": "Min",
+                "value": "min"
+              },
+              "max": {
+                "name": "Max",
+                "value": "max"
+              },
+              "std": {
+                "name": "Standard Deviation",
+                "value": "std"
+              }
+            }
+          },
+          {
+            "server": "http://10.128.142.129/api/v1",
+            "tilesetUid": "ScDrr7xBTVmHyQdMP5fUcw",
+            "uid": "Wu0-81mQS42olekVpM8-cQ",
+            "type": "horizontal-bar",
+            "options": {
+              "align": "bottom",
+              "labelColor": "[glyph-color]",
+              "labelPosition": "topLeft",
+              "labelLeftMargin": 0,
+              "labelRightMargin": 0,
+              "labelTopMargin": 0,
+              "labelBottomMargin": 0,
+              "labelShowResolution": false,
+              "axisLabelFormatting": "scientific",
+              "axisPositionHorizontal": "right",
+              "barFillColor": "#16f2f2",
+              "valueScaling": "linear",
+              "trackBorderWidth": 0,
+              "trackBorderColor": "black",
+              "labelTextOpacity": 0.4,
+              "barOpacity": 1,
+              "name": "DG_IMN_Glut.bw"
+            },
+            "width": 1279,
+            "height": 20,
+            "aggregationModes": {
+              "mean": {
+                "name": "Mean",
+                "value": "mean"
+              },
+              "min": {
+                "name": "Min",
+                "value": "min"
+              },
+              "max": {
+                "name": "Max",
+                "value": "max"
+              },
+              "std": {
+                "name": "Standard Deviation",
+                "value": "std"
+              }
+            }
+          },
+          {
+            "server": "http://10.128.142.129/api/v1",
+            "tilesetUid": "Y5IOGy_QSZuHNjCuH2q5Cg",
+            "uid": "evkImB84S6eUDRIt2-lKJQ",
+            "type": "horizontal-bar",
+            "options": {
+              "align": "bottom",
+              "labelColor": "[glyph-color]",
+              "labelPosition": "topLeft",
+              "labelLeftMargin": 0,
+              "labelRightMargin": 0,
+              "labelTopMargin": 0,
+              "labelBottomMargin": 0,
+              "labelShowResolution": false,
+              "axisLabelFormatting": "scientific",
+              "axisPositionHorizontal": "right",
+              "barFillColor": "#f954ee",
+              "valueScaling": "linear",
+              "trackBorderWidth": 0,
+              "trackBorderColor": "black",
+              "labelTextOpacity": 0.4,
+              "barOpacity": 1,
+              "name": "CTX_MGE_GABA.bw"
+            },
+            "width": 1279,
+            "height": 20,
+            "aggregationModes": {
+              "mean": {
+                "name": "Mean",
+                "value": "mean"
+              },
+              "min": {
+                "name": "Min",
+                "value": "min"
+              },
+              "max": {
+                "name": "Max",
+                "value": "max"
+              },
+              "std": {
+                "name": "Standard Deviation",
+                "value": "std"
+              }
+            }
+          },
+          {
+            "server": "http://10.128.142.129/api/v1",
+            "tilesetUid": "Ie20OPV8TMiMR9Ogzw9VeA",
+            "uid": "BM59SZKmR6e4g4zQyVw5Rg",
+            "type": "horizontal-bar",
+            "options": {
+              "align": "bottom",
+              "labelColor": "[glyph-color]",
+              "labelPosition": "topLeft",
+              "labelLeftMargin": 0,
+              "labelRightMargin": 0,
+              "labelTopMargin": 0,
+              "labelBottomMargin": 0,
+              "labelShowResolution": false,
+              "axisLabelFormatting": "scientific",
+              "axisPositionHorizontal": "right",
+              "barFillColor": "#CCFF33",
+              "valueScaling": "linear",
+              "trackBorderWidth": 0,
+              "trackBorderColor": "black",
+              "labelTextOpacity": 0.4,
+              "barOpacity": 1,
+              "name": "CTX_CGE_GABA.bw"
+            },
+            "width": 1279,
+            "height": 20,
+            "aggregationModes": {
+              "mean": {
+                "name": "Mean",
+                "value": "mean"
+              },
+              "min": {
+                "name": "Min",
+                "value": "min"
+              },
+              "max": {
+                "name": "Max",
+                "value": "max"
+              },
+              "std": {
+                "name": "Standard Deviation",
+                "value": "std"
+              }
+            }
+          },
+          {
+            "server": "http://10.128.142.129/api/v1",
+            "tilesetUid": "DDHD4ZGgT_CBpPeB76p1gw",
+            "uid": "ZfkFTpiZTLq1cK38nnxXyg",
+            "type": "horizontal-bar",
+            "options": {
+              "align": "bottom",
+              "labelColor": "[glyph-color]",
+              "labelPosition": "topLeft",
+              "labelLeftMargin": 0,
+              "labelRightMargin": 0,
+              "labelTopMargin": 0,
+              "labelBottomMargin": 0,
+              "labelShowResolution": false,
+              "axisLabelFormatting": "scientific",
+              "axisPositionHorizontal": "right",
+              "barFillColor": "#70E000",
+              "valueScaling": "linear",
+              "trackBorderWidth": 0,
+              "trackBorderColor": "black",
+              "labelTextOpacity": 0.4,
+              "barOpacity": 1,
+              "name": "CNU_MGE_GABA.bw"
+            },
+            "width": 1279,
+            "height": 20,
+            "aggregationModes": {
+              "mean": {
+                "name": "Mean",
+                "value": "mean"
+              },
+              "min": {
+                "name": "Min",
+                "value": "min"
+              },
+              "max": {
+                "name": "Max",
+                "value": "max"
+              },
+              "std": {
+                "name": "Standard Deviation",
+                "value": "std"
+              }
+            }
+          },
+          {
+            "server": "http://10.128.142.129/api/v1",
+            "tilesetUid": "EC1H-Y67Q2-ffRDhK99efw",
+            "uid": "ZSFVqDroQ22fhweVzmRZCg",
+            "type": "horizontal-bar",
+            "options": {
+              "align": "bottom",
+              "labelColor": "[glyph-color]",
+              "labelPosition": "topLeft",
+              "labelLeftMargin": 0,
+              "labelRightMargin": 0,
+              "labelTopMargin": 0,
+              "labelBottomMargin": 0,
+              "labelShowResolution": false,
+              "axisLabelFormatting": "scientific",
+              "axisPositionHorizontal": "right",
+              "barFillColor": "#B199FF",
+              "valueScaling": "linear",
+              "trackBorderWidth": 0,
+              "trackBorderColor": "black",
+              "labelTextOpacity": 0.4,
+              "barOpacity": 1,
+              "name": "CNU_LGE_GABA.bw"
+            },
+            "width": 1279,
+            "height": 20,
+            "aggregationModes": {
+              "mean": {
+                "name": "Mean",
+                "value": "mean"
+              },
+              "min": {
+                "name": "Min",
+                "value": "min"
+              },
+              "max": {
+                "name": "Max",
+                "value": "max"
+              },
+              "std": {
+                "name": "Standard Deviation",
+                "value": "std"
+              }
+            }
+          },
+          {
+            "server": "http://10.128.142.129/api/v1",
+            "tilesetUid": "b_7jW2zEQ_SbFop37mtpvA",
+            "uid": "EpvcXf4vTe27UtV_aBQozg",
+            "type": "horizontal-bar",
+            "options": {
+              "align": "bottom",
+              "labelColor": "[glyph-color]",
+              "labelPosition": "topLeft",
+              "labelLeftMargin": 0,
+              "labelRightMargin": 0,
+              "labelTopMargin": 0,
+              "labelBottomMargin": 0,
+              "labelShowResolution": false,
+              "axisLabelFormatting": "scientific",
+              "axisPositionHorizontal": "right",
+              "barFillColor": "#90E0EF",
+              "valueScaling": "linear",
+              "trackBorderWidth": 0,
+              "trackBorderColor": "black",
+              "labelTextOpacity": 0.4,
+              "barOpacity": 1,
+              "name": "CNU_HYa_Glut.bw"
+            },
+            "width": 1279,
+            "height": 20,
+            "aggregationModes": {
+              "mean": {
+                "name": "Mean",
+                "value": "mean"
+              },
+              "min": {
+                "name": "Min",
+                "value": "min"
+              },
+              "max": {
+                "name": "Max",
+                "value": "max"
+              },
+              "std": {
+                "name": "Standard Deviation",
+                "value": "std"
+              }
+            }
+          },
+          {
+            "server": "http://10.128.142.129/api/v1",
+            "tilesetUid": "Yes-1FUgRku21BzS2hM5Cg",
+            "uid": "cG6P-qGNT82R11W49NPPSg",
+            "type": "horizontal-bar",
+            "options": {
+              "align": "bottom",
+              "labelColor": "[glyph-color]",
+              "labelPosition": "topLeft",
+              "labelLeftMargin": 0,
+              "labelRightMargin": 0,
+              "labelTopMargin": 0,
+              "labelBottomMargin": 0,
+              "labelShowResolution": false,
+              "axisLabelFormatting": "scientific",
+              "axisPositionHorizontal": "right",
+              "barFillColor": "#450099",
+              "valueScaling": "linear",
+              "trackBorderWidth": 0,
+              "trackBorderColor": "black",
+              "labelTextOpacity": 0.4,
+              "barOpacity": 1,
+              "name": "CNU_HYa_GABA.bw"
+            },
+            "width": 1279,
+            "height": 20,
+            "aggregationModes": {
+              "mean": {
+                "name": "Mean",
+                "value": "mean"
+              },
+              "min": {
+                "name": "Min",
+                "value": "min"
+              },
+              "max": {
+                "name": "Max",
+                "value": "max"
+              },
+              "std": {
+                "name": "Standard Deviation",
+                "value": "std"
+              }
+            }
+          },
+          {
+            "server": "http://10.128.142.129/api/v1",
+            "tilesetUid": "LPfidQg_QiG4WLy-Ufkh3Q",
+            "uid": "bkqlx7DJSmO_kmhr3w0aWg",
+            "type": "horizontal-bar",
+            "options": {
+              "align": "bottom",
+              "labelColor": "[glyph-color]",
+              "labelPosition": "topLeft",
+              "labelLeftMargin": 0,
+              "labelRightMargin": 0,
+              "labelTopMargin": 0,
+              "labelBottomMargin": 0,
+              "labelShowResolution": false,
+              "axisLabelFormatting": "scientific",
+              "axisPositionHorizontal": "right",
+              "barFillColor": "#9D0208",
+              "valueScaling": "linear",
+              "trackBorderWidth": 0,
+              "trackBorderColor": "black",
+              "labelTextOpacity": 0.4,
+              "barOpacity": 1,
+              "name": "CB_Glut.bw"
+            },
+            "width": 1279,
+            "height": 20,
+            "aggregationModes": {
+              "mean": {
+                "name": "Mean",
+                "value": "mean"
+              },
+              "min": {
+                "name": "Min",
+                "value": "min"
+              },
+              "max": {
+                "name": "Max",
+                "value": "max"
+              },
+              "std": {
+                "name": "Standard Deviation",
+                "value": "std"
+              }
+            }
+          },
+          {
+            "server": "http://10.128.142.129/api/v1",
+            "tilesetUid": "Xfo8hdoyS9S7cVGFvaCOwg",
+            "uid": "ccsTwQzISeyZRml72Hs5lw",
+            "type": "horizontal-bar",
+            "options": {
+              "align": "bottom",
+              "labelColor": "[glyph-color]",
+              "labelPosition": "topLeft",
+              "labelLeftMargin": 0,
+              "labelRightMargin": 0,
+              "labelTopMargin": 0,
+              "labelBottomMargin": 0,
+              "labelShowResolution": false,
+              "axisLabelFormatting": "scientific",
+              "axisPositionHorizontal": "right",
+              "barFillColor": "#FFFB46",
+              "valueScaling": "linear",
+              "trackBorderWidth": 0,
+              "trackBorderColor": "black",
+              "labelTextOpacity": 0.4,
+              "barOpacity": 1,
+              "name": "CB_GABA.bw"
+            },
+            "width": 1279,
+            "height": 20,
+            "aggregationModes": {
+              "mean": {
+                "name": "Mean",
+                "value": "mean"
+              },
+              "min": {
+                "name": "Min",
+                "value": "min"
+              },
+              "max": {
+                "name": "Max",
+                "value": "max"
+              },
+              "std": {
+                "name": "Standard Deviation",
+                "value": "std"
+              }
+            }
+          },
+          {
+            "server": "http://10.128.142.129/api/v1",
+            "tilesetUid": "EXYZj12ERHOTUgsDoR4XxQ",
+            "uid": "bo7TvpwUTbeFZm11AD3LCg",
+            "type": "horizontal-bar",
+            "options": {
+              "align": "bottom",
+              "labelColor": "[glyph-color]",
+              "labelPosition": "topLeft",
+              "labelLeftMargin": 0,
+              "labelRightMargin": 0,
+              "labelTopMargin": 0,
+              "labelBottomMargin": 0,
+              "labelShowResolution": false,
+              "axisLabelFormatting": "scientific",
+              "axisPositionHorizontal": "right",
+              "barFillColor": "#594a26",
+              "valueScaling": "linear",
+              "trackBorderWidth": 0,
+              "trackBorderColor": "black",
+              "labelTextOpacity": 0.4,
+              "barOpacity": 1,
+              "name": "Astro_Epen.bw"
+            },
+            "width": 1279,
+            "height": 20,
+            "aggregationModes": {
+              "mean": {
+                "name": "Mean",
+                "value": "mean"
+              },
+              "min": {
+                "name": "Min",
+                "value": "min"
+              },
+              "max": {
+                "name": "Max",
+                "value": "max"
+              },
+              "std": {
+                "name": "Standard Deviation",
+                "value": "std"
+              }
+            }
+          }
+        ],
+        "left": [],
+        "center": [],
+        "right": [],
+        "bottom": [],
+        "whole": [],
+        "gallery": []
+      },
+      "initialXDomain": [
+        2263106917.841804,
+        2263114994.5374603
+      ],
+      "initialYDomain": [
+        2263113669.69495,
+        2263113669.69495
+      ],
+      "layout": {
+        "w": 6,
+        "h": 17,
+        "x": 3,
+        "y": 0,
+        "moved": false,
+        "static": false
+      },
+      "uid": "YrjM3yUmTziuYeJMPxhsJw",
+      "genomePositionSearchBoxVisible": true,
+      "genomePositionSearchBox": {
+        "autocompleteServer": "http://higlass.io/api/v1",
+        "chromInfoServer": "http://10.128.142.129/api/v1",
+        "visible": true,
+        "chromInfoId": "mm10"
+      }
+    }
+  ],
+  "zoomLocks": {
+    "locksByViewUid": {
+      "YrjM3yUmTziuYeJMPxhsJw": "GdmYB6y6QI6Jp8XuJC_oxQ"
+    },
+    "locksDict": {
+      "GdmYB6y6QI6Jp8XuJC_oxQ": {
+        "YrjM3yUmTziuYeJMPxhsJw": [
+          1919080980.5,
+          1919080980.5,
+          66.97684526443481
+        ],
+        "uid": "GdmYB6y6QI6Jp8XuJC_oxQ"
+      }
+    }
+  },
+  "locationLocks": {
+    "locksByViewUid": {
+      "YrjM3yUmTziuYeJMPxhsJw": "SZYy-ZnRSQ6m4LQFmMy1QA",
+      "BXpNBAs_QoCzRFnGiWticg": "brhEVaEFQ6GhFKgUEN89fw",
+      "M_PADRScSRedy9TnEgYimA": "SZYy-ZnRSQ6m4LQFmMy1QA",
+      "N4-0gZSwTg2Ses70DEvkgw": "SZYy-ZnRSQ6m4LQFmMy1QA"
+    },
+    "locksDict": {
+      "SZYy-ZnRSQ6m4LQFmMy1QA": {
+        "N4-0gZSwTg2Ses70DEvkgw": [
+          1919080980.5,
+          1919080980.5,
+          66.97684526443481
+        ],
+        "M_PADRScSRedy9TnEgYimA": [
+          1919081141.028759,
+          1919080819.9712408,
+          532.6599450111389
+        ],
+        "YrjM3yUmTziuYeJMPxhsJw": [
+          1919080980.5,
+          1919080980.5,
+          66.97684526443481
+        ],
+        "uid": "SZYy-ZnRSQ6m4LQFmMy1QA"
+      },
+      "brhEVaEFQ6GhFKgUEN89fw": {
+        "YrjM3yUmTziuYeJMPxhsJw": [
+          1919082465.4518719,
+          1919078703.5737967,
+          49.498395681381226
+        ],
+        "BXpNBAs_QoCzRFnGiWticg": [
+          1919080980.4999998,
+          1919080980.5,
+          49.498395681381226
+        ],
+        "uid": "brhEVaEFQ6GhFKgUEN89fw"
+      }
+    }
+  },
+  "valueScaleLocks": {
+    "locksByViewUid": {
+      "IwLRcuGoQmqI1_lrhSv5rA.cYrJ7vfVRCSDXNVlSq4-qw": "QrSxSMPQSrCYJywRJ2VUgw",
+      "YrjM3yUmTziuYeJMPxhsJw.ezyigBfHToCb4fQVsHNbiw": "axJHVFSGSHa2QQet3Jl4qA",
+      "YrjM3yUmTziuYeJMPxhsJw.QAu6tgiERLam0Y0R-hfP6g": "axJHVFSGSHa2QQet3Jl4qA",
+      "YrjM3yUmTziuYeJMPxhsJw.bo7TvpwUTbeFZm11AD3LCg": "axJHVFSGSHa2QQet3Jl4qA",
+      "YrjM3yUmTziuYeJMPxhsJw.ccsTwQzISeyZRml72Hs5lw": "axJHVFSGSHa2QQet3Jl4qA",
+      "YrjM3yUmTziuYeJMPxhsJw.N3vi3SQ8SqOSZ80p7DxApg": "axJHVFSGSHa2QQet3Jl4qA",
+      "YrjM3yUmTziuYeJMPxhsJw.UyJD3E6ZQ8uj7j1IIQhrtA": "axJHVFSGSHa2QQet3Jl4qA",
+      "YrjM3yUmTziuYeJMPxhsJw.Sr_c4fevR_67xafLbXR0Fw": "axJHVFSGSHa2QQet3Jl4qA",
+      "YrjM3yUmTziuYeJMPxhsJw.RMeI1W74Qfqj9bu7A2mMeA": "axJHVFSGSHa2QQet3Jl4qA",
+      "YrjM3yUmTziuYeJMPxhsJw.H9TjN-yoT56XRJAcT3aQKQ": "axJHVFSGSHa2QQet3Jl4qA",
+      "YrjM3yUmTziuYeJMPxhsJw.ROTWZe5QRq2_k8YIFGc0FA": "axJHVFSGSHa2QQet3Jl4qA",
+      "YrjM3yUmTziuYeJMPxhsJw.Ri3HO9cLQdOVql82HgiAlw": "axJHVFSGSHa2QQet3Jl4qA",
+      "YrjM3yUmTziuYeJMPxhsJw.Ji61lRVGTrKe1MEUlR9vww": "axJHVFSGSHa2QQet3Jl4qA",
+      "YrjM3yUmTziuYeJMPxhsJw.cMY_hpr8RMyrcLXEOya1mg": "axJHVFSGSHa2QQet3Jl4qA",
+      "YrjM3yUmTziuYeJMPxhsJw.D-BbWWOJQX-aICHdWCYcfg": "axJHVFSGSHa2QQet3Jl4qA",
+      "YrjM3yUmTziuYeJMPxhsJw.EqP-iMqZSj22WCIVqq1Ayw": "axJHVFSGSHa2QQet3Jl4qA",
+      "YrjM3yUmTziuYeJMPxhsJw.V5p4UB9eSxO2eIJfSk9i3Q": "axJHVFSGSHa2QQet3Jl4qA",
+      "YrjM3yUmTziuYeJMPxhsJw.OmXY-EfcSKKERkiP-ba_wA": "axJHVFSGSHa2QQet3Jl4qA",
+      "YrjM3yUmTziuYeJMPxhsJw.Ao56RHtpTCKcRNbSI_R2rw": "axJHVFSGSHa2QQet3Jl4qA",
+      "YrjM3yUmTziuYeJMPxhsJw.faZSU5AqR0a1iYxrhlTidA": "axJHVFSGSHa2QQet3Jl4qA",
+      "YrjM3yUmTziuYeJMPxhsJw.D8LG3i8STsyX3vRyXQ-xBg": "axJHVFSGSHa2QQet3Jl4qA",
+      "YrjM3yUmTziuYeJMPxhsJw.THOYrUeyTqatmR4ARfDnLw": "axJHVFSGSHa2QQet3Jl4qA",
+      "YrjM3yUmTziuYeJMPxhsJw.Wu0-81mQS42olekVpM8-cQ": "axJHVFSGSHa2QQet3Jl4qA",
+      "YrjM3yUmTziuYeJMPxhsJw.evkImB84S6eUDRIt2-lKJQ": "axJHVFSGSHa2QQet3Jl4qA",
+      "YrjM3yUmTziuYeJMPxhsJw.BM59SZKmR6e4g4zQyVw5Rg": "axJHVFSGSHa2QQet3Jl4qA",
+      "YrjM3yUmTziuYeJMPxhsJw.ZfkFTpiZTLq1cK38nnxXyg": "axJHVFSGSHa2QQet3Jl4qA",
+      "YrjM3yUmTziuYeJMPxhsJw.ZSFVqDroQ22fhweVzmRZCg": "axJHVFSGSHa2QQet3Jl4qA",
+      "YrjM3yUmTziuYeJMPxhsJw.EpvcXf4vTe27UtV_aBQozg": "axJHVFSGSHa2QQet3Jl4qA",
+      "YrjM3yUmTziuYeJMPxhsJw.cG6P-qGNT82R11W49NPPSg": "axJHVFSGSHa2QQet3Jl4qA",
+      "YrjM3yUmTziuYeJMPxhsJw.bkqlx7DJSmO_kmhr3w0aWg": "axJHVFSGSHa2QQet3Jl4qA"
+    },
+    "locksDict": {
+      "QrSxSMPQSrCYJywRJ2VUgw": {
+        "IwLRcuGoQmqI1_lrhSv5rA.cYrJ7vfVRCSDXNVlSq4-qw": {
+          "view": "IwLRcuGoQmqI1_lrhSv5rA",
+          "track": "cYrJ7vfVRCSDXNVlSq4-qw"
+        },
+        "uid": "QrSxSMPQSrCYJywRJ2VUgw"
+      },
+      "axJHVFSGSHa2QQet3Jl4qA": {
+        "YrjM3yUmTziuYeJMPxhsJw.bkqlx7DJSmO_kmhr3w0aWg": {
+          "view": "YrjM3yUmTziuYeJMPxhsJw",
+          "track": "bkqlx7DJSmO_kmhr3w0aWg"
+        },
+        "YrjM3yUmTziuYeJMPxhsJw.cG6P-qGNT82R11W49NPPSg": {
+          "view": "YrjM3yUmTziuYeJMPxhsJw",
+          "track": "cG6P-qGNT82R11W49NPPSg"
+        },
+        "YrjM3yUmTziuYeJMPxhsJw.EpvcXf4vTe27UtV_aBQozg": {
+          "view": "YrjM3yUmTziuYeJMPxhsJw",
+          "track": "EpvcXf4vTe27UtV_aBQozg"
+        },
+        "YrjM3yUmTziuYeJMPxhsJw.ZSFVqDroQ22fhweVzmRZCg": {
+          "view": "YrjM3yUmTziuYeJMPxhsJw",
+          "track": "ZSFVqDroQ22fhweVzmRZCg"
+        },
+        "YrjM3yUmTziuYeJMPxhsJw.ZfkFTpiZTLq1cK38nnxXyg": {
+          "view": "YrjM3yUmTziuYeJMPxhsJw",
+          "track": "ZfkFTpiZTLq1cK38nnxXyg"
+        },
+        "YrjM3yUmTziuYeJMPxhsJw.BM59SZKmR6e4g4zQyVw5Rg": {
+          "view": "YrjM3yUmTziuYeJMPxhsJw",
+          "track": "BM59SZKmR6e4g4zQyVw5Rg"
+        },
+        "YrjM3yUmTziuYeJMPxhsJw.evkImB84S6eUDRIt2-lKJQ": {
+          "view": "YrjM3yUmTziuYeJMPxhsJw",
+          "track": "evkImB84S6eUDRIt2-lKJQ"
+        },
+        "YrjM3yUmTziuYeJMPxhsJw.Wu0-81mQS42olekVpM8-cQ": {
+          "view": "YrjM3yUmTziuYeJMPxhsJw",
+          "track": "Wu0-81mQS42olekVpM8-cQ"
+        },
+        "YrjM3yUmTziuYeJMPxhsJw.THOYrUeyTqatmR4ARfDnLw": {
+          "view": "YrjM3yUmTziuYeJMPxhsJw",
+          "track": "THOYrUeyTqatmR4ARfDnLw"
+        },
+        "YrjM3yUmTziuYeJMPxhsJw.D8LG3i8STsyX3vRyXQ-xBg": {
+          "view": "YrjM3yUmTziuYeJMPxhsJw",
+          "track": "D8LG3i8STsyX3vRyXQ-xBg"
+        },
+        "YrjM3yUmTziuYeJMPxhsJw.faZSU5AqR0a1iYxrhlTidA": {
+          "view": "YrjM3yUmTziuYeJMPxhsJw",
+          "track": "faZSU5AqR0a1iYxrhlTidA"
+        },
+        "YrjM3yUmTziuYeJMPxhsJw.Ao56RHtpTCKcRNbSI_R2rw": {
+          "view": "YrjM3yUmTziuYeJMPxhsJw",
+          "track": "Ao56RHtpTCKcRNbSI_R2rw"
+        },
+        "YrjM3yUmTziuYeJMPxhsJw.OmXY-EfcSKKERkiP-ba_wA": {
+          "view": "YrjM3yUmTziuYeJMPxhsJw",
+          "track": "OmXY-EfcSKKERkiP-ba_wA"
+        },
+        "YrjM3yUmTziuYeJMPxhsJw.V5p4UB9eSxO2eIJfSk9i3Q": {
+          "view": "YrjM3yUmTziuYeJMPxhsJw",
+          "track": "V5p4UB9eSxO2eIJfSk9i3Q"
+        },
+        "YrjM3yUmTziuYeJMPxhsJw.EqP-iMqZSj22WCIVqq1Ayw": {
+          "view": "YrjM3yUmTziuYeJMPxhsJw",
+          "track": "EqP-iMqZSj22WCIVqq1Ayw"
+        },
+        "YrjM3yUmTziuYeJMPxhsJw.D-BbWWOJQX-aICHdWCYcfg": {
+          "view": "YrjM3yUmTziuYeJMPxhsJw",
+          "track": "D-BbWWOJQX-aICHdWCYcfg"
+        },
+        "YrjM3yUmTziuYeJMPxhsJw.cMY_hpr8RMyrcLXEOya1mg": {
+          "view": "YrjM3yUmTziuYeJMPxhsJw",
+          "track": "cMY_hpr8RMyrcLXEOya1mg"
+        },
+        "YrjM3yUmTziuYeJMPxhsJw.Ji61lRVGTrKe1MEUlR9vww": {
+          "view": "YrjM3yUmTziuYeJMPxhsJw",
+          "track": "Ji61lRVGTrKe1MEUlR9vww"
+        },
+        "YrjM3yUmTziuYeJMPxhsJw.Ri3HO9cLQdOVql82HgiAlw": {
+          "view": "YrjM3yUmTziuYeJMPxhsJw",
+          "track": "Ri3HO9cLQdOVql82HgiAlw"
+        },
+        "YrjM3yUmTziuYeJMPxhsJw.ROTWZe5QRq2_k8YIFGc0FA": {
+          "view": "YrjM3yUmTziuYeJMPxhsJw",
+          "track": "ROTWZe5QRq2_k8YIFGc0FA"
+        },
+        "YrjM3yUmTziuYeJMPxhsJw.H9TjN-yoT56XRJAcT3aQKQ": {
+          "view": "YrjM3yUmTziuYeJMPxhsJw",
+          "track": "H9TjN-yoT56XRJAcT3aQKQ"
+        },
+        "YrjM3yUmTziuYeJMPxhsJw.RMeI1W74Qfqj9bu7A2mMeA": {
+          "view": "YrjM3yUmTziuYeJMPxhsJw",
+          "track": "RMeI1W74Qfqj9bu7A2mMeA"
+        },
+        "YrjM3yUmTziuYeJMPxhsJw.Sr_c4fevR_67xafLbXR0Fw": {
+          "view": "YrjM3yUmTziuYeJMPxhsJw",
+          "track": "Sr_c4fevR_67xafLbXR0Fw"
+        },
+        "YrjM3yUmTziuYeJMPxhsJw.UyJD3E6ZQ8uj7j1IIQhrtA": {
+          "view": "YrjM3yUmTziuYeJMPxhsJw",
+          "track": "UyJD3E6ZQ8uj7j1IIQhrtA"
+        },
+        "YrjM3yUmTziuYeJMPxhsJw.N3vi3SQ8SqOSZ80p7DxApg": {
+          "view": "YrjM3yUmTziuYeJMPxhsJw",
+          "track": "N3vi3SQ8SqOSZ80p7DxApg"
+        },
+        "YrjM3yUmTziuYeJMPxhsJw.ezyigBfHToCb4fQVsHNbiw": {
+          "view": "YrjM3yUmTziuYeJMPxhsJw",
+          "track": "ezyigBfHToCb4fQVsHNbiw"
+        },
+        "YrjM3yUmTziuYeJMPxhsJw.QAu6tgiERLam0Y0R-hfP6g": {
+          "view": "YrjM3yUmTziuYeJMPxhsJw",
+          "track": "QAu6tgiERLam0Y0R-hfP6g"
+        },
+        "YrjM3yUmTziuYeJMPxhsJw.bo7TvpwUTbeFZm11AD3LCg": {
+          "view": "YrjM3yUmTziuYeJMPxhsJw",
+          "track": "bo7TvpwUTbeFZm11AD3LCg"
+        },
+        "YrjM3yUmTziuYeJMPxhsJw.ccsTwQzISeyZRml72Hs5lw": {
+          "view": "YrjM3yUmTziuYeJMPxhsJw",
+          "track": "ccsTwQzISeyZRml72Hs5lw"
+        },
+        "uid": "axJHVFSGSHa2QQet3Jl4qA"
+      }
+    }
+  }
+}

@@ -1,30 +1,49 @@
-// src/App.js
-import React, { useState } from 'react';
+import React, { useState, useMemo } from 'react';
 import FilterableTable from './FilterableTable';
 import HiGlassViewer from './HiGlassViewer';
+import SunburstPlot from './SunburstPlot'; // Import the SunburstChart component
 import './App.css'; // Make sure to add your styles here
-import cldf from'./data.json';
+import cldf from './data.json';
+import getConfig from './Config'; // Ensure to import getConfig if needed
 
-import {useTable} from 'react-table';
+import { useTable } from 'react-table';
+
+
+const data = {
+  name: 'root',
+  children: [
+    {
+      name: 'Level 1 - A',
+      children: [
+        { name: 'Level 2 - A1', value: 100 },
+        { name: 'Level 2 - A2', value: 50 }
+      ]
+    },
+    {
+      name: 'Level 1 - B',
+      children: [
+        { name: 'Level 2 - B1', value: 80 },
+        { name: 'Level 2 - B2', value: 30 }
+      ]
+    }
+  ]
+};
 
 
 
 function App() {
-  //table
+  // Table setup
   const data = React.useMemo(() => cldf, []);
   const columns = React.useMemo(() => [
-  {Header:"class", accessor:'class_label'},
-  {Header:"subclass", accessor:'subclass_label'},
-  {Header:"supertype", accessor:'supertype_label'}
-  ],[]);
+    { Header: "Class", accessor: 'class_label' },
+    { Header: "Subclass", accessor: 'subclass_label' },
+    { Header: "Supertype", accessor: 'supertype_label' }
+  ], []);
 
-  const{getTableProps,getTableBodyProps,headerGroups,rows,prepareRow}= 
-   useTable({columns,data})
-
-
+  const { getTableProps, getTableBodyProps, headerGroups, page, prepareRow } =
+    useTable({ columns, data }, useTable.filters, useTable.pagination);
 
   const [clickedCellValue, setClickedCellValue] = useState(null);
-  console.log(cldf)
 
   const handleCellClick = (cellValue) => {
     setClickedCellValue(cellValue); // Update state with the clicked cell value
@@ -32,14 +51,12 @@ function App() {
 
   return (
     <div className="App">
-    <div className="app-container">
-      <FilterableTable onCellClick={setClickedCellValue} />
-      <HiGlassViewer clickedCellValue={clickedCellValue} />
-    </div>
-
-
- 
+      <div className="app-container">
+        <FilterableTable onCellClick={setClickedCellValue} />
+        <HiGlassViewer clickedCellValue={clickedCellValue} />
+        <SunburstPlot />}
       </div>
+    </div>
   );
 }
 
