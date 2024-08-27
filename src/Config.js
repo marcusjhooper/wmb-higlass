@@ -1,8 +1,14 @@
 import cldf from './data.json';
 import _ from 'lodash'; 
+import DefaultConfig from './WMB_classes.json'; // Default config
 
 const getConfig = (clickedCellValue) => {
     const Init_config = require("./WMB_subclasses.json");
+
+    // Check if clickedCellValue is "WB", return the initial config
+    if (clickedCellValue === "WB") {
+        return _.cloneDeep(DefaultConfig); // Return the deep-copied Init_config
+    }
 
     // Deep copy to avoid mutating the original configuration
     let ConfigClone = _.cloneDeep(Init_config);
@@ -19,45 +25,43 @@ const getConfig = (clickedCellValue) => {
     }
 
     let clicked = clickedCellValue;
+
     function findLabel(label) {
-    // determine resolution of the clicked cell by iterating through each item in the cldf
-    for (const item of cldf) {
-    if (item.class_label === label) {
-        return 'class_label';
-    } else if (item.subclass_label === label) {
-    	return 'subclass_label';
-    } else if (item.supertype_label === label) {
-      	return 'supertype_label';
+        for (const item of cldf) {
+            if (item.class_label === label) {
+                return 'class_label';
+            } else if (item.subclass_label === label) {
+                return 'subclass_label';
+            } else if (item.supertype_label === label) {
+                return 'supertype_label';
+            }
+        }
+        return null;
     }
-    }
-  return null;
-}
+
     const resolution = findLabel(clicked);
-    
+
     // Subset tracks
     const top = views[0]['tracks']['top'];
     let subgroups = ["Gene Annotations (mm10)"];
 
     // Get tracks to display for the clicked class
-    if(resolution === 'class_label'){
-    	console.log('resolution: class')
-   	for (let i in cldf) {
+    if (resolution === 'class_label') {
+        console.log('resolution: class');
+        for (let i in cldf) {
             if (cldf[i]['class_label'] === clicked) {
                 subgroups.push(cldf[i]['subclass_label'].replace(/ /g, "_").replace(/-/g, "_") + '.bw');
             }
         }
-    
-    }else if(resolution ==='subclass_label'){
-    	console.log('resolution: subclass')
-   	for (let i in cldf) {
+    } else if (resolution === 'subclass_label') {
+        console.log('resolution: subclass');
+        for (let i in cldf) {
             if (cldf[i]['subclass_label'] === clicked) {
                 subgroups.push(cldf[i]['supertype_label'].replace(/ /g, "_").replace(/-/g, "_") + '.bw');
             }
         }
-
     }
 
-    
     // Create a new output object with sequential numeric indices
     let output = {};
     let index = 0;

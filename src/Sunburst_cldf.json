@@ -1,8220 +1,2442 @@
 [
   {
-    "id": 0,
-    "parent": "",
-    "value": 2,
+    "color": "white",
+    "parent_name": "",
+    "value": 874,
     "name": "WB",
-    "color": "#FA0087"
+    "id": "10000",
+    "parent": ""
   },
   {
-    "id": 1.001,
-    "parent": 0,
-    "value": 1,
+    "color": "#FA0087",
+    "parent_name": "WB",
+    "value": 67,
     "name": "IT-ET Glut",
-    "color": "#61e2a4"
+    "id": "0",
+    "parent": 10000
   },
   {
-    "id": 1.002,
-    "parent": 0,
-    "value": 1,
+    "color": "#61e2a4",
+    "parent_name": "WB",
+    "value": 23,
     "name": "NP-CT-L6b Glut",
-    "color": "#16f2f2"
+    "id": "1",
+    "parent": 10000
   },
   {
-    "id": 1.003,
-    "parent": 0,
-    "value": 1,
+    "color": "#16f2f2",
+    "parent_name": "WB",
+    "value": 7,
     "name": "DG-IMN Glut",
-    "color": "#B199FF"
+    "id": "2",
+    "parent": 10000
   },
   {
-    "id": 1.004,
-    "parent": 0,
-    "value": 1,
+    "color": "#B199FF",
+    "parent_name": "WB",
+    "value": 34,
     "name": "LSX GABA",
-    "color": "#3283FE"
+    "id": "3",
+    "parent": 10000
   },
   {
-    "id": 1.005,
-    "parent": 0,
-    "value": 1,
+    "color": "#3283FE",
+    "parent_name": "WB",
+    "value": 54,
     "name": "CNU-HYa GABA",
-    "color": "#450099"
+    "id": "4",
+    "parent": 10000
   },
   {
-    "id": 1.006,
-    "parent": 0,
-    "value": 1,
+    "color": "#450099",
+    "parent_name": "WB",
+    "value": 62,
     "name": "HY GABA",
-    "color": "#FF6600"
+    "id": "5",
+    "parent": 10000
   },
   {
-    "id": 1.007,
-    "parent": 0,
-    "value": 1,
+    "color": "#FF6600",
+    "parent_name": "WB",
+    "value": 38,
     "name": "CNU-HYa Glut",
-    "color": "#90E0EF"
+    "id": "6",
+    "parent": 10000
   },
   {
-    "id": 1.008,
-    "parent": 0,
-    "value": 1,
+    "color": "#90E0EF",
+    "parent_name": "WB",
+    "value": 66,
     "name": "HY Glut",
-    "color": "#AA0DFE"
+    "id": "7",
+    "parent": 10000
   },
   {
-    "id": 1.009,
-    "parent": 0,
+    "color": "#AA0DFE",
+    "parent_name": "WB",
     "value": 1,
     "name": "HY Gnrh1 Glut",
-    "color": "#F28266"
+    "id": 8,
+    "parent": 10000
   },
   {
-    "id": 1.01,
-    "parent": 0,
+    "color": "#AA0DFE",
+    "parent_name": "WB",
     "value": 1,
+    "name": "HY Gnrh1 Glut",
+    "id": 115,
+    "parent": 10000
+  },
+  {
+    "color": "#F28266",
+    "parent_name": "WB",
+    "value": 3,
     "name": "HY MM Glut",
-    "color": "#01d669"
+    "id": "9",
+    "parent": 10000
   },
   {
-    "id": 1.011,
-    "parent": 0,
-    "value": 1,
+    "color": "#01d669",
+    "parent_name": "WB",
+    "value": 9,
     "name": "MH-LH Glut",
-    "color": "#FAA307"
+    "id": "10",
+    "parent": 10000
   },
   {
-    "id": 1.012,
-    "parent": 0,
-    "value": 1,
+    "color": "#FAA307",
+    "parent_name": "WB",
+    "value": 35,
     "name": "TH Glut",
-    "color": "#0D47A1"
+    "id": "11",
+    "parent": 10000
   },
   {
-    "id": 1.013,
-    "parent": 0,
-    "value": 1,
+    "color": "#0D47A1",
+    "parent_name": "WB",
+    "value": 90,
     "name": "MB Glut",
-    "color": "#007200"
+    "id": "12",
+    "parent": 10000
   },
   {
-    "id": 1.014,
-    "parent": 0,
-    "value": 1,
+    "color": "#007200",
+    "parent_name": "WB",
+    "value": 77,
     "name": "MB GABA",
-    "color": "#9EF01A"
+    "id": "13",
+    "parent": 10000
   },
   {
-    "id": 1.015,
-    "parent": 0,
-    "value": 1,
+    "color": "#9EF01A",
+    "parent_name": "WB",
+    "value": 8,
     "name": "MB Dopa",
-    "color": "#EC4067"
+    "id": "14",
+    "parent": 10000
   },
   {
-    "id": 1.016,
-    "parent": 0,
-    "value": 1,
+    "color": "#EC4067",
+    "parent_name": "WB",
+    "value": 56,
     "name": "P Glut",
-    "color": "#6b5ca5"
+    "id": "15",
+    "parent": 10000
   },
   {
-    "id": 1.017,
-    "parent": 0,
-    "value": 1,
+    "color": "#6b5ca5",
+    "parent_name": "WB",
+    "value": 76,
     "name": "MY Glut",
-    "color": "#F0A0FF"
+    "id": "16",
+    "parent": 10000
   },
   {
-    "id": 1.018,
-    "parent": 0,
+    "color": "#F0A0FF",
+    "parent_name": "WB",
     "value": 1,
     "name": "Pineal Glut",
-    "color": "#086375"
+    "id": 17,
+    "parent": 10000
   },
   {
-    "id": 1.019,
-    "parent": 0,
-    "value": 1,
+    "color": "#086375",
+    "parent_name": "WB",
+    "value": 47,
     "name": "P GABA",
-    "color": "#72195a"
+    "id": "18",
+    "parent": 10000
   },
   {
-    "id": 1.02,
-    "parent": 0,
-    "value": 1,
+    "color": "#72195a",
+    "parent_name": "WB",
+    "value": 58,
     "name": "MY GABA",
-    "color": "#0096C7"
+    "id": "19",
+    "parent": 10000
   },
   {
-    "id": 1.021,
-    "parent": 0,
-    "value": 1,
+    "color": "#0096C7",
+    "parent_name": "WB",
+    "value": 13,
     "name": "CB GABA",
-    "color": "#FFFB46"
+    "id": "20",
+    "parent": 10000
   },
   {
-    "id": 1.022,
-    "parent": 0,
-    "value": 1,
+    "color": "#FFFB46",
+    "parent_name": "WB",
+    "value": 3,
     "name": "CB Glut",
-    "color": "#9D0208"
+    "id": "21",
+    "parent": 10000
   },
   {
-    "id": 1.023,
-    "parent": 0,
-    "value": 1,
+    "color": "#9D0208",
+    "parent_name": "WB",
+    "value": 22,
     "name": "Astro-Epen",
-    "color": "#594a26"
+    "id": "22",
+    "parent": 10000
   },
   {
-    "id": 1.024,
-    "parent": 0,
-    "value": 1,
+    "color": "#594a26",
+    "parent_name": "WB",
+    "value": 6,
     "name": "OPC-Oligo",
-    "color": "#03045E"
+    "id": "23",
+    "parent": 10000
   },
   {
-    "id": 1.025,
-    "parent": 0,
+    "color": "#03045E",
+    "parent_name": "WB",
     "value": 1,
     "name": "OEC",
-    "color": "#996B2E"
+    "id": 24,
+    "parent": 10000
   },
   {
-    "id": 1.026,
-    "parent": 0,
-    "value": 1,
+    "color": "#996B2E",
+    "parent_name": "WB",
+    "value": 8,
     "name": "Vascular",
-    "color": "#858881"
+    "id": "25",
+    "parent": 10000
   },
   {
-    "id": 1.027,
-    "parent": 0,
-    "value": 1,
+    "color": "#858881",
+    "parent_name": "WB",
+    "value": 8,
     "name": "Immune",
-    "color": "#64c2fc"
+    "id": "26",
+    "parent": 10000
   },
   {
-    "id": 2.001,
-    "parent": 1.001,
-    "value": 0.5,
+    "color": "#64c2fc",
+    "parent_name": "IT-ET Glut",
+    "value": 2,
     "name": "CLA-EPd-CTX Car3 Glut",
-    "color": "#1F665D"
+    "id": "27",
+    "parent": 0
   },
   {
-    "id": 2.002,
-    "parent": 1.001,
-    "value": 0.5,
+    "color": "#1F665D",
+    "parent_name": "IT-ET Glut",
+    "value": 4,
     "name": "IT EP-CLA Glut",
-    "color": "#C0FF4D"
+    "id": 28,
+    "parent": 0
   },
   {
-    "id": 2.003,
-    "parent": 1.001,
-    "value": 0.5,
+    "color": "#C0FF4D",
+    "parent_name": "IT-ET Glut",
+    "value": 5,
     "name": "L6 IT CTX Glut",
-    "color": "#660F38"
+    "id": "29",
+    "parent": 0
   },
   {
-    "id": 2.004,
-    "parent": 1.001,
-    "value": 0.5,
+    "color": "#660F38",
+    "parent_name": "IT-ET Glut",
+    "value": 5,
     "name": "L5 IT CTX Glut",
-    "color": "#FF004B"
+    "id": "30",
+    "parent": 0
   },
   {
-    "id": 2.005,
-    "parent": 1.001,
-    "value": 0.5,
+    "color": "#FF004B",
+    "parent_name": "IT-ET Glut",
+    "value": 5,
     "name": "IT AON-TT-DP Glut",
-    "color": "#3DCCB7"
+    "id": "31",
+    "parent": 0
   },
   {
-    "id": 2.006,
-    "parent": 1.001,
-    "value": 0.5,
+    "color": "#3DCCB7",
+    "parent_name": "IT-ET Glut",
+    "value": 3,
     "name": "L2 IT ENT-po Glut",
-    "color": "#456C99"
+    "id": "32",
+    "parent": 0
   },
   {
-    "id": 2.007,
-    "parent": 1.001,
-    "value": 0.5,
+    "color": "#456C99",
+    "parent_name": "IT-ET Glut",
+    "value": 3,
     "name": "MEA Slc17a7 Glut",
-    "color": "#61CC5C"
+    "id": "33",
+    "parent": 0
   },
   {
-    "id": 2.008,
-    "parent": 1.001,
-    "value": 0.5,
+    "color": "#61CC5C",
+    "parent_name": "IT-ET Glut",
+    "value": 2,
     "name": "COAp Grxcr2 Glut",
-    "color": "#BBFF73"
+    "id": "34",
+    "parent": 0
   },
   {
-    "id": 2.009,
-    "parent": 1.001,
-    "value": 0.5,
+    "color": "#BBFF73",
+    "parent_name": "IT-ET Glut",
+    "value": 6,
     "name": "LA-BLA-BMA-PA Glut",
-    "color": "#B6CC7A"
+    "id": "35",
+    "parent": 0
   },
   {
-    "id": 2.01,
-    "parent": 1.001,
-    "value": 0.5,
+    "color": "#B6CC7A",
+    "parent_name": "IT-ET Glut",
+    "value": 3,
     "name": "ENTmv-PA-COAp Glut",
-    "color": "#0F3466"
+    "id": "36",
+    "parent": 0
   },
   {
-    "id": 2.011,
-    "parent": 1.001,
-    "value": 0.5,
+    "color": "#0F3466",
+    "parent_name": "IT-ET Glut",
+    "value": 6,
     "name": "CA1-ProS Glut",
-    "color": "#C973FF"
+    "id": "37",
+    "parent": 0
   },
   {
-    "id": 2.012,
-    "parent": 1.001,
-    "value": 0.5,
+    "color": "#C973FF",
+    "parent_name": "IT-ET Glut",
+    "value": 5,
     "name": "CA3 Glut",
-    "color": "#0F6632"
+    "id": "38",
+    "parent": 0
   },
   {
-    "id": 2.013,
-    "parent": 1.001,
-    "value": 0.5,
+    "color": "#0F6632",
+    "parent_name": "IT-ET Glut",
+    "value": 4,
     "name": "L2 IT PPP-APr Glut",
-    "color": "#FFF226"
+    "id": "39",
+    "parent": 0
   },
   {
-    "id": 2.014,
-    "parent": 1.001,
-    "value": 0.5,
+    "color": "#FFF226",
+    "parent_name": "IT-ET Glut",
+    "value": 1,
     "name": "L4 RSP-ACA Glut",
-    "color": "#99A2FF"
+    "id": 40,
+    "parent": 0
   },
   {
-    "id": 2.015,
-    "parent": 1.001,
-    "value": 0.5,
+    "color": "#99A2FF",
+    "parent_name": "IT-ET Glut",
+    "value": 6,
     "name": "L5 ET CTX Glut",
-    "color": "#FF9999"
+    "id": "41",
+    "parent": 0
   },
   {
-    "id": 2.016,
-    "parent": 1.001,
-    "value": 0.5,
+    "color": "#FF9999",
+    "parent_name": "IT-ET Glut",
+    "value": 3,
     "name": "SUB-ProS Glut",
-    "color": "#6B995C"
+    "id": 42,
+    "parent": 0
   },
   {
-    "id": 2.017,
-    "parent": 1.001,
-    "value": 0.5,
+    "color": "#6B995C",
+    "parent_name": "IT-ET Glut",
+    "value": 1,
     "name": "L5 PPP Glut",
-    "color": "#FF7391"
+    "id": 43,
+    "parent": 0
   },
   {
-    "id": 2.018,
-    "parent": 1.001,
-    "value": 0.5,
+    "color": "#FF7391",
+    "parent_name": "IT-ET Glut",
+    "value": 2,
     "name": "CA2-FC-IG Glut",
-    "color": "#FFD573"
+    "id": 44,
+    "parent": 0
   },
   {
-    "id": 2.019,
-    "parent": 1.001,
-    "value": 0.5,
+    "color": "#FFD573",
+    "parent_name": "IT-ET Glut",
+    "value": 1,
     "name": "NLOT Rho Glut",
-    "color": "#CC827A"
+    "id": 45,
+    "parent": 0
   },
   {
-    "id": 2.02,
-    "parent": 1.002,
-    "value": 0.5,
+    "color": "#CC827A",
+    "parent_name": "NP-CT-L6b Glut",
+    "value": 3,
     "name": "L6b EPd Glut",
-    "color": "#9EFF99"
+    "id": 46,
+    "parent": 1
   },
   {
-    "id": 2.021,
-    "parent": 1.002,
-    "value": 0.5,
+    "color": "#9EFF99",
+    "parent_name": "NP-CT-L6b Glut",
+    "value": 4,
     "name": "L6b CTX Glut",
-    "color": "#34661F"
+    "id": 47,
+    "parent": 1
   },
   {
-    "id": 2.022,
-    "parent": 1.002,
-    "value": 0.5,
+    "color": "#34661F",
+    "parent_name": "NP-CT-L6b Glut",
+    "value": 6,
     "name": "L6 CT CTX Glut",
-    "color": "#440066"
+    "id": 48,
+    "parent": 1
   },
   {
-    "id": 2.023,
-    "parent": 1.002,
-    "value": 0.5,
+    "color": "#440066",
+    "parent_name": "NP-CT-L6b Glut",
+    "value": 2,
     "name": "CT SUB Glut",
-    "color": "#7B7ACC"
+    "id": 49,
+    "parent": 1
   },
   {
-    "id": 2.024,
-    "parent": 1.002,
-    "value": 0.5,
+    "color": "#7B7ACC",
+    "parent_name": "NP-CT-L6b Glut",
+    "value": 5,
     "name": "L5 NP CTX Glut",
-    "color": "#99CAFF"
+    "id": 50,
+    "parent": 1
   },
   {
-    "id": 2.025,
-    "parent": 1.002,
-    "value": 0.5,
+    "color": "#99CAFF",
+    "parent_name": "NP-CT-L6b Glut",
+    "value": 2,
     "name": "NP SUB Glut",
-    "color": "#B8FF26"
+    "id": 51,
+    "parent": 1
   },
   {
-    "id": 2.026,
-    "parent": 1.002,
-    "value": 0.5,
+    "color": "#B8FF26",
+    "parent_name": "NP-CT-L6b Glut",
+    "value": 1,
     "name": "NP PPP Glut",
-    "color": "#CC2400"
+    "id": 52,
+    "parent": 1
   },
   {
-    "id": 2.027,
-    "parent": 1.003,
-    "value": 0.5,
+    "color": "#CC2400",
+    "parent_name": "DG-IMN Glut",
+    "value": 4,
     "name": "DG Glut",
-    "color": "#3D53CC"
+    "id": 53,
+    "parent": 2
   },
   {
-    "id": 2.028,
-    "parent": 1.003,
-    "value": 0.5,
+    "color": "#3D53CC",
+    "parent_name": "DG-IMN Glut",
+    "value": 3,
     "name": "DG-PIR Ex IMN",
-    "color": "#006649"
+    "id": 54,
+    "parent": 2
   },
   {
-    "id": 2.029,
-    "parent": 1.004,
-    "value": 0.5,
+    "color": "#006649",
+    "parent_name": "LSX GABA",
+    "value": 2,
     "name": "LSX Sall3 Pax6 Gaba",
-    "color": "#229917"
+    "id": 55,
+    "parent": 3
   },
   {
-    "id": 2.03,
-    "parent": 1.004,
-    "value": 0.5,
+    "color": "#229917",
+    "parent_name": "LSX GABA",
+    "value": 5,
     "name": "LSX Otx2 Gaba",
-    "color": "#CCA43D"
+    "id": 56,
+    "parent": 3
   },
   {
-    "id": 2.031,
-    "parent": 1.004,
-    "value": 0.5,
+    "color": "#CCA43D",
+    "parent_name": "LSX GABA",
+    "value": 11,
     "name": "LSX Nkx2-1 Gaba",
-    "color": "#0067FF"
+    "id": 57,
+    "parent": 3
   },
   {
-    "id": 2.032,
-    "parent": 1.004,
-    "value": 0.5,
+    "color": "#0067FF",
+    "parent_name": "LSX GABA",
+    "value": 5,
     "name": "LSX Prdm12 Zeb2 Gaba",
-    "color": "#1F6625"
+    "id": 58,
+    "parent": 3
   },
   {
-    "id": 2.033,
-    "parent": 1.004,
-    "value": 0.5,
+    "color": "#1F6625",
+    "parent_name": "LSX GABA",
+    "value": 5,
     "name": "LSX Prdm12 Slit2 Gaba",
-    "color": "#00FFD0"
+    "id": 59,
+    "parent": 3
   },
   {
-    "id": 2.034,
-    "parent": 1.004,
-    "value": 0.5,
+    "color": "#00FFD0",
+    "parent_name": "LSX GABA",
+    "value": 6,
     "name": "LSX Sall3 Lmo1 Gaba",
-    "color": "#66360F"
+    "id": 60,
+    "parent": 3
   },
   {
-    "id": 2.035,
-    "parent": 1.005,
-    "value": 0.5,
+    "color": "#66360F",
+    "parent_name": "CNU-HYa GABA",
+    "value": 10,
     "name": "MEA-BST Sox6 Gaba",
-    "color": "#FCFF4D"
+    "id": 61,
+    "parent": 4
   },
   {
-    "id": 2.036,
-    "parent": 1.005,
-    "value": 0.5,
+    "color": "#FCFF4D",
+    "parent_name": "CNU-HYa GABA",
+    "value": 7,
     "name": "MEA-BST Lhx6 Sp9 Gaba",
-    "color": "#995C70"
+    "id": 62,
+    "parent": 4
   },
   {
-    "id": 2.037,
-    "parent": 1.005,
-    "value": 0.5,
+    "color": "#995C70",
+    "parent_name": "CNU-HYa GABA",
+    "value": 3,
     "name": "MEA-BST Lhx6 Nr2e1 Gaba",
-    "color": "#990063"
+    "id": 63,
+    "parent": 4
   },
   {
-    "id": 2.038,
-    "parent": 1.005,
-    "value": 0.5,
+    "color": "#990063",
+    "parent_name": "CNU-HYa GABA",
+    "value": 6,
     "name": "MEA-BST Lhx6 Nfib Gaba",
-    "color": "#2E6637"
+    "id": 64,
+    "parent": 4
   },
   {
-    "id": 2.039,
-    "parent": 1.005,
-    "value": 0.5,
+    "color": "#2E6637",
+    "parent_name": "CNU-HYa GABA",
+    "value": 1,
     "name": "CEA-BST Gal Avp Gaba",
-    "color": "#5CBCCC"
+    "id": 65,
+    "parent": 4
   },
   {
-    "id": 2.04,
-    "parent": 1.005,
-    "value": 0.5,
+    "color": "#5CBCCC",
+    "parent_name": "CNU-HYa GABA",
+    "value": 3,
     "name": "SI-MA-ACB Ebf1 Bnc2 Gaba",
-    "color": "#73C1FF"
+    "id": 66,
+    "parent": 4
   },
   {
-    "id": 2.041,
-    "parent": 1.005,
-    "value": 0.5,
+    "color": "#73C1FF",
+    "parent_name": "CNU-HYa GABA",
+    "value": 6,
     "name": "CEA-BST Six3 Cyp26b1 Gaba",
-    "color": "#FF4026"
+    "id": 67,
+    "parent": 4
   },
   {
-    "id": 2.042,
-    "parent": 1.005,
-    "value": 0.5,
+    "color": "#FF4026",
+    "parent_name": "CNU-HYa GABA",
+    "value": 3,
     "name": "ACB-BST-FS D1 Gaba",
-    "color": "#26FFAD"
+    "id": 68,
+    "parent": 4
   },
   {
-    "id": 2.043,
-    "parent": 1.005,
-    "value": 0.5,
+    "color": "#26FFAD",
+    "parent_name": "CNU-HYa GABA",
+    "value": 6,
     "name": "SI-MPO-LPO Lhx8 Gaba",
-    "color": "#FF004F"
+    "id": 69,
+    "parent": 4
   },
   {
-    "id": 2.044,
-    "parent": 1.005,
-    "value": 0.5,
+    "color": "#FF004F",
+    "parent_name": "CNU-HYa GABA",
+    "value": 5,
     "name": "MPO-ADP Lhx8 Gaba",
-    "color": "#26C2FF"
+    "id": 70,
+    "parent": 4
   },
   {
-    "id": 2.045,
-    "parent": 1.005,
-    "value": 0.5,
+    "color": "#26C2FF",
+    "parent_name": "CNU-HYa GABA",
+    "value": 2,
     "name": "MPN-MPO-LPO Lhx6 Zfhx3 Gaba",
-    "color": "#71FF4D"
+    "id": 71,
+    "parent": 4
   },
   {
-    "id": 2.046,
-    "parent": 1.005,
-    "value": 0.5,
+    "color": "#71FF4D",
+    "parent_name": "CNU-HYa GABA",
+    "value": 2,
     "name": "BST Tac2 Gaba",
-    "color": "#2E664D"
+    "id": 72,
+    "parent": 4
   },
   {
-    "id": 2.047,
-    "parent": 1.006,
-    "value": 0.5,
+    "color": "#2E664D",
+    "parent_name": "HY GABA",
+    "value": 2,
     "name": "TMv-PMv Tbx3 Hist-Gaba",
-    "color": "#CCB65C"
+    "id": 73,
+    "parent": 5
   },
   {
-    "id": 2.048,
-    "parent": 1.006,
-    "value": 0.5,
+    "color": "#CCB65C",
+    "parent_name": "HY GABA",
+    "value": 5,
     "name": "RT-ZI Gnb3 Gaba",
-    "color": "#FFBC4D"
+    "id": 74,
+    "parent": 5
   },
   {
-    "id": 2.049,
-    "parent": 1.006,
-    "value": 0.5,
+    "color": "#FFBC4D",
+    "parent_name": "HY GABA",
+    "value": 3,
     "name": "SCH Six6 Cdc14a Gaba",
-    "color": "#179972"
+    "id": 75,
+    "parent": 5
   },
   {
-    "id": 2.05,
-    "parent": 1.006,
-    "value": 0.5,
+    "color": "#179972",
+    "parent_name": "HY GABA",
+    "value": 2,
     "name": "DMH Prdm13 Gaba",
-    "color": "#3B1FCC"
+    "id": 76,
+    "parent": 5
   },
   {
-    "id": 2.051,
-    "parent": 1.006,
-    "value": 0.5,
+    "color": "#3B1FCC",
+    "parent_name": "HY GABA",
+    "value": 1,
     "name": "PVHd Gsc Gaba",
-    "color": "#2E3D66"
+    "id": 77,
+    "parent": 5
   },
   {
-    "id": 2.052,
-    "parent": 1.006,
-    "value": 0.5,
+    "color": "#2E3D66",
+    "parent_name": "HY GABA",
+    "value": 4,
     "name": "PVHd-SBPV Six3 Prox1 Gaba",
-    "color": "#553D66"
+    "id": 78,
+    "parent": 5
   },
   {
-    "id": 2.053,
-    "parent": 1.006,
-    "value": 0.5,
+    "color": "#553D66",
+    "parent_name": "HY GABA",
+    "value": 3,
     "name": "AHN Onecut3 Gaba",
-    "color": "#73FFCF"
+    "id": 79,
+    "parent": 5
   },
   {
-    "id": 2.054,
-    "parent": 1.006,
-    "value": 0.5,
+    "color": "#73FFCF",
+    "parent_name": "HY GABA",
+    "value": 11,
     "name": "ZI Pax6 Gaba",
-    "color": "#992A00"
+    "id": 80,
+    "parent": 5
   },
   {
-    "id": 2.055,
-    "parent": 1.006,
-    "value": 0.5,
+    "color": "#992A00",
+    "parent_name": "HY GABA",
+    "value": 4,
     "name": "DMH-LHA Gsx1 Gaba",
-    "color": "#73F8FF"
+    "id": 81,
+    "parent": 5
   },
   {
-    "id": 2.056,
-    "parent": 1.006,
-    "value": 0.5,
+    "color": "#73F8FF",
+    "parent_name": "HY GABA",
+    "value": 4,
     "name": "PVHd-DMH Lhx6 Gaba",
-    "color": "#2E0F66"
+    "id": 82,
+    "parent": 5
   },
   {
-    "id": 2.057,
-    "parent": 1.006,
-    "value": 0.5,
+    "color": "#2E0F66",
+    "parent_name": "HY GABA",
+    "value": 3,
     "name": "TU-ARH Otp Six6 Gaba",
-    "color": "#3DCC9E"
+    "id": 83,
+    "parent": 5
   },
   {
-    "id": 2.058,
-    "parent": 1.006,
-    "value": 0.5,
+    "color": "#3DCC9E",
+    "parent_name": "HY GABA",
+    "value": 1,
     "name": "TMd-DMH Foxd2 Gaba",
-    "color": "#3D4566"
+    "id": 84,
+    "parent": 5
   },
   {
-    "id": 2.059,
-    "parent": 1.006,
-    "value": 0.5,
+    "color": "#3D4566",
+    "parent_name": "HY GABA",
+    "value": 5,
     "name": "PVpo-VMPO-MPN Hmx2 Gaba",
-    "color": "#FFB473"
+    "id": 85,
+    "parent": 5
   },
   {
-    "id": 2.06,
-    "parent": 1.006,
-    "value": 0.5,
+    "color": "#FFB473",
+    "parent_name": "HY GABA",
+    "value": 6,
     "name": "DMH Hmx2 Gaba",
-    "color": "#CC3D76"
+    "id": 86,
+    "parent": 5
   },
   {
-    "id": 2.061,
-    "parent": 1.006,
-    "value": 0.5,
+    "color": "#CC3D76",
+    "parent_name": "HY GABA",
+    "value": 3,
     "name": "ARH-PVp Tbx3 Gaba",
-    "color": "#664DFF"
+    "id": 87,
+    "parent": 5
   },
   {
-    "id": 2.062,
-    "parent": 1.006,
-    "value": 0.5,
+    "color": "#664DFF",
+    "parent_name": "HY GABA",
+    "value": 5,
     "name": "LGv-ZI Otx2 Gaba",
-    "color": "#973DCC"
+    "id": 88,
+    "parent": 5
   },
   {
-    "id": 2.063,
-    "parent": 1.007,
-    "value": 0.5,
+    "color": "#973DCC",
+    "parent_name": "CNU-HYa Glut",
+    "value": 1,
     "name": "BST-po Iigp1 Glut",
-    "color": "#500F66"
+    "id": 89,
+    "parent": 6
   },
   {
-    "id": 2.064,
-    "parent": 1.007,
-    "value": 0.5,
+    "color": "#500F66",
+    "parent_name": "CNU-HYa Glut",
+    "value": 2,
     "name": "TRS-BAC Sln Glut",
-    "color": "#660F5A"
+    "id": 90,
+    "parent": 6
   },
   {
-    "id": 2.065,
-    "parent": 1.007,
-    "value": 0.5,
+    "color": "#660F5A",
+    "parent_name": "CNU-HYa Glut",
+    "value": 4,
     "name": "MEA-COA-BMA Ccdc42 Glut",
-    "color": "#EDFF99"
+    "id": 91,
+    "parent": 6
   },
   {
-    "id": 2.066,
-    "parent": 1.007,
-    "value": 0.5,
+    "color": "#EDFF99",
+    "parent_name": "CNU-HYa Glut",
+    "value": 9,
     "name": "COAa-PAA-MEA Barhl2 Glut",
-    "color": "#1F6641"
+    "id": 92,
+    "parent": 6
   },
   {
-    "id": 2.067,
-    "parent": 1.007,
-    "value": 0.5,
+    "color": "#1F6641",
+    "parent_name": "CNU-HYa Glut",
+    "value": 1,
     "name": "MS-SF Bsx Glut",
-    "color": "#1100CC"
+    "id": 93,
+    "parent": 6
   },
   {
-    "id": 2.068,
-    "parent": 1.007,
-    "value": 0.5,
+    "color": "#1100CC",
+    "parent_name": "CNU-HYa Glut",
+    "value": 5,
     "name": "AVPV-MEPO-SFO Tbr1 Glut",
-    "color": "#5C9995"
+    "id": 94,
+    "parent": 6
   },
   {
-    "id": 2.069,
-    "parent": 1.007,
-    "value": 0.5,
+    "color": "#5C9995",
+    "parent_name": "CNU-HYa Glut",
+    "value": 3,
     "name": "LHA Barhl2 Glut",
-    "color": "#00CC6A"
+    "id": 95,
+    "parent": 6
   },
   {
-    "id": 2.07,
-    "parent": 1.007,
-    "value": 0.5,
+    "color": "#00CC6A",
+    "parent_name": "CNU-HYa Glut",
+    "value": 3,
     "name": "ADP-MPO Trp73 Glut",
-    "color": "#352E66"
+    "id": 96,
+    "parent": 6
   },
   {
-    "id": 2.071,
-    "parent": 1.007,
-    "value": 0.5,
+    "color": "#352E66",
+    "parent_name": "CNU-HYa Glut",
+    "value": 8,
     "name": "SI-MA-LPO-LHA Skor1 Glut",
-    "color": "#1FCCCA"
+    "id": 97,
+    "parent": 6
   },
   {
-    "id": 2.072,
-    "parent": 1.007,
-    "value": 0.5,
+    "color": "#1FCCCA",
+    "parent_name": "CNU-HYa Glut",
+    "value": 2,
     "name": "LHA-MEA Otp Glut",
-    "color": "#FF73C8"
+    "id": 98,
+    "parent": 6
   },
   {
-    "id": 2.073,
-    "parent": 1.008,
-    "value": 0.5,
+    "color": "#FF73C8",
+    "parent_name": "HY Glut",
+    "value": 2,
     "name": "DMH Nkx2-4 Glut",
-    "color": "#CC1F92"
+    "id": 99,
+    "parent": 7
   },
   {
-    "id": 2.074,
-    "parent": 1.008,
-    "value": 0.5,
+    "color": "#CC1F92",
+    "parent_name": "HY Glut",
+    "value": 6,
     "name": "MPN-MPO-PVpo Hmx2 Glut",
-    "color": "#2F6600"
+    "id": 100,
+    "parent": 7
   },
   {
-    "id": 2.075,
-    "parent": 1.008,
-    "value": 0.5,
+    "color": "#2F6600",
+    "parent_name": "HY Glut",
+    "value": 2,
     "name": "DMH Hmx2 Glut",
-    "color": "#CC4B1F"
+    "id": 101,
+    "parent": 7
   },
   {
-    "id": 2.076,
-    "parent": 1.008,
-    "value": 0.5,
+    "color": "#CC4B1F",
+    "parent_name": "HY Glut",
+    "value": 5,
     "name": "ARH-PVp Tbx3 Glut",
-    "color": "#391799"
+    "id": 102,
+    "parent": 7
   },
   {
-    "id": 2.077,
-    "parent": 1.008,
-    "value": 0.5,
+    "color": "#391799",
+    "parent_name": "HY Glut",
+    "value": 4,
     "name": "DMH-LHA Vgll2 Glut",
-    "color": "#00CBFF"
+    "id": 103,
+    "parent": 7
   },
   {
-    "id": 2.078,
-    "parent": 1.008,
-    "value": 0.5,
+    "color": "#00CBFF",
+    "parent_name": "HY Glut",
+    "value": 3,
     "name": "VMH Fezf1 Glut",
-    "color": "#5CCCB1"
+    "id": 104,
+    "parent": 7
   },
   {
-    "id": 2.079,
-    "parent": 1.008,
-    "value": 0.5,
+    "color": "#5CCCB1",
+    "parent_name": "HY Glut",
+    "value": 6,
     "name": "VMH Nr5a1 Glut",
-    "color": "#B100CC"
+    "id": 105,
+    "parent": 7
   },
   {
-    "id": 2.08,
-    "parent": 1.008,
-    "value": 0.5,
+    "color": "#B100CC",
+    "parent_name": "HY Glut",
+    "value": 2,
     "name": "LHA Pmch Glut",
-    "color": "#603DCC"
+    "id": 106,
+    "parent": 7
   },
   {
-    "id": 2.081,
-    "parent": 1.008,
-    "value": 0.5,
+    "color": "#603DCC",
+    "parent_name": "HY Glut",
+    "value": 6,
     "name": "PVH-SO-PVa Otp Glut",
-    "color": "#CC0048"
+    "id": 107,
+    "parent": 7
   },
   {
-    "id": 2.082,
-    "parent": 1.008,
-    "value": 0.5,
+    "color": "#CC0048",
+    "parent_name": "HY Glut",
+    "value": 7,
     "name": "STN-PSTN Pitx2 Glut",
-    "color": "#3D5566"
+    "id": 108,
+    "parent": 7
   },
   {
-    "id": 2.083,
-    "parent": 1.008,
-    "value": 0.5,
+    "color": "#3D5566",
+    "parent_name": "HY Glut",
+    "value": 3,
     "name": "PMv-TMv Pitx2 Glut",
-    "color": "#66441F"
+    "id": 109,
+    "parent": 7
   },
   {
-    "id": 2.084,
-    "parent": 1.008,
-    "value": 0.5,
+    "color": "#66441F",
+    "parent_name": "HY Glut",
+    "value": 2,
     "name": "PH-an Pitx2 Glut",
-    "color": "#5C6D99"
+    "id": 110,
+    "parent": 7
   },
   {
-    "id": 2.085,
-    "parent": 1.008,
-    "value": 0.5,
+    "color": "#5C6D99",
+    "parent_name": "HY Glut",
+    "value": 2,
     "name": "PH Pitx2 Glut",
-    "color": "#7C2E99"
+    "id": 111,
+    "parent": 7
   },
   {
-    "id": 2.086,
-    "parent": 1.008,
-    "value": 0.5,
+    "color": "#7C2E99",
+    "parent_name": "HY Glut",
+    "value": 7,
     "name": "PH-LHA Foxb1 Glut",
-    "color": "#5C9965"
+    "id": 112,
+    "parent": 7
   },
   {
-    "id": 2.087,
-    "parent": 1.008,
-    "value": 0.5,
+    "color": "#5C9965",
+    "parent_name": "HY Glut",
+    "value": 3,
     "name": "PMd-LHA Foxb1 Glut",
-    "color": "#991793"
+    "id": 113,
+    "parent": 7
   },
   {
-    "id": 2.088,
-    "parent": 1.008,
-    "value": 0.5,
+    "color": "#991793",
+    "parent_name": "HY Glut",
+    "value": 6,
     "name": "PH-SUM Foxa1 Glut",
-    "color": "#7A9ACC"
+    "id": 114,
+    "parent": 7
   },
   {
-    "id": 2.089,
-    "parent": 1.009,
-    "value": 0.5,
+    "color": "#7A9ACC",
+    "parent_name": "HY Gnrh1 Glut",
+    "value": 1,
     "name": "HY Gnrh1 Glut",
-    "color": "#66662E"
+    "id": 8,
+    "parent": 8
   },
   {
-    "id": 2.09,
-    "parent": 1.01,
-    "value": 0.5,
+    "color": "#7A9ACC",
+    "parent_name": "HY Gnrh1 Glut",
+    "value": 1,
+    "name": "HY Gnrh1 Glut",
+    "id": 8,
+    "parent": 115
+  },
+  {
+    "color": "#7A9ACC",
+    "parent_name": "HY Gnrh1 Glut",
+    "value": 1,
+    "name": "HY Gnrh1 Glut",
+    "id": 115,
+    "parent": 8
+  },
+  {
+    "color": "#7A9ACC",
+    "parent_name": "HY Gnrh1 Glut",
+    "value": 1,
+    "name": "HY Gnrh1 Glut",
+    "id": 115,
+    "parent": 115
+  },
+  {
+    "color": "#66662E",
+    "parent_name": "HY MM Glut",
+    "value": 1,
     "name": "MM-ant Foxb1 Glut",
-    "color": "#FF2677"
+    "id": 116,
+    "parent": 9
   },
   {
-    "id": 2.091,
-    "parent": 1.01,
-    "value": 0.5,
+    "color": "#FF2677",
+    "parent_name": "HY MM Glut",
+    "value": 2,
     "name": "MM Foxb1 Glut",
-    "color": "#3D8ACC"
+    "id": 117,
+    "parent": 9
   },
   {
-    "id": 2.092,
-    "parent": 1.011,
-    "value": 0.5,
+    "color": "#3D8ACC",
+    "parent_name": "MH-LH Glut",
+    "value": 5,
     "name": "MH Tac2 Glut",
-    "color": "#CC7A9D"
+    "id": 118,
+    "parent": 10
   },
   {
-    "id": 2.093,
-    "parent": 1.011,
-    "value": 0.5,
+    "color": "#CC7A9D",
+    "parent_name": "MH-LH Glut",
+    "value": 4,
     "name": "LH Pou4f1 Sox1 Glut",
-    "color": "#FF7383"
+    "id": 119,
+    "parent": 10
   },
   {
-    "id": 2.094,
-    "parent": 1.012,
-    "value": 0.5,
+    "color": "#FF7383",
+    "parent_name": "TH Glut",
+    "value": 1,
     "name": "AD Serpinb7 Glut",
-    "color": "#16f2f2"
+    "id": 120,
+    "parent": 11
   },
   {
-    "id": 2.095,
-    "parent": 1.012,
-    "value": 0.5,
+    "color": "#16f2f2",
+    "parent_name": "TH Glut",
+    "value": 1,
     "name": "AV Col27a1 Glut",
-    "color": "#5C8599"
+    "id": 121,
+    "parent": 11
   },
   {
-    "id": 2.096,
-    "parent": 1.012,
-    "value": 0.5,
+    "color": "#5C8599",
+    "parent_name": "TH Glut",
+    "value": 6,
     "name": "PVT-PT Ntrk1 Glut",
-    "color": "#076600"
+    "id": 122,
+    "parent": 11
   },
   {
-    "id": 2.097,
-    "parent": 1.012,
-    "value": 0.5,
+    "color": "#076600",
+    "parent_name": "TH Glut",
+    "value": 5,
     "name": "CM-IAD-CL-PCN Sema5b Glut",
-    "color": "#CCC300"
+    "id": 123,
+    "parent": 11
   },
   {
-    "id": 2.098,
-    "parent": 1.012,
-    "value": 0.5,
+    "color": "#CCC300",
+    "parent_name": "TH Glut",
+    "value": 14,
     "name": "TH Prkcd Grin2c Glut",
-    "color": "#663D57"
+    "id": 124,
+    "parent": 11
   },
   {
-    "id": 2.099,
-    "parent": 1.012,
-    "value": 0.5,
+    "color": "#663D57",
+    "parent_name": "TH Glut",
+    "value": 4,
     "name": "RE-Xi Nox4 Glut",
-    "color": "#992E38"
+    "id": 125,
+    "parent": 11
   },
   {
-    "id": 2.1,
-    "parent": 1.012,
-    "value": 0.5,
+    "color": "#992E38",
+    "parent_name": "TH Glut",
+    "value": 2,
     "name": "MG-POL-SGN Nts Glut",
-    "color": "#1C0099"
+    "id": 126,
+    "parent": 11
   },
   {
-    "id": 2.101,
-    "parent": 1.012,
-    "value": 0.5,
+    "color": "#1C0099",
+    "parent_name": "TH Glut",
+    "value": 2,
     "name": "PF Fzd5 Glut",
-    "color": "#3D6566"
+    "id": 127,
+    "parent": 11
   },
   {
-    "id": 2.102,
-    "parent": 1.013,
-    "value": 0.5,
+    "color": "#3D6566",
+    "parent_name": "MB Glut",
+    "value": 5,
     "name": "PRC-PAG Pax6 Glut",
-    "color": "#99862E"
+    "id": "128",
+    "parent": 12
   },
   {
-    "id": 2.103,
-    "parent": 1.013,
-    "value": 0.5,
+    "color": "#99862E",
+    "parent_name": "MB Glut",
+    "value": 1,
     "name": "MB-ant-ve Dmrta2 Glut",
-    "color": "#FF514D"
+    "id": 129,
+    "parent": 12
   },
   {
-    "id": 2.104,
-    "parent": 1.013,
-    "value": 0.5,
+    "color": "#FF514D",
+    "parent_name": "MB Glut",
+    "value": 1,
     "name": "RN Spp1 Glut",
-    "color": "#B6FF4D"
+    "id": 130,
+    "parent": 12
   },
   {
-    "id": 2.105,
-    "parent": 1.013,
-    "value": 0.5,
+    "color": "#B6FF4D",
+    "parent_name": "MB Glut",
+    "value": 2,
     "name": "MRN-PAG Nkx6-1 Glut",
-    "color": "#63FF26"
+    "id": 131,
+    "parent": 12
   },
   {
-    "id": 2.106,
-    "parent": 1.013,
-    "value": 0.5,
+    "color": "#63FF26",
+    "parent_name": "MB Glut",
+    "value": 5,
     "name": "IF-RL-CLI-PAG Foxa1 Glut",
-    "color": "#2E7799"
+    "id": 132,
+    "parent": 12
   },
   {
-    "id": 2.107,
-    "parent": 1.013,
-    "value": 0.5,
+    "color": "#2E7799",
+    "parent_name": "MB Glut",
+    "value": 4,
     "name": "PAG-SC Neurod2 Meis2 Glut",
-    "color": "#CC3DA3"
+    "id": 133,
+    "parent": 12
   },
   {
-    "id": 2.108,
-    "parent": 1.013,
-    "value": 0.5,
+    "color": "#CC3DA3",
+    "parent_name": "MB Glut",
+    "value": 3,
     "name": "PAG Pou4f3 Glut",
-    "color": "#CCC27A"
+    "id": 134,
+    "parent": 12
   },
   {
-    "id": 2.109,
-    "parent": 1.013,
-    "value": 0.5,
+    "color": "#CCC27A",
+    "parent_name": "MB Glut",
+    "value": 5,
     "name": "CUN Evx2 Lhx2 Glut",
-    "color": "#5C64CC"
+    "id": 135,
+    "parent": 12
   },
   {
-    "id": 2.11,
-    "parent": 1.013,
-    "value": 0.5,
+    "color": "#5C64CC",
+    "parent_name": "MB Glut",
+    "value": 1,
     "name": "APN C1ql2 Glut",
-    "color": "#1FCC4D"
+    "id": 136,
+    "parent": 12
   },
   {
-    "id": 2.111,
-    "parent": 1.013,
-    "value": 0.5,
+    "color": "#1FCC4D",
+    "parent_name": "MB Glut",
+    "value": 1,
     "name": "APN C1ql4 Glut",
-    "color": "#FF9D26"
+    "id": 137,
+    "parent": 12
   },
   {
-    "id": 2.112,
-    "parent": 1.013,
-    "value": 0.5,
+    "color": "#FF9D26",
+    "parent_name": "MB Glut",
+    "value": 6,
     "name": "PAG-MRN Pou3f1 Glut",
-    "color": "#82995C"
+    "id": 138,
+    "parent": 12
   },
   {
-    "id": 2.113,
-    "parent": 1.013,
-    "value": 0.5,
+    "color": "#82995C",
+    "parent_name": "MB Glut",
+    "value": 2,
     "name": "PAG-MRN Tfap2b Glut",
-    "color": "#F2FF73"
+    "id": 139,
+    "parent": 12
   },
   {
-    "id": 2.114,
-    "parent": 1.013,
-    "value": 0.5,
+    "color": "#F2FF73",
+    "parent_name": "MB Glut",
+    "value": 8,
     "name": "PAG Pou4f1 Ebf2 Glut",
-    "color": "#990027"
+    "id": 140,
+    "parent": 12
   },
   {
-    "id": 2.115,
-    "parent": 1.013,
-    "value": 0.5,
+    "color": "#990027",
+    "parent_name": "MB Glut",
+    "value": 5,
     "name": "PAG Pou4f2 Glut",
-    "color": "#5FCC5C"
+    "id": 141,
+    "parent": 12
   },
   {
-    "id": 2.116,
-    "parent": 1.013,
-    "value": 0.5,
+    "color": "#5FCC5C",
+    "parent_name": "MB Glut",
+    "value": 6,
     "name": "PAG Pou4f2 Mesi2 Glut",
-    "color": "#CC3D9D"
+    "id": 142,
+    "parent": 12
   },
   {
-    "id": 2.117,
-    "parent": 1.013,
-    "value": 0.5,
+    "color": "#CC3D9D",
+    "parent_name": "MB Glut",
+    "value": 4,
     "name": "SC Bnc2 Glut",
-    "color": "#47FF26"
+    "id": 143,
+    "parent": 12
   },
   {
-    "id": 2.118,
-    "parent": 1.013,
-    "value": 0.5,
+    "color": "#47FF26",
+    "parent_name": "MB Glut",
+    "value": 4,
     "name": "SCig Foxb1 Glut",
-    "color": "#453D66"
+    "id": 144,
+    "parent": 12
   },
   {
-    "id": 2.119,
-    "parent": 1.013,
-    "value": 0.5,
+    "color": "#453D66",
+    "parent_name": "MB Glut",
+    "value": 1,
     "name": "SCig-an-PPT Foxb1 Glut",
-    "color": "#5C73CC"
+    "id": 145,
+    "parent": 12
   },
   {
-    "id": 2.12,
-    "parent": 1.013,
-    "value": 0.5,
+    "color": "#5C73CC",
+    "parent_name": "MB Glut",
+    "value": 1,
     "name": "SCig Foxb1 Otx2 Glut",
-    "color": "#7ACCBE"
+    "id": 146,
+    "parent": 12
   },
   {
-    "id": 2.121,
-    "parent": 1.013,
-    "value": 0.5,
+    "color": "#7ACCBE",
+    "parent_name": "MB Glut",
+    "value": 1,
     "name": "SCdg-PAG Tfap2b Glut",
-    "color": "#50662E"
+    "id": 147,
+    "parent": 12
   },
   {
-    "id": 2.122,
-    "parent": 1.013,
-    "value": 0.5,
+    "color": "#50662E",
+    "parent_name": "MB Glut",
+    "value": 3,
     "name": "SCiw Pitx2 Glut",
-    "color": "#6C1799"
+    "id": 148,
+    "parent": 12
   },
   {
-    "id": 2.123,
-    "parent": 1.013,
-    "value": 0.5,
+    "color": "#6C1799",
+    "parent_name": "MB Glut",
+    "value": 6,
     "name": "IC Tfap2d Maf Glut",
-    "color": "#CC7A7E"
+    "id": 149,
+    "parent": 12
   },
   {
-    "id": 2.124,
-    "parent": 1.013,
-    "value": 0.5,
+    "color": "#CC7A7E",
+    "parent_name": "MB Glut",
+    "value": 5,
     "name": "CUN-PPN Evx2 Meis2 Glut",
-    "color": "#00CC7F"
+    "id": 150,
+    "parent": 12
   },
   {
-    "id": 2.125,
-    "parent": 1.013,
-    "value": 0.5,
+    "color": "#00CC7F",
+    "parent_name": "MB Glut",
+    "value": 1,
     "name": "PBG Mtnr1a Glut-Chol",
-    "color": "#ED0000"
+    "id": 151,
+    "parent": 12
   },
   {
-    "id": 2.126,
-    "parent": 1.013,
-    "value": 0.5,
+    "color": "#ED0000",
+    "parent_name": "MB Glut",
+    "value": 1,
     "name": "PAG Tcf24 Glut",
-    "color": "#002099"
+    "id": 152,
+    "parent": 12
   },
   {
-    "id": 2.127,
-    "parent": 1.013,
-    "value": 0.5,
+    "color": "#002099",
+    "parent_name": "MB Glut",
+    "value": 1,
     "name": "SCig Tfap2b Chrnb3 Glut",
-    "color": "#FF73FF"
+    "id": 153,
+    "parent": 12
   },
   {
-    "id": 2.128,
-    "parent": 1.013,
-    "value": 0.5,
+    "color": "#FF73FF",
+    "parent_name": "MB Glut",
+    "value": 1,
     "name": "SCop Pou4f2 Neurod2 Glut",
-    "color": "#B899FF"
+    "id": 154,
+    "parent": 12
   },
   {
-    "id": 2.129,
-    "parent": 1.013,
-    "value": 0.5,
+    "color": "#B899FF",
+    "parent_name": "MB Glut",
+    "value": 3,
     "name": "SCsg Pde5a Glut",
-    "color": "#73FF98"
+    "id": 155,
+    "parent": 12
   },
   {
-    "id": 2.13,
-    "parent": 1.013,
-    "value": 0.5,
+    "color": "#73FF98",
+    "parent_name": "MB Glut",
+    "value": 1,
     "name": "SCop Sln Glut",
-    "color": "#009923"
+    "id": 156,
+    "parent": 12
   },
   {
-    "id": 2.131,
-    "parent": 1.013,
-    "value": 0.5,
+    "color": "#009923",
+    "parent_name": "MB Glut",
+    "value": 1,
     "name": "PAG Ucn Glut",
-    "color": "#997817"
+    "id": 157,
+    "parent": 12
   },
   {
-    "id": 2.132,
-    "parent": 1.013,
-    "value": 0.5,
+    "color": "#997817",
+    "parent_name": "MB Glut",
+    "value": 1,
     "name": "ND-INC Foxd2 Glut",
-    "color": "#CC7400"
+    "id": 158,
+    "parent": 12
   },
   {
-    "id": 2.133,
-    "parent": 1.014,
-    "value": 0.5,
+    "color": "#CC7400",
+    "parent_name": "MB GABA",
+    "value": 1,
     "name": "PAG-MRN Rln3 Gaba",
-    "color": "#DF99FF"
+    "id": 159,
+    "parent": 13
   },
   {
-    "id": 2.134,
-    "parent": 1.014,
-    "value": 0.5,
+    "color": "#DF99FF",
+    "parent_name": "MB GABA",
+    "value": 3,
     "name": "PPN-CUN-PCG Otp En1 Gaba",
-    "color": "#3DCC66"
+    "id": 160,
+    "parent": 13
   },
   {
-    "id": 2.135,
-    "parent": 1.014,
-    "value": 0.5,
+    "color": "#3DCC66",
+    "parent_name": "MB GABA",
+    "value": 3,
     "name": "MRN-PPN-CUN Pax8 Gaba",
-    "color": "#82CC1F"
+    "id": 161,
+    "parent": 13
   },
   {
-    "id": 2.136,
-    "parent": 1.014,
-    "value": 0.5,
+    "color": "#82CC1F",
+    "parent_name": "MB GABA",
+    "value": 2,
     "name": "MRN-VTN-PPN Pax5 Cdh23 Gaba",
-    "color": "#2E8799"
+    "id": 162,
+    "parent": 13
   },
   {
-    "id": 2.137,
-    "parent": 1.014,
-    "value": 0.5,
+    "color": "#2E8799",
+    "parent_name": "MB GABA",
+    "value": 2,
     "name": "SNr-VTA Pax5 Npas1 Gaba",
-    "color": "#1D0066"
+    "id": 163,
+    "parent": 13
   },
   {
-    "id": 2.138,
-    "parent": 1.014,
-    "value": 0.5,
+    "color": "#1D0066",
+    "parent_name": "MB GABA",
+    "value": 4,
     "name": "PAG-PPN Pax5 Sox21 Gaba",
-    "color": "#7A5C99"
+    "id": 164,
+    "parent": 13
   },
   {
-    "id": 2.139,
-    "parent": 1.014,
-    "value": 0.5,
+    "color": "#7A5C99",
+    "parent_name": "MB GABA",
+    "value": 1,
     "name": "SNr Six3 Gaba",
-    "color": "#C2FF26"
+    "id": 165,
+    "parent": 13
   },
   {
-    "id": 2.14,
-    "parent": 1.014,
-    "value": 0.5,
+    "color": "#C2FF26",
+    "parent_name": "MB GABA",
+    "value": 7,
     "name": "IC Six3 En2 Gaba",
-    "color": "#ab1dd6"
+    "id": 166,
+    "parent": 13
   },
   {
-    "id": 2.141,
-    "parent": 1.014,
-    "value": 0.5,
+    "color": "#ab1dd6",
+    "parent_name": "MB GABA",
+    "value": 4,
     "name": "PAG-MRN-RN Foxa2 Gaba",
-    "color": "#7DFF4D"
+    "id": 167,
+    "parent": 13
   },
   {
-    "id": 2.142,
-    "parent": 1.014,
-    "value": 0.5,
+    "color": "#7DFF4D",
+    "parent_name": "MB GABA",
+    "value": 6,
     "name": "PAG-RN Nkx2-2 Otx1 Gaba",
-    "color": "#474599"
+    "id": 168,
+    "parent": 13
   },
   {
-    "id": 2.143,
-    "parent": 1.014,
-    "value": 0.5,
+    "color": "#474599",
+    "parent_name": "MB GABA",
+    "value": 5,
     "name": "PRT Tcf7l2 Gaba",
-    "color": "#99685C"
+    "id": 169,
+    "parent": 13
   },
   {
-    "id": 2.144,
-    "parent": 1.014,
-    "value": 0.5,
+    "color": "#99685C",
+    "parent_name": "MB GABA",
+    "value": 2,
     "name": "SC Otx2 Gcnt4 Gaba",
-    "color": "#4D79FF"
+    "id": 170,
+    "parent": 13
   },
   {
-    "id": 2.145,
-    "parent": 1.014,
-    "value": 0.5,
+    "color": "#4D79FF",
+    "parent_name": "MB GABA",
+    "value": 5,
     "name": "SC-PAG Lef1 Emx2 Gaba",
-    "color": "#CC5C69"
+    "id": 171,
+    "parent": 13
   },
   {
-    "id": 2.146,
-    "parent": 1.014,
-    "value": 0.5,
+    "color": "#CC5C69",
+    "parent_name": "MB GABA",
+    "value": 4,
     "name": "SCm-PAG Cdh23 Gaba",
-    "color": "#4CCC3D"
+    "id": 172,
+    "parent": 13
   },
   {
-    "id": 2.147,
-    "parent": 1.014,
-    "value": 0.5,
+    "color": "#4CCC3D",
+    "parent_name": "MB GABA",
+    "value": 5,
     "name": "SCs Dmbx1 Gaba",
-    "color": "#994F45"
+    "id": 173,
+    "parent": 13
   },
   {
-    "id": 2.148,
-    "parent": 1.014,
-    "value": 0.5,
+    "color": "#994F45",
+    "parent_name": "MB GABA",
+    "value": 2,
     "name": "SC Lef1 Otx2 Gaba",
-    "color": "#CC1F66"
+    "id": 174,
+    "parent": 13
   },
   {
-    "id": 2.149,
-    "parent": 1.014,
-    "value": 0.5,
+    "color": "#CC1F66",
+    "parent_name": "MB GABA",
+    "value": 5,
     "name": "SCs Pax7 Nfia Gaba",
-    "color": "#CC6B3D"
+    "id": 175,
+    "parent": 13
   },
   {
-    "id": 2.15,
-    "parent": 1.014,
-    "value": 0.5,
+    "color": "#CC6B3D",
+    "parent_name": "MB GABA",
+    "value": 3,
     "name": "PRT Mecom Gaba",
-    "color": "#76CC5C"
+    "id": 176,
+    "parent": 13
   },
   {
-    "id": 2.151,
-    "parent": 1.014,
-    "value": 0.5,
+    "color": "#76CC5C",
+    "parent_name": "MB GABA",
+    "value": 2,
     "name": "SC Tnnt1 Gli3 Gaba",
-    "color": "#FFA300"
+    "id": 177,
+    "parent": 13
   },
   {
-    "id": 2.152,
-    "parent": 1.014,
-    "value": 0.5,
+    "color": "#FFA300",
+    "parent_name": "MB GABA",
+    "value": 3,
     "name": "SCs Lef1 Gli3 Gaba",
-    "color": "#0e0163"
+    "id": 178,
+    "parent": 13
   },
   {
-    "id": 2.153,
-    "parent": 1.014,
-    "value": 0.5,
+    "color": "#0e0163",
+    "parent_name": "MB GABA",
+    "value": 5,
     "name": "SCsg Gabrr2 Gaba",
-    "color": "#BCCC3D"
+    "id": 179,
+    "parent": 13
   },
   {
-    "id": 2.154,
-    "parent": 1.014,
-    "value": 0.5,
+    "color": "#BCCC3D",
+    "parent_name": "MB GABA",
+    "value": 3,
     "name": "IPN Otp Crisp1 Gaba",
-    "color": "#992E62"
+    "id": 180,
+    "parent": 13
   },
   {
-    "id": 2.155,
-    "parent": 1.015,
-    "value": 0.5,
+    "color": "#992E62",
+    "parent_name": "MB Dopa",
+    "value": 8,
     "name": "SNc-VTA-RAmb Foxa1 Dopa",
-    "color": "#0F5666"
+    "id": 181,
+    "parent": 14
   },
   {
-    "id": 2.156,
-    "parent": 1.016,
-    "value": 0.5,
+    "color": "#0F5666",
+    "parent_name": "P Glut",
+    "value": 7,
     "name": "PB Lmx1a Glut",
-    "color": "#4B2E66"
+    "id": 182,
+    "parent": 15
   },
   {
-    "id": 2.157,
-    "parent": 1.016,
-    "value": 0.5,
+    "color": "#4B2E66",
+    "parent_name": "P Glut",
+    "value": 1,
     "name": "PB-SUT Tlx3 Lhx2 Glut",
-    "color": "#84FF73"
+    "id": 183,
+    "parent": 15
   },
   {
-    "id": 2.158,
-    "parent": 1.016,
-    "value": 0.5,
+    "color": "#84FF73",
+    "parent_name": "P Glut",
+    "value": 2,
     "name": "PB Pax5 Glut",
-    "color": "#FF4DC7"
+    "id": 184,
+    "parent": 15
   },
   {
-    "id": 2.159,
-    "parent": 1.016,
-    "value": 0.5,
+    "color": "#FF4DC7",
+    "parent_name": "P Glut",
+    "value": 8,
     "name": "LDT-PCG Vsx2 Lhx4 Glut",
-    "color": "#1F8ACC"
+    "id": 185,
+    "parent": 15
   },
   {
-    "id": 2.16,
-    "parent": 1.016,
-    "value": 0.5,
+    "color": "#1F8ACC",
+    "parent_name": "P Glut",
+    "value": 9,
     "name": "PB Evx2 Glut",
-    "color": "#4ff7de"
+    "id": 186,
+    "parent": 15
   },
   {
-    "id": 2.161,
-    "parent": 1.016,
-    "value": 0.5,
+    "color": "#4ff7de",
+    "parent_name": "P Glut",
+    "value": 1,
     "name": "B-PB Nr4a2 Glut",
-    "color": "#175B99"
+    "id": 187,
+    "parent": 15
   },
   {
-    "id": 2.162,
-    "parent": 1.016,
-    "value": 0.5,
+    "color": "#175B99",
+    "parent_name": "P Glut",
+    "value": 6,
     "name": "PCG-PRNr Vsx2 Nkx6-1 Glut",
-    "color": "#559917"
+    "id": 188,
+    "parent": 15
   },
   {
-    "id": 2.163,
-    "parent": 1.016,
-    "value": 0.5,
+    "color": "#559917",
+    "parent_name": "P Glut",
+    "value": 4,
     "name": "PRNc-NI-SG-RPO Vsx2 Nr4a2 Glut",
-    "color": "#8C5CCC"
+    "id": 189,
+    "parent": 15
   },
   {
-    "id": 2.164,
-    "parent": 1.016,
-    "value": 0.5,
+    "color": "#8C5CCC",
+    "parent_name": "P Glut",
+    "value": 3,
     "name": "PRNc-PARN Tlx1 Glut",
-    "color": "#44FF26"
+    "id": 190,
+    "parent": 15
   },
   {
-    "id": 2.165,
-    "parent": 1.016,
-    "value": 0.5,
+    "color": "#44FF26",
+    "parent_name": "P Glut",
+    "value": 1,
     "name": "PB-PSV Phox2b Glut",
-    "color": "#3A662E"
+    "id": 191,
+    "parent": 15
   },
   {
-    "id": 2.166,
-    "parent": 1.016,
-    "value": 0.5,
+    "color": "#3A662E",
+    "parent_name": "P Glut",
+    "value": 4,
     "name": "PSV Pvalb Lhx2 Glut",
-    "color": "#AB5CCC"
+    "id": 192,
+    "parent": 15
   },
   {
-    "id": 2.167,
-    "parent": 1.016,
-    "value": 0.5,
+    "color": "#AB5CCC",
+    "parent_name": "P Glut",
+    "value": 2,
     "name": "PB-NTS Phox2b Ebf3 Lmx1b Glut",
-    "color": "#3ECC1F"
+    "id": 193,
+    "parent": 15
   },
   {
-    "id": 2.168,
-    "parent": 1.016,
-    "value": 0.5,
+    "color": "#3ECC1F",
+    "parent_name": "P Glut",
+    "value": 1,
     "name": "PRNr Otp Nfib Glut",
-    "color": "#994546"
+    "id": 194,
+    "parent": 15
   },
   {
-    "id": 2.169,
-    "parent": 1.016,
-    "value": 0.5,
+    "color": "#994546",
+    "parent_name": "P Glut",
+    "value": 2,
     "name": "IPN-LDT Vsx2 Nkx6-1 Glut",
-    "color": "#45994B"
+    "id": 195,
+    "parent": 15
   },
   {
-    "id": 2.17,
-    "parent": 1.016,
-    "value": 0.5,
+    "color": "#45994B",
+    "parent_name": "P Glut",
+    "value": 2,
     "name": "LDT Vsx2 Nkx6-1 Nfib Glut",
-    "color": "#CCFF4D"
+    "id": 196,
+    "parent": 15
   },
   {
-    "id": 2.171,
-    "parent": 1.016,
-    "value": 0.5,
+    "color": "#CCFF4D",
+    "parent_name": "P Glut",
+    "value": 2,
     "name": "NLL-SOC Spp1 Glut",
-    "color": "#9B7ACC"
+    "id": 197,
+    "parent": 15
   },
   {
-    "id": 2.172,
-    "parent": 1.016,
-    "value": 0.5,
+    "color": "#9B7ACC",
+    "parent_name": "P Glut",
+    "value": 1,
     "name": "PG-TRN-LRN Fat2 Glut",
-    "color": "#66593D"
+    "id": 198,
+    "parent": 15
   },
   {
-    "id": 2.173,
-    "parent": 1.017,
-    "value": 0.5,
+    "color": "#66593D",
+    "parent_name": "MY Glut",
+    "value": 1,
     "name": "IRN Vip Glut",
-    "color": "#FF6426"
+    "id": 199,
+    "parent": 16
   },
   {
-    "id": 2.174,
-    "parent": 1.017,
-    "value": 0.5,
+    "color": "#FF6426",
+    "parent_name": "MY Glut",
+    "value": 4,
     "name": "PRP-NI-PRNc-GRN Otp Glut",
-    "color": "#7ACC9F"
+    "id": 200,
+    "parent": 16
   },
   {
-    "id": 2.175,
-    "parent": 1.017,
-    "value": 0.5,
+    "color": "#7ACC9F",
+    "parent_name": "MY Glut",
+    "value": 10,
     "name": "NTS Phox2b Glut",
-    "color": "#458499"
+    "id": 201,
+    "parent": 16
   },
   {
-    "id": 2.176,
-    "parent": 1.017,
-    "value": 0.5,
+    "color": "#458499",
+    "parent_name": "MY Glut",
+    "value": 1,
     "name": "MARN-GRN Pyy Glut",
-    "color": "#c10717"
+    "id": 202,
+    "parent": 16
   },
   {
-    "id": 2.177,
-    "parent": 1.017,
-    "value": 0.5,
+    "color": "#c10717",
+    "parent_name": "MY Glut",
+    "value": 1,
     "name": "MDRNv Lhx4 Qrfprl Glut",
-    "color": "#e925ed"
+    "id": 203,
+    "parent": 16
   },
   {
-    "id": 2.178,
-    "parent": 1.017,
-    "value": 0.5,
+    "color": "#e925ed",
+    "parent_name": "MY Glut",
+    "value": 1,
     "name": "NTS Mbnl3 Glut",
-    "color": "#996E45"
+    "id": 204,
+    "parent": 16
   },
   {
-    "id": 2.179,
-    "parent": 1.017,
-    "value": 0.5,
+    "color": "#996E45",
+    "parent_name": "MY Glut",
+    "value": 1,
     "name": "PGRNd Dmbx1 Glut",
-    "color": "#C6FF99"
+    "id": 205,
+    "parent": 16
   },
   {
-    "id": 2.18,
-    "parent": 1.017,
-    "value": 0.5,
+    "color": "#C6FF99",
+    "parent_name": "MY Glut",
+    "value": 7,
     "name": "PGRN-PARN-MDRN Hoxb5 Glut",
-    "color": "#99985C"
+    "id": 206,
+    "parent": 16
   },
   {
-    "id": 2.181,
-    "parent": 1.017,
-    "value": 0.5,
+    "color": "#99985C",
+    "parent_name": "MY Glut",
+    "value": 1,
     "name": "MV-SPIV Slc6a2 Glut",
-    "color": "#84CC3D"
+    "id": 207,
+    "parent": 16
   },
   {
-    "id": 2.182,
-    "parent": 1.017,
-    "value": 0.5,
+    "color": "#84CC3D",
+    "parent_name": "MY Glut",
+    "value": 7,
     "name": "SPVI-SPVC Tlx3 Ebf3 Glut",
-    "color": "#5A1F66"
+    "id": 208,
+    "parent": 16
   },
   {
-    "id": 2.183,
-    "parent": 1.017,
-    "value": 0.5,
+    "color": "#5A1F66",
+    "parent_name": "MY Glut",
+    "value": 4,
     "name": "CU-ECU-SPVI Foxb1 Glut",
-    "color": "#3DC2CC"
+    "id": 209,
+    "parent": 16
   },
   {
-    "id": 2.184,
-    "parent": 1.017,
-    "value": 0.5,
+    "color": "#3DC2CC",
+    "parent_name": "MY Glut",
+    "value": 5,
     "name": "MV-SPIV Phox2b Ebf3 Lbx1 Glut",
-    "color": "#85CC00"
+    "id": 210,
+    "parent": 16
   },
   {
-    "id": 2.185,
-    "parent": 1.017,
-    "value": 0.5,
+    "color": "#85CC00",
+    "parent_name": "MY Glut",
+    "value": 5,
     "name": "MV-SPIV Zic4 Neurod2 Glut",
-    "color": "#f22693"
+    "id": 211,
+    "parent": 16
   },
   {
-    "id": 2.186,
-    "parent": 1.017,
-    "value": 0.5,
+    "color": "#f22693",
+    "parent_name": "MY Glut",
+    "value": 1,
     "name": "NTS Aldh1a2 Glut",
-    "color": "#26FF93"
+    "id": 212,
+    "parent": 16
   },
   {
-    "id": 2.187,
-    "parent": 1.017,
-    "value": 0.5,
+    "color": "#26FF93",
+    "parent_name": "MY Glut",
+    "value": 1,
     "name": "CBN Neurod2 Pvalb Glut",
-    "color": "#221F66"
+    "id": 213,
+    "parent": 16
   },
   {
-    "id": 2.188,
-    "parent": 1.017,
-    "value": 0.5,
+    "color": "#221F66",
+    "parent_name": "MY Glut",
+    "value": 6,
     "name": "NTS Dbh Glut",
-    "color": "#566600"
+    "id": 214,
+    "parent": 16
   },
   {
-    "id": 2.189,
-    "parent": 1.017,
-    "value": 0.5,
+    "color": "#566600",
+    "parent_name": "MY Glut",
+    "value": 2,
     "name": "DMX VII Tbx20 Chol",
-    "color": "#99322E"
+    "id": 215,
+    "parent": 16
   },
   {
-    "id": 2.19,
-    "parent": 1.017,
-    "value": 0.5,
+    "color": "#99322E",
+    "parent_name": "MY Glut",
+    "value": 1,
     "name": "IO Fgl2 Glut",
-    "color": "#00CC7C"
+    "id": 216,
+    "parent": 16
   },
   {
-    "id": 2.191,
-    "parent": 1.017,
-    "value": 0.5,
+    "color": "#00CC7C",
+    "parent_name": "MY Glut",
+    "value": 4,
     "name": "VCO Mafa Meis2 Glut",
-    "color": "#CC8E1F"
+    "id": 217,
+    "parent": 16
   },
   {
-    "id": 2.192,
-    "parent": 1.017,
-    "value": 0.5,
+    "color": "#CC8E1F",
+    "parent_name": "MY Glut",
+    "value": 1,
     "name": "SPVO Mafa Meis2 Glut",
-    "color": "#805CCC"
+    "id": 218,
+    "parent": 16
   },
   {
-    "id": 2.193,
-    "parent": 1.017,
-    "value": 0.5,
+    "color": "#805CCC",
+    "parent_name": "MY Glut",
+    "value": 2,
     "name": "SPVC Mafa Glut",
-    "color": "#580099"
+    "id": 219,
+    "parent": 16
   },
   {
-    "id": 2.194,
-    "parent": 1.017,
-    "value": 0.5,
+    "color": "#580099",
+    "parent_name": "MY Glut",
+    "value": 1,
     "name": "SPVC Ccdc172 Glut",
-    "color": "#99805C"
+    "id": 220,
+    "parent": 16
   },
   {
-    "id": 2.195,
-    "parent": 1.017,
-    "value": 0.5,
+    "color": "#99805C",
+    "parent_name": "MY Glut",
+    "value": 2,
     "name": "SPVC Nmu Glut",
-    "color": "#fc235d"
+    "id": 221,
+    "parent": 16
   },
   {
-    "id": 2.196,
-    "parent": 1.017,
-    "value": 0.5,
+    "color": "#fc235d",
+    "parent_name": "MY Glut",
+    "value": 1,
     "name": "MDRNd Bves Glut",
-    "color": "#1FCC43"
+    "id": 222,
+    "parent": 16
   },
   {
-    "id": 2.197,
-    "parent": 1.017,
-    "value": 0.5,
+    "color": "#1FCC43",
+    "parent_name": "MY Glut",
+    "value": 1,
     "name": "MDRNv Crp Glut",
-    "color": "#EAFF4D"
+    "id": 223,
+    "parent": 16
   },
   {
-    "id": 2.198,
-    "parent": 1.017,
-    "value": 0.5,
+    "color": "#EAFF4D",
+    "parent_name": "MY Glut",
+    "value": 5,
     "name": "HB Calcb Chol",
-    "color": "#0F6654"
+    "id": 224,
+    "parent": 16
   },
   {
-    "id": 2.199,
-    "parent": 1.018,
-    "value": 0.5,
+    "color": "#0F6654",
+    "parent_name": "Pineal Glut",
+    "value": 1,
     "name": "Pineal Crx Glut",
-    "color": "#B6CC5C"
+    "id": 225,
+    "parent": 17
   },
   {
-    "id": 2.2,
-    "parent": 1.019,
-    "value": 0.5,
+    "color": "#B6CC5C",
+    "parent_name": "P GABA",
+    "value": 5,
     "name": "CS-RPO Meis2 Gaba",
-    "color": "#4DFFCD"
+    "id": 226,
+    "parent": 18
   },
   {
-    "id": 2.201,
-    "parent": 1.019,
-    "value": 0.5,
+    "color": "#4DFFCD",
+    "parent_name": "P GABA",
+    "value": 5,
     "name": "PRNc Otp Gly-Gaba",
-    "color": "#F44D00"
+    "id": 227,
+    "parent": 18
   },
   {
-    "id": 2.202,
-    "parent": 1.019,
-    "value": 0.5,
+    "color": "#F44D00",
+    "parent_name": "P GABA",
+    "value": 2,
     "name": "PB Sst Gly-Gaba",
-    "color": "#58992E"
+    "id": 228,
+    "parent": 18
   },
   {
-    "id": 2.203,
-    "parent": 1.019,
-    "value": 0.5,
+    "color": "#58992E",
+    "parent_name": "P GABA",
+    "value": 1,
     "name": "PRNc Prox1 Brs3 Gly-Gaba",
-    "color": "#1F5366"
+    "id": 229,
+    "parent": 18
   },
   {
-    "id": 2.204,
-    "parent": 1.019,
-    "value": 0.5,
+    "color": "#1F5366",
+    "parent_name": "P GABA",
+    "value": 2,
     "name": "CS-PRNr-DR En1 Sox2 Gaba",
-    "color": "#00CCBA"
+    "id": 230,
+    "parent": 18
   },
   {
-    "id": 2.205,
-    "parent": 1.019,
-    "value": 0.5,
+    "color": "#00CCBA",
+    "parent_name": "P GABA",
+    "value": 1,
     "name": "LDT Fgf7 Gaba",
-    "color": "#00CC4A"
+    "id": 231,
+    "parent": 18
   },
   {
-    "id": 2.206,
-    "parent": 1.019,
-    "value": 0.5,
+    "color": "#00CC4A",
+    "parent_name": "P GABA",
+    "value": 4,
     "name": "NI-RPO Gata3 Nr4a2 Gaba",
-    "color": "#630099"
+    "id": 232,
+    "parent": 18
   },
   {
-    "id": 2.207,
-    "parent": 1.019,
-    "value": 0.5,
+    "color": "#630099",
+    "parent_name": "P GABA",
+    "value": 5,
     "name": "LDT-PCG-CS Gata3 Lhx1 Gaba",
-    "color": "#991761"
+    "id": 233,
+    "parent": 18
   },
   {
-    "id": 2.208,
-    "parent": 1.019,
-    "value": 0.5,
+    "color": "#991761",
+    "parent_name": "P GABA",
+    "value": 4,
     "name": "PDTg-PCG Pax6 Gaba",
-    "color": "#5BFF00"
+    "id": 234,
+    "parent": 18
   },
   {
-    "id": 2.209,
-    "parent": 1.019,
-    "value": 0.5,
+    "color": "#5BFF00",
+    "parent_name": "P GABA",
+    "value": 1,
     "name": "PDTg Otp Shroom3 Gaba",
-    "color": "#0F1266"
+    "id": 235,
+    "parent": 18
   },
   {
-    "id": 2.21,
-    "parent": 1.019,
-    "value": 0.5,
+    "color": "#0F1266",
+    "parent_name": "P GABA",
+    "value": 1,
     "name": "PDTg Otp Olig3 Gaba",
-    "color": "#456499"
+    "id": 236,
+    "parent": 18
   },
   {
-    "id": 2.211,
-    "parent": 1.019,
-    "value": 0.5,
+    "color": "#456499",
+    "parent_name": "P GABA",
+    "value": 2,
     "name": "LDT-PCG St18 Gaba",
-    "color": "#1F3766"
+    "id": 237,
+    "parent": 18
   },
   {
-    "id": 2.212,
-    "parent": 1.019,
-    "value": 0.5,
+    "color": "#1F3766",
+    "parent_name": "P GABA",
+    "value": 5,
     "name": "DTN-LDT-IPN Otp Pax3 Gaba",
-    "color": "#E57300"
+    "id": 238,
+    "parent": 18
   },
   {
-    "id": 2.213,
-    "parent": 1.019,
-    "value": 0.5,
+    "color": "#E57300",
+    "parent_name": "P GABA",
+    "value": 4,
     "name": "NLL Gata3 Gly-Gaba",
-    "color": "#d2b8f2"
+    "id": 239,
+    "parent": 18
   },
   {
-    "id": 2.214,
-    "parent": 1.019,
-    "value": 0.5,
+    "color": "#d2b8f2",
+    "parent_name": "P GABA",
+    "value": 2,
     "name": "PSV Pax2 Gly-Gaba",
-    "color": "#000999"
+    "id": 240,
+    "parent": 18
   },
   {
-    "id": 2.215,
-    "parent": 1.019,
-    "value": 0.5,
+    "color": "#000999",
+    "parent_name": "P GABA",
+    "value": 1,
     "name": "NLL-po Pax7 Gaba",
-    "color": "#00CC1B"
+    "id": 241,
+    "parent": 18
   },
   {
-    "id": 2.216,
-    "parent": 1.019,
-    "value": 0.5,
+    "color": "#00CC1B",
+    "parent_name": "P GABA",
+    "value": 1,
     "name": "POR Gata3 Gly-Gaba",
-    "color": "#35CC00"
+    "id": 242,
+    "parent": 18
   },
   {
-    "id": 2.217,
-    "parent": 1.019,
-    "value": 0.5,
+    "color": "#35CC00",
+    "parent_name": "P GABA",
+    "value": 1,
     "name": "POR Spp1 Gly-Gaba",
-    "color": "#995C2E"
+    "id": 243,
+    "parent": 18
   },
   {
-    "id": 2.218,
-    "parent": 1.02,
-    "value": 0.5,
+    "color": "#995C2E",
+    "parent_name": "MY GABA",
+    "value": 5,
     "name": "PRP Otp Gly-Gaba",
-    "color": "#659900"
+    "id": 244,
+    "parent": 19
   },
   {
-    "id": 2.219,
-    "parent": 1.02,
-    "value": 0.5,
+    "color": "#659900",
+    "parent_name": "MY GABA",
+    "value": 1,
     "name": "GRN-IRN-MDRNd Ikzf1 Gly-Gaba",
-    "color": "#f20985"
+    "id": 245,
+    "parent": 19
   },
   {
-    "id": 2.22,
-    "parent": 1.02,
-    "value": 0.5,
+    "color": "#f20985",
+    "parent_name": "MY GABA",
+    "value": 9,
     "name": "MY Lhx1 Gly-Gaba",
-    "color": "#CC5C81"
+    "id": 246,
+    "parent": 19
   },
   {
-    "id": 2.221,
-    "parent": 1.02,
-    "value": 0.5,
+    "color": "#CC5C81",
+    "parent_name": "MY GABA",
+    "value": 1,
     "name": "PPY-PGRNl Vip Glyc-Gaba",
-    "color": "#4DBEFF"
+    "id": 247,
+    "parent": 19
   },
   {
-    "id": 2.222,
-    "parent": 1.02,
-    "value": 0.5,
+    "color": "#4DBEFF",
+    "parent_name": "MY GABA",
+    "value": 3,
     "name": "MV-SPIV-PRP Dmbx1 Gly-Gaba",
-    "color": "#660038"
+    "id": 248,
+    "parent": 19
   },
   {
-    "id": 2.223,
-    "parent": 1.02,
-    "value": 0.5,
+    "color": "#660038",
+    "parent_name": "MY GABA",
+    "value": 1,
     "name": "MDRN Hoxb5 Ebf2 Gly-Gaba",
-    "color": "#4e5b48"
+    "id": 249,
+    "parent": 19
   },
   {
-    "id": 2.224,
-    "parent": 1.02,
-    "value": 0.5,
+    "color": "#4e5b48",
+    "parent_name": "MY GABA",
+    "value": 1,
     "name": "MDRNd Prox1 Pax6 Gly-Gaba",
-    "color": "#6ff754"
+    "id": 250,
+    "parent": 19
   },
   {
-    "id": 2.225,
-    "parent": 1.02,
-    "value": 0.5,
+    "color": "#6ff754",
+    "parent_name": "MY GABA",
+    "value": 1,
     "name": "MY Prox1 Lmo7 Gly-Gaba",
-    "color": "#990004"
+    "id": 251,
+    "parent": 19
   },
   {
-    "id": 2.226,
-    "parent": 1.02,
-    "value": 0.5,
+    "color": "#990004",
+    "parent_name": "MY GABA",
+    "value": 2,
     "name": "NTS-MDRNd Prox1 Zic1 Gly-Gaba",
-    "color": "#CC3D91"
+    "id": 252,
+    "parent": 19
   },
   {
-    "id": 2.227,
-    "parent": 1.02,
-    "value": 0.5,
+    "color": "#CC3D91",
+    "parent_name": "MY GABA",
+    "value": 2,
     "name": "MV Nkx6-1 Gly-Gaba",
-    "color": "#2E3399"
+    "id": 253,
+    "parent": 19
   },
   {
-    "id": 2.228,
-    "parent": 1.02,
-    "value": 0.5,
+    "color": "#2E3399",
+    "parent_name": "MY GABA",
+    "value": 4,
     "name": "PAS-MV Ebf2 Gly-Gaba",
-    "color": "#66502E"
+    "id": 254,
+    "parent": 19
   },
   {
-    "id": 2.229,
-    "parent": 1.02,
-    "value": 0.5,
+    "color": "#66502E",
+    "parent_name": "MY GABA",
+    "value": 2,
     "name": "MV Pax6 Gly-Gaba",
-    "color": "#00FF6C"
+    "id": 255,
+    "parent": 19
   },
   {
-    "id": 2.23,
-    "parent": 1.02,
-    "value": 0.5,
+    "color": "#00FF6C",
+    "parent_name": "MY GABA",
+    "value": 1,
     "name": "CBN Dmbx1 Gaba",
-    "color": "#3426FF"
+    "id": 256,
+    "parent": 19
   },
   {
-    "id": 2.231,
-    "parent": 1.02,
-    "value": 0.5,
+    "color": "#3426FF",
+    "parent_name": "MY GABA",
+    "value": 1,
     "name": "RPA Pax6 Hoxb5 Gly-Gaba",
-    "color": "#2E6799"
+    "id": 257,
+    "parent": 19
   },
   {
-    "id": 2.232,
-    "parent": 1.02,
-    "value": 0.5,
+    "color": "#2E6799",
+    "parent_name": "MY GABA",
+    "value": 1,
     "name": "CU-ECU Pax2 Gly-Gaba",
-    "color": "#00FF08"
+    "id": 258,
+    "parent": 19
   },
   {
-    "id": 2.233,
-    "parent": 1.02,
-    "value": 0.5,
+    "color": "#00FF08",
+    "parent_name": "MY GABA",
+    "value": 1,
     "name": "PRP Gata3 Slc6a5 Gly-Gaba",
-    "color": "#CC8A5C"
+    "id": 259,
+    "parent": 19
   },
   {
-    "id": 2.234,
-    "parent": 1.02,
-    "value": 0.5,
+    "color": "#CC8A5C",
+    "parent_name": "MY GABA",
+    "value": 1,
     "name": "MARN-PPY Ngfr Gly-Gaba",
-    "color": "#CC3D70"
+    "id": 260,
+    "parent": 19
   },
   {
-    "id": 2.235,
-    "parent": 1.02,
-    "value": 0.5,
+    "color": "#CC3D70",
+    "parent_name": "MY GABA",
+    "value": 7,
     "name": "PARN-MDRNd-NTS Gbx2 Gly-Gaba",
-    "color": "#efda4f"
+    "id": 261,
+    "parent": 19
   },
   {
-    "id": 2.236,
-    "parent": 1.02,
-    "value": 0.5,
+    "color": "#efda4f",
+    "parent_name": "MY GABA",
+    "value": 1,
     "name": "MV Nr4a2 Gly-Gaba",
-    "color": "#72FF00"
+    "id": 262,
+    "parent": 19
   },
   {
-    "id": 2.237,
-    "parent": 1.02,
-    "value": 0.5,
+    "color": "#72FF00",
+    "parent_name": "MY GABA",
+    "value": 1,
     "name": "MV Xdh Gly-Gaba",
-    "color": "#5C997D"
+    "id": 263,
+    "parent": 19
   },
   {
-    "id": 2.238,
-    "parent": 1.02,
-    "value": 0.5,
+    "color": "#5C997D",
+    "parent_name": "MY GABA",
+    "value": 1,
     "name": "IRN Dmbx1 Pax2 Gly-Gaba",
-    "color": "#FF1400"
+    "id": 264,
+    "parent": 19
   },
   {
-    "id": 2.239,
-    "parent": 1.02,
-    "value": 0.5,
+    "color": "#FF1400",
+    "parent_name": "MY GABA",
+    "value": 6,
     "name": "NTS-PARN Neurod2 Gly-Gaba",
-    "color": "#66140F"
+    "id": 265,
+    "parent": 19
   },
   {
-    "id": 2.24,
-    "parent": 1.02,
-    "value": 0.5,
+    "color": "#66140F",
+    "parent_name": "MY GABA",
+    "value": 2,
     "name": "SPVI-SPVC Sall3 Nfib Gly-Gaba",
-    "color": "#FF73EA"
+    "id": 266,
+    "parent": 19
   },
   {
-    "id": 2.241,
-    "parent": 1.02,
-    "value": 0.5,
+    "color": "#FF73EA",
+    "parent_name": "MY GABA",
+    "value": 2,
     "name": "SPVI-SPVC Sall3 Lhx1 Gly-Gaba",
-    "color": "#26FFE8"
+    "id": 267,
+    "parent": 19
   },
   {
-    "id": 2.242,
-    "parent": 1.02,
-    "value": 0.5,
+    "color": "#26FFE8",
+    "parent_name": "MY GABA",
+    "value": 1,
     "name": "RO-RPA Pkd2l1 Gaba",
-    "color": "#994517"
+    "id": 268,
+    "parent": 19
   },
   {
-    "id": 2.243,
-    "parent": 1.021,
-    "value": 0.5,
+    "color": "#994517",
+    "parent_name": "CB GABA",
+    "value": 3,
     "name": "DCO Il22 Gly-Gaba",
-    "color": "#009899"
+    "id": 269,
+    "parent": 20
   },
   {
-    "id": 2.244,
-    "parent": 1.021,
-    "value": 0.5,
+    "color": "#009899",
+    "parent_name": "CB GABA",
+    "value": 4,
     "name": "CB PLI Gly-Gaba",
-    "color": "#003366"
+    "id": 270,
+    "parent": 20
   },
   {
-    "id": 2.245,
-    "parent": 1.021,
-    "value": 0.5,
+    "color": "#003366",
+    "parent_name": "CB GABA",
+    "value": 1,
     "name": "CBX Golgi Gly-Gaba",
-    "color": "#8BCC5C"
+    "id": 271,
+    "parent": 20
   },
   {
-    "id": 2.246,
-    "parent": 1.021,
-    "value": 0.5,
+    "color": "#8BCC5C",
+    "parent_name": "CB GABA",
+    "value": 2,
     "name": "CBX MLI Megf11 Gaba",
-    "color": "#45996C"
+    "id": 272,
+    "parent": 20
   },
   {
-    "id": 2.247,
-    "parent": 1.021,
-    "value": 0.5,
+    "color": "#45996C",
+    "parent_name": "CB GABA",
+    "value": 1,
     "name": "CBX MLI Cdh22 Gaba",
-    "color": "#511799"
+    "id": 273,
+    "parent": 20
   },
   {
-    "id": 2.248,
-    "parent": 1.021,
-    "value": 0.5,
+    "color": "#511799",
+    "parent_name": "CB GABA",
+    "value": 2,
     "name": "CBX Purkinje Gaba",
-    "color": "#FF4826"
+    "id": 274,
+    "parent": 20
   },
   {
-    "id": 2.249,
-    "parent": 1.022,
-    "value": 0.5,
+    "color": "#FF4826",
+    "parent_name": "CB Glut",
+    "value": 2,
     "name": "CB Granule Glut",
-    "color": "#1FCC87"
+    "id": 275,
+    "parent": 21
   },
   {
-    "id": 2.25,
-    "parent": 1.022,
-    "value": 0.5,
+    "color": "#1FCC87",
+    "parent_name": "CB Glut",
+    "value": 1,
     "name": "DCO UBC Glut",
-    "color": "#8E2600"
+    "id": 276,
+    "parent": 21
   },
   {
-    "id": 2.251,
-    "parent": 1.023,
-    "value": 0.5,
+    "color": "#8E2600",
+    "parent_name": "Astro-Epen",
+    "value": 1,
     "name": "Bergmann NN",
-    "color": "#CC4E00"
+    "id": 277,
+    "parent": 22
   },
   {
-    "id": 2.252,
-    "parent": 1.023,
-    "value": 0.5,
+    "color": "#CC4E00",
+    "parent_name": "Astro-Epen",
+    "value": 1,
     "name": "Astro-CB NN",
-    "color": "#AD5CCC"
+    "id": 278,
+    "parent": 22
   },
   {
-    "id": 2.253,
-    "parent": 1.023,
-    "value": 0.5,
+    "color": "#AD5CCC",
+    "parent_name": "Astro-Epen",
+    "value": 2,
     "name": "Astro-NT NN",
-    "color": "#3DCCB1"
+    "id": 279,
+    "parent": 22
   },
   {
-    "id": 2.254,
-    "parent": 1.023,
-    "value": 0.5,
+    "color": "#3DCCB1",
+    "parent_name": "Astro-Epen",
+    "value": 5,
     "name": "Astro-TE NN",
-    "color": "#FF73CF"
+    "id": 280,
+    "parent": 22
   },
   {
-    "id": 2.255,
-    "parent": 1.023,
-    "value": 0.5,
+    "color": "#FF73CF",
+    "parent_name": "Astro-Epen",
+    "value": 3,
     "name": "Astro-OLF NN",
-    "color": "#0833ce"
+    "id": 281,
+    "parent": 22
   },
   {
-    "id": 2.256,
-    "parent": 1.023,
-    "value": 0.5,
+    "color": "#0833ce",
+    "parent_name": "Astro-Epen",
+    "value": 3,
     "name": "Astroependymal NN",
-    "color": "#FF26A1"
+    "id": 282,
+    "parent": 22
   },
   {
-    "id": 2.257,
-    "parent": 1.023,
-    "value": 0.5,
+    "color": "#FF26A1",
+    "parent_name": "Astro-Epen",
+    "value": 3,
     "name": "Tanycyte NN",
-    "color": "#D8FF00"
+    "id": 283,
+    "parent": 22
   },
   {
-    "id": 2.258,
-    "parent": 1.023,
-    "value": 0.5,
+    "color": "#D8FF00",
+    "parent_name": "Astro-Epen",
+    "value": 2,
     "name": "Ependymal NN",
-    "color": "#3F2E99"
+    "id": 284,
+    "parent": 22
   },
   {
-    "id": 2.259,
-    "parent": 1.023,
-    "value": 0.5,
+    "color": "#3F2E99",
+    "parent_name": "Astro-Epen",
+    "value": 1,
     "name": "Hypendymal NN",
-    "color": "#2D9917"
+    "id": 285,
+    "parent": 22
   },
   {
-    "id": 2.26,
-    "parent": 1.023,
-    "value": 0.5,
+    "color": "#2D9917",
+    "parent_name": "Astro-Epen",
+    "value": 1,
     "name": "CHOR NN",
-    "color": "#FF26CB"
+    "id": 286,
+    "parent": 22
   },
   {
-    "id": 2.261,
-    "parent": 1.024,
-    "value": 0.5,
+    "color": "#FF26CB",
+    "parent_name": "OPC-Oligo",
+    "value": 2,
     "name": "OPC NN",
-    "color": "#99FFBC"
+    "id": 287,
+    "parent": 23
   },
   {
-    "id": 2.262,
-    "parent": 1.024,
-    "value": 0.5,
+    "color": "#99FFBC",
+    "parent_name": "OPC-Oligo",
+    "value": 4,
     "name": "Oligo NN",
-    "color": "#FF99CF"
+    "id": 288,
+    "parent": 23
   },
   {
-    "id": 2.263,
-    "parent": 1.025,
-    "value": 0.5,
+    "color": "#FF99CF",
+    "parent_name": "OEC",
+    "value": 1,
     "name": "OEC NN",
-    "color": "#CC5CC1"
+    "id": 289,
+    "parent": 24
   },
   {
-    "id": 2.264,
-    "parent": 1.026,
-    "value": 0.5,
+    "color": "#CC5CC1",
+    "parent_name": "Vascular",
+    "value": 1,
     "name": "ABC NN",
-    "color": "#653D66"
+    "id": 290,
+    "parent": 25
   },
   {
-    "id": 2.265,
-    "parent": 1.026,
-    "value": 0.5,
+    "color": "#653D66",
+    "parent_name": "Vascular",
+    "value": 4,
     "name": "VLMC NN",
-    "color": "#82992E"
+    "id": 291,
+    "parent": 25
   },
   {
-    "id": 2.266,
-    "parent": 1.026,
-    "value": 0.5,
+    "color": "#82992E",
+    "parent_name": "Vascular",
+    "value": 1,
     "name": "Peri NN",
-    "color": "#FF9F73"
+    "id": 292,
+    "parent": 25
   },
   {
-    "id": 2.267,
-    "parent": 1.026,
-    "value": 0.5,
+    "color": "#FF9F73",
+    "parent_name": "Vascular",
+    "value": 1,
     "name": "SMC NN",
-    "color": "#994567"
+    "id": 293,
+    "parent": 25
   },
   {
-    "id": 2.268,
-    "parent": 1.026,
-    "value": 0.5,
+    "color": "#994567",
+    "parent_name": "Vascular",
+    "value": 1,
     "name": "Endo NN",
-    "color": "#CC1F4E"
+    "id": 294,
+    "parent": 25
   },
   {
-    "id": 2.269,
-    "parent": 1.027,
-    "value": 0.5,
+    "color": "#CC1F4E",
+    "parent_name": "Immune",
+    "value": 1,
     "name": "Microglia NN",
-    "color": "#66493D"
+    "id": 295,
+    "parent": 26
   },
   {
-    "id": 2.27,
-    "parent": 1.027,
-    "value": 0.5,
+    "color": "#66493D",
+    "parent_name": "Immune",
+    "value": 1,
     "name": "BAM NN",
-    "color": "#A673FF"
+    "id": 296,
+    "parent": 26
   },
   {
-    "id": 2.271,
-    "parent": 1.027,
-    "value": 0.5,
+    "color": "#A673FF",
+    "parent_name": "Immune",
+    "value": 1,
     "name": "Monocytes NN",
-    "color": "#CCA27A"
+    "id": 297,
+    "parent": 26
   },
   {
-    "id": 2.272,
-    "parent": 1.027,
-    "value": 0.5,
+    "color": "#CCA27A",
+    "parent_name": "Immune",
+    "value": 1,
     "name": "DC NN",
-    "color": "#3D5766"
+    "id": 298,
+    "parent": 26
   },
   {
-    "id": 2.273,
-    "parent": 1.027,
-    "value": 0.5,
+    "color": "#3D5766",
+    "parent_name": "Immune",
+    "value": 4,
     "name": "Lymphoid NN",
-    "color": "#99822E"
-  },
-  {
-    "id": 3.001,
-    "parent": 2.001,
-    "value": 0.2,
-    "name": "CLA-EPd-CTX Car3 Glut_1",
-    "color": "#170F66"
-  },
-  {
-    "id": 3.002,
-    "parent": 2.001,
-    "value": 0.2,
-    "name": "CLA-EPd-CTX Car3 Glut_2",
-    "color": "#994563"
-  },
-  {
-    "id": 3.003,
-    "parent": 2.002,
-    "value": 0.2,
-    "name": "IT EP-CLA Glut_1",
-    "color": "#1F4666"
-  },
-  {
-    "id": 3.004,
-    "parent": 2.002,
-    "value": 0.2,
-    "name": "IT EP-CLA Glut_2",
-    "color": "#694599"
-  },
-  {
-    "id": 3.005,
-    "parent": 2.002,
-    "value": 0.2,
-    "name": "IT EP-CLA Glut_3",
-    "color": "#5CAACC"
-  },
-  {
-    "id": 3.006,
-    "parent": 2.002,
-    "value": 0.2,
-    "name": "IT EP-CLA Glut_4",
-    "color": "#952E99"
-  },
-  {
-    "id": 3.007,
-    "parent": 2.003,
-    "value": 0.2,
-    "name": "L6 IT CTX Glut_1",
-    "color": "#2E5266"
-  },
-  {
-    "id": 3.008,
-    "parent": 2.003,
-    "value": 0.2,
-    "name": "L6 IT CTX Glut_2",
-    "color": "#661799"
-  },
-  {
-    "id": 3.009,
-    "parent": 2.003,
-    "value": 0.2,
-    "name": "L6 IT CTX Glut_3",
-    "color": "#991759"
-  },
-  {
-    "id": 3.01,
-    "parent": 2.003,
-    "value": 0.2,
-    "name": "L6 IT CTX Glut_4",
-    "color": "#651F66"
-  },
-  {
-    "id": 3.011,
-    "parent": 2.003,
-    "value": 0.2,
-    "name": "L6 IT CTX Glut_5",
-    "color": "#8D9917"
-  },
-  {
-    "id": 3.012,
-    "parent": 2.004,
-    "value": 0.2,
-    "name": "L5 IT CTX Glut_1",
-    "color": "#456199"
-  },
-  {
-    "id": 3.013,
-    "parent": 2.004,
-    "value": 0.2,
-    "name": "L5 IT CTX Glut_2",
-    "color": "#66530F"
-  },
-  {
-    "id": 3.014,
-    "parent": 2.004,
-    "value": 0.2,
-    "name": "L5 IT CTX Glut_3",
-    "color": "#FFFE99"
-  },
-  {
-    "id": 3.015,
-    "parent": 2.004,
-    "value": 0.2,
-    "name": "L5 IT CTX Glut_4",
-    "color": "#6A992E"
-  },
-  {
-    "id": 3.016,
-    "parent": 2.004,
-    "value": 0.2,
-    "name": "L5 IT CTX Glut_5",
-    "color": "#8626FF"
-  },
-  {
-    "id": 3.017,
-    "parent": 2.005,
-    "value": 0.2,
-    "name": "IT AON-TT-DP Glut_1",
-    "color": "#3D6652"
-  },
-  {
-    "id": 3.018,
-    "parent": 2.005,
-    "value": 0.2,
-    "name": "IT AON-TT-DP Glut_2",
-    "color": "#C773FF"
-  },
-  {
-    "id": 3.019,
-    "parent": 2.005,
-    "value": 0.2,
-    "name": "IT AON-TT-DP Glut_3",
-    "color": "#666400"
-  },
-  {
-    "id": 3.02,
-    "parent": 2.005,
-    "value": 0.2,
-    "name": "IT AON-TT-DP Glut_4",
-    "color": "#1F3E66"
-  },
-  {
-    "id": 3.021,
-    "parent": 2.005,
-    "value": 0.2,
-    "name": "IT AON-TT-DP Glut_5",
-    "color": "#992E57"
-  },
-  {
-    "id": 3.022,
-    "parent": 2.006,
-    "value": 0.2,
-    "name": "L2 IT ENT-po Glut_2",
-    "color": "#5CCCBD"
-  },
-  {
-    "id": 3.023,
-    "parent": 2.006,
-    "value": 0.2,
-    "name": "L2 IT ENT-po Glut_3",
-    "color": "#CC5CA0"
-  },
-  {
-    "id": 3.024,
-    "parent": 2.006,
-    "value": 0.2,
-    "name": "L2 IT ENT-po Glut_4",
-    "color": "#A099FF"
-  },
-  {
-    "id": 3.025,
-    "parent": 2.007,
-    "value": 0.2,
-    "name": "MEA Slc17a7 Glut_1",
-    "color": "#5CCCC9"
-  },
-  {
-    "id": 3.026,
-    "parent": 2.007,
-    "value": 0.2,
-    "name": "MEA Slc17a7 Glut_2",
-    "color": "#7E5C99"
-  },
-  {
-    "id": 3.027,
-    "parent": 2.007,
-    "value": 0.2,
-    "name": "MEA Slc17a7 Glut_3",
-    "color": "#82995C"
-  },
-  {
-    "id": 3.028,
-    "parent": 2.008,
-    "value": 0.2,
-    "name": "COAp Grxcr2 Glut_1",
-    "color": "#330F66"
-  },
-  {
-    "id": 3.029,
-    "parent": 2.008,
-    "value": 0.2,
-    "name": "COAp Grxcr2 Glut_2",
-    "color": "#99FFE5"
-  },
-  {
-    "id": 3.03,
-    "parent": 2.009,
-    "value": 0.2,
-    "name": "LA-BLA-BMA-PA Glut_1",
-    "color": "#99174B"
-  },
-  {
-    "id": 3.031,
-    "parent": 2.009,
-    "value": 0.2,
-    "name": "LA-BLA-BMA-PA Glut_2",
-    "color": "#992E6E"
-  },
-  {
-    "id": 3.032,
-    "parent": 2.009,
-    "value": 0.2,
-    "name": "LA-BLA-BMA-PA Glut_3",
-    "color": "#633D66"
-  },
-  {
-    "id": 3.033,
-    "parent": 2.009,
-    "value": 0.2,
-    "name": "LA-BLA-BMA-PA Glut_4",
-    "color": "#660F43"
-  },
-  {
-    "id": 3.034,
-    "parent": 2.009,
-    "value": 0.2,
-    "name": "LA-BLA-BMA-PA Glut_5",
-    "color": "#CC867A"
-  },
-  {
-    "id": 3.035,
-    "parent": 2.009,
-    "value": 0.2,
-    "name": "LA-BLA-BMA-PA Glut_6",
-    "color": "#99735C"
-  },
-  {
-    "id": 3.036,
-    "parent": 2.01,
-    "value": 0.2,
-    "name": "ENTmv-PA-COAp Glut_1",
-    "color": "#CC6A3D"
-  },
-  {
-    "id": 3.037,
-    "parent": 2.01,
-    "value": 0.2,
-    "name": "ENTmv-PA-COAp Glut_2",
-    "color": "#95CC7A"
-  },
-  {
-    "id": 3.038,
-    "parent": 2.01,
-    "value": 0.2,
-    "name": "ENTmv-PA-COAp Glut_3",
-    "color": "#8800CC"
-  },
-  {
-    "id": 3.039,
-    "parent": 2.011,
-    "value": 0.2,
-    "name": "CA1-ProS Glut_1",
-    "color": "#4D9945"
-  },
-  {
-    "id": 3.04,
-    "parent": 2.011,
-    "value": 0.2,
-    "name": "CA1-ProS Glut_2",
-    "color": "#993E00"
-  },
-  {
-    "id": 3.041,
-    "parent": 2.011,
-    "value": 0.2,
-    "name": "CA1-ProS Glut_3",
-    "color": "#2E4999"
-  },
-  {
-    "id": 3.042,
-    "parent": 2.011,
-    "value": 0.2,
-    "name": "CA1-ProS Glut_4",
-    "color": "#FF00CE"
-  },
-  {
-    "id": 3.043,
-    "parent": 2.011,
-    "value": 0.2,
-    "name": "CA1-ProS Glut_5",
-    "color": "#2A0F66"
-  },
-  {
-    "id": 3.044,
-    "parent": 2.011,
-    "value": 0.2,
-    "name": "CA1-ProS Glut_6",
-    "color": "#997645"
-  },
-  {
-    "id": 3.045,
-    "parent": 2.012,
-    "value": 0.2,
-    "name": "CA3 Glut_1",
-    "color": "#00FFC5"
-  },
-  {
-    "id": 3.046,
-    "parent": 2.012,
-    "value": 0.2,
-    "name": "CA3 Glut_2",
-    "color": "#6ACC00"
-  },
-  {
-    "id": 3.047,
-    "parent": 2.012,
-    "value": 0.2,
-    "name": "CA3 Glut_3",
-    "color": "#991776"
-  },
-  {
-    "id": 3.048,
-    "parent": 2.012,
-    "value": 0.2,
-    "name": "CA3 Glut_4",
-    "color": "#712E99"
-  },
-  {
-    "id": 3.049,
-    "parent": 2.012,
-    "value": 0.2,
-    "name": "CA3 Glut_5",
-    "color": "#433D66"
-  },
-  {
-    "id": 3.05,
-    "parent": 2.013,
-    "value": 0.2,
-    "name": "L2 IT PPP-APr Glut_1",
-    "color": "#002BCC"
-  },
-  {
-    "id": 3.051,
-    "parent": 2.013,
-    "value": 0.2,
-    "name": "L2 IT PPP-APr Glut_2",
-    "color": "#266DFF"
-  },
-  {
-    "id": 3.052,
-    "parent": 2.013,
-    "value": 0.2,
-    "name": "L2 IT PPP-APr Glut_3",
-    "color": "#3D65CC"
-  },
-  {
-    "id": 3.053,
-    "parent": 2.013,
-    "value": 0.2,
-    "name": "L2 IT PPP-APr Glut_4",
-    "color": "#998D2E"
-  },
-  {
-    "id": 3.054,
-    "parent": 2.014,
-    "value": 0.2,
-    "name": "L4 RSP-ACA Glut_1",
-    "color": "#5A0099"
-  },
-  {
-    "id": 3.055,
-    "parent": 2.015,
-    "value": 0.2,
-    "name": "L5 ET CTX Glut_1",
-    "color": "#FF2200"
-  },
-  {
-    "id": 3.056,
-    "parent": 2.015,
-    "value": 0.2,
-    "name": "L5 ET CTX Glut_2",
-    "color": "#5CCCB1"
-  },
-  {
-    "id": 3.057,
-    "parent": 2.015,
-    "value": 0.2,
-    "name": "L5 ET CTX Glut_3",
-    "color": "#99522E"
-  },
-  {
-    "id": 3.058,
-    "parent": 2.015,
-    "value": 0.2,
-    "name": "L5 ET CTX Glut_4",
-    "color": "#B34DFF"
-  },
-  {
-    "id": 3.059,
-    "parent": 2.015,
-    "value": 0.2,
-    "name": "L5 ET CTX Glut_5",
-    "color": "#66400F"
-  },
-  {
-    "id": 3.06,
-    "parent": 2.015,
-    "value": 0.2,
-    "name": "L5 ET CTX Glut_6",
-    "color": "#602E66"
-  },
-  {
-    "id": 3.061,
-    "parent": 2.016,
-    "value": 0.2,
-    "name": "SUB-ProS Glut_1",
-    "color": "#5C60CC"
-  },
-  {
-    "id": 3.062,
-    "parent": 2.016,
-    "value": 0.2,
-    "name": "SUB-ProS Glut_2",
-    "color": "#2F2E66"
-  },
-  {
-    "id": 3.063,
-    "parent": 2.016,
-    "value": 0.2,
-    "name": "SUB-ProS Glut_3",
-    "color": "#CC1F30"
-  },
-  {
-    "id": 3.064,
-    "parent": 2.017,
-    "value": 0.2,
-    "name": "L5 PPP Glut_1",
-    "color": "#662E99"
-  },
-  {
-    "id": 3.065,
-    "parent": 2.018,
-    "value": 0.2,
-    "name": "CA2-FC-IG Glut_1",
-    "color": "#661F20"
-  },
-  {
-    "id": 3.066,
-    "parent": 2.018,
-    "value": 0.2,
-    "name": "CA2-FC-IG Glut_2",
-    "color": "#7D5CCC"
-  },
-  {
-    "id": 3.067,
-    "parent": 2.019,
-    "value": 0.2,
-    "name": "NLOT Rho Glut_1",
-    "color": "#82CC5C"
-  },
-  {
-    "id": 3.068,
-    "parent": 2.02,
-    "value": 0.2,
-    "name": "L6b EPd Glut_1",
-    "color": "#994547"
-  },
-  {
-    "id": 3.069,
-    "parent": 2.02,
-    "value": 0.2,
-    "name": "L6b EPd Glut_2",
-    "color": "#81CC3D"
-  },
-  {
-    "id": 3.07,
-    "parent": 2.02,
-    "value": 0.2,
-    "name": "L6b EPd Glut_3",
-    "color": "#5C9979"
-  },
-  {
-    "id": 3.071,
-    "parent": 2.021,
-    "value": 0.2,
-    "name": "L6b CTX Glut_1",
-    "color": "#66533D"
-  },
-  {
-    "id": 3.072,
-    "parent": 2.021,
-    "value": 0.2,
-    "name": "L6b CTX Glut_2",
-    "color": "#5C9986"
-  },
-  {
-    "id": 3.073,
-    "parent": 2.021,
-    "value": 0.2,
-    "name": "L6b CTX Glut_3",
-    "color": "#00FFE1"
-  },
-  {
-    "id": 3.074,
-    "parent": 2.021,
-    "value": 0.2,
-    "name": "L6b CTX Glut_4",
-    "color": "#CC3D77"
-  },
-  {
-    "id": 3.075,
-    "parent": 2.022,
-    "value": 0.2,
-    "name": "L6 CT CTX Glut_1",
-    "color": "#3DCC96"
-  },
-  {
-    "id": 3.076,
-    "parent": 2.022,
-    "value": 0.2,
-    "name": "L6 CT CTX Glut_2",
-    "color": "#49660F"
-  },
-  {
-    "id": 3.077,
-    "parent": 2.022,
-    "value": 0.2,
-    "name": "L6 CT CTX Glut_3",
-    "color": "#3E662E"
-  },
-  {
-    "id": 3.078,
-    "parent": 2.022,
-    "value": 0.2,
-    "name": "L6 CT CTX Glut_4",
-    "color": "#00FFFD"
-  },
-  {
-    "id": 3.079,
-    "parent": 2.022,
-    "value": 0.2,
-    "name": "L6 CT CTX Glut_5",
-    "color": "#1F52CC"
-  },
-  {
-    "id": 3.08,
-    "parent": 2.022,
-    "value": 0.2,
-    "name": "L6 CT CTX Glut_6",
-    "color": "#662D0F"
-  },
-  {
-    "id": 3.081,
-    "parent": 2.023,
-    "value": 0.2,
-    "name": "CT SUB Glut_1",
-    "color": "#009BCC"
-  },
-  {
-    "id": 3.082,
-    "parent": 2.023,
-    "value": 0.2,
-    "name": "CT SUB Glut_2",
-    "color": "#26FF73"
-  },
-  {
-    "id": 3.083,
-    "parent": 2.024,
-    "value": 0.2,
-    "name": "L5 NP CTX Glut_1",
-    "color": "#935C99"
-  },
-  {
-    "id": 3.084,
-    "parent": 2.024,
-    "value": 0.2,
-    "name": "L5 NP CTX Glut_2",
-    "color": "#662E53"
-  },
-  {
-    "id": 3.085,
-    "parent": 2.024,
-    "value": 0.2,
-    "name": "L5 NP CTX Glut_3",
-    "color": "#54661F"
-  },
-  {
-    "id": 3.086,
-    "parent": 2.024,
-    "value": 0.2,
-    "name": "L5 NP CTX Glut_4",
-    "color": "#FF73DB"
-  },
-  {
-    "id": 3.087,
-    "parent": 2.024,
-    "value": 0.2,
-    "name": "L5 NP CTX Glut_5",
-    "color": "#006614"
-  },
-  {
-    "id": 3.088,
-    "parent": 2.025,
-    "value": 0.2,
-    "name": "NP SUB Glut_1",
-    "color": "#CC9A5C"
-  },
-  {
-    "id": 3.089,
-    "parent": 2.025,
-    "value": 0.2,
-    "name": "NP SUB Glut_2",
-    "color": "#574599"
-  },
-  {
-    "id": 3.09,
-    "parent": 2.026,
-    "value": 0.2,
-    "name": "NP PPP Glut_1",
-    "color": "#F573FF"
-  },
-  {
-    "id": 3.091,
-    "parent": 2.027,
-    "value": 0.2,
-    "name": "DG Glut_1",
-    "color": "#FF9999"
-  },
-  {
-    "id": 3.092,
-    "parent": 2.027,
-    "value": 0.2,
-    "name": "DG Glut_2",
-    "color": "#FF7726"
-  },
-  {
-    "id": 3.093,
-    "parent": 2.027,
-    "value": 0.2,
-    "name": "DG Glut_3",
-    "color": "#643DCC"
-  },
-  {
-    "id": 3.094,
-    "parent": 2.027,
-    "value": 0.2,
-    "name": "DG Glut_4",
-    "color": "#389917"
-  },
-  {
-    "id": 3.095,
-    "parent": 2.028,
-    "value": 0.2,
-    "name": "DG-PIR Ex IMN_1",
-    "color": "#CC7A3D"
-  },
-  {
-    "id": 3.096,
-    "parent": 2.028,
-    "value": 0.2,
-    "name": "DG-PIR Ex IMN_2",
-    "color": "#FFBF26"
-  },
-  {
-    "id": 3.097,
-    "parent": 2.028,
-    "value": 0.2,
-    "name": "DG-PIR Ex IMN_3",
-    "color": "#EE4DFF"
-  },
-  {
-    "id": 3.098,
-    "parent": 2.029,
-    "value": 0.2,
-    "name": "LSX Sall3 Pax6 Gaba_1",
-    "color": "#984599"
-  },
-  {
-    "id": 3.099,
-    "parent": 2.029,
-    "value": 0.2,
-    "name": "LSX Sall3 Pax6 Gaba_2",
-    "color": "#4D96FF"
-  },
-  {
-    "id": 3.1,
-    "parent": 2.03,
-    "value": 0.2,
-    "name": "LSX Otx2 Gaba_1",
-    "color": "#784DFF"
-  },
-  {
-    "id": 3.101,
-    "parent": 2.03,
-    "value": 0.2,
-    "name": "LSX Otx2 Gaba_2",
-    "color": "#E1FF4D"
-  },
-  {
-    "id": 3.102,
-    "parent": 2.03,
-    "value": 0.2,
-    "name": "LSX Otx2 Gaba_3",
-    "color": "#CC1F8F"
-  },
-  {
-    "id": 3.103,
-    "parent": 2.03,
-    "value": 0.2,
-    "name": "LSX Otx2 Gaba_4",
-    "color": "#99FFA2"
-  },
-  {
-    "id": 3.104,
-    "parent": 2.03,
-    "value": 0.2,
-    "name": "LSX Otx2 Gaba_5",
-    "color": "#A873FF"
-  },
-  {
-    "id": 3.105,
-    "parent": 2.031,
-    "value": 0.2,
-    "name": "LSX Nkx2-1 Gaba_1",
-    "color": "#CC5CAC"
-  },
-  {
-    "id": 3.106,
-    "parent": 2.031,
-    "value": 0.2,
-    "name": "LSX Nkx2-1 Gaba_2",
-    "color": "#CC0072"
-  },
-  {
-    "id": 3.107,
-    "parent": 2.031,
-    "value": 0.2,
-    "name": "LSX Nkx2-1 Gaba_3",
-    "color": "#0021FF"
-  },
-  {
-    "id": 3.108,
-    "parent": 2.031,
-    "value": 0.2,
-    "name": "LSX Nkx2-1 Gaba_4",
-    "color": "#8CCC7A"
-  },
-  {
-    "id": 3.109,
-    "parent": 2.031,
-    "value": 0.2,
-    "name": "LSX Nkx2-1 Gaba_5",
-    "color": "#51FF26"
-  },
-  {
-    "id": 3.11,
-    "parent": 2.031,
-    "value": 0.2,
-    "name": "LSX Nkx2-1 Gaba_6",
-    "color": "#2E3366"
-  },
-  {
-    "id": 3.111,
-    "parent": 2.031,
-    "value": 0.2,
-    "name": "LSX Nkx2-1 Gaba_7",
-    "color": "#5F663D"
-  },
-  {
-    "id": 3.112,
-    "parent": 2.031,
-    "value": 0.2,
-    "name": "LSX Nkx2-1 Gaba_8",
-    "color": "#0F665B"
-  },
-  {
-    "id": 3.113,
-    "parent": 2.031,
-    "value": 0.2,
-    "name": "LSX Nkx2-1 Gaba_9",
-    "color": "#1FCCAD"
-  },
-  {
-    "id": 3.114,
-    "parent": 2.031,
-    "value": 0.2,
-    "name": "LSX Nkx2-1 Gaba_10",
-    "color": "#663D5C"
-  },
-  {
-    "id": 3.115,
-    "parent": 2.031,
-    "value": 0.2,
-    "name": "LSX Nkx2-1 Gaba_11",
-    "color": "#73C9FF"
-  },
-  {
-    "id": 3.116,
-    "parent": 2.032,
-    "value": 0.2,
-    "name": "LSX Prdm12 Zeb2 Gaba_1",
-    "color": "#88FF73"
-  },
-  {
-    "id": 3.117,
-    "parent": 2.032,
-    "value": 0.2,
-    "name": "LSX Prdm12 Zeb2 Gaba_2",
-    "color": "#5E3D66"
-  },
-  {
-    "id": 3.118,
-    "parent": 2.032,
-    "value": 0.2,
-    "name": "LSX Prdm12 Zeb2 Gaba_3",
-    "color": "#2E6630"
-  },
-  {
-    "id": 3.119,
-    "parent": 2.032,
-    "value": 0.2,
-    "name": "LSX Prdm12 Zeb2 Gaba_4",
-    "color": "#991784"
-  },
-  {
-    "id": 3.12,
-    "parent": 2.032,
-    "value": 0.2,
-    "name": "LSX Prdm12 Zeb2 Gaba_5",
-    "color": "#500F66"
-  },
-  {
-    "id": 3.121,
-    "parent": 2.033,
-    "value": 0.2,
-    "name": "LSX Prdm12 Slit2 Gaba_1",
-    "color": "#FF739D"
-  },
-  {
-    "id": 3.122,
-    "parent": 2.033,
-    "value": 0.2,
-    "name": "LSX Prdm12 Slit2 Gaba_2",
-    "color": "#CC7A00"
-  },
-  {
-    "id": 3.123,
-    "parent": 2.033,
-    "value": 0.2,
-    "name": "LSX Prdm12 Slit2 Gaba_3",
-    "color": "#005F99"
-  },
-  {
-    "id": 3.124,
-    "parent": 2.033,
-    "value": 0.2,
-    "name": "LSX Prdm12 Slit2 Gaba_4",
-    "color": "#FF73C4"
-  },
-  {
-    "id": 3.125,
-    "parent": 2.033,
-    "value": 0.2,
-    "name": "LSX Prdm12 Slit2 Gaba_5",
-    "color": "#A8FF00"
-  },
-  {
-    "id": 3.126,
-    "parent": 2.034,
-    "value": 0.2,
-    "name": "LSX Sall3 Lmo1 Gaba_1",
-    "color": "#CC002F"
-  },
-  {
-    "id": 3.127,
-    "parent": 2.034,
-    "value": 0.2,
-    "name": "LSX Sall3 Lmo1 Gaba_2",
-    "color": "#C17ACC"
-  },
-  {
-    "id": 3.128,
-    "parent": 2.034,
-    "value": 0.2,
-    "name": "LSX Sall3 Lmo1 Gaba_3",
-    "color": "#AE1FCC"
-  },
-  {
-    "id": 3.129,
-    "parent": 2.034,
-    "value": 0.2,
-    "name": "LSX Sall3 Lmo1 Gaba_4",
-    "color": "#641799"
-  },
-  {
-    "id": 3.13,
-    "parent": 2.034,
-    "value": 0.2,
-    "name": "LSX Sall3 Lmo1 Gaba_5",
-    "color": "#B91FCC"
-  },
-  {
-    "id": 3.131,
-    "parent": 2.034,
-    "value": 0.2,
-    "name": "LSX Sall3 Lmo1 Gaba_6",
-    "color": "#7ACCCC"
-  },
-  {
-    "id": 3.132,
-    "parent": 2.035,
-    "value": 0.2,
-    "name": "MEA-BST Sox6 Gaba_1",
-    "color": "#3DCC00"
-  },
-  {
-    "id": 3.133,
-    "parent": 2.035,
-    "value": 0.2,
-    "name": "MEA-BST Sox6 Gaba_2",
-    "color": "#FF2642"
-  },
-  {
-    "id": 3.134,
-    "parent": 2.035,
-    "value": 0.2,
-    "name": "MEA-BST Sox6 Gaba_3",
-    "color": "#3D6664"
-  },
-  {
-    "id": 3.135,
-    "parent": 2.035,
-    "value": 0.2,
-    "name": "MEA-BST Sox6 Gaba_4",
-    "color": "#831FCC"
-  },
-  {
-    "id": 3.136,
-    "parent": 2.035,
-    "value": 0.2,
-    "name": "MEA-BST Sox6 Gaba_5",
-    "color": "#855C99"
-  },
-  {
-    "id": 3.137,
-    "parent": 2.035,
-    "value": 0.2,
-    "name": "MEA-BST Sox6 Gaba_6",
-    "color": "#4DAAFF"
-  },
-  {
-    "id": 3.138,
-    "parent": 2.035,
-    "value": 0.2,
-    "name": "MEA-BST Sox6 Gaba_7",
-    "color": "#CC9100"
-  },
-  {
-    "id": 3.139,
-    "parent": 2.035,
-    "value": 0.2,
-    "name": "MEA-BST Sox6 Gaba_8",
-    "color": "#8F9900"
-  },
-  {
-    "id": 3.14,
-    "parent": 2.035,
-    "value": 0.2,
-    "name": "MEA-BST Sox6 Gaba_9",
-    "color": "#FF73AD"
-  },
-  {
-    "id": 3.141,
-    "parent": 2.035,
-    "value": 0.2,
-    "name": "MEA-BST Sox6 Gaba_10",
-    "color": "#CCBF5C"
-  },
-  {
-    "id": 3.142,
-    "parent": 2.036,
-    "value": 0.2,
-    "name": "MEA-BST Lhx6 Sp9 Gaba_1",
-    "color": "#4DFF55"
-  },
-  {
-    "id": 3.143,
-    "parent": 2.036,
-    "value": 0.2,
-    "name": "MEA-BST Lhx6 Sp9 Gaba_2",
-    "color": "#665B3D"
-  },
-  {
-    "id": 3.144,
-    "parent": 2.036,
-    "value": 0.2,
-    "name": "MEA-BST Lhx6 Sp9 Gaba_3",
-    "color": "#1FCC87"
-  },
-  {
-    "id": 3.145,
-    "parent": 2.036,
-    "value": 0.2,
-    "name": "MEA-BST Lhx6 Sp9 Gaba_4",
-    "color": "#26FFBA"
-  },
-  {
-    "id": 3.146,
-    "parent": 2.036,
-    "value": 0.2,
-    "name": "MEA-BST Lhx6 Sp9 Gaba_5",
-    "color": "#FFCA00"
-  },
-  {
-    "id": 3.147,
-    "parent": 2.036,
-    "value": 0.2,
-    "name": "MEA-BST Lhx6 Sp9 Gaba_6",
-    "color": "#CC1F43"
-  },
-  {
-    "id": 3.148,
-    "parent": 2.036,
-    "value": 0.2,
-    "name": "MEA-BST Lhx6 Sp9 Gaba_7",
-    "color": "#A04DFF"
-  },
-  {
-    "id": 3.149,
-    "parent": 2.037,
-    "value": 0.2,
-    "name": "MEA-BST Lhx6 Nr2e1 Gaba_1",
-    "color": "#995C6A"
-  },
-  {
-    "id": 3.15,
-    "parent": 2.037,
-    "value": 0.2,
-    "name": "MEA-BST Lhx6 Nr2e1 Gaba_2",
-    "color": "#FFCE4D"
-  },
-  {
-    "id": 3.151,
-    "parent": 2.037,
-    "value": 0.2,
-    "name": "MEA-BST Lhx6 Nr2e1 Gaba_3",
-    "color": "#3D6656"
-  },
-  {
-    "id": 3.152,
-    "parent": 2.038,
-    "value": 0.2,
-    "name": "MEA-BST Lhx6 Nfib Gaba_1",
-    "color": "#96995C"
-  },
-  {
-    "id": 3.153,
-    "parent": 2.038,
-    "value": 0.2,
-    "name": "MEA-BST Lhx6 Nfib Gaba_2",
-    "color": "#FF3026"
-  },
-  {
-    "id": 3.154,
-    "parent": 2.038,
-    "value": 0.2,
-    "name": "MEA-BST Lhx6 Nfib Gaba_3",
-    "color": "#A400FF"
-  },
-  {
-    "id": 3.155,
-    "parent": 2.038,
-    "value": 0.2,
-    "name": "MEA-BST Lhx6 Nfib Gaba_4",
-    "color": "#3D6644"
-  },
-  {
-    "id": 3.156,
-    "parent": 2.038,
-    "value": 0.2,
-    "name": "MEA-BST Lhx6 Nfib Gaba_5",
-    "color": "#6F26FF"
-  },
-  {
-    "id": 3.157,
-    "parent": 2.038,
-    "value": 0.2,
-    "name": "MEA-BST Lhx6 Nfib Gaba_6",
-    "color": "#270099"
-  },
-  {
-    "id": 3.158,
-    "parent": 2.039,
-    "value": 0.2,
-    "name": "CEA-BST Gal Avp Gaba_1",
-    "color": "#99001F"
-  },
-  {
-    "id": 3.159,
-    "parent": 2.04,
-    "value": 0.2,
-    "name": "SI-MA-ACB Ebf1 Bnc2 Gaba_1",
-    "color": "#664E00"
-  },
-  {
-    "id": 3.16,
-    "parent": 2.04,
-    "value": 0.2,
-    "name": "SI-MA-ACB Ebf1 Bnc2 Gaba_2",
-    "color": "#38662E"
-  },
-  {
-    "id": 3.161,
-    "parent": 2.04,
-    "value": 0.2,
-    "name": "SI-MA-ACB Ebf1 Bnc2 Gaba_3",
-    "color": "#660F30"
-  },
-  {
-    "id": 3.162,
-    "parent": 2.041,
-    "value": 0.2,
-    "name": "CEA-BST Six3 Cyp26b1 Gaba_1",
-    "color": "#FF934D"
-  },
-  {
-    "id": 3.163,
-    "parent": 2.041,
-    "value": 0.2,
-    "name": "CEA-BST Six3 Cyp26b1 Gaba_2",
-    "color": "#27CC00"
-  },
-  {
-    "id": 3.164,
-    "parent": 2.041,
-    "value": 0.2,
-    "name": "CEA-BST Six3 Cyp26b1 Gaba_3",
-    "color": "#99F7FF"
-  },
-  {
-    "id": 3.165,
-    "parent": 2.041,
-    "value": 0.2,
-    "name": "CEA-BST Six3 Cyp26b1 Gaba_4",
-    "color": "#76992E"
-  },
-  {
-    "id": 3.166,
-    "parent": 2.041,
-    "value": 0.2,
-    "name": "CEA-BST Six3 Cyp26b1 Gaba_5",
-    "color": "#336600"
-  },
-  {
-    "id": 3.167,
-    "parent": 2.041,
-    "value": 0.2,
-    "name": "CEA-BST Six3 Cyp26b1 Gaba_6",
-    "color": "#1F664F"
-  },
-  {
-    "id": 3.168,
-    "parent": 2.042,
-    "value": 0.2,
-    "name": "ACB-BST-FS D1 Gaba_1",
-    "color": "#FFFB73"
-  },
-  {
-    "id": 3.169,
-    "parent": 2.042,
-    "value": 0.2,
-    "name": "ACB-BST-FS D1 Gaba_2",
-    "color": "#469917"
-  },
-  {
-    "id": 3.17,
-    "parent": 2.042,
-    "value": 0.2,
-    "name": "ACB-BST-FS D1 Gaba_3",
-    "color": "#FA99FF"
-  },
-  {
-    "id": 3.171,
-    "parent": 2.043,
-    "value": 0.2,
-    "name": "SI-MPO-LPO Lhx8 Gaba_1",
-    "color": "#664A0F"
-  },
-  {
-    "id": 3.172,
-    "parent": 2.043,
-    "value": 0.2,
-    "name": "SI-MPO-LPO Lhx8 Gaba_2",
-    "color": "#994591"
-  },
-  {
-    "id": 3.173,
-    "parent": 2.043,
-    "value": 0.2,
-    "name": "SI-MPO-LPO Lhx8 Gaba_3",
-    "color": "#998200"
-  },
-  {
-    "id": 3.174,
-    "parent": 2.043,
-    "value": 0.2,
-    "name": "SI-MPO-LPO Lhx8 Gaba_4",
-    "color": "#006ECC"
-  },
-  {
-    "id": 3.175,
-    "parent": 2.043,
-    "value": 0.2,
-    "name": "SI-MPO-LPO Lhx8 Gaba_5",
-    "color": "#612E66"
-  },
-  {
-    "id": 3.176,
-    "parent": 2.043,
-    "value": 0.2,
-    "name": "SI-MPO-LPO Lhx8 Gaba_6",
-    "color": "#FCFF00"
-  },
-  {
-    "id": 3.177,
-    "parent": 2.044,
-    "value": 0.2,
-    "name": "MPO-ADP Lhx8 Gaba_1",
-    "color": "#FFE24D"
-  },
-  {
-    "id": 3.178,
-    "parent": 2.044,
-    "value": 0.2,
-    "name": "MPO-ADP Lhx8 Gaba_2",
-    "color": "#6E995C"
-  },
-  {
-    "id": 3.179,
-    "parent": 2.044,
-    "value": 0.2,
-    "name": "MPO-ADP Lhx8 Gaba_3",
-    "color": "#003DFF"
-  },
-  {
-    "id": 3.18,
-    "parent": 2.044,
-    "value": 0.2,
-    "name": "MPO-ADP Lhx8 Gaba_4",
-    "color": "#FF0042"
-  },
-  {
-    "id": 3.181,
-    "parent": 2.044,
-    "value": 0.2,
-    "name": "MPO-ADP Lhx8 Gaba_5",
-    "color": "#FF738E"
-  },
-  {
-    "id": 3.182,
-    "parent": 2.045,
-    "value": 0.2,
-    "name": "MPN-MPO-LPO Lhx6 Zfhx3 Gaba_1",
-    "color": "#99BFFF"
-  },
-  {
-    "id": 3.183,
-    "parent": 2.045,
-    "value": 0.2,
-    "name": "MPN-MPO-LPO Lhx6 Zfhx3 Gaba_2",
-    "color": "#CC3DC6"
-  },
-  {
-    "id": 3.184,
-    "parent": 2.046,
-    "value": 0.2,
-    "name": "BST Tac2 Gaba_1",
-    "color": "#7E9900"
-  },
-  {
-    "id": 3.185,
-    "parent": 2.046,
-    "value": 0.2,
-    "name": "BST Tac2 Gaba_2",
-    "color": "#3D661F"
-  },
-  {
-    "id": 3.186,
-    "parent": 2.047,
-    "value": 0.2,
-    "name": "TMv-PMv Tbx3 Hist-Gaba_1",
-    "color": "#2D1799"
-  },
-  {
-    "id": 3.187,
-    "parent": 2.047,
-    "value": 0.2,
-    "name": "TMv-PMv Tbx3 Hist-Gaba_2",
-    "color": "#99FFFC"
-  },
-  {
-    "id": 3.188,
-    "parent": 2.048,
-    "value": 0.2,
-    "name": "RT-ZI Gnb3 Gaba_1",
-    "color": "#93FF4D"
-  },
-  {
-    "id": 3.189,
-    "parent": 2.048,
-    "value": 0.2,
-    "name": "RT-ZI Gnb3 Gaba_2",
-    "color": "#29CC1F"
-  },
-  {
-    "id": 3.19,
-    "parent": 2.048,
-    "value": 0.2,
-    "name": "RT-ZI Gnb3 Gaba_3",
-    "color": "#179930"
-  },
-  {
-    "id": 3.191,
-    "parent": 2.048,
-    "value": 0.2,
-    "name": "RT-ZI Gnb3 Gaba_4",
-    "color": "#90995C"
-  },
-  {
-    "id": 3.192,
-    "parent": 2.048,
-    "value": 0.2,
-    "name": "RT-ZI Gnb3 Gaba_5",
-    "color": "#00FF8D"
-  },
-  {
-    "id": 3.193,
-    "parent": 2.049,
-    "value": 0.2,
-    "name": "SCH Six6 Cdc14a Gaba_1",
-    "color": "#66110F"
-  },
-  {
-    "id": 3.194,
-    "parent": 2.049,
-    "value": 0.2,
-    "name": "SCH Six6 Cdc14a Gaba_2",
-    "color": "#961FCC"
-  },
-  {
-    "id": 3.195,
-    "parent": 2.049,
-    "value": 0.2,
-    "name": "SCH Six6 Cdc14a Gaba_3",
-    "color": "#FF73EA"
-  },
-  {
-    "id": 3.196,
-    "parent": 2.05,
-    "value": 0.2,
-    "name": "DMH Prdm13 Gaba_1",
-    "color": "#75995C"
-  },
-  {
-    "id": 3.197,
-    "parent": 2.05,
-    "value": 0.2,
-    "name": "DMH Prdm13 Gaba_2",
-    "color": "#854599"
-  },
-  {
-    "id": 3.198,
-    "parent": 2.051,
-    "value": 0.2,
-    "name": "PVHd Gsc Gaba_1",
-    "color": "#9D7ACC"
-  },
-  {
-    "id": 3.199,
-    "parent": 2.052,
-    "value": 0.2,
-    "name": "PVHd-SBPV Six3 Prox1 Gaba_1",
-    "color": "#663800"
-  },
-  {
-    "id": 3.2,
-    "parent": 2.052,
-    "value": 0.2,
-    "name": "PVHd-SBPV Six3 Prox1 Gaba_2",
-    "color": "#661F47"
-  },
-  {
-    "id": 3.201,
-    "parent": 2.052,
-    "value": 0.2,
-    "name": "PVHd-SBPV Six3 Prox1 Gaba_3",
-    "color": "#48663D"
-  },
-  {
-    "id": 3.202,
-    "parent": 2.052,
-    "value": 0.2,
-    "name": "PVHd-SBPV Six3 Prox1 Gaba_4",
-    "color": "#1FCCC0"
-  },
-  {
-    "id": 3.203,
-    "parent": 2.053,
-    "value": 0.2,
-    "name": "AHN Onecut3 Gaba_1",
-    "color": "#7AB1CC"
-  },
-  {
-    "id": 3.204,
-    "parent": 2.053,
-    "value": 0.2,
-    "name": "AHN Onecut3 Gaba_2",
-    "color": "#036600"
-  },
-  {
-    "id": 3.205,
-    "parent": 2.053,
-    "value": 0.2,
-    "name": "AHN Onecut3 Gaba_3",
-    "color": "#1F1799"
-  },
-  {
-    "id": 3.206,
-    "parent": 2.054,
-    "value": 0.2,
-    "name": "ZI Pax6 Gaba_1",
-    "color": "#CC7A86"
-  },
-  {
-    "id": 3.207,
-    "parent": 2.054,
-    "value": 0.2,
-    "name": "ZI Pax6 Gaba_2",
-    "color": "#CC5A3D"
-  },
-  {
-    "id": 3.208,
-    "parent": 2.054,
-    "value": 0.2,
-    "name": "ZI Pax6 Gaba_3",
-    "color": "#52660F"
-  },
-  {
-    "id": 3.209,
-    "parent": 2.054,
-    "value": 0.2,
-    "name": "ZI Pax6 Gaba_4",
-    "color": "#73FF9B"
-  },
-  {
-    "id": 3.21,
-    "parent": 2.054,
-    "value": 0.2,
-    "name": "ZI Pax6 Gaba_5",
-    "color": "#00FF1D"
-  },
-  {
-    "id": 3.211,
-    "parent": 2.054,
-    "value": 0.2,
-    "name": "ZI Pax6 Gaba_6",
-    "color": "#453DCC"
-  },
-  {
-    "id": 3.212,
-    "parent": 2.054,
-    "value": 0.2,
-    "name": "ZI Pax6 Gaba_7",
-    "color": "#299917"
-  },
-  {
-    "id": 3.213,
-    "parent": 2.054,
-    "value": 0.2,
-    "name": "ZI Pax6 Gaba_8",
-    "color": "#99457F"
-  },
-  {
-    "id": 3.214,
-    "parent": 2.054,
-    "value": 0.2,
-    "name": "ZI Pax6 Gaba_9",
-    "color": "#4A1FCC"
-  },
-  {
-    "id": 3.215,
-    "parent": 2.054,
-    "value": 0.2,
-    "name": "ZI Pax6 Gaba_10",
-    "color": "#FFAF99"
-  },
-  {
-    "id": 3.216,
-    "parent": 2.054,
-    "value": 0.2,
-    "name": "ZI Pax6 Gaba_11",
-    "color": "#7C4599"
-  },
-  {
-    "id": 3.217,
-    "parent": 2.055,
-    "value": 0.2,
-    "name": "DMH-LHA Gsx1 Gaba_1",
-    "color": "#0F662C"
-  },
-  {
-    "id": 3.218,
-    "parent": 2.055,
-    "value": 0.2,
-    "name": "DMH-LHA Gsx1 Gaba_2",
-    "color": "#483D66"
-  },
-  {
-    "id": 3.219,
-    "parent": 2.055,
-    "value": 0.2,
-    "name": "DMH-LHA Gsx1 Gaba_3",
-    "color": "#466600"
-  },
-  {
-    "id": 3.22,
-    "parent": 2.055,
-    "value": 0.2,
-    "name": "DMH-LHA Gsx1 Gaba_4",
-    "color": "#73E7FF"
-  },
-  {
-    "id": 3.221,
-    "parent": 2.056,
-    "value": 0.2,
-    "name": "PVHd-DMH Lhx6 Gaba_1",
-    "color": "#859945"
-  },
-  {
-    "id": 3.222,
-    "parent": 2.056,
-    "value": 0.2,
-    "name": "PVHd-DMH Lhx6 Gaba_2",
-    "color": "#FF5A00"
-  },
-  {
-    "id": 3.223,
-    "parent": 2.056,
-    "value": 0.2,
-    "name": "PVHd-DMH Lhx6 Gaba_3",
-    "color": "#5726FF"
-  },
-  {
-    "id": 3.224,
-    "parent": 2.056,
-    "value": 0.2,
-    "name": "PVHd-DMH Lhx6 Gaba_4",
-    "color": "#7B9945"
-  },
-  {
-    "id": 3.225,
-    "parent": 2.057,
-    "value": 0.2,
-    "name": "TU-ARH Otp Six6 Gaba_1",
-    "color": "#CC2100"
-  },
-  {
-    "id": 3.226,
-    "parent": 2.057,
-    "value": 0.2,
-    "name": "TU-ARH Otp Six6 Gaba_2",
-    "color": "#4F00FF"
-  },
-  {
-    "id": 3.227,
-    "parent": 2.057,
-    "value": 0.2,
-    "name": "TU-ARH Otp Six6 Gaba_3",
-    "color": "#1F3666"
-  },
-  {
-    "id": 3.228,
-    "parent": 2.058,
-    "value": 0.2,
-    "name": "TMd-DMH Foxd2 Gaba_1",
-    "color": "#DB4DFF"
-  },
-  {
-    "id": 3.229,
-    "parent": 2.059,
-    "value": 0.2,
-    "name": "PVpo-VMPO-MPN Hmx2 Gaba_1",
-    "color": "#3DCCA6"
-  },
-  {
-    "id": 3.23,
-    "parent": 2.059,
-    "value": 0.2,
-    "name": "PVpo-VMPO-MPN Hmx2 Gaba_2",
-    "color": "#26B4FF"
-  },
-  {
-    "id": 3.231,
-    "parent": 2.059,
-    "value": 0.2,
-    "name": "PVpo-VMPO-MPN Hmx2 Gaba_3",
-    "color": "#990095"
-  },
-  {
-    "id": 3.232,
-    "parent": 2.059,
-    "value": 0.2,
-    "name": "PVpo-VMPO-MPN Hmx2 Gaba_4",
-    "color": "#00CC8D"
-  },
-  {
-    "id": 3.233,
-    "parent": 2.059,
-    "value": 0.2,
-    "name": "PVpo-VMPO-MPN Hmx2 Gaba_5",
-    "color": "#2E8F99"
-  },
-  {
-    "id": 3.234,
-    "parent": 2.06,
-    "value": 0.2,
-    "name": "DMH Hmx2 Gaba_1",
-    "color": "#994550"
-  },
-  {
-    "id": 3.235,
-    "parent": 2.06,
-    "value": 0.2,
-    "name": "DMH Hmx2 Gaba_2",
-    "color": "#734599"
-  },
-  {
-    "id": 3.236,
-    "parent": 2.06,
-    "value": 0.2,
-    "name": "DMH Hmx2 Gaba_3",
-    "color": "#995C5C"
-  },
-  {
-    "id": 3.237,
-    "parent": 2.06,
-    "value": 0.2,
-    "name": "DMH Hmx2 Gaba_4",
-    "color": "#4DFFF2"
-  },
-  {
-    "id": 3.238,
-    "parent": 2.06,
-    "value": 0.2,
-    "name": "DMH Hmx2 Gaba_5",
-    "color": "#738BFF"
-  },
-  {
-    "id": 3.239,
-    "parent": 2.06,
-    "value": 0.2,
-    "name": "DMH Hmx2 Gaba_6",
-    "color": "#FFA499"
-  },
-  {
-    "id": 3.24,
-    "parent": 2.061,
-    "value": 0.2,
-    "name": "ARH-PVp Tbx3 Gaba_1",
-    "color": "#171E99"
-  },
-  {
-    "id": 3.241,
-    "parent": 2.061,
-    "value": 0.2,
-    "name": "ARH-PVp Tbx3 Gaba_2",
-    "color": "#B799FF"
-  },
-  {
-    "id": 3.242,
-    "parent": 2.061,
-    "value": 0.2,
-    "name": "ARH-PVp Tbx3 Gaba_3",
-    "color": "#AF7ACC"
-  },
-  {
-    "id": 3.243,
-    "parent": 2.062,
-    "value": 0.2,
-    "name": "LGv-ZI Otx2 Gaba_1",
-    "color": "#66453D"
-  },
-  {
-    "id": 3.244,
-    "parent": 2.062,
-    "value": 0.2,
-    "name": "LGv-ZI Otx2 Gaba_2",
-    "color": "#997F45"
-  },
-  {
-    "id": 3.245,
-    "parent": 2.062,
-    "value": 0.2,
-    "name": "LGv-ZI Otx2 Gaba_3",
-    "color": "#5C9199"
-  },
-  {
-    "id": 3.246,
-    "parent": 2.062,
-    "value": 0.2,
-    "name": "LGv-ZI Otx2 Gaba_4",
-    "color": "#5C6299"
-  },
-  {
-    "id": 3.247,
-    "parent": 2.062,
-    "value": 0.2,
-    "name": "LGv-ZI Otx2 Gaba_5",
-    "color": "#26FFA3"
-  },
-  {
-    "id": 3.248,
-    "parent": 2.063,
-    "value": 0.2,
-    "name": "BST-po Iigp1 Glut_1",
-    "color": "#3D5F66"
-  },
-  {
-    "id": 3.249,
-    "parent": 2.064,
-    "value": 0.2,
-    "name": "TRS-BAC Sln Glut_1",
-    "color": "#8E4599"
-  },
-  {
-    "id": 3.25,
-    "parent": 2.064,
-    "value": 0.2,
-    "name": "TRS-BAC Sln Glut_2",
-    "color": "#CC1FC8"
-  },
-  {
-    "id": 3.251,
-    "parent": 2.065,
-    "value": 0.2,
-    "name": "MEA-COA-BMA Ccdc42 Glut_1",
-    "color": "#7F9917"
-  },
-  {
-    "id": 3.252,
-    "parent": 2.065,
-    "value": 0.2,
-    "name": "MEA-COA-BMA Ccdc42 Glut_2",
-    "color": "#FF26D1"
-  },
-  {
-    "id": 3.253,
-    "parent": 2.065,
-    "value": 0.2,
-    "name": "MEA-COA-BMA Ccdc42 Glut_3",
-    "color": "#BDFF99"
-  },
-  {
-    "id": 3.254,
-    "parent": 2.065,
-    "value": 0.2,
-    "name": "MEA-COA-BMA Ccdc42 Glut_4",
-    "color": "#0059FF"
-  },
-  {
-    "id": 3.255,
-    "parent": 2.066,
-    "value": 0.2,
-    "name": "COAa-PAA-MEA Barhl2 Glut_1",
-    "color": "#992417"
-  },
-  {
-    "id": 3.256,
-    "parent": 2.066,
-    "value": 0.2,
-    "name": "COAa-PAA-MEA Barhl2 Glut_2",
-    "color": "#3B992E"
-  },
-  {
-    "id": 3.257,
-    "parent": 2.066,
-    "value": 0.2,
-    "name": "COAa-PAA-MEA Barhl2 Glut_3",
-    "color": "#FF4D9A"
-  },
-  {
-    "id": 3.258,
-    "parent": 2.066,
-    "value": 0.2,
-    "name": "COAa-PAA-MEA Barhl2 Glut_4",
-    "color": "#663E2E"
-  },
-  {
-    "id": 3.259,
-    "parent": 2.066,
-    "value": 0.2,
-    "name": "COAa-PAA-MEA Barhl2 Glut_5",
-    "color": "#7973FF"
-  },
-  {
-    "id": 3.26,
-    "parent": 2.066,
-    "value": 0.2,
-    "name": "COAa-PAA-MEA Barhl2 Glut_6",
-    "color": "#CCC83D"
-  },
-  {
-    "id": 3.261,
-    "parent": 2.066,
-    "value": 0.2,
-    "name": "COAa-PAA-MEA Barhl2 Glut_7",
-    "color": "#7ACC9F"
-  },
-  {
-    "id": 3.262,
-    "parent": 2.066,
-    "value": 0.2,
-    "name": "COAa-PAA-MEA Barhl2 Glut_8",
-    "color": "#CBCC7A"
-  },
-  {
-    "id": 3.263,
-    "parent": 2.066,
-    "value": 0.2,
-    "name": "COAa-PAA-MEA Barhl2 Glut_9",
-    "color": "#CC5C62"
-  },
-  {
-    "id": 3.264,
-    "parent": 2.067,
-    "value": 0.2,
-    "name": "MS-SF Bsx Glut_1",
-    "color": "#663D4A"
-  },
-  {
-    "id": 3.265,
-    "parent": 2.068,
-    "value": 0.2,
-    "name": "AVPV-MEPO-SFO Tbr1 Glut_1",
-    "color": "#CC3D97"
-  },
-  {
-    "id": 3.266,
-    "parent": 2.068,
-    "value": 0.2,
-    "name": "AVPV-MEPO-SFO Tbr1 Glut_2",
-    "color": "#0200CC"
-  },
-  {
-    "id": 3.267,
-    "parent": 2.068,
-    "value": 0.2,
-    "name": "AVPV-MEPO-SFO Tbr1 Glut_3",
-    "color": "#99173D"
-  },
-  {
-    "id": 3.268,
-    "parent": 2.068,
-    "value": 0.2,
-    "name": "AVPV-MEPO-SFO Tbr1 Glut_4",
-    "color": "#2E4C66"
-  },
-  {
-    "id": 3.269,
-    "parent": 2.068,
-    "value": 0.2,
-    "name": "AVPV-MEPO-SFO Tbr1 Glut_5",
-    "color": "#5C661F"
-  },
-  {
-    "id": 3.27,
-    "parent": 2.069,
-    "value": 0.2,
-    "name": "LHA Barhl2 Glut_1",
-    "color": "#CC3DB6"
-  },
-  {
-    "id": 3.271,
-    "parent": 2.069,
-    "value": 0.2,
-    "name": "LHA Barhl2 Glut_2",
-    "color": "#B500CC"
-  },
-  {
-    "id": 3.272,
-    "parent": 2.069,
-    "value": 0.2,
-    "name": "LHA Barhl2 Glut_3",
-    "color": "#8C5C99"
-  },
-  {
-    "id": 3.273,
-    "parent": 2.07,
-    "value": 0.2,
-    "name": "ADP-MPO Trp73 Glut_1",
-    "color": "#CC5CB8"
-  },
-  {
-    "id": 3.274,
-    "parent": 2.07,
-    "value": 0.2,
-    "name": "ADP-MPO Trp73 Glut_2",
-    "color": "#FF005E"
-  },
-  {
-    "id": 3.275,
-    "parent": 2.07,
-    "value": 0.2,
-    "name": "ADP-MPO Trp73 Glut_3",
-    "color": "#1D0066"
-  },
-  {
-    "id": 3.276,
-    "parent": 2.071,
-    "value": 0.2,
-    "name": "SI-MA-LPO-LHA Skor1 Glut_1",
-    "color": "#17995A"
-  },
-  {
-    "id": 3.277,
-    "parent": 2.071,
-    "value": 0.2,
-    "name": "SI-MA-LPO-LHA Skor1 Glut_2",
-    "color": "#0F5466"
-  },
-  {
-    "id": 3.278,
-    "parent": 2.071,
-    "value": 0.2,
-    "name": "SI-MA-LPO-LHA Skor1 Glut_3",
-    "color": "#FF4DE9"
-  },
-  {
-    "id": 3.279,
-    "parent": 2.071,
-    "value": 0.2,
-    "name": "SI-MA-LPO-LHA Skor1 Glut_4",
-    "color": "#FFBB99"
-  },
-  {
-    "id": 3.28,
-    "parent": 2.071,
-    "value": 0.2,
-    "name": "SI-MA-LPO-LHA Skor1 Glut_5",
-    "color": "#99B4FF"
-  },
-  {
-    "id": 3.281,
-    "parent": 2.071,
-    "value": 0.2,
-    "name": "SI-MA-LPO-LHA Skor1 Glut_6",
-    "color": "#CCA93D"
-  },
-  {
-    "id": 3.282,
-    "parent": 2.071,
-    "value": 0.2,
-    "name": "SI-MA-LPO-LHA Skor1 Glut_7",
-    "color": "#5C660F"
-  },
-  {
-    "id": 3.283,
-    "parent": 2.071,
-    "value": 0.2,
-    "name": "SI-MA-LPO-LHA Skor1 Glut_8",
-    "color": "#459099"
-  },
-  {
-    "id": 3.284,
-    "parent": 2.072,
-    "value": 0.2,
-    "name": "LHA-MEA Otp Glut_1",
-    "color": "#997A17"
-  },
-  {
-    "id": 3.285,
-    "parent": 2.072,
-    "value": 0.2,
-    "name": "LHA-MEA Otp Glut_2",
-    "color": "#947ACC"
-  },
-  {
-    "id": 3.286,
-    "parent": 2.073,
-    "value": 0.2,
-    "name": "DMH Nkx2-4 Glut_1",
-    "color": "#FF0026"
-  },
-  {
-    "id": 3.287,
-    "parent": 2.073,
-    "value": 0.2,
-    "name": "DMH Nkx2-4 Glut_2",
-    "color": "#7ACCC3"
-  },
-  {
-    "id": 3.288,
-    "parent": 2.074,
-    "value": 0.2,
-    "name": "MPN-MPO-PVpo Hmx2 Glut_1",
-    "color": "#FF262A"
-  },
-  {
-    "id": 3.289,
-    "parent": 2.074,
-    "value": 0.2,
-    "name": "MPN-MPO-PVpo Hmx2 Glut_2",
-    "color": "#CC009F"
-  },
-  {
-    "id": 3.29,
-    "parent": 2.074,
-    "value": 0.2,
-    "name": "MPN-MPO-PVpo Hmx2 Glut_3",
-    "color": "#00662A"
-  },
-  {
-    "id": 3.291,
-    "parent": 2.074,
-    "value": 0.2,
-    "name": "MPN-MPO-PVpo Hmx2 Glut_4",
-    "color": "#5A0F66"
-  },
-  {
-    "id": 3.292,
-    "parent": 2.074,
-    "value": 0.2,
-    "name": "MPN-MPO-PVpo Hmx2 Glut_5",
-    "color": "#FF8F26"
-  },
-  {
-    "id": 3.293,
-    "parent": 2.074,
-    "value": 0.2,
-    "name": "MPN-MPO-PVpo Hmx2 Glut_6",
-    "color": "#454F99"
-  },
-  {
-    "id": 3.294,
-    "parent": 2.075,
-    "value": 0.2,
-    "name": "DMH Hmx2 Glut_1",
-    "color": "#001066"
-  },
-  {
-    "id": 3.295,
-    "parent": 2.075,
-    "value": 0.2,
-    "name": "DMH Hmx2 Glut_2",
-    "color": "#FF00EA"
-  },
-  {
-    "id": 3.296,
-    "parent": 2.076,
-    "value": 0.2,
-    "name": "ARH-PVp Tbx3 Glut_1",
-    "color": "#75CC1F"
-  },
-  {
-    "id": 3.297,
-    "parent": 2.076,
-    "value": 0.2,
-    "name": "ARH-PVp Tbx3 Glut_2",
-    "color": "#660060"
-  },
-  {
-    "id": 3.298,
-    "parent": 2.076,
-    "value": 0.2,
-    "name": "ARH-PVp Tbx3 Glut_3",
-    "color": "#8CFF00"
-  },
-  {
-    "id": 3.299,
-    "parent": 2.076,
-    "value": 0.2,
-    "name": "ARH-PVp Tbx3 Glut_4",
-    "color": "#67995C"
-  },
-  {
-    "id": 3.3,
-    "parent": 2.076,
-    "value": 0.2,
-    "name": "ARH-PVp Tbx3 Glut_5",
-    "color": "#5A2E66"
-  },
-  {
-    "id": 3.301,
-    "parent": 2.077,
-    "value": 0.2,
-    "name": "DMH-LHA Vgll2 Glut_1",
-    "color": "#44663D"
-  },
-  {
-    "id": 3.302,
-    "parent": 2.077,
-    "value": 0.2,
-    "name": "DMH-LHA Vgll2 Glut_2",
-    "color": "#997A5C"
-  },
-  {
-    "id": 3.303,
-    "parent": 2.077,
-    "value": 0.2,
-    "name": "DMH-LHA Vgll2 Glut_3",
-    "color": "#995F5C"
-  },
-  {
-    "id": 3.304,
-    "parent": 2.077,
-    "value": 0.2,
-    "name": "DMH-LHA Vgll2 Glut_4",
-    "color": "#2E6636"
-  },
-  {
-    "id": 3.305,
-    "parent": 2.078,
-    "value": 0.2,
-    "name": "VMH Fezf1 Glut_1",
-    "color": "#66312E"
-  },
-  {
-    "id": 3.306,
-    "parent": 2.078,
-    "value": 0.2,
-    "name": "VMH Fezf1 Glut_2",
-    "color": "#38FF00"
-  },
-  {
-    "id": 3.307,
-    "parent": 2.078,
-    "value": 0.2,
-    "name": "VMH Fezf1 Glut_3",
-    "color": "#C75CCC"
-  },
-  {
-    "id": 3.308,
-    "parent": 2.078,
-    "value": 0.2,
-    "name": "VMH Nr5a1 Glut_1",
-    "color": "#006609"
-  },
-  {
-    "id": 3.309,
-    "parent": 2.078,
-    "value": 0.2,
-    "name": "VMH Nr5a1 Glut_2",
-    "color": "#00CCB9"
-  },
-  {
-    "id": 3.31,
-    "parent": 2.078,
-    "value": 0.2,
-    "name": "VMH Nr5a1 Glut_3",
-    "color": "#089900"
-  },
-  {
-    "id": 3.311,
-    "parent": 2.078,
-    "value": 0.2,
-    "name": "VMH Nr5a1 Glut_4",
-    "color": "#FF4826"
-  },
-  {
-    "id": 3.312,
-    "parent": 2.078,
-    "value": 0.2,
-    "name": "VMH Nr5a1 Glut_5",
-    "color": "#0075FF"
-  },
-  {
-    "id": 3.313,
-    "parent": 2.078,
-    "value": 0.2,
-    "name": "VMH Nr5a1 Glut_6",
-    "color": "#1F663F"
-  },
-  {
-    "id": 3.314,
-    "parent": 2.079,
-    "value": 0.2,
-    "name": "LHA Pmch Glut_1",
-    "color": "#CCB83D"
-  },
-  {
-    "id": 3.315,
-    "parent": 2.079,
-    "value": 0.2,
-    "name": "LHA Pmch Glut_2",
-    "color": "#003266"
-  },
-  {
-    "id": 3.316,
-    "parent": 2.08,
-    "value": 0.2,
-    "name": "PVH-SO-PVa Otp Glut_1",
-    "color": "#00C8CC"
-  },
-  {
-    "id": 3.317,
-    "parent": 2.08,
-    "value": 0.2,
-    "name": "PVH-SO-PVa Otp Glut_2",
-    "color": "#63663D"
-  },
-  {
-    "id": 3.318,
-    "parent": 2.08,
-    "value": 0.2,
-    "name": "PVH-SO-PVa Otp Glut_3",
-    "color": "#A6FF4D"
-  },
-  {
-    "id": 3.319,
-    "parent": 2.08,
-    "value": 0.2,
-    "name": "PVH-SO-PVa Otp Glut_4",
-    "color": "#FF73CB"
-  },
-  {
-    "id": 3.32,
-    "parent": 2.08,
-    "value": 0.2,
-    "name": "PVH-SO-PVa Otp Glut_5",
-    "color": "#827ACC"
-  },
-  {
-    "id": 3.321,
-    "parent": 2.08,
-    "value": 0.2,
-    "name": "PVH-SO-PVa Otp Glut_6",
-    "color": "#BB5CCC"
-  },
-  {
-    "id": 3.322,
-    "parent": 2.081,
-    "value": 0.2,
-    "name": "STN-PSTN Pitx2 Glut_1",
-    "color": "#81992E"
-  },
-  {
-    "id": 3.323,
-    "parent": 2.081,
-    "value": 0.2,
-    "name": "STN-PSTN Pitx2 Glut_2",
-    "color": "#CCBE00"
-  },
-  {
-    "id": 3.324,
-    "parent": 2.081,
-    "value": 0.2,
-    "name": "STN-PSTN Pitx2 Glut_3",
-    "color": "#661F5F"
-  },
-  {
-    "id": 3.325,
-    "parent": 2.081,
-    "value": 0.2,
-    "name": "STN-PSTN Pitx2 Glut_4",
-    "color": "#98FF26"
-  },
-  {
-    "id": 3.326,
-    "parent": 2.081,
-    "value": 0.2,
-    "name": "STN-PSTN Pitx2 Glut_5",
-    "color": "#00994C"
-  },
-  {
-    "id": 3.327,
-    "parent": 2.081,
-    "value": 0.2,
-    "name": "STN-PSTN Pitx2 Glut_6",
-    "color": "#0F2E66"
-  },
-  {
-    "id": 3.328,
-    "parent": 2.081,
-    "value": 0.2,
-    "name": "STN-PSTN Pitx2 Glut_7",
-    "color": "#66581F"
-  },
-  {
-    "id": 3.329,
-    "parent": 2.082,
-    "value": 0.2,
-    "name": "PMv-TMv Pitx2 Glut_1",
-    "color": "#00C9FF"
-  },
-  {
-    "id": 3.33,
-    "parent": 2.082,
-    "value": 0.2,
-    "name": "PMv-TMv Pitx2 Glut_2",
-    "color": "#2E3F66"
-  },
-  {
-    "id": 3.331,
-    "parent": 2.082,
-    "value": 0.2,
-    "name": "PMv-TMv Pitx2 Glut_3",
-    "color": "#660B00"
-  },
-  {
-    "id": 3.332,
-    "parent": 2.083,
-    "value": 0.2,
-    "name": "PH-an Pitx2 Glut_1",
-    "color": "#457499"
-  },
-  {
-    "id": 3.333,
-    "parent": 2.083,
-    "value": 0.2,
-    "name": "PH-an Pitx2 Glut_2",
-    "color": "#66562E"
-  },
-  {
-    "id": 3.334,
-    "parent": 2.084,
-    "value": 0.2,
-    "name": "PH Pitx2 Glut_1",
-    "color": "#00CC49"
-  },
-  {
-    "id": 3.335,
-    "parent": 2.084,
-    "value": 0.2,
-    "name": "PH Pitx2 Glut_2",
-    "color": "#C74DFF"
-  },
-  {
-    "id": 3.336,
-    "parent": 2.085,
-    "value": 0.2,
-    "name": "PH-LHA Foxb1 Glut_1",
-    "color": "#4C661F"
-  },
-  {
-    "id": 3.337,
-    "parent": 2.085,
-    "value": 0.2,
-    "name": "PH-LHA Foxb1 Glut_2",
-    "color": "#3D6640"
-  },
-  {
-    "id": 3.338,
-    "parent": 2.085,
-    "value": 0.2,
-    "name": "PH-LHA Foxb1 Glut_3",
-    "color": "#73FFE8"
-  },
-  {
-    "id": 3.339,
-    "parent": 2.085,
-    "value": 0.2,
-    "name": "PH-LHA Foxb1 Glut_4",
-    "color": "#5C6CCC"
-  },
-  {
-    "id": 3.34,
-    "parent": 2.085,
-    "value": 0.2,
-    "name": "PH-LHA Foxb1 Glut_5",
-    "color": "#4DFFDE"
-  },
-  {
-    "id": 3.341,
-    "parent": 2.085,
-    "value": 0.2,
-    "name": "PH-LHA Foxb1 Glut_6",
-    "color": "#5C9799"
-  },
-  {
-    "id": 3.342,
-    "parent": 2.085,
-    "value": 0.2,
-    "name": "PH-LHA Foxb1 Glut_7",
-    "color": "#66411F"
-  },
-  {
-    "id": 3.343,
-    "parent": 2.086,
-    "value": 0.2,
-    "name": "PMd-LHA Foxb1 Glut_1",
-    "color": "#A7CC7A"
-  },
-  {
-    "id": 3.344,
-    "parent": 2.086,
-    "value": 0.2,
-    "name": "PMd-LHA Foxb1 Glut_2",
-    "color": "#2E6649"
-  },
-  {
-    "id": 3.345,
-    "parent": 2.086,
-    "value": 0.2,
-    "name": "PMd-LHA Foxb1 Glut_3",
-    "color": "#994F17"
-  },
-  {
-    "id": 3.346,
-    "parent": 2.087,
-    "value": 0.2,
-    "name": "PH-SUM Foxa1 Glut_1",
-    "color": "#3DCC67"
-  },
-  {
-    "id": 3.347,
-    "parent": 2.087,
-    "value": 0.2,
-    "name": "PH-SUM Foxa1 Glut_2",
-    "color": "#996D5C"
-  },
-  {
-    "id": 3.348,
-    "parent": 2.087,
-    "value": 0.2,
-    "name": "PH-SUM Foxa1 Glut_3",
-    "color": "#2E664F"
-  },
-  {
-    "id": 3.349,
-    "parent": 2.087,
-    "value": 0.2,
-    "name": "PH-SUM Foxa1 Glut_4",
-    "color": "#9ECC7A"
-  },
-  {
-    "id": 3.35,
-    "parent": 2.087,
-    "value": 0.2,
-    "name": "PH-SUM Foxa1 Glut_5",
-    "color": "#995145"
-  },
-  {
-    "id": 3.351,
-    "parent": 2.087,
-    "value": 0.2,
-    "name": "PH-SUM Foxa1 Glut_6",
-    "color": "#B626FF"
-  },
-  {
-    "id": 3.352,
-    "parent": 2.088,
-    "value": 0.2,
-    "name": "HY Gnrh1 Glut_1",
-    "color": "#C23DCC"
-  },
-  {
-    "id": 3.353,
-    "parent": 2.089,
-    "value": 0.2,
-    "name": "MM-ant Foxb1 Glut_1",
-    "color": "#1F6647"
-  },
-  {
-    "id": 3.354,
-    "parent": 2.09,
-    "value": 0.2,
-    "name": "MM Foxb1 Glut_1",
-    "color": "#660034"
-  },
-  {
-    "id": 3.355,
-    "parent": 2.09,
-    "value": 0.2,
-    "name": "MM Foxb1 Glut_2",
-    "color": "#701FCC"
-  },
-  {
-    "id": 3.356,
-    "parent": 2.091,
-    "value": 0.2,
-    "name": "MH Tac2 Glut_1",
-    "color": "#661F30"
-  },
-  {
-    "id": 3.357,
-    "parent": 2.091,
-    "value": 0.2,
-    "name": "MH Tac2 Glut_2",
-    "color": "#1700FF"
-  },
-  {
-    "id": 3.358,
-    "parent": 2.091,
-    "value": 0.2,
-    "name": "MH Tac2 Glut_3",
-    "color": "#C8FF99"
-  },
-  {
-    "id": 3.359,
-    "parent": 2.091,
-    "value": 0.2,
-    "name": "MH Tac2 Glut_4",
-    "color": "#FF0096"
-  },
-  {
-    "id": 3.36,
-    "parent": 2.091,
-    "value": 0.2,
-    "name": "MH Tac2 Glut_5",
-    "color": "#CC7AA1"
-  },
-  {
-    "id": 3.361,
-    "parent": 2.092,
-    "value": 0.2,
-    "name": "LH Pou4f1 Sox1 Glut_1",
-    "color": "#5C9980"
-  },
-  {
-    "id": 3.362,
-    "parent": 2.092,
-    "value": 0.2,
-    "name": "LH Pou4f1 Sox1 Glut_2",
-    "color": "#003E99"
-  },
-  {
-    "id": 3.363,
-    "parent": 2.092,
-    "value": 0.2,
-    "name": "LH Pou4f1 Sox1 Glut_3",
-    "color": "#007099"
-  },
-  {
-    "id": 3.364,
-    "parent": 2.092,
-    "value": 0.2,
-    "name": "LH Pou4f1 Sox1 Glut_4",
-    "color": "#3D4066"
-  },
-  {
-    "id": 3.365,
-    "parent": 2.093,
-    "value": 0.2,
-    "name": "AD Serpinb7 Glut_1",
-    "color": "#990C00"
-  },
-  {
-    "id": 3.366,
-    "parent": 2.094,
-    "value": 0.2,
-    "name": "AV Col27a1 Glut_1",
-    "color": "#FF26B9"
-  },
-  {
-    "id": 3.367,
-    "parent": 2.095,
-    "value": 0.2,
-    "name": "PVT-PT Ntrk1 Glut_1",
-    "color": "#FFEB73"
-  },
-  {
-    "id": 3.368,
-    "parent": 2.095,
-    "value": 0.2,
-    "name": "PVT-PT Ntrk1 Glut_2",
-    "color": "#1F8CCC"
-  },
-  {
-    "id": 3.369,
-    "parent": 2.095,
-    "value": 0.2,
-    "name": "PVT-PT Ntrk1 Glut_3",
-    "color": "#FFBA4D"
-  },
-  {
-    "id": 3.37,
-    "parent": 2.095,
-    "value": 0.2,
-    "name": "PVT-PT Ntrk1 Glut_4",
-    "color": "#5C9900"
-  },
-  {
-    "id": 3.371,
-    "parent": 2.095,
-    "value": 0.2,
-    "name": "PVT-PT Ntrk1 Glut_5",
-    "color": "#995A45"
-  },
-  {
-    "id": 3.372,
-    "parent": 2.095,
-    "value": 0.2,
-    "name": "PVT-PT Ntrk1 Glut_6",
-    "color": "#FF99C1"
-  },
-  {
-    "id": 3.373,
-    "parent": 2.096,
-    "value": 0.2,
-    "name": "CM-IAD-CL-PCN Sema5b Glut_1",
-    "color": "#2E663D"
-  },
-  {
-    "id": 3.374,
-    "parent": 2.096,
-    "value": 0.2,
-    "name": "CM-IAD-CL-PCN Sema5b Glut_2",
-    "color": "#7ACCB1"
-  },
-  {
-    "id": 3.375,
-    "parent": 2.096,
-    "value": 0.2,
-    "name": "CM-IAD-CL-PCN Sema5b Glut_3",
-    "color": "#CC7D7A"
-  },
-  {
-    "id": 3.376,
-    "parent": 2.096,
-    "value": 0.2,
-    "name": "CM-IAD-CL-PCN Sema5b Glut_4",
-    "color": "#CC0A00"
-  },
-  {
-    "id": 3.377,
-    "parent": 2.096,
-    "value": 0.2,
-    "name": "CM-IAD-CL-PCN Sema5b Glut_5",
-    "color": "#00CC33"
-  },
-  {
-    "id": 3.378,
-    "parent": 2.097,
-    "value": 0.2,
-    "name": "TH Prkcd Grin2c Glut_1",
-    "color": "#0F6652"
-  },
-  {
-    "id": 3.379,
-    "parent": 2.097,
-    "value": 0.2,
-    "name": "TH Prkcd Grin2c Glut_2",
-    "color": "#A67ACC"
-  },
-  {
-    "id": 3.38,
-    "parent": 2.097,
-    "value": 0.2,
-    "name": "TH Prkcd Grin2c Glut_3",
-    "color": "#CC7ABC"
-  },
-  {
-    "id": 3.381,
-    "parent": 2.097,
-    "value": 0.2,
-    "name": "TH Prkcd Grin2c Glut_4",
-    "color": "#66311F"
-  },
-  {
-    "id": 3.382,
-    "parent": 2.097,
-    "value": 0.2,
-    "name": "TH Prkcd Grin2c Glut_5",
-    "color": "#4DBEFF"
-  },
-  {
-    "id": 3.383,
-    "parent": 2.097,
-    "value": 0.2,
-    "name": "TH Prkcd Grin2c Glut_6",
-    "color": "#5A3D66"
-  },
-  {
-    "id": 3.384,
-    "parent": 2.097,
-    "value": 0.2,
-    "name": "TH Prkcd Grin2c Glut_7",
-    "color": "#FF5F26"
-  },
-  {
-    "id": 3.385,
-    "parent": 2.097,
-    "value": 0.2,
-    "name": "TH Prkcd Grin2c Glut_8",
-    "color": "#42CC3D"
-  },
-  {
-    "id": 3.386,
-    "parent": 2.097,
-    "value": 0.2,
-    "name": "TH Prkcd Grin2c Glut_9",
-    "color": "#FFBD73"
-  },
-  {
-    "id": 3.387,
-    "parent": 2.097,
-    "value": 0.2,
-    "name": "TH Prkcd Grin2c Glut_10",
-    "color": "#9E26FF"
-  },
-  {
-    "id": 3.388,
-    "parent": 2.097,
-    "value": 0.2,
-    "name": "TH Prkcd Grin2c Glut_11",
-    "color": "#89995C"
-  },
-  {
-    "id": 3.389,
-    "parent": 2.097,
-    "value": 0.2,
-    "name": "TH Prkcd Grin2c Glut_12",
-    "color": "#543DCC"
-  },
-  {
-    "id": 3.39,
-    "parent": 2.097,
-    "value": 0.2,
-    "name": "TH Prkcd Grin2c Glut_13",
-    "color": "#CC1FA2"
-  },
-  {
-    "id": 3.391,
-    "parent": 2.097,
-    "value": 0.2,
-    "name": "TH Prkcd Grin2c Glut_14",
-    "color": "#7AC3CC"
-  },
-  {
-    "id": 3.392,
-    "parent": 2.098,
-    "value": 0.2,
-    "name": "RE-Xi Nox4 Glut_1",
-    "color": "#73FFF8"
-  },
-  {
-    "id": 3.393,
-    "parent": 2.098,
-    "value": 0.2,
-    "name": "RE-Xi Nox4 Glut_2",
-    "color": "#CC993D"
-  },
-  {
-    "id": 3.394,
-    "parent": 2.098,
-    "value": 0.2,
-    "name": "RE-Xi Nox4 Glut_3",
-    "color": "#991720"
-  },
-  {
-    "id": 3.395,
-    "parent": 2.098,
-    "value": 0.2,
-    "name": "RE-Xi Nox4 Glut_4",
-    "color": "#CC1F7C"
-  },
-  {
-    "id": 3.396,
-    "parent": 2.099,
-    "value": 0.2,
-    "name": "MG-POL-SGN Nts Glut_1",
-    "color": "#0E6600"
-  },
-  {
-    "id": 3.397,
-    "parent": 2.099,
-    "value": 0.2,
-    "name": "MG-POL-SGN Nts Glut_2",
-    "color": "#99472E"
-  },
-  {
-    "id": 3.398,
-    "parent": 2.1,
-    "value": 0.2,
-    "name": "PF Fzd5 Glut_1",
-    "color": "#454599"
-  },
-  {
-    "id": 3.399,
-    "parent": 2.1,
-    "value": 0.2,
-    "name": "PF Fzd5 Glut_2",
-    "color": "#CC1FB5"
-  },
-  {
-    "id": 3.4,
-    "parent": 2.101,
-    "value": 0.2,
-    "name": "PRC-PAG Pax6 Glut_1",
-    "color": "#99ECFF"
-  },
-  {
-    "id": 3.401,
-    "parent": 2.101,
-    "value": 0.2,
-    "name": "PRC-PAG Pax6 Glut_2",
-    "color": "#FF4D82"
-  },
-  {
-    "id": 3.402,
-    "parent": 2.101,
-    "value": 0.2,
-    "name": "PRC-PAG Pax6 Glut_3",
-    "color": "#FFD073"
-  },
-  {
-    "id": 3.403,
-    "parent": 2.101,
-    "value": 0.2,
-    "name": "PRC-PAG Pax6 Glut_4",
-    "color": "#996345"
-  },
-  {
-    "id": 3.404,
-    "parent": 2.101,
-    "value": 0.2,
-    "name": "PRC-PAG Pax6 Glut_5",
-    "color": "#176599"
-  },
-  {
-    "id": 3.405,
-    "parent": 2.102,
-    "value": 0.2,
-    "name": "MB-ant-ve Dmrta2 Glut_1",
-    "color": "#BA1FCC"
-  },
-  {
-    "id": 3.406,
-    "parent": 2.103,
-    "value": 0.2,
-    "name": "RN Spp1 Glut_1",
-    "color": "#73CA00"
-  },
-  {
-    "id": 3.407,
-    "parent": 2.104,
-    "value": 0.2,
-    "name": "MRN-PAG Nkx6-1 Glut_1",
-    "color": "#1F3FCC"
-  },
-  {
-    "id": 3.408,
-    "parent": 2.104,
-    "value": 0.2,
-    "name": "MRN-PAG Nkx6-1 Glut_2",
-    "color": "#CC5C87"
-  },
-  {
-    "id": 3.409,
-    "parent": 2.105,
-    "value": 0.2,
-    "name": "IF-RL-CLI-PAG Foxa1 Glut_1",
-    "color": "#99004E"
-  },
-  {
-    "id": 3.41,
-    "parent": 2.105,
-    "value": 0.2,
-    "name": "IF-RL-CLI-PAG Foxa1 Glut_2",
-    "color": "#FF6C4D"
-  },
-  {
-    "id": 3.411,
-    "parent": 2.105,
-    "value": 0.2,
-    "name": "IF-RL-CLI-PAG Foxa1 Glut_3",
-    "color": "#CD99FF"
-  },
-  {
-    "id": 3.412,
-    "parent": 2.105,
-    "value": 0.2,
-    "name": "IF-RL-CLI-PAG Foxa1 Glut_4",
-    "color": "#2E9997"
-  },
-  {
-    "id": 3.413,
-    "parent": 2.105,
-    "value": 0.2,
-    "name": "IF-RL-CLI-PAG Foxa1 Glut_5",
-    "color": "#995C63"
-  },
-  {
-    "id": 3.414,
-    "parent": 2.106,
-    "value": 0.2,
-    "name": "PAG-SC Neurod2 Meis2 Glut_1",
-    "color": "#996000"
-  },
-  {
-    "id": 3.415,
-    "parent": 2.106,
-    "value": 0.2,
-    "name": "PAG-SC Neurod2 Meis2 Glut_2",
-    "color": "#68f9d3"
-  },
-  {
-    "id": 3.416,
-    "parent": 2.106,
-    "value": 0.2,
-    "name": "PAG-SC Neurod2 Meis2 Glut_3",
-    "color": "#491799"
-  },
-  {
-    "id": 3.417,
-    "parent": 2.106,
-    "value": 0.2,
-    "name": "PAG-SC Neurod2 Meis2 Glut_4",
-    "color": "#f76ad1"
-  },
-  {
-    "id": 3.418,
-    "parent": 2.107,
-    "value": 0.2,
-    "name": "PAG Pou4f3 Glut_1",
-    "color": "#458699"
-  },
-  {
-    "id": 3.419,
-    "parent": 2.107,
-    "value": 0.2,
-    "name": "PAG Pou4f3 Glut_2",
-    "color": "#EEFF73"
-  },
-  {
-    "id": 3.42,
-    "parent": 2.107,
-    "value": 0.2,
-    "name": "PAG Pou4f3 Glut_3",
-    "color": "#5C5CCC"
-  },
-  {
-    "id": 3.421,
-    "parent": 2.108,
-    "value": 0.2,
-    "name": "CUN Evx2 Lhx2 Glut_1",
-    "color": "#CC0002"
-  },
-  {
-    "id": 3.422,
-    "parent": 2.108,
-    "value": 0.2,
-    "name": "CUN Evx2 Lhx2 Glut_2",
-    "color": "#461F66"
-  },
-  {
-    "id": 3.423,
-    "parent": 2.108,
-    "value": 0.2,
-    "name": "CUN Evx2 Lhx2 Glut_3",
-    "color": "#CC7AAA"
-  },
-  {
-    "id": 3.424,
-    "parent": 2.108,
-    "value": 0.2,
-    "name": "CUN Evx2 Lhx2 Glut_4",
-    "color": "#FF265A"
-  },
-  {
-    "id": 3.425,
-    "parent": 2.108,
-    "value": 0.2,
-    "name": "CUN Evx2 Lhx2 Glut_5",
-    "color": "#843DCC"
-  },
-  {
-    "id": 3.426,
-    "parent": 2.109,
-    "value": 0.2,
-    "name": "APN C1ql2 Glut_1",
-    "color": "#660F39"
-  },
-  {
-    "id": 3.427,
-    "parent": 2.109,
-    "value": 0.2,
-    "name": "APN C1ql4 Glut_1",
-    "color": "#3D4466"
-  },
-  {
-    "id": 3.428,
-    "parent": 2.11,
-    "value": 0.2,
-    "name": "PAG-MRN Pou3f1 Glut_1",
-    "color": "#CC4B3D"
-  },
-  {
-    "id": 3.429,
-    "parent": 2.11,
-    "value": 0.2,
-    "name": "PAG-MRN Pou3f1 Glut_2",
-    "color": "#26FFD2"
-  },
-  {
-    "id": 3.43,
-    "parent": 2.11,
-    "value": 0.2,
-    "name": "PAG-MRN Pou3f1 Glut_3",
-    "color": "#2E9948"
-  },
-  {
-    "id": 3.431,
-    "parent": 2.11,
-    "value": 0.2,
-    "name": "PAG-MRN Pou3f1 Glut_4",
-    "color": "#FFA24D"
-  },
-  {
-    "id": 3.432,
-    "parent": 2.11,
-    "value": 0.2,
-    "name": "PAG-MRN Pou3f1 Glut_5",
-    "color": "#FF00EE"
-  },
-  {
-    "id": 3.433,
-    "parent": 2.11,
-    "value": 0.2,
-    "name": "PAG-MRN Pou3f1 Glut_6",
-    "color": "#2A1FCC"
-  },
-  {
-    "id": 3.434,
-    "parent": 2.11,
-    "value": 0.2,
-    "name": "PAG-MRN Tfap2b Glut_1",
-    "color": "#00E5FF"
-  },
-  {
-    "id": 3.435,
-    "parent": 2.111,
-    "value": 0.2,
-    "name": "PAG-MRN Tfap2b Glut_2",
-    "color": "#3D84CC"
-  },
-  {
-    "id": 3.436,
-    "parent": 2.112,
-    "value": 0.2,
-    "name": "PAG Pou4f1 Ebf2 Glut_1",
-    "color": "#4D4599"
-  },
-  {
-    "id": 3.437,
-    "parent": 2.112,
-    "value": 0.2,
-    "name": "PAG Pou4f1 Ebf2 Glut_2",
-    "color": "#CC893D"
-  },
-  {
-    "id": 3.438,
-    "parent": 2.112,
-    "value": 0.2,
-    "name": "PAG Pou4f1 Ebf2 Glut_3",
-    "color": "#FF7600"
-  },
-  {
-    "id": 3.439,
-    "parent": 2.112,
-    "value": 0.2,
-    "name": "PAG Pou4f1 Ebf2 Glut_4",
-    "color": "#FEFF4D"
-  },
-  {
-    "id": 3.44,
-    "parent": 2.112,
-    "value": 0.2,
-    "name": "PAG Pou4f1 Ebf2 Glut_5",
-    "color": "#99932E"
-  },
-  {
-    "id": 3.441,
-    "parent": 2.112,
-    "value": 0.2,
-    "name": "PAG Pou4f1 Ebf2 Glut_6",
-    "color": "#9FCC1F"
-  },
-  {
-    "id": 3.442,
-    "parent": 2.112,
-    "value": 0.2,
-    "name": "PAG Pou4f1 Ebf2 Glut_7",
-    "color": "#E573FF"
-  },
-  {
-    "id": 3.443,
-    "parent": 2.112,
-    "value": 0.2,
-    "name": "PAG Pou4f1 Ebf2 Glut_8",
-    "color": "#422E66"
-  },
-  {
-    "id": 3.444,
-    "parent": 2.113,
-    "value": 0.2,
-    "name": "PAG Pou4f2 Glut_1",
-    "color": "#267F00"
-  },
-  {
-    "id": 3.445,
-    "parent": 2.113,
-    "value": 0.2,
-    "name": "PAG Pou4f2 Glut_2",
-    "color": "#99D5FF"
-  },
-  {
-    "id": 3.446,
-    "parent": 2.113,
-    "value": 0.2,
-    "name": "PAG Pou4f2 Glut_3",
-    "color": "#1CFF00"
-  },
-  {
-    "id": 3.447,
-    "parent": 2.113,
-    "value": 0.2,
-    "name": "PAG Pou4f2 Glut_4",
-    "color": "#CC6400"
-  },
-  {
-    "id": 3.448,
-    "parent": 2.113,
-    "value": 0.2,
-    "name": "PAG Pou4f2 Glut_5",
-    "color": "#99482E"
-  },
-  {
-    "id": 3.449,
-    "parent": 2.114,
-    "value": 0.2,
-    "name": "PAG Pou4f2 Mesi2 Glut_1",
-    "color": "#FFAF73"
-  },
-  {
-    "id": 3.45,
-    "parent": 2.114,
-    "value": 0.2,
-    "name": "PAG Pou4f2 Mesi2 Glut_2",
-    "color": "#66211F"
-  },
-  {
-    "id": 3.451,
-    "parent": 2.114,
-    "value": 0.2,
-    "name": "PAG Pou4f2 Mesi2 Glut_3",
-    "color": "#0058CC"
-  },
-  {
-    "id": 3.452,
-    "parent": 2.114,
-    "value": 0.2,
-    "name": "PAG Pou4f2 Mesi2 Glut_4",
-    "color": "#FF99CC"
-  },
-  {
-    "id": 3.453,
-    "parent": 2.114,
-    "value": 0.2,
-    "name": "PAG Pou4f2 Mesi2 Glut_5",
-    "color": "#2726FF"
-  },
-  {
-    "id": 3.454,
-    "parent": 2.114,
-    "value": 0.2,
-    "name": "PAG Pou4f2 Mesi2 Glut_6",
-    "color": "#689945"
-  },
-  {
-    "id": 3.455,
-    "parent": 2.115,
-    "value": 0.2,
-    "name": "SC Bnc2 Glut_1",
-    "color": "#FF73E6"
-  },
-  {
-    "id": 3.456,
-    "parent": 2.115,
-    "value": 0.2,
-    "name": "SC Bnc2 Glut_2",
-    "color": "#892E99"
-  },
-  {
-    "id": 3.457,
-    "parent": 2.115,
-    "value": 0.2,
-    "name": "SC Bnc2 Glut_3",
-    "color": "#00996E"
-  },
-  {
-    "id": 3.458,
-    "parent": 2.115,
-    "value": 0.2,
-    "name": "SC Bnc2 Glut_4",
-    "color": "#992E4B"
-  },
-  {
-    "id": 3.459,
-    "parent": 2.116,
-    "value": 0.2,
-    "name": "SCig Foxb1 Glut_1",
-    "color": "#CC9C5C"
-  },
-  {
-    "id": 3.46,
-    "parent": 2.116,
-    "value": 0.2,
-    "name": "SCig Foxb1 Glut_2",
-    "color": "#CC0019"
-  },
-  {
-    "id": 3.461,
-    "parent": 2.116,
-    "value": 0.2,
-    "name": "SCig Foxb1 Glut_3",
-    "color": "#1FCC4E"
-  },
-  {
-    "id": 3.462,
-    "parent": 2.116,
-    "value": 0.2,
-    "name": "SCig Foxb1 Glut_4",
-    "color": "#663D41"
-  },
-  {
-    "id": 3.463,
-    "parent": 2.117,
-    "value": 0.2,
-    "name": "SCig-an-PPT Foxb1 Glut_1",
-    "color": "#99E0FF"
-  },
-  {
-    "id": 3.464,
-    "parent": 2.118,
-    "value": 0.2,
-    "name": "SCig Foxb1 Otx2 Glut_1",
-    "color": "#001B66"
-  },
-  {
-    "id": 3.465,
-    "parent": 2.119,
-    "value": 0.2,
-    "name": "SCdg-PAG Tfap2b Glut_1",
-    "color": "#CCB35C"
-  },
-  {
-    "id": 3.466,
-    "parent": 2.12,
-    "value": 0.2,
-    "name": "SCiw Pitx2 Glut_1",
-    "color": "#51662E"
-  },
-  {
-    "id": 3.467,
-    "parent": 2.12,
-    "value": 0.2,
-    "name": "SCiw Pitx2 Glut_2",
-    "color": "#CC3D58"
-  },
-  {
-    "id": 3.468,
-    "parent": 2.12,
-    "value": 0.2,
-    "name": "SCiw Pitx2 Glut_3",
-    "color": "#4DE5FF"
-  },
-  {
-    "id": 3.469,
-    "parent": 2.121,
-    "value": 0.2,
-    "name": "IC Tfap2d Maf Glut_1",
-    "color": "#99992E"
-  },
-  {
-    "id": 3.47,
-    "parent": 2.121,
-    "value": 0.2,
-    "name": "IC Tfap2d Maf Glut_2",
-    "color": "#FF0021"
-  },
-  {
-    "id": 3.471,
-    "parent": 2.121,
-    "value": 0.2,
-    "name": "IC Tfap2d Maf Glut_3",
-    "color": "#E0FF00"
-  },
-  {
-    "id": 3.472,
-    "parent": 2.121,
-    "value": 0.2,
-    "name": "IC Tfap2d Maf Glut_4",
-    "color": "#5CCC73"
-  },
-  {
-    "id": 3.473,
-    "parent": 2.121,
-    "value": 0.2,
-    "name": "IC Tfap2d Maf Glut_5",
-    "color": "#1B9917"
-  },
-  {
-    "id": 3.474,
-    "parent": 2.121,
-    "value": 0.2,
-    "name": "IC Tfap2d Maf Glut_6",
-    "color": "#13d9f7"
-  },
-  {
-    "id": 3.475,
-    "parent": 2.122,
-    "value": 0.2,
-    "name": "CUN-PPN Evx2 Meis2 Glut_1",
-    "color": "#995D17"
-  },
-  {
-    "id": 3.476,
-    "parent": 2.122,
-    "value": 0.2,
-    "name": "CUN-PPN Evx2 Meis2 Glut_2",
-    "color": "#66573D"
-  },
-  {
-    "id": 3.477,
-    "parent": 2.122,
-    "value": 0.2,
-    "name": "CUN-PPN Evx2 Meis2 Glut_3",
-    "color": "#992E62"
-  },
-  {
-    "id": 3.478,
-    "parent": 2.122,
-    "value": 0.2,
-    "name": "CUN-PPN Evx2 Meis2 Glut_4",
-    "color": "#39FF26"
-  },
-  {
-    "id": 3.479,
-    "parent": 2.122,
-    "value": 0.2,
-    "name": "CUN-PPN Evx2 Meis2 Glut_5",
-    "color": "#187bdd"
-  },
-  {
-    "id": 3.48,
-    "parent": 2.123,
-    "value": 0.2,
-    "name": "PBG Mtnr1a Glut-Chol_1",
-    "color": "#d15c08"
-  },
-  {
-    "id": 3.481,
-    "parent": 2.124,
-    "value": 0.2,
-    "name": "PAG Tcf24 Glut_1",
-    "color": "#2685FF"
-  },
-  {
-    "id": 3.482,
-    "parent": 2.125,
-    "value": 0.2,
-    "name": "SCig Tfap2b Chrnb3 Glut_1",
-    "color": "#0F4166"
-  },
-  {
-    "id": 3.483,
-    "parent": 2.126,
-    "value": 0.2,
-    "name": "SCop Pou4f2 Neurod2 Glut_1",
-    "color": "#26FFEA"
-  },
-  {
-    "id": 3.484,
-    "parent": 2.127,
-    "value": 0.2,
-    "name": "SCsg Pde5a Glut_1",
-    "color": "#741799"
-  },
-  {
-    "id": 3.485,
-    "parent": 2.127,
-    "value": 0.2,
-    "name": "SCsg Pde5a Glut_2",
-    "color": "#662E3A"
-  },
-  {
-    "id": 3.486,
-    "parent": 2.127,
-    "value": 0.2,
-    "name": "SCsg Pde5a Glut_3",
-    "color": "#00CCA3"
-  },
-  {
-    "id": 3.487,
-    "parent": 2.128,
-    "value": 0.2,
-    "name": "SCop Sln Glut_1",
-    "color": "#CC8E5C"
-  },
-  {
-    "id": 3.488,
-    "parent": 2.129,
-    "value": 0.2,
-    "name": "PAG Ucn Glut_1",
-    "color": "#FFCC73"
-  },
-  {
-    "id": 3.489,
-    "parent": 2.13,
-    "value": 0.2,
-    "name": "ND-INC Foxd2 Glut_1",
-    "color": "#26FF2B"
-  },
-  {
-    "id": 3.49,
-    "parent": 2.131,
-    "value": 0.2,
-    "name": "PAG-MRN Rln3 Gaba_1",
-    "color": "#BDCC3D"
-  },
-  {
-    "id": 3.491,
-    "parent": 2.132,
-    "value": 0.2,
-    "name": "PPN-CUN-PCG Otp En1 Gaba_1",
-    "color": "#7BFF4D"
-  },
-  {
-    "id": 3.492,
-    "parent": 2.132,
-    "value": 0.2,
-    "name": "PPN-CUN-PCG Otp En1 Gaba_2",
-    "color": "#efcb15"
-  },
-  {
-    "id": 3.493,
-    "parent": 2.132,
-    "value": 0.2,
-    "name": "PPN-CUN-PCG Otp En1 Gaba_3",
-    "color": "#992E5B"
-  },
-  {
-    "id": 3.494,
-    "parent": 2.133,
-    "value": 0.2,
-    "name": "MRN-PPN-CUN Pax8 Gaba_1",
-    "color": "#FF9E73"
-  },
-  {
-    "id": 3.495,
-    "parent": 2.133,
-    "value": 0.2,
-    "name": "MRN-PPN-CUN Pax8 Gaba_2",
-    "color": "#00997E"
-  },
-  {
-    "id": 3.496,
-    "parent": 2.133,
-    "value": 0.2,
-    "name": "MRN-PPN-CUN Pax8 Gaba_3",
-    "color": "#070066"
-  },
-  {
-    "id": 3.497,
-    "parent": 2.134,
-    "value": 0.2,
-    "name": "MRN-VTN-PPN Pax5 Cdh23 Gaba_1",
-    "color": "#5C6600"
-  },
-  {
-    "id": 3.498,
-    "parent": 2.134,
-    "value": 0.2,
-    "name": "MRN-VTN-PPN Pax5 Cdh23 Gaba_2",
-    "color": "#979945"
-  },
-  {
-    "id": 3.499,
-    "parent": 2.135,
-    "value": 0.2,
-    "name": "SNr-VTA Pax5 Npas1 Gaba_1",
-    "color": "#FF7D4D"
-  },
-  {
-    "id": 3.5,
-    "parent": 2.135,
-    "value": 0.2,
-    "name": "SNr-VTA Pax5 Npas1 Gaba_2",
-    "color": "#1F1F66"
-  },
-  {
-    "id": 3.501,
-    "parent": 2.136,
-    "value": 0.2,
-    "name": "PAG-PPN Pax5 Sox21 Gaba_1",
-    "color": "#662E40"
-  },
-  {
-    "id": 3.502,
-    "parent": 2.136,
-    "value": 0.2,
-    "name": "PAG-PPN Pax5 Sox21 Gaba_2",
-    "color": "#550066"
-  },
-  {
-    "id": 3.503,
-    "parent": 2.136,
-    "value": 0.2,
-    "name": "PAG-PPN Pax5 Sox21 Gaba_3",
-    "color": "#CCBB7A"
-  },
-  {
-    "id": 3.504,
-    "parent": 2.136,
-    "value": 0.2,
-    "name": "PAG-PPN Pax5 Sox21 Gaba_4",
-    "color": "#2E995C"
-  },
-  {
-    "id": 3.505,
-    "parent": 2.137,
-    "value": 0.2,
-    "name": "SNr Six3 Gaba_1",
-    "color": "#66501F"
-  },
-  {
-    "id": 3.506,
-    "parent": 2.138,
-    "value": 0.2,
-    "name": "IC Six3 En2 Gaba_1",
-    "color": "#CC451F"
-  },
-  {
-    "id": 3.507,
-    "parent": 2.138,
-    "value": 0.2,
-    "name": "IC Six3 En2 Gaba_2",
-    "color": "#60995C"
-  },
-  {
-    "id": 3.508,
-    "parent": 2.138,
-    "value": 0.2,
-    "name": "IC Six3 En2 Gaba_3",
-    "color": "#44662E"
-  },
-  {
-    "id": 3.509,
-    "parent": 2.138,
-    "value": 0.2,
-    "name": "IC Six3 En2 Gaba_4",
-    "color": "#995C99"
-  },
-  {
-    "id": 3.51,
-    "parent": 2.138,
-    "value": 0.2,
-    "name": "IC Six3 En2 Gaba_5",
-    "color": "#17993E"
-  },
-  {
-    "id": 3.511,
-    "parent": 2.138,
-    "value": 0.2,
-    "name": "IC Six3 En2 Gaba_6",
-    "color": "#179099"
-  },
-  {
-    "id": 3.512,
-    "parent": 2.138,
-    "value": 0.2,
-    "name": "IC Six3 En2 Gaba_7",
-    "color": "#660055"
-  },
-  {
-    "id": 3.513,
-    "parent": 2.139,
-    "value": 0.2,
-    "name": "PAG-MRN-RN Foxa2 Gaba_1",
-    "color": "#00FF00"
-  },
-  {
-    "id": 3.514,
-    "parent": 2.139,
-    "value": 0.2,
-    "name": "PAG-MRN-RN Foxa2 Gaba_2",
-    "color": "#7B0099"
-  },
-  {
-    "id": 3.515,
-    "parent": 2.139,
-    "value": 0.2,
-    "name": "PAG-MRN-RN Foxa2 Gaba_3",
-    "color": "#3D74CC"
-  },
-  {
-    "id": 3.516,
-    "parent": 2.139,
-    "value": 0.2,
-    "name": "PAG-MRN-RN Foxa2 Gaba_4",
-    "color": "#8fb7ac"
-  },
-  {
-    "id": 3.517,
-    "parent": 2.14,
-    "value": 0.2,
-    "name": "PAG-RN Nkx2-2 Otx1 Gaba_1",
-    "color": "#1F79CC"
-  },
-  {
-    "id": 3.518,
-    "parent": 2.14,
-    "value": 0.2,
-    "name": "PAG-RN Nkx2-2 Otx1 Gaba_2",
-    "color": "#6A5C99"
-  },
-  {
-    "id": 3.519,
-    "parent": 2.14,
-    "value": 0.2,
-    "name": "PAG-RN Nkx2-2 Otx1 Gaba_3",
-    "color": "#4D663D"
-  },
-  {
-    "id": 3.52,
-    "parent": 2.14,
-    "value": 0.2,
-    "name": "PAG-RN Nkx2-2 Otx1 Gaba_4",
-    "color": "#73B9FF"
-  },
-  {
-    "id": 3.521,
-    "parent": 2.14,
-    "value": 0.2,
-    "name": "PAG-RN Nkx2-2 Otx1 Gaba_5",
-    "color": "#83CC7A"
-  },
-  {
-    "id": 3.522,
-    "parent": 2.14,
-    "value": 0.2,
-    "name": "PAG-RN Nkx2-2 Otx1 Gaba_6",
-    "color": "#FF4DBB"
-  },
-  {
-    "id": 3.523,
-    "parent": 2.141,
-    "value": 0.2,
-    "name": "PRT Tcf7l2 Gaba_1",
-    "color": "#5D3DCC"
-  },
-  {
-    "id": 3.524,
-    "parent": 2.141,
-    "value": 0.2,
-    "name": "PRT Tcf7l2 Gaba_2",
-    "color": "#3DCC77"
-  },
-  {
-    "id": 3.525,
-    "parent": 2.141,
-    "value": 0.2,
-    "name": "PRT Tcf7l2 Gaba_3",
-    "color": "#006635"
-  },
-  {
-    "id": 3.526,
-    "parent": 2.141,
-    "value": 0.2,
-    "name": "PRT Tcf7l2 Gaba_4",
-    "color": "#999DFF"
-  },
-  {
-    "id": 3.527,
-    "parent": 2.141,
-    "value": 0.2,
-    "name": "PRT Tcf7l2 Gaba_5",
-    "color": "#998E5C"
-  },
-  {
-    "id": 3.528,
-    "parent": 2.142,
-    "value": 0.2,
-    "name": "SC Otx2 Gcnt4 Gaba_1",
-    "color": "#9BCC1F"
-  },
-  {
-    "id": 3.529,
-    "parent": 2.142,
-    "value": 0.2,
-    "name": "SC Otx2 Gcnt4 Gaba_2",
-    "color": "#B9CC7A"
-  },
-  {
-    "id": 3.53,
-    "parent": 2.143,
-    "value": 0.2,
-    "name": "SC-PAG Lef1 Emx2 Gaba_1",
-    "color": "#173A99"
-  },
-  {
-    "id": 3.531,
-    "parent": 2.143,
-    "value": 0.2,
-    "name": "SC-PAG Lef1 Emx2 Gaba_2",
-    "color": "#0F3866"
-  },
-  {
-    "id": 3.532,
-    "parent": 2.143,
-    "value": 0.2,
-    "name": "SC-PAG Lef1 Emx2 Gaba_3",
-    "color": "#99000E"
-  },
-  {
-    "id": 3.533,
-    "parent": 2.143,
-    "value": 0.2,
-    "name": "SC-PAG Lef1 Emx2 Gaba_4",
-    "color": "#2E5E66"
-  },
-  {
-    "id": 3.534,
-    "parent": 2.143,
-    "value": 0.2,
-    "name": "SC-PAG Lef1 Emx2 Gaba_5",
-    "color": "#2E998B"
-  },
-  {
-    "id": 3.535,
-    "parent": 2.144,
-    "value": 0.2,
-    "name": "SCm-PAG Cdh23 Gaba_1",
-    "color": "#F8FF26"
-  },
-  {
-    "id": 3.536,
-    "parent": 2.144,
-    "value": 0.2,
-    "name": "SCm-PAG Cdh23 Gaba_2",
-    "color": "#98FF73"
-  },
-  {
-    "id": 3.537,
-    "parent": 2.144,
-    "value": 0.2,
-    "name": "SCm-PAG Cdh23 Gaba_3",
-    "color": "#1F5E66"
-  },
-  {
-    "id": 3.538,
-    "parent": 2.144,
-    "value": 0.2,
-    "name": "SCm-PAG Cdh23 Gaba_4",
-    "color": "#ffcce1"
-  },
-  {
-    "id": 3.539,
-    "parent": 2.145,
-    "value": 0.2,
-    "name": "SCs Dmbx1 Gaba_1",
-    "color": "#6CFF4D"
-  },
-  {
-    "id": 3.54,
-    "parent": 2.145,
-    "value": 0.2,
-    "name": "SCs Dmbx1 Gaba_2",
-    "color": "#1FCC74"
-  },
-  {
-    "id": 3.541,
-    "parent": 2.145,
-    "value": 0.2,
-    "name": "SCs Dmbx1 Gaba_3",
-    "color": "#1FC5CC"
-  },
-  {
-    "id": 3.542,
-    "parent": 2.145,
-    "value": 0.2,
-    "name": "SCs Dmbx1 Gaba_4",
-    "color": "#CA7ACC"
-  },
-  {
-    "id": 3.543,
-    "parent": 2.145,
-    "value": 0.2,
-    "name": "SCs Dmbx1 Gaba_5",
-    "color": "#CC00CC"
-  },
-  {
-    "id": 3.544,
-    "parent": 2.146,
-    "value": 0.2,
-    "name": "SC Lef1 Otx2 Gaba_1",
-    "color": "#CC755C"
-  },
-  {
-    "id": 3.545,
-    "parent": 2.146,
-    "value": 0.2,
-    "name": "SC Lef1 Otx2 Gaba_2",
-    "color": "#5C78CC"
-  },
-  {
-    "id": 3.546,
-    "parent": 2.147,
-    "value": 0.2,
-    "name": "SCs Pax7 Nfia Gaba_1",
-    "color": "#996A2E"
-  },
-  {
-    "id": 3.547,
-    "parent": 2.147,
-    "value": 0.2,
-    "name": "SCs Pax7 Nfia Gaba_2",
-    "color": "#4C3D66"
-  },
-  {
-    "id": 3.548,
-    "parent": 2.147,
-    "value": 0.2,
-    "name": "SCs Pax7 Nfia Gaba_3",
-    "color": "#4DFFBF"
-  },
-  {
-    "id": 3.549,
-    "parent": 2.147,
-    "value": 0.2,
-    "name": "SCs Pax7 Nfia Gaba_4",
-    "color": "#26FF43"
-  },
-  {
-    "id": 3.55,
-    "parent": 2.147,
-    "value": 0.2,
-    "name": "SCs Pax7 Nfia Gaba_5",
-    "color": "#CC1F31"
-  },
-  {
-    "id": 3.551,
-    "parent": 2.148,
-    "value": 0.2,
-    "name": "PRT Mecom Gaba_1",
-    "color": "#241FCC"
-  },
-  {
-    "id": 3.552,
-    "parent": 2.148,
-    "value": 0.2,
-    "name": "PRT Mecom Gaba_2",
-    "color": "#3DCC57"
-  },
-  {
-    "id": 3.553,
-    "parent": 2.148,
-    "value": 0.2,
-    "name": "PRT Mecom Gaba_3",
-    "color": "#994588"
-  },
-  {
-    "id": 3.554,
-    "parent": 2.149,
-    "value": 0.2,
-    "name": "SC Tnnt1 Gli3 Gaba_1",
-    "color": "#F800FF"
-  },
-  {
-    "id": 3.555,
-    "parent": 2.149,
-    "value": 0.2,
-    "name": "SC Tnnt1 Gli3 Gaba_2",
-    "color": "#459962"
-  },
-  {
-    "id": 3.556,
-    "parent": 2.15,
-    "value": 0.2,
-    "name": "SCs Lef1 Gli3 Gaba_1",
-    "color": "#D3FF99"
-  },
-  {
-    "id": 3.557,
-    "parent": 2.15,
-    "value": 0.2,
-    "name": "SCs Lef1 Gli3 Gaba_2",
-    "color": "#FF3200"
-  },
-  {
-    "id": 3.558,
-    "parent": 2.15,
-    "value": 0.2,
-    "name": "SCs Lef1 Gli3 Gaba_3",
-    "color": "#99456C"
-  },
-  {
-    "id": 3.559,
-    "parent": 2.151,
-    "value": 0.2,
-    "name": "SCsg Gabrr2 Gaba_1",
-    "color": "#66413D"
-  },
-  {
-    "id": 3.56,
-    "parent": 2.151,
-    "value": 0.2,
-    "name": "SCsg Gabrr2 Gaba_2",
-    "color": "#FFDC99"
-  },
-  {
-    "id": 3.561,
-    "parent": 2.151,
-    "value": 0.2,
-    "name": "SCsg Gabrr2 Gaba_3",
-    "color": "#200F66"
-  },
-  {
-    "id": 3.562,
-    "parent": 2.151,
-    "value": 0.2,
-    "name": "SCsg Gabrr2 Gaba_4",
-    "color": "#1F9FCC"
-  },
-  {
-    "id": 3.563,
-    "parent": 2.151,
-    "value": 0.2,
-    "name": "SCsg Gabrr2 Gaba_5",
-    "color": "#CCCB5C"
-  },
-  {
-    "id": 3.564,
-    "parent": 2.152,
-    "value": 0.2,
-    "name": "IPN Otp Crisp1 Gaba_1",
-    "color": "#C4CC00"
-  },
-  {
-    "id": 3.565,
-    "parent": 2.152,
-    "value": 0.2,
-    "name": "IPN Otp Crisp1 Gaba_2",
-    "color": "#003D66"
-  },
-  {
-    "id": 3.566,
-    "parent": 2.152,
-    "value": 0.2,
-    "name": "IPN Otp Crisp1 Gaba_3",
-    "color": "#FFE600"
-  },
-  {
-    "id": 3.567,
-    "parent": 2.153,
-    "value": 0.2,
-    "name": "SNc-VTA-RAmb Foxa1 Dopa_1",
-    "color": "#B1FF99"
-  },
-  {
-    "id": 3.568,
-    "parent": 2.153,
-    "value": 0.2,
-    "name": "SNc-VTA-RAmb Foxa1 Dopa_2",
-    "color": "#993217"
-  },
-  {
-    "id": 3.569,
-    "parent": 2.153,
-    "value": 0.2,
-    "name": "SNc-VTA-RAmb Foxa1 Dopa_3",
-    "color": "#73D8FF"
-  },
-  {
-    "id": 3.57,
-    "parent": 2.153,
-    "value": 0.2,
-    "name": "SNc-VTA-RAmb Foxa1 Dopa_4",
-    "color": "#662E4D"
-  },
-  {
-    "id": 3.571,
-    "parent": 2.153,
-    "value": 0.2,
-    "name": "SNc-VTA-RAmb Foxa1 Dopa_5",
-    "color": "#4500CC"
-  },
-  {
-    "id": 3.572,
-    "parent": 2.153,
-    "value": 0.2,
-    "name": "SNc-VTA-RAmb Foxa1 Dopa_6",
-    "color": "#FF99E2"
-  },
-  {
-    "id": 3.573,
-    "parent": 2.153,
-    "value": 0.2,
-    "name": "SNc-VTA-RAmb Foxa1 Dopa_7",
-    "color": "#3B1799"
-  },
-  {
-    "id": 3.574,
-    "parent": 2.153,
-    "value": 0.2,
-    "name": "SNc-VTA-RAmb Foxa1 Dopa_8",
-    "color": "#AECC00"
-  },
-  {
-    "id": 3.575,
-    "parent": 2.154,
-    "value": 0.2,
-    "name": "PB Lmx1a Glut_1",
-    "color": "#10CC00"
-  },
-  {
-    "id": 3.576,
-    "parent": 2.154,
-    "value": 0.2,
-    "name": "PB Lmx1a Glut_2",
-    "color": "#7ACC96"
-  },
-  {
-    "id": 3.577,
-    "parent": 2.154,
-    "value": 0.2,
-    "name": "PB Lmx1a Glut_3",
-    "color": "#C8FF26"
-  },
-  {
-    "id": 3.578,
-    "parent": 2.154,
-    "value": 0.2,
-    "name": "PB Lmx1a Glut_4",
-    "color": "#FC7300"
-  },
-  {
-    "id": 3.579,
-    "parent": 2.154,
-    "value": 0.2,
-    "name": "PB Lmx1a Glut_5",
-    "color": "#72CC3D"
-  },
-  {
-    "id": 3.58,
-    "parent": 2.154,
-    "value": 0.2,
-    "name": "PB Lmx1a Glut_6",
-    "color": "#7A7BCC"
-  },
-  {
-    "id": 3.581,
-    "parent": 2.154,
-    "value": 0.2,
-    "name": "PB Lmx1a Glut_7",
-    "color": "#63662E"
-  },
-  {
-    "id": 3.582,
-    "parent": 2.155,
-    "value": 0.2,
-    "name": "PB-SUT Tlx3 Lhx2 Glut_1",
-    "color": "#56663D"
-  },
-  {
-    "id": 3.583,
-    "parent": 2.156,
-    "value": 0.2,
-    "name": "PB Pax5 Glut_1",
-    "color": "#99885C"
-  },
-  {
-    "id": 3.584,
-    "parent": 2.156,
-    "value": 0.2,
-    "name": "PB Pax5 Glut_2",
-    "color": "#f4a63f"
-  },
-  {
-    "id": 3.585,
-    "parent": 2.157,
-    "value": 0.2,
-    "name": "LDT-PCG Vsx2 Lhx4 Glut_1",
-    "color": "#4A662E"
-  },
-  {
-    "id": 3.586,
-    "parent": 2.157,
-    "value": 0.2,
-    "name": "LDT-PCG Vsx2 Lhx4 Glut_2",
-    "color": "#662E5F"
-  },
-  {
-    "id": 3.587,
-    "parent": 2.157,
-    "value": 0.2,
-    "name": "LDT-PCG Vsx2 Lhx4 Glut_3",
-    "color": "#00CC60"
-  },
-  {
-    "id": 3.588,
-    "parent": 2.157,
-    "value": 0.2,
-    "name": "LDT-PCG Vsx2 Lhx4 Glut_4",
-    "color": "#FFA74D"
-  },
-  {
-    "id": 3.589,
-    "parent": 2.157,
-    "value": 0.2,
-    "name": "LDT-PCG Vsx2 Lhx4 Glut_5",
-    "color": "#F5FF4D"
-  },
-  {
-    "id": 3.59,
-    "parent": 2.157,
-    "value": 0.2,
-    "name": "LDT-PCG Vsx2 Lhx4 Glut_6",
-    "color": "#00CCC0"
-  },
-  {
-    "id": 3.591,
-    "parent": 2.157,
-    "value": 0.2,
-    "name": "LDT-PCG Vsx2 Lhx4 Glut_7",
-    "color": "#1FCC28"
-  },
-  {
-    "id": 3.592,
-    "parent": 2.157,
-    "value": 0.2,
-    "name": "LDT-PCG Vsx2 Lhx4 Glut_8",
-    "color": "#d1d11b"
-  },
-  {
-    "id": 3.593,
-    "parent": 2.158,
-    "value": 0.2,
-    "name": "PB Evx2 Glut_1",
-    "color": "#005D99"
-  },
-  {
-    "id": 3.594,
-    "parent": 2.158,
-    "value": 0.2,
-    "name": "PB Evx2 Glut_2",
-    "color": "#459974"
-  },
-  {
-    "id": 3.595,
-    "parent": 2.158,
-    "value": 0.2,
-    "name": "PB Evx2 Glut_3",
-    "color": "#FF99AA"
-  },
-  {
-    "id": 3.596,
-    "parent": 2.158,
-    "value": 0.2,
-    "name": "PB Evx2 Glut_4",
-    "color": "#7ACC8D"
-  },
-  {
-    "id": 3.597,
-    "parent": 2.158,
-    "value": 0.2,
-    "name": "PB Evx2 Glut_5",
-    "color": "#175799"
-  },
-  {
-    "id": 3.598,
-    "parent": 2.158,
-    "value": 0.2,
-    "name": "PB Evx2 Glut_6",
-    "color": "#8C4DFF"
-  },
-  {
-    "id": 3.599,
-    "parent": 2.158,
-    "value": 0.2,
-    "name": "PB Evx2 Glut_7",
-    "color": "#b9bfbe"
-  },
-  {
-    "id": 3.6,
-    "parent": 2.158,
-    "value": 0.2,
-    "name": "PB Evx2 Glut_8",
-    "color": "#FF0600"
-  },
-  {
-    "id": 3.601,
-    "parent": 2.158,
-    "value": 0.2,
-    "name": "PB Evx2 Glut_9",
-    "color": "#CCC15C"
-  },
-  {
-    "id": 3.602,
-    "parent": 2.159,
-    "value": 0.2,
-    "name": "B-PB Nr4a2 Glut_1",
-    "color": "#5CCCA0"
-  },
-  {
-    "id": 3.603,
-    "parent": 2.16,
-    "value": 0.2,
-    "name": "PCG-PRNr Vsx2 Nkx6-1 Glut_1",
-    "color": "#26FF5B"
-  },
-  {
-    "id": 3.604,
-    "parent": 2.16,
-    "value": 0.2,
-    "name": "PCG-PRNr Vsx2 Nkx6-1 Glut_2",
-    "color": "#CC5C7B"
-  },
-  {
-    "id": 3.605,
-    "parent": 2.16,
-    "value": 0.2,
-    "name": "PCG-PRNr Vsx2 Nkx6-1 Glut_3",
-    "color": "#C1CC1F"
-  },
-  {
-    "id": 3.606,
-    "parent": 2.16,
-    "value": 0.2,
-    "name": "PCG-PRNr Vsx2 Nkx6-1 Glut_4",
-    "color": "#B0CC7A"
-  },
-  {
-    "id": 3.607,
-    "parent": 2.16,
-    "value": 0.2,
-    "name": "PCG-PRNr Vsx2 Nkx6-1 Glut_5",
-    "color": "#991917"
-  },
-  {
-    "id": 3.608,
-    "parent": 2.16,
-    "value": 0.2,
-    "name": "PCG-PRNr Vsx2 Nkx6-1 Glut_6",
-    "color": "#8BFF73"
-  },
-  {
-    "id": 3.609,
-    "parent": 2.161,
-    "value": 0.2,
-    "name": "PRNc-NI-SG-RPO Vsx2 Nr4a2 Glut_1",
-    "color": "#FF4D6C"
-  },
-  {
-    "id": 3.61,
-    "parent": 2.161,
-    "value": 0.2,
-    "name": "PRNc-NI-SG-RPO Vsx2 Nr4a2 Glut_2",
-    "color": "#DEFF99"
-  },
-  {
-    "id": 3.611,
-    "parent": 2.161,
-    "value": 0.2,
-    "name": "PRNc-NI-SG-RPO Vsx2 Nr4a2 Glut_3",
-    "color": "#AA1FCC"
-  },
-  {
-    "id": 3.612,
-    "parent": 2.161,
-    "value": 0.2,
-    "name": "PRNc-NI-SG-RPO Vsx2 Nr4a2 Glut_4",
-    "color": "#009947"
-  },
-  {
-    "id": 3.613,
-    "parent": 2.162,
-    "value": 0.2,
-    "name": "PRNc-PARN Tlx1 Glut_1",
-    "color": "#e076d7"
-  },
-  {
-    "id": 3.614,
-    "parent": 2.162,
-    "value": 0.2,
-    "name": "PRNc-PARN Tlx1 Glut_2",
-    "color": "#73FFE4"
-  },
-  {
-    "id": 3.615,
-    "parent": 2.162,
-    "value": 0.2,
-    "name": "PRNc-PARN Tlx1 Glut_3",
-    "color": "#3DCC62"
-  },
-  {
-    "id": 3.616,
-    "parent": 2.163,
-    "value": 0.2,
-    "name": "PB-PSV Phox2b Glut_1",
-    "color": "#FF73FA"
-  },
-  {
-    "id": 3.617,
-    "parent": 2.164,
-    "value": 0.2,
-    "name": "PSV Pvalb Lhx2 Glut_1",
-    "color": "#7B995C"
-  },
-  {
-    "id": 3.618,
-    "parent": 2.164,
-    "value": 0.2,
-    "name": "PSV Pvalb Lhx2 Glut_2",
-    "color": "#2E8499"
-  },
-  {
-    "id": 3.619,
-    "parent": 2.164,
-    "value": 0.2,
-    "name": "PSV Pvalb Lhx2 Glut_3",
-    "color": "#FF00AE"
-  },
-  {
-    "id": 3.62,
-    "parent": 2.164,
-    "value": 0.2,
-    "name": "PSV Pvalb Lhx2 Glut_4",
-    "color": "#00995D"
-  },
-  {
-    "id": 3.621,
-    "parent": 2.165,
-    "value": 0.2,
-    "name": "PB-NTS Phox2b Ebf3 Lmx1b Glut_1",
-    "color": "#995C70"
-  },
-  {
-    "id": 3.622,
-    "parent": 2.165,
-    "value": 0.2,
-    "name": "PB-NTS Phox2b Ebf3 Lmx1b Glut_2",
-    "color": "#990052"
-  },
-  {
-    "id": 3.623,
-    "parent": 2.166,
-    "value": 0.2,
-    "name": "PRNr Otp Nfib Glut_1",
-    "color": "#36660F"
-  },
-  {
-    "id": 3.624,
-    "parent": 2.167,
-    "value": 0.2,
-    "name": "IPN-LDT Vsx2 Nkx6-1 Glut_1",
-    "color": "#7ACC84"
-  },
-  {
-    "id": 3.625,
-    "parent": 2.167,
-    "value": 0.2,
-    "name": "IPN-LDT Vsx2 Nkx6-1 Glut_2",
-    "color": "#26FF8B"
-  },
-  {
-    "id": 3.626,
-    "parent": 2.168,
-    "value": 0.2,
-    "name": "LDT Vsx2 Nkx6-1 Nfib Glut_1",
-    "color": "#6ACC5C"
-  },
-  {
-    "id": 3.627,
-    "parent": 2.168,
-    "value": 0.2,
-    "name": "LDT Vsx2 Nkx6-1 Nfib Glut_2",
-    "color": "#FF4DB1"
-  },
-  {
-    "id": 3.628,
-    "parent": 2.169,
-    "value": 0.2,
-    "name": "NLL-SOC Spp1 Glut_1",
-    "color": "#457B99"
-  },
-  {
-    "id": 3.629,
-    "parent": 2.169,
-    "value": 0.2,
-    "name": "NLL-SOC Spp1 Glut_2",
-    "color": "#990041"
-  },
-  {
-    "id": 3.63,
-    "parent": 2.17,
-    "value": 0.2,
-    "name": "PG-TRN-LRN Fat2 Glut_1",
-    "color": "#4DD1FF"
-  },
-  {
-    "id": 3.631,
-    "parent": 2.171,
-    "value": 0.2,
-    "name": "IRN Vip Glut_1",
-    "color": "#3D6649"
-  },
-  {
-    "id": 3.632,
-    "parent": 2.172,
-    "value": 0.2,
-    "name": "PRP-NI-PRNc-GRN Otp Glut_1",
-    "color": "#CC1F40"
-  },
-  {
-    "id": 3.633,
-    "parent": 2.172,
-    "value": 0.2,
-    "name": "PRP-NI-PRNc-GRN Otp Glut_2",
-    "color": "#8A1799"
-  },
-  {
-    "id": 3.634,
-    "parent": 2.172,
-    "value": 0.2,
-    "name": "PRP-NI-PRNc-GRN Otp Glut_3",
-    "color": "#196600"
-  },
-  {
-    "id": 3.635,
-    "parent": 2.172,
-    "value": 0.2,
-    "name": "PRP-NI-PRNc-GRN Otp Glut_4",
-    "color": "#73FFD5"
-  },
-  {
-    "id": 3.636,
-    "parent": 2.173,
-    "value": 0.2,
-    "name": "NTS Phox2b Glut_1",
-    "color": "#992800"
-  },
-  {
-    "id": 3.637,
-    "parent": 2.173,
-    "value": 0.2,
-    "name": "NTS Phox2b Glut_2",
-    "color": "#490099"
-  },
-  {
-    "id": 3.638,
-    "parent": 2.173,
-    "value": 0.2,
-    "name": "NTS Phox2b Glut_3",
-    "color": "#4EFF4D"
-  },
-  {
-    "id": 3.639,
-    "parent": 2.173,
-    "value": 0.2,
-    "name": "NTS Phox2b Glut_4",
-    "color": "#457D99"
-  },
-  {
-    "id": 3.64,
-    "parent": 2.173,
-    "value": 0.2,
-    "name": "NTS Phox2b Glut_5",
-    "color": "#CC641F"
-  },
-  {
-    "id": 3.641,
-    "parent": 2.173,
-    "value": 0.2,
-    "name": "NTS Phox2b Glut_6",
-    "color": "#664E3D"
-  },
-  {
-    "id": 3.642,
-    "parent": 2.173,
-    "value": 0.2,
-    "name": "NTS Phox2b Glut_7",
-    "color": "#581799"
-  },
-  {
-    "id": 3.643,
-    "parent": 2.173,
-    "value": 0.2,
-    "name": "NTS Phox2b Glut_8",
-    "color": "#50992E"
-  },
-  {
-    "id": 3.644,
-    "parent": 2.173,
-    "value": 0.2,
-    "name": "NTS Phox2b Glut_9",
-    "color": "#2E996C"
-  },
-  {
-    "id": 3.645,
-    "parent": 2.173,
-    "value": 0.2,
-    "name": "NTS Phox2b Glut_10",
-    "color": "#f2a14b"
-  },
-  {
-    "id": 3.646,
-    "parent": 2.174,
-    "value": 0.2,
-    "name": "MARN-GRN Pyy Glut_1",
-    "color": "#006657"
-  },
-  {
-    "id": 3.647,
-    "parent": 2.175,
-    "value": 0.2,
-    "name": "MDRNv Lhx4 Qrfprl Glut_1",
-    "color": "#49f490"
-  },
-  {
-    "id": 3.648,
-    "parent": 2.176,
-    "value": 0.2,
-    "name": "NTS Mbnl3 Glut_1",
-    "color": "#FF73E3"
-  },
-  {
-    "id": 3.649,
-    "parent": 2.177,
-    "value": 0.2,
-    "name": "PGRNd Dmbx1 Glut_1",
-    "color": "#513D66"
-  },
-  {
-    "id": 3.65,
-    "parent": 2.178,
-    "value": 0.2,
-    "name": "PGRN-PARN-MDRN Hoxb5 Glut_1",
-    "color": "#459987"
-  },
-  {
-    "id": 3.651,
-    "parent": 2.178,
-    "value": 0.2,
-    "name": "PGRN-PARN-MDRN Hoxb5 Glut_2",
-    "color": "#73FFD9"
-  },
-  {
-    "id": 3.652,
-    "parent": 2.178,
-    "value": 0.2,
-    "name": "PGRN-PARN-MDRN Hoxb5 Glut_3",
-    "color": "#2E6643"
-  },
-  {
-    "id": 3.653,
-    "parent": 2.178,
-    "value": 0.2,
-    "name": "PGRN-PARN-MDRN Hoxb5 Glut_4",
-    "color": "#990089"
-  },
-  {
-    "id": 3.654,
-    "parent": 2.178,
-    "value": 0.2,
-    "name": "PGRN-PARN-MDRN Hoxb5 Glut_5",
-    "color": "#3d72ed"
-  },
-  {
-    "id": 3.655,
-    "parent": 2.178,
-    "value": 0.2,
-    "name": "PGRN-PARN-MDRN Hoxb5 Glut_6",
-    "color": "#EFFF26"
-  },
-  {
-    "id": 3.656,
-    "parent": 2.178,
-    "value": 0.2,
-    "name": "PGRN-PARN-MDRN Hoxb5 Glut_7",
-    "color": "#743DCC"
-  },
-  {
-    "id": 3.657,
-    "parent": 2.179,
-    "value": 0.2,
-    "name": "MV-SPIV Slc6a2 Glut_1",
-    "color": "#88CC5C"
-  },
-  {
-    "id": 3.658,
-    "parent": 2.18,
-    "value": 0.2,
-    "name": "SPVI-SPVC Tlx3 Ebf3 Glut_1",
-    "color": "#eec9ff"
-  },
-  {
-    "id": 3.659,
-    "parent": 2.18,
-    "value": 0.2,
-    "name": "SPVI-SPVC Tlx3 Ebf3 Glut_2",
-    "color": "#C30000"
-  },
-  {
-    "id": 3.66,
-    "parent": 2.18,
-    "value": 0.2,
-    "name": "SPVI-SPVC Tlx3 Ebf3 Glut_3",
-    "color": "#003F00"
-  },
-  {
-    "id": 3.661,
-    "parent": 2.18,
-    "value": 0.2,
-    "name": "SPVI-SPVC Tlx3 Ebf3 Glut_4",
-    "color": "#45994F"
-  },
-  {
-    "id": 3.662,
-    "parent": 2.18,
-    "value": 0.2,
-    "name": "SPVI-SPVC Tlx3 Ebf3 Glut_5",
-    "color": "#002666"
-  },
-  {
-    "id": 3.663,
-    "parent": 2.18,
-    "value": 0.2,
-    "name": "SPVI-SPVC Tlx3 Ebf3 Glut_6",
-    "color": "#8973FF"
-  },
-  {
-    "id": 3.664,
-    "parent": 2.18,
-    "value": 0.2,
-    "name": "SPVI-SPVC Tlx3 Ebf3 Glut_7",
-    "color": "#A1FF26"
-  },
-  {
-    "id": 3.665,
-    "parent": 2.181,
-    "value": 0.2,
-    "name": "CU-ECU-SPVI Foxb1 Glut_1",
-    "color": "#004F99"
-  },
-  {
-    "id": 3.666,
-    "parent": 2.181,
-    "value": 0.2,
-    "name": "CU-ECU-SPVI Foxb1 Glut_2",
-    "color": "#FFEF26"
-  },
-  {
-    "id": 3.667,
-    "parent": 2.181,
-    "value": 0.2,
-    "name": "CU-ECU-SPVI Foxb1 Glut_3",
-    "color": "#66502E"
-  },
-  {
-    "id": 3.668,
-    "parent": 2.181,
-    "value": 0.2,
-    "name": "CU-ECU-SPVI Foxb1 Glut_4",
-    "color": "#006662"
-  },
-  {
-    "id": 3.669,
-    "parent": 2.182,
-    "value": 0.2,
-    "name": "MV-SPIV Phox2b Ebf3 Lbx1 Glut_1",
-    "color": "#661F40"
-  },
-  {
-    "id": 3.67,
-    "parent": 2.182,
-    "value": 0.2,
-    "name": "MV-SPIV Phox2b Ebf3 Lbx1 Glut_2",
-    "color": "#26EB00"
-  },
-  {
-    "id": 3.671,
-    "parent": 2.182,
-    "value": 0.2,
-    "name": "MV-SPIV Phox2b Ebf3 Lbx1 Glut_3",
-    "color": "#CC00C8"
-  },
-  {
-    "id": 3.672,
-    "parent": 2.182,
-    "value": 0.2,
-    "name": "MV-SPIV Phox2b Ebf3 Lbx1 Glut_4",
-    "color": "#CC1F5F"
-  },
-  {
-    "id": 3.673,
-    "parent": 2.182,
-    "value": 0.2,
-    "name": "MV-SPIV Phox2b Ebf3 Lbx1 Glut_5",
-    "color": "#0f8ee2"
-  },
-  {
-    "id": 3.674,
-    "parent": 2.183,
-    "value": 0.2,
-    "name": "MV-SPIV Zic4 Neurod2 Glut_1",
-    "color": "#73FF7C"
-  },
-  {
-    "id": 3.675,
-    "parent": 2.183,
-    "value": 0.2,
-    "name": "MV-SPIV Zic4 Neurod2 Glut_2",
-    "color": "#CC5C93"
-  },
-  {
-    "id": 3.676,
-    "parent": 2.183,
-    "value": 0.2,
-    "name": "MV-SPIV Zic4 Neurod2 Glut_3",
-    "color": "#179994"
-  },
-  {
-    "id": 3.677,
-    "parent": 2.183,
-    "value": 0.2,
-    "name": "MV-SPIV Zic4 Neurod2 Glut_4",
-    "color": "#e2dbff"
-  },
-  {
-    "id": 3.678,
-    "parent": 2.183,
-    "value": 0.2,
-    "name": "MV-SPIV Zic4 Neurod2 Glut_5",
-    "color": "#2E9968"
-  },
-  {
-    "id": 3.679,
-    "parent": 2.184,
-    "value": 0.2,
-    "name": "NTS Aldh1a2 Glut_1",
-    "color": "#352E66"
-  },
-  {
-    "id": 3.68,
-    "parent": 2.185,
-    "value": 0.2,
-    "name": "CBN Neurod2 Pvalb Glut_1",
-    "color": "#FFAD73"
-  },
-  {
-    "id": 3.681,
-    "parent": 2.186,
-    "value": 0.2,
-    "name": "NTS Dbh Glut_1",
-    "color": "#A33DCC"
-  },
-  {
-    "id": 3.682,
-    "parent": 2.186,
-    "value": 0.2,
-    "name": "NTS Dbh Glut_2",
-    "color": "#99665C"
-  },
-  {
-    "id": 3.683,
-    "parent": 2.186,
-    "value": 0.2,
-    "name": "NTS Dbh Glut_3",
-    "color": "#54FF00"
-  },
-  {
-    "id": 3.684,
-    "parent": 2.186,
-    "value": 0.2,
-    "name": "NTS Dbh Glut_4",
-    "color": "#3DB3CC"
-  },
-  {
-    "id": 3.685,
-    "parent": 2.186,
-    "value": 0.2,
-    "name": "NTS Dbh Glut_5",
-    "color": "#4DF9FF"
-  },
-  {
-    "id": 3.686,
-    "parent": 2.186,
-    "value": 0.2,
-    "name": "NTS Dbh Glut_6",
-    "color": "#66003F"
-  },
-  {
-    "id": 3.687,
-    "parent": 2.187,
-    "value": 0.2,
-    "name": "DMX VII Tbx20 Chol_1",
-    "color": "#665C2E"
-  },
-  {
-    "id": 3.688,
-    "parent": 2.187,
-    "value": 0.2,
-    "name": "DMX VII Tbx20 Chol_2",
-    "color": "#663D4E"
-  },
-  {
-    "id": 3.689,
-    "parent": 2.188,
-    "value": 0.2,
-    "name": "IO Fgl2 Glut_1",
-    "color": "#994581"
-  },
-  {
-    "id": 3.69,
-    "parent": 2.189,
-    "value": 0.2,
-    "name": "VCO Mafa Meis2 Glut_1",
-    "color": "#2E3699"
-  },
-  {
-    "id": 3.691,
-    "parent": 2.189,
-    "value": 0.2,
-    "name": "VCO Mafa Meis2 Glut_2",
-    "color": "#c9ea67"
-  },
-  {
-    "id": 3.692,
-    "parent": 2.189,
-    "value": 0.2,
-    "name": "VCO Mafa Meis2 Glut_3",
-    "color": "#991738"
-  },
-  {
-    "id": 3.693,
-    "parent": 2.189,
-    "value": 0.2,
-    "name": "VCO Mafa Meis2 Glut_4",
-    "color": "#5C7699"
-  },
-  {
-    "id": 3.694,
-    "parent": 2.19,
-    "value": 0.2,
-    "name": "SPVO Mafa Meis2 Glut_1",
-    "color": "#FF4D86"
-  },
-  {
-    "id": 3.695,
-    "parent": 2.191,
-    "value": 0.2,
-    "name": "SPVC Mafa Glut_1",
-    "color": "#64661F"
-  },
-  {
-    "id": 3.696,
-    "parent": 2.191,
-    "value": 0.2,
-    "name": "SPVC Mafa Glut_2",
-    "color": "#179985"
-  },
-  {
-    "id": 3.697,
-    "parent": 2.192,
-    "value": 0.2,
-    "name": "SPVC Ccdc172 Glut_1",
-    "color": "#26FCFF"
-  },
-  {
-    "id": 3.698,
-    "parent": 2.193,
-    "value": 0.2,
-    "name": "SPVC Nmu Glut_1",
-    "color": "#5DCC5C"
-  },
-  {
-    "id": 3.699,
-    "parent": 2.193,
-    "value": 0.2,
-    "name": "SPVC Nmu Glut_2",
-    "color": "#2E6466"
-  },
-  {
-    "id": 3.7,
-    "parent": 2.194,
-    "value": 0.2,
-    "name": "MDRNd Bves Glut_1",
-    "color": "#3E1F66"
-  },
-  {
-    "id": 3.701,
-    "parent": 2.195,
-    "value": 0.2,
-    "name": "MDRNv Crp Glut_1",
-    "color": "#99007A"
-  },
-  {
-    "id": 3.702,
-    "parent": 2.196,
-    "value": 0.2,
-    "name": "HB Calcb Chol_1",
-    "color": "#CACC3D"
-  },
-  {
-    "id": 3.703,
-    "parent": 2.196,
-    "value": 0.2,
-    "name": "HB Calcb Chol_2",
-    "color": "#179982"
-  },
-  {
-    "id": 3.704,
-    "parent": 2.196,
-    "value": 0.2,
-    "name": "HB Calcb Chol_3",
-    "color": "#87CC1F"
-  },
-  {
-    "id": 3.705,
-    "parent": 2.196,
-    "value": 0.2,
-    "name": "HB Calcb Chol_4",
-    "color": "#FF8B26"
-  },
-  {
-    "id": 3.706,
-    "parent": 2.196,
-    "value": 0.2,
-    "name": "HB Calcb Chol_5",
-    "color": "#3F663D"
-  },
-  {
-    "id": 3.707,
-    "parent": 2.197,
-    "value": 0.2,
-    "name": "Pineal Crx Glut_1",
-    "color": "#CCA65C"
-  },
-  {
-    "id": 3.708,
-    "parent": 2.198,
-    "value": 0.2,
-    "name": "CS-RPO Meis2 Gaba_1",
-    "color": "#00B0CC"
-  },
-  {
-    "id": 3.709,
-    "parent": 2.198,
-    "value": 0.2,
-    "name": "CS-RPO Meis2 Gaba_2",
-    "color": "#FF8673"
-  },
-  {
-    "id": 3.71,
-    "parent": 2.198,
-    "value": 0.2,
-    "name": "CS-RPO Meis2 Gaba_3",
-    "color": "#99004C"
-  },
-  {
-    "id": 3.711,
-    "parent": 2.198,
-    "value": 0.2,
-    "name": "CS-RPO Meis2 Gaba_4",
-    "color": "#70FF00"
-  },
-  {
-    "id": 3.712,
-    "parent": 2.198,
-    "value": 0.2,
-    "name": "CS-RPO Meis2 Gaba_5",
-    "color": "#6F3DCC"
-  },
-  {
-    "id": 3.713,
-    "parent": 2.199,
-    "value": 0.2,
-    "name": "PRNc Otp Gly-Gaba_1",
-    "color": "#CCC95C"
-  },
-  {
-    "id": 3.714,
-    "parent": 2.199,
-    "value": 0.2,
-    "name": "PRNc Otp Gly-Gaba_2",
-    "color": "#CC8A1F"
-  },
-  {
-    "id": 3.715,
-    "parent": 2.199,
-    "value": 0.2,
-    "name": "PRNc Otp Gly-Gaba_3",
-    "color": "#630F66"
-  },
-  {
-    "id": 3.716,
-    "parent": 2.199,
-    "value": 0.2,
-    "name": "PRNc Otp Gly-Gaba_4",
-    "color": "#CC3700"
-  },
-  {
-    "id": 3.717,
-    "parent": 2.199,
-    "value": 0.2,
-    "name": "PRNc Otp Gly-Gaba_5",
-    "color": "#3D86CC"
-  },
-  {
-    "id": 3.718,
-    "parent": 2.2,
-    "value": 0.2,
-    "name": "PB Sst Gly-Gaba_1",
-    "color": "#edc915"
-  },
-  {
-    "id": 3.719,
-    "parent": 2.2,
-    "value": 0.2,
-    "name": "PB Sst Gly-Gaba_2",
-    "color": "#7AA8CC"
-  },
-  {
-    "id": 3.72,
-    "parent": 2.201,
-    "value": 0.2,
-    "name": "PRNc Prox1 Brs3 Gly-Gaba_1",
-    "color": "#4DFFB7"
-  },
-  {
-    "id": 3.721,
-    "parent": 2.202,
-    "value": 0.2,
-    "name": "CS-PRNr-DR En1 Sox2 Gaba_1",
-    "color": "#5D1FCC"
-  },
-  {
-    "id": 3.722,
-    "parent": 2.202,
-    "value": 0.2,
-    "name": "CS-PRNr-DR En1 Sox2 Gaba_2",
-    "color": "#99A8FF"
-  },
-  {
-    "id": 3.723,
-    "parent": 2.203,
-    "value": 0.2,
-    "name": "LDT Fgf7 Gaba_1",
-    "color": "#FFC699"
-  },
-  {
-    "id": 3.724,
-    "parent": 2.204,
-    "value": 0.2,
-    "name": "NI-RPO Gata3 Nr4a2 Gaba_1",
-    "color": "#2E9939"
-  },
-  {
-    "id": 3.725,
-    "parent": 2.204,
-    "value": 0.2,
-    "name": "NI-RPO Gata3 Nr4a2 Gaba_2",
-    "color": "#CC3DA6"
-  },
-  {
-    "id": 3.726,
-    "parent": 2.204,
-    "value": 0.2,
-    "name": "NI-RPO Gata3 Nr4a2 Gaba_3",
-    "color": "#8B7ACC"
-  },
-  {
-    "id": 3.727,
-    "parent": 2.204,
-    "value": 0.2,
-    "name": "NI-RPO Gata3 Nr4a2 Gaba_4",
-    "color": "#992E7A"
-  },
-  {
-    "id": 3.728,
-    "parent": 2.205,
-    "value": 0.2,
-    "name": "LDT-PCG-CS Gata3 Lhx1 Gaba_1",
-    "color": "#1FCC00"
-  },
-  {
-    "id": 3.729,
-    "parent": 2.205,
-    "value": 0.2,
-    "name": "LDT-PCG-CS Gata3 Lhx1 Gaba_2",
-    "color": "#3A00CC"
-  },
-  {
-    "id": 3.73,
-    "parent": 2.205,
-    "value": 0.2,
-    "name": "LDT-PCG-CS Gata3 Lhx1 Gaba_3",
-    "color": "#FF4DC0"
-  },
-  {
-    "id": 3.731,
-    "parent": 2.205,
-    "value": 0.2,
-    "name": "LDT-PCG-CS Gata3 Lhx1 Gaba_4",
-    "color": "#CC695C"
-  },
-  {
-    "id": 3.732,
-    "parent": 2.205,
-    "value": 0.2,
-    "name": "LDT-PCG-CS Gata3 Lhx1 Gaba_5",
-    "color": "#002D99"
-  },
-  {
-    "id": 3.733,
-    "parent": 2.206,
-    "value": 0.2,
-    "name": "PDTg-PCG Pax6 Gaba_1",
-    "color": "#FF9073"
-  },
-  {
-    "id": 3.734,
-    "parent": 2.206,
-    "value": 0.2,
-    "name": "PDTg-PCG Pax6 Gaba_2",
-    "color": "#789900"
-  },
-  {
-    "id": 3.735,
-    "parent": 2.206,
-    "value": 0.2,
-    "name": "PDTg-PCG Pax6 Gaba_3",
-    "color": "#FF7F73"
-  },
-  {
-    "id": 3.736,
-    "parent": 2.206,
-    "value": 0.2,
-    "name": "PDTg-PCG Pax6 Gaba_4",
-    "color": "#FE26FF"
-  },
-  {
-    "id": 3.737,
-    "parent": 2.207,
-    "value": 0.2,
-    "name": "PDTg Otp Shroom3 Gaba_1",
-    "color": "#0F1B66"
-  },
-  {
-    "id": 3.738,
-    "parent": 2.208,
-    "value": 0.2,
-    "name": "PDTg Otp Olig3 Gaba_1",
-    "color": "#3DCCB6"
-  },
-  {
-    "id": 3.739,
-    "parent": 2.209,
-    "value": 0.2,
-    "name": "LDT-PCG St18 Gaba_1",
-    "color": "#1FB2CC"
-  },
-  {
-    "id": 3.74,
-    "parent": 2.209,
-    "value": 0.2,
-    "name": "LDT-PCG St18 Gaba_2",
-    "color": "#3A2E99"
-  },
-  {
-    "id": 3.741,
-    "parent": 2.21,
-    "value": 0.2,
-    "name": "DTN-LDT-IPN Otp Pax3 Gaba_1",
-    "color": "#459999"
-  },
-  {
-    "id": 3.742,
-    "parent": 2.21,
-    "value": 0.2,
-    "name": "DTN-LDT-IPN Otp Pax3 Gaba_2",
-    "color": "#2E1F66"
-  },
-  {
-    "id": 3.743,
-    "parent": 2.21,
-    "value": 0.2,
-    "name": "DTN-LDT-IPN Otp Pax3 Gaba_3",
-    "color": "#FF4DD5"
-  },
-  {
-    "id": 3.744,
-    "parent": 2.21,
-    "value": 0.2,
-    "name": "DTN-LDT-IPN Otp Pax3 Gaba_4",
-    "color": "#2E9974"
-  },
-  {
-    "id": 3.745,
-    "parent": 2.21,
-    "value": 0.2,
-    "name": "DTN-LDT-IPN Otp Pax3 Gaba_5",
-    "color": "#a4fcb2"
-  },
-  {
-    "id": 3.746,
-    "parent": 2.211,
-    "value": 0.2,
-    "name": "NLL Gata3 Gly-Gaba_1",
-    "color": "#7bb9ce"
-  },
-  {
-    "id": 3.747,
-    "parent": 2.211,
-    "value": 0.2,
-    "name": "NLL Gata3 Gly-Gaba_2",
-    "color": "#76CC00"
-  },
-  {
-    "id": 3.748,
-    "parent": 2.211,
-    "value": 0.2,
-    "name": "NLL Gata3 Gly-Gaba_3",
-    "color": "#f9db31"
-  },
-  {
-    "id": 3.749,
-    "parent": 2.211,
-    "value": 0.2,
-    "name": "NLL Gata3 Gly-Gaba_4",
-    "color": "#FF4D62"
-  },
-  {
-    "id": 3.75,
-    "parent": 2.212,
-    "value": 0.2,
-    "name": "PSV Pax2 Gly-Gaba_1",
-    "color": "#CC775C"
-  },
-  {
-    "id": 3.751,
-    "parent": 2.212,
-    "value": 0.2,
-    "name": "PSV Pax2 Gly-Gaba_2",
-    "color": "#FF4DEA"
-  },
-  {
-    "id": 3.752,
-    "parent": 2.213,
-    "value": 0.2,
-    "name": "NLL-po Pax7 Gaba_1",
-    "color": "#00FF55"
-  },
-  {
-    "id": 3.753,
-    "parent": 2.214,
-    "value": 0.2,
-    "name": "POR Gata3 Gly-Gaba_1",
-    "color": "#69FF26"
-  },
-  {
-    "id": 3.754,
-    "parent": 2.215,
-    "value": 0.2,
-    "name": "POR Spp1 Gly-Gaba_1",
-    "color": "#FF4DA0"
-  },
-  {
-    "id": 3.755,
-    "parent": 2.216,
-    "value": 0.2,
-    "name": "PRP Otp Gly-Gaba_1",
-    "color": "#994559"
-  },
-  {
-    "id": 3.756,
-    "parent": 2.216,
-    "value": 0.2,
-    "name": "PRP Otp Gly-Gaba_2",
-    "color": "#5D1F66"
-  },
-  {
-    "id": 3.757,
-    "parent": 2.216,
-    "value": 0.2,
-    "name": "PRP Otp Gly-Gaba_3",
-    "color": "#CC0089"
-  },
-  {
-    "id": 3.758,
-    "parent": 2.216,
-    "value": 0.2,
-    "name": "PRP Otp Gly-Gaba_4",
-    "color": "#459946"
-  },
-  {
-    "id": 3.759,
-    "parent": 2.216,
-    "value": 0.2,
-    "name": "PRP Otp Gly-Gaba_5",
-    "color": "#CC008A"
-  },
-  {
-    "id": 3.76,
-    "parent": 2.217,
-    "value": 0.2,
-    "name": "GRN-IRN-MDRNd Ikzf1 Gly-Gaba_1",
-    "color": "#3DCC3E"
-  },
-  {
-    "id": 3.761,
-    "parent": 2.218,
-    "value": 0.2,
-    "name": "MY Lhx1 Gly-Gaba_1",
-    "color": "#73FFD3"
-  },
-  {
-    "id": 3.762,
-    "parent": 2.219,
-    "value": 0.2,
-    "name": "MY Lhx1 Gly-Gaba_2",
-    "color": "#976df9"
-  },
-  {
-    "id": 3.763,
-    "parent": 2.219,
-    "value": 0.2,
-    "name": "MY Lhx1 Gly-Gaba_3",
-    "color": "#4D6300"
-  },
-  {
-    "id": 3.764,
-    "parent": 2.219,
-    "value": 0.2,
-    "name": "MY Lhx1 Gly-Gaba_4",
-    "color": "#FFD100"
-  },
-  {
-    "id": 3.765,
-    "parent": 2.219,
-    "value": 0.2,
-    "name": "MY Lhx1 Gly-Gaba_5",
-    "color": "#F4FF73"
-  },
-  {
-    "id": 3.766,
-    "parent": 2.219,
-    "value": 0.2,
-    "name": "MY Lhx1 Gly-Gaba_6",
-    "color": "#FF2B26"
-  },
-  {
-    "id": 3.767,
-    "parent": 2.219,
-    "value": 0.2,
-    "name": "MY Lhx1 Gly-Gaba_7",
-    "color": "#553DCC"
-  },
-  {
-    "id": 3.768,
-    "parent": 2.219,
-    "value": 0.2,
-    "name": "MY Lhx1 Gly-Gaba_8",
-    "color": "#FF674D"
-  },
-  {
-    "id": 3.769,
-    "parent": 2.219,
-    "value": 0.2,
-    "name": "MY Lhx1 Gly-Gaba_9",
-    "color": "#CC0047"
-  },
-  {
-    "id": 3.77,
-    "parent": 2.22,
-    "value": 0.2,
-    "name": "PPY-PGRNl Vip Glyc-Gaba_1",
-    "color": "#3D6DCC"
-  },
-  {
-    "id": 3.771,
-    "parent": 2.221,
-    "value": 0.2,
-    "name": "MV-SPIV-PRP Dmbx1 Gly-Gaba_1",
-    "color": "#FF7500"
-  },
-  {
-    "id": 3.772,
-    "parent": 2.221,
-    "value": 0.2,
-    "name": "MV-SPIV-PRP Dmbx1 Gly-Gaba_2",
-    "color": "#45996B"
-  },
-  {
-    "id": 3.773,
-    "parent": 2.221,
-    "value": 0.2,
-    "name": "MV-SPIV-PRP Dmbx1 Gly-Gaba_3",
-    "color": "#5CCCA4"
-  },
-  {
-    "id": 3.774,
-    "parent": 2.222,
-    "value": 0.2,
-    "name": "MDRN Hoxb5 Ebf2 Gly-Gaba_1",
-    "color": "#8E1799"
-  },
-  {
-    "id": 3.775,
-    "parent": 2.223,
-    "value": 0.2,
-    "name": "MDRNd Prox1 Pax6 Gly-Gaba_1",
-    "color": "#65660F"
-  },
-  {
-    "id": 3.776,
-    "parent": 2.224,
-    "value": 0.2,
-    "name": "MY Prox1 Lmo7 Gly-Gaba_1",
-    "color": "#3DCCBF"
-  },
-  {
-    "id": 3.777,
-    "parent": 2.225,
-    "value": 0.2,
-    "name": "NTS-MDRNd Prox1 Zic1 Gly-Gaba_1",
-    "color": "#4DFF7C"
-  },
-  {
-    "id": 3.778,
-    "parent": 2.225,
-    "value": 0.2,
-    "name": "NTS-MDRNd Prox1 Zic1 Gly-Gaba_2",
-    "color": "#992E8C"
-  },
-  {
-    "id": 3.779,
-    "parent": 2.226,
-    "value": 0.2,
-    "name": "MV Nkx6-1 Gly-Gaba_1",
-    "color": "#ccf9ff"
-  },
-  {
-    "id": 3.78,
-    "parent": 2.226,
-    "value": 0.2,
-    "name": "MV Nkx6-1 Gly-Gaba_2",
-    "color": "#FFF399"
-  },
-  {
-    "id": 3.781,
-    "parent": 2.227,
-    "value": 0.2,
-    "name": "PAS-MV Ebf2 Gly-Gaba_1",
-    "color": "#549917"
-  },
-  {
-    "id": 3.782,
-    "parent": 2.228,
-    "value": 0.2,
-    "name": "PAS-MV Ebf2 Gly-Gaba_2",
-    "color": "#FF4626"
-  },
-  {
-    "id": 3.783,
-    "parent": 2.228,
-    "value": 0.2,
-    "name": "PAS-MV Ebf2 Gly-Gaba_3",
-    "color": "#CC00B6"
-  },
-  {
-    "id": 3.784,
-    "parent": 2.228,
-    "value": 0.2,
-    "name": "PAS-MV Ebf2 Gly-Gaba_4",
-    "color": "#FF26A1"
-  },
-  {
-    "id": 3.785,
-    "parent": 2.229,
-    "value": 0.2,
-    "name": "MV Pax6 Gly-Gaba_1",
-    "color": "#1F6657"
-  },
-  {
-    "id": 3.786,
-    "parent": 2.229,
-    "value": 0.2,
-    "name": "MV Pax6 Gly-Gaba_2",
-    "color": "#174999"
-  },
-  {
-    "id": 3.787,
-    "parent": 2.23,
-    "value": 0.2,
-    "name": "CBN Dmbx1 Gaba_1",
-    "color": "#5C9994"
-  },
-  {
-    "id": 3.788,
-    "parent": 2.231,
-    "value": 0.2,
-    "name": "RPA Pax6 Hoxb5 Gly-Gaba_1",
-    "color": "#83e559"
-  },
-  {
-    "id": 3.789,
-    "parent": 2.232,
-    "value": 0.2,
-    "name": "CU-ECU Pax2 Gly-Gaba_1",
-    "color": "#661F4F"
-  },
-  {
-    "id": 3.79,
-    "parent": 2.233,
-    "value": 0.2,
-    "name": "PRP Gata3 Slc6a5 Gly-Gaba_1",
-    "color": "#999617"
-  },
-  {
-    "id": 3.791,
-    "parent": 2.234,
-    "value": 0.2,
-    "name": "MARN-PPY Ngfr Gly-Gaba_1",
-    "color": "#99FF73"
-  },
-  {
-    "id": 3.792,
-    "parent": 2.235,
-    "value": 0.2,
-    "name": "PARN-MDRNd-NTS Gbx2 Gly-Gaba_1",
-    "color": "#00CC93"
-  },
-  {
-    "id": 3.793,
-    "parent": 2.235,
-    "value": 0.2,
-    "name": "PARN-MDRNd-NTS Gbx2 Gly-Gaba_2",
-    "color": "#99FFC4"
-  },
-  {
-    "id": 3.794,
-    "parent": 2.235,
-    "value": 0.2,
-    "name": "PARN-MDRNd-NTS Gbx2 Gly-Gaba_3",
-    "color": "#45997D"
-  },
-  {
-    "id": 3.795,
-    "parent": 2.235,
-    "value": 0.2,
-    "name": "PARN-MDRNd-NTS Gbx2 Gly-Gaba_4",
-    "color": "#A1CC3D"
-  },
-  {
-    "id": 3.796,
-    "parent": 2.235,
-    "value": 0.2,
-    "name": "PARN-MDRNd-NTS Gbx2 Gly-Gaba_5",
-    "color": "#999245"
-  },
-  {
-    "id": 3.797,
-    "parent": 2.235,
-    "value": 0.2,
-    "name": "PARN-MDRNd-NTS Gbx2 Gly-Gaba_6",
-    "color": "#C000FF"
-  },
-  {
-    "id": 3.798,
-    "parent": 2.235,
-    "value": 0.2,
-    "name": "PARN-MDRNd-NTS Gbx2 Gly-Gaba_7",
-    "color": "#663D57"
-  },
-  {
-    "id": 3.799,
-    "parent": 2.236,
-    "value": 0.2,
-    "name": "MV Nr4a2 Gly-Gaba_1",
-    "color": "#3300FF"
-  },
-  {
-    "id": 3.8,
-    "parent": 2.237,
-    "value": 0.2,
-    "name": "MV Xdh Gly-Gaba_1",
-    "color": "#FFD199"
-  },
-  {
-    "id": 3.801,
-    "parent": 2.238,
-    "value": 0.2,
-    "name": "IRN Dmbx1 Pax2 Gly-Gaba_1",
-    "color": "#3D5666"
-  },
-  {
-    "id": 3.802,
-    "parent": 2.239,
-    "value": 0.2,
-    "name": "NTS-PARN Neurod2 Gly-Gaba_1",
-    "color": "#0015CC"
-  },
-  {
-    "id": 3.803,
-    "parent": 2.239,
-    "value": 0.2,
-    "name": "NTS-PARN Neurod2 Gly-Gaba_2",
-    "color": "#729945"
-  },
-  {
-    "id": 3.804,
-    "parent": 2.239,
-    "value": 0.2,
-    "name": "NTS-PARN Neurod2 Gly-Gaba_3",
-    "color": "#4E2E99"
-  },
-  {
-    "id": 3.805,
-    "parent": 2.239,
-    "value": 0.2,
-    "name": "NTS-PARN Neurod2 Gly-Gaba_4",
-    "color": "#3D6466"
-  },
-  {
-    "id": 3.806,
-    "parent": 2.239,
-    "value": 0.2,
-    "name": "NTS-PARN Neurod2 Gly-Gaba_5",
-    "color": "#5CCC8C"
-  },
-  {
-    "id": 3.807,
-    "parent": 2.239,
-    "value": 0.2,
-    "name": "NTS-PARN Neurod2 Gly-Gaba_6",
-    "color": "#663D65"
-  },
-  {
-    "id": 3.808,
-    "parent": 2.24,
-    "value": 0.2,
-    "name": "SPVI-SPVC Sall3 Nfib Gly-Gaba_1",
-    "color": "#4D6FFF"
-  },
-  {
-    "id": 3.809,
-    "parent": 2.24,
-    "value": 0.2,
-    "name": "SPVI-SPVC Sall3 Nfib Gly-Gaba_2",
-    "color": "#19660F"
-  },
-  {
-    "id": 3.81,
-    "parent": 2.241,
-    "value": 0.2,
-    "name": "SPVI-SPVC Sall3 Lhx1 Gly-Gaba_1",
-    "color": "#FF804D"
-  },
-  {
-    "id": 3.811,
-    "parent": 2.241,
-    "value": 0.2,
-    "name": "SPVI-SPVC Sall3 Lhx1 Gly-Gaba_2",
-    "color": "#998845"
-  },
-  {
-    "id": 3.812,
-    "parent": 2.242,
-    "value": 0.2,
-    "name": "RO-RPA Pkd2l1 Gaba_1",
-    "color": "#00FF71"
-  },
-  {
-    "id": 3.813,
-    "parent": 2.243,
-    "value": 0.2,
-    "name": "DCO Il22 Gly-Gaba_1",
-    "color": "#4E1F66"
-  },
-  {
-    "id": 3.814,
-    "parent": 2.243,
-    "value": 0.2,
-    "name": "DCO Il22 Gly-Gaba_2",
-    "color": "#E0FF26"
-  },
-  {
-    "id": 3.815,
-    "parent": 2.243,
-    "value": 0.2,
-    "name": "DCO Il22 Gly-Gaba_3",
-    "color": "#E626FF"
-  },
-  {
-    "id": 3.816,
-    "parent": 2.244,
-    "value": 0.2,
-    "name": "CB PLI Gly-Gaba_1",
-    "color": "#5CB6CC"
-  },
-  {
-    "id": 3.817,
-    "parent": 2.244,
-    "value": 0.2,
-    "name": "CB PLI Gly-Gaba_2",
-    "color": "#1F6628"
-  },
-  {
-    "id": 3.818,
-    "parent": 2.244,
-    "value": 0.2,
-    "name": "CB PLI Gly-Gaba_3",
-    "color": "#5D662E"
-  },
-  {
-    "id": 3.819,
-    "parent": 2.244,
-    "value": 0.2,
-    "name": "CB PLI Gly-Gaba_4",
-    "color": "#992F2E"
-  },
-  {
-    "id": 3.82,
-    "parent": 2.245,
-    "value": 0.2,
-    "name": "CBX Golgi Gly-Gaba_1",
-    "color": "#246600"
-  },
-  {
-    "id": 3.821,
-    "parent": 2.246,
-    "value": 0.2,
-    "name": "CBX MLI Megf11 Gaba_1",
-    "color": "#911799"
-  },
-  {
-    "id": 3.822,
-    "parent": 2.246,
-    "value": 0.2,
-    "name": "CBX MLI Megf11 Gaba_2",
-    "color": "#3DA4CC"
-  },
-  {
-    "id": 3.823,
-    "parent": 2.247,
-    "value": 0.2,
-    "name": "CBX MLI Cdh22 Gaba_1",
-    "color": "#5ddbdd"
-  },
-  {
-    "id": 3.824,
-    "parent": 2.248,
-    "value": 0.2,
-    "name": "CBX Purkinje Gaba_1",
-    "color": "#CC0030"
-  },
-  {
-    "id": 3.825,
-    "parent": 2.248,
-    "value": 0.2,
-    "name": "CBX Purkinje Gaba_2",
-    "color": "#177399"
-  },
-  {
-    "id": 3.826,
-    "parent": 2.249,
-    "value": 0.2,
-    "name": "CB Granule Glut_1",
-    "color": "#66632E"
-  },
-  {
-    "id": 3.827,
-    "parent": 2.249,
-    "value": 0.2,
-    "name": "CB Granule Glut_2",
-    "color": "#0F6635"
-  },
-  {
-    "id": 3.828,
-    "parent": 2.25,
-    "value": 0.2,
-    "name": "DCO UBC Glut_1",
-    "color": "#991769"
-  },
-  {
-    "id": 3.829,
-    "parent": 2.251,
-    "value": 0.2,
-    "name": "Bergmann NN_1",
-    "color": "#FFB526"
-  },
-  {
-    "id": 3.83,
-    "parent": 2.252,
-    "value": 0.2,
-    "name": "Astro-CB NN_1",
-    "color": "#350099"
-  },
-  {
-    "id": 3.831,
-    "parent": 2.253,
-    "value": 0.2,
-    "name": "Astro-NT NN_1",
-    "color": "#1F8ECC"
-  },
-  {
-    "id": 3.832,
-    "parent": 2.253,
-    "value": 0.2,
-    "name": "Astro-NT NN_2",
-    "color": "#FFB173"
-  },
-  {
-    "id": 3.833,
-    "parent": 2.254,
-    "value": 0.2,
-    "name": "Astro-TE NN_1",
-    "color": "#FF263B"
-  },
-  {
-    "id": 3.834,
-    "parent": 2.254,
-    "value": 0.2,
-    "name": "Astro-TE NN_2",
-    "color": "#a8afa5"
-  },
-  {
-    "id": 3.835,
-    "parent": 2.254,
-    "value": 0.2,
-    "name": "Astro-TE NN_3",
-    "color": "#604a55"
-  },
-  {
-    "id": 3.836,
-    "parent": 2.254,
-    "value": 0.2,
-    "name": "Astro-TE NN_4",
-    "color": "#B97300"
-  },
-  {
-    "id": 3.837,
-    "parent": 2.254,
-    "value": 0.2,
-    "name": "Astro-TE NN_5",
-    "color": "#26FF8F"
-  },
-  {
-    "id": 3.838,
-    "parent": 2.255,
-    "value": 0.2,
-    "name": "Astro-OLF NN_1",
-    "color": "#E17300"
-  },
-  {
-    "id": 3.839,
-    "parent": 2.255,
-    "value": 0.2,
-    "name": "Astro-OLF NN_2",
-    "color": "#A200CC"
-  },
-  {
-    "id": 3.84,
-    "parent": 2.255,
-    "value": 0.2,
-    "name": "Astro-OLF NN_3",
-    "color": "#00C7CC"
-  },
-  {
-    "id": 3.841,
-    "parent": 2.256,
-    "value": 0.2,
-    "name": "Astroependymal NN_1",
-    "color": "#FF003D"
-  },
-  {
-    "id": 3.842,
-    "parent": 2.256,
-    "value": 0.2,
-    "name": "Astroependymal NN_2",
-    "color": "#FFD873"
-  },
-  {
-    "id": 3.843,
-    "parent": 2.256,
-    "value": 0.2,
-    "name": "Astroependymal NN_3",
-    "color": "#26FFBF"
-  },
-  {
-    "id": 3.844,
-    "parent": 2.257,
-    "value": 0.2,
-    "name": "Tanycyte NN_1",
-    "color": "#86CC5C"
-  },
-  {
-    "id": 3.845,
-    "parent": 2.257,
-    "value": 0.2,
-    "name": "Tanycyte NN_2",
-    "color": "#ff99c8"
-  },
-  {
-    "id": 3.846,
-    "parent": 2.257,
-    "value": 0.2,
-    "name": "Tanycyte NN_3",
-    "color": "#f7f18a"
-  },
-  {
-    "id": 3.847,
-    "parent": 2.258,
-    "value": 0.2,
-    "name": "Ependymal NN_1",
-    "color": "#949945"
-  },
-  {
-    "id": 3.848,
-    "parent": 2.258,
-    "value": 0.2,
-    "name": "Ependymal NN_2",
-    "color": "#C5FF73"
-  },
-  {
-    "id": 3.849,
-    "parent": 2.259,
-    "value": 0.2,
-    "name": "Hypendymal NN_1",
-    "color": "#FF514D"
-  },
-  {
-    "id": 3.85,
-    "parent": 2.26,
-    "value": 0.2,
-    "name": "CHOR NN_1",
-    "color": "#CC0049"
-  },
-  {
-    "id": 3.851,
-    "parent": 2.261,
-    "value": 0.2,
-    "name": "OPC NN_1",
-    "color": "#564860"
-  },
-  {
-    "id": 3.852,
-    "parent": 2.261,
-    "value": 0.2,
-    "name": "OPC NN_2",
-    "color": "#609945"
-  },
-  {
-    "id": 3.853,
-    "parent": 2.262,
-    "value": 0.2,
-    "name": "COP NN_1",
-    "color": "#008199"
-  },
-  {
-    "id": 3.854,
-    "parent": 2.262,
-    "value": 0.2,
-    "name": "NFOL NN_2",
-    "color": "#1F6566"
-  },
-  {
-    "id": 3.855,
-    "parent": 2.262,
-    "value": 0.2,
-    "name": "MFOL NN_3",
-    "color": "#371FCC"
-  },
-  {
-    "id": 3.856,
-    "parent": 2.262,
-    "value": 0.2,
-    "name": "MOL NN_4",
-    "color": "#3D5266"
-  },
-  {
-    "id": 3.857,
-    "parent": 2.263,
-    "value": 0.2,
-    "name": "OEC NN_1",
-    "color": "#553D66"
-  },
-  {
-    "id": 3.858,
-    "parent": 2.264,
-    "value": 0.2,
-    "name": "ABC NN_1",
-    "color": "#66391F"
-  },
-  {
-    "id": 3.859,
-    "parent": 2.265,
-    "value": 0.2,
-    "name": "VLMC NN_1",
-    "color": "#4D5CFF"
-  },
-  {
-    "id": 3.86,
-    "parent": 2.265,
-    "value": 0.2,
-    "name": "VLMC NN_2",
-    "color": "#2E665B"
-  },
-  {
-    "id": 3.861,
-    "parent": 2.265,
-    "value": 0.2,
-    "name": "VLMC NN_3",
-    "color": "#FF99B6"
-  },
-  {
-    "id": 3.862,
-    "parent": 2.265,
-    "value": 0.2,
-    "name": "VLMC NN_4",
-    "color": "#2F00CC"
-  },
-  {
-    "id": 3.863,
-    "parent": 2.266,
-    "value": 0.2,
-    "name": "Peri NN_1",
-    "color": "#FF8F73"
-  },
-  {
-    "id": 3.864,
-    "parent": 2.267,
-    "value": 0.2,
-    "name": "SMC NN_1",
-    "color": "#00992A"
-  },
-  {
-    "id": 3.865,
-    "parent": 2.268,
-    "value": 0.2,
-    "name": "Endo NN_1",
-    "color": "#62CC3D"
-  },
-  {
-    "id": 3.866,
-    "parent": 2.269,
-    "value": 0.2,
-    "name": "Microglia NN_1",
-    "color": "#32662E"
-  },
-  {
-    "id": 3.867,
-    "parent": 2.27,
-    "value": 0.2,
-    "name": "BAM NN_1",
-    "color": "#C299FF"
-  },
-  {
-    "id": 3.868,
-    "parent": 2.271,
-    "value": 0.2,
-    "name": "Monocytes NN_1",
-    "color": "#FF999F"
-  },
-  {
-    "id": 3.869,
-    "parent": 2.272,
-    "value": 0.2,
-    "name": "DC NN_1",
-    "color": "#660028"
-  },
-  {
-    "id": 3.87,
-    "parent": 2.273,
-    "value": 0.2,
-    "name": "B cells NN_1",
-    "color": "#00CC1C"
-  },
-  {
-    "id": 3.871,
-    "parent": 2.273,
-    "value": 0.2,
-    "name": "ILC NN_2",
-    "color": "#99CAFF"
-  },
-  {
-    "id": 3.872,
-    "parent": 2.273,
-    "value": 0.2,
-    "name": "NK cells NN_3",
-    "color": "#995E2E"
-  },
-  {
-    "id": 3.873,
-    "parent": 2.273,
-    "value": 0.2,
-    "name": "T cells NN_4",
-    "color": "#995E2E"
+    "id": 299,
+    "parent": 26
   }
 ]
