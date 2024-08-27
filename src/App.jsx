@@ -20,6 +20,7 @@ function App() {
 
   return (
     <div className="App">
+    <h2>WMB HiGlass</h2>
       <div className="app-container">
         <SunburstPlot onSegmentClick={handleSunburstClick} /> {/* Pass the click handler */}
         <HiGlassViewer clickedCellValue={clickedCellValue} config={updatedConfig} />
